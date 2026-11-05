@@ -1,0 +1,10 @@
+{
+  "tickers": ["AAPL", "AXP", "GOOGL", "KO", "BAC"],
+  "filer_cik": "1067983",
+  "filer_label": "Berkshire Hathaway",
+  "members": ["pelosi"],
+  "news_hours": 36,
+  "top_positions": 10,
+  "top_changes": 10,
+  "max_headlines": 15
+}
