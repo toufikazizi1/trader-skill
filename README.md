@@ -186,3 +186,15 @@ tests/             unittest suite + offline fixtures
 ```
 
 MIT. Made by [Jake Schincariol](https://opusjake.ai).
+
+## Daily report on GitHub Actions (this fork)
+
+`scripts/daily_report.py` runs the news, price-alert, Congress and 13F tools and writes an Arabic
+markdown report to `reports/YYYY-MM-DD.md`. `.github/workflows/daily-report.yml` runs it every weekday
+at 12:00 UTC and commits the report and the tools' state (`trader/state/`) back to the repo.
+Paper only: nothing here places an order.
+
+Setup: Settings, Secrets and variables, Actions, Variables: add `SEC_USER_AGENT` with
+`Your Name you@example.com`. Open the Actions tab once and enable workflows (forks start with them off).
+Watchlist and filer live in `trader/report.json` (copy `trader/report.example.json`); price rules in
+`trader/alerts.json`. Try it offline: `python3 scripts/daily_report.py --fixtures tests/fixtures --stdout`.
