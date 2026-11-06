@@ -48,6 +48,18 @@ class GoldReportTests(unittest.TestCase):
         self.assertEqual(titles[0], "Synthetic test headline one about gold")
         self.assertEqual(items[0]["source"], "Example Wire")
 
+    def test_local_jewellery_headlines_are_excluded(self):
+        xml = (
+            '<rss><channel>'
+            '<item><title>سعر الذهب عيار 21 اليوم - مصدر</title><link>https://example.com/1</link>'
+            '<pubDate>Fri, 13 Nov 2026 20:00:00 GMT</pubDate><source>مصدر</source></item>'
+            '<item><title>الذهب يتجاوز 4100 دولار للأوقية - مصدر</title><link>https://example.com/2</link>'
+            '<pubDate>Fri, 13 Nov 2026 20:00:00 GMT</pubDate><source>مصدر</source></item>'
+            '</channel></rss>')
+        items = gold.parse_news(xml, 48, NOW, gold.DEFAULTS["news_exclude"])
+        self.assertEqual([i["title"] for i in items], ["الذهب يتجاوز 4100 دولار للأوقية"])
+        self.assertEqual(len(gold.parse_news(xml, 48, NOW)), 2)
+
     def test_writes_dated_and_latest_files_without_touching_state_in_fixture_mode(self):
         with tempfile.TemporaryDirectory() as tmp:
             state = os.path.join(tmp, "state.json")

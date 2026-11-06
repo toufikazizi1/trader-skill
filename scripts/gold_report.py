@@ -33,6 +33,8 @@ DEFAULTS = {
     "swing_bars": 3,          # bars on each side of a swing high or low
     "news_max": 8,
     "news_hours": 48,
+    # Local jewellery and retail price stories are not about trading gold.
+    "news_exclude": ["عيار", "جنيه", "جنيها", "جنيهات", "الجرام", "جرام", "دينار", "ريال", "درهم", "بكام"],
 }
 
 DISCLAIMER = (
@@ -90,7 +92,7 @@ def parse_chart(text):
     return meta, candles
 
 
-def parse_news(text, limit_hours, now):
+def parse_news(text, limit_hours, now, exclude=()):
     """Google News RSS -> [{title, source, link, time}] newest first."""
     try:
         root = ET.fromstring(text)
@@ -113,6 +115,8 @@ def parse_news(text, limit_hours, now):
         if src and title.endswith(" - " + src):
             title = title[: -len(src) - 3]
         if when and (now - when).total_seconds() > limit_hours * 3600:
+            continue
+        if any(word in title for word in exclude):
             continue
         items.append({"title": title, "source": src, "link": link, "time": when})
     items.sort(key=lambda i: i["time"] or dt.datetime.min.replace(tzinfo=dt.timezone.utc), reverse=True)
@@ -324,13 +328,14 @@ def build(cfg, fixtures, today, state):
     news = {"ar": [], "en": []}
     feeds = {
         "ar": ("news-ar.xml", "https://news.google.com/rss/search?q=%s&hl=ar&gl=DZ&ceid=DZ:ar" %
-               urllib.parse.quote("سعر الذهب when:2d")),
+               urllib.parse.quote("الذهب الأوقية دولار when:2d")),
         "en": ("news-en.xml", "https://news.google.com/rss/search?q=%s&hl=en-US&gl=US&ceid=US:en" %
                urllib.parse.quote("gold price XAUUSD when:2d")),
     }
     for key, (name, url) in feeds.items():
         try:
-            news[key] = parse_news(read_source(fixtures, name, url), float(cfg["news_hours"]), now)
+            news[key] = parse_news(read_source(fixtures, name, url), float(cfg["news_hours"]), now,
+                                   cfg.get("news_exclude") or ())
         except RuntimeError as exc:
             errors.append("أخبار (%s): %s" % ("عربي" if key == "ar" else "إنجليزي", exc))
     top = (news["ar"] or news["en"] or [None])[0]
