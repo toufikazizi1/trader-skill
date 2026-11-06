@@ -1,29 +1,25 @@
-name: التقرير اليومي
+name: تقرير الذهب
 
-# يشغّل أدوات trader-* ويكتب التقرير في reports/YYYY-MM-DD.md.
-# لا ينفّذ أي أمر شراء أو بيع. للقراءة والتقارير فقط.
+# يكتب تقرير الذهب (السعر والتحليل والسيناريوهات والأخبار) في reports/latest.md
+# وفي reports/YYYY-MM-DD.md. لا ينفّذ أي أمر شراء أو بيع. للقراءة والتقارير فقط.
 
 on:
   schedule:
-    # أيام الأسبوع 12:00 بتوقيت UTC (قبل افتتاح بورصة نيويورك صيفاً وشتاءً)
-    - cron: "0 12 * * 1-5"
+    # ثلاث مرات في أيام العمل: 06:00 و12:00 و18:00 بتوقيت UTC
+    - cron: "0 6,12,18 * * 1-5"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: daily-report
+  group: gold-report
   cancel-in-progress: false
 
 jobs:
   report:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
-    env:
-      # SEC تطلب هوية في كل طلب. أضفها في: Settings > Secrets and variables > Actions > Variables
-      # باسم SEC_USER_AGENT وبقيمة مثل: Your Name you@example.com
-      SEC_USER_AGENT: ${{ vars.SEC_USER_AGENT }}
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
@@ -31,28 +27,18 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: تثبيت pdftotext (لقراءة إفصاحات الكونغرس)
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
-
-      - name: فحص إعداد SEC
-        run: |
-          if [ -z "$SEC_USER_AGENT" ]; then
-            echo "::warning::SEC_USER_AGENT غير مضبوط: سيُتخطى قسم 13F وملفات SEC في الأخبار."
-          fi
-
-      - name: توليد التقرير
-        run: python3 scripts/daily_report.py
+      - name: توليد تقرير الذهب
+        run: python3 scripts/gold_report.py
 
       - name: حفظ التقرير والحالة في الريبو
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          mkdir -p trader/state
           git add reports trader/state
           if git diff --cached --quiet; then
             echo "لا تغييرات للحفظ."
           else
-            git commit -m "تقرير يومي $(date -u +%Y-%m-%d)"
+            git commit -m "تقرير الذهب $(date -u +%Y-%m-%dT%H:%MZ)"
             git pull --rebase origin "${GITHUB_REF_NAME}"
             git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
