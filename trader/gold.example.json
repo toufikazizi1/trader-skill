@@ -1,0 +1,9 @@
+{
+  "level_step": 100,
+  "lookback_days": 60,
+  "value_area_pct": 70,
+  "atr_stop_mult": 1.5,
+  "swing_bars": 3,
+  "news_max": 8,
+  "news_hours": 48
+}
