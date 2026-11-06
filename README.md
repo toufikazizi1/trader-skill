@@ -204,3 +204,10 @@ Try it offline: `python3 scripts/gold_report.py --fixtures tests/fixtures/trader
 @BotFather, then add two repository Secrets (Settings, Secrets and variables, Actions): `TELEGRAM_BOT_TOKEN`
 and `TELEGRAM_CHAT_ID`. Without them the step prints a note and does nothing. Never put the token in a
 variable, a file or a chat.
+
+### Price source
+
+Price and levels come from spot gold (`XAUUSD=X` on Yahoo), the same market most charts show. Spot candles
+have no volume, so the value area uses the COMEX future's candles moved by today's spot-minus-future gap.
+If spot is unavailable the report falls back to the future and says so. To line the report up with your own
+broker's chart, set `price_offset` (dollars) in `trader/gold.json`.
