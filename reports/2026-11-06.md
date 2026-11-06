@@ -2,7 +2,7 @@
 
 ## الملخص
 
-- **السعر:** 4,052.7$ (+1.55% عن الإغلاق السابق)
+- **السعر:** 4,065.2$ (+1.86% عن الإغلاق السابق)
 - **الحكم الحالي:** حياد / انتظار. الاتجاه هابط، والبنية: قمم وقيعان أدنى (هابط).
 - **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
 - **أقرب دعم / مقاومة:** 3989.1$ / 4097.2$.
@@ -12,9 +12,9 @@
 
 | المؤشر | القيمة |
 | --- | --- |
-| الاتجاه (EMA 20 و 50) | هابط (4080.2 / 4178.3) |
+| الاتجاه (EMA 20 و 50) | هابط (4081.4 / 4178.8) |
 | بنية السوق | قمم وقيعان أدنى (هابط) |
-| كفاءة الحركة (20 يوم) | 0.17 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
+| كفاءة الحركة (20 يوم) | 0.16 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 84.3$ |
 | أعلى / أدنى سعر خلال 60 يوماً | 4755.0$ / 3879.3$ |
 | مركز الحجم POC | 4174.8$ |
@@ -49,7 +49,7 @@
 - [Gold Analysis: Resilient U.S. Labor Market Continues to Pressure XAU/USD](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX1lZQ29OMS1Qem82LXp2aF95MDRMc0NBT3NtMTZMUktzVENzMjZHV01SSFV1SHROR1I5SEc4VEk3Zl9INVd4OUFlaHQ4aEtDYW9SQUFULU5IbVpuN1JCeno4ZWl6MDFDQklmYzd2djFFTXZRNmY3SWFKZEFsdGRGblV1XzBfOWVFVU91Qk45SEFZeXpBWXI0aDVqQ2hrYjBkV20wMThkTmcxZ2w1RHpGVHAycVZoM1Z1?oc=5) · FOREX.com 11-06 03:28 UTC
 - [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Climbs Above $4100 As Rebound Continues](https://news.google.com/rss/articles/CBMizAFBVV95cUxNWnItV2EzVnQxaE5tSEloQjNHcVMzNTl0UWFFZlhfaFAzS2RVNGhhcThyQTBEei0xR2tVNi03emlwOW16SjdyTFYxS3BHSFZmZU1OZUNTbl9hQUtZNVVIN1MweUx2blhsQ0tZa1ljRVZ3ZVFmc0s2dktfQldxT2F6UDZQYjd2cWU5VFRhdkhtdzUyMzE2TDZtRTNoektYUk1QM3QteG5ETWstWS1OZktfU05OQnY5ck1ZSUdxOHpYUkZSRm9EMWFCMzJYZjA?oc=5) · FXEmpire 11-06 02:04 UTC
 - [Gold rises to near $4,100 ahead of US NFP data](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbWxLaGctS2J3c2tVdllhTXhWSHVoQ0k0WG55TEdjLW41UVk2MElqV28xSWduNERBenFvdFVnLWJXaGhCdHNhUkpHcTJ0QS1NT0JYXzg0bDMyazBWNEh4ZHFYdFVTY25uV0JBTVRlRG5KN3ZKaTAweDRKb2ZnTzZoakt6cVVnWDcxVm9rd1NIQm8tdW9mUDBQWmtJQlFBMFhUUWtLWkEtNFhRaEp3YzlZQg?oc=5) · www.tmgm.com 11-06 00:05 UTC
-- [Where to Buy Gold in Australia in 2026: Is Now a Good Time?](https://news.google.com/rss/articles/CBMid0FVX3lxTE5kOWlER0hKMlZEcWZUaC1SYWpiYVU4dzBxb01lZnQtYXk5TFdhUDJwcGd5ZGlQMi1BYllaRHprQnFGTW15RnpnTjIxM3lJYkdSY2xNNUhsb0ZRaWlsdEZpQ3QweUF0V0ZVOXJycnRpMlE5Zm82MGNN?oc=5) · Mitrade 11-05 22:32 UTC
+- [Gold Price Today / Price of Gold Per Ounce / 24 Hour Spot Chart](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5) · Kitco 11-05 23:31 UTC
 
 ---
 > للدراسة والمعلومة فقط وليس نصيحة مالية ولا توصية بالشراء أو البيع. السعر هو عقد الذهب الآجل GC=F (قد يختلف قليلاً عن السعر الفوري XAUUSD) والبيانات يومية ومتأخرة. المستويات تقديرات حسابية وقد تخطئ. لا يُنفَّذ أي أمر من هذا المشروع.
