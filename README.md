@@ -192,7 +192,7 @@ MIT. Made by [Jake Schincariol](https://opusjake.ai).
 `scripts/gold_report.py` writes an Arabic gold-only report to `reports/latest.md` and `reports/YYYY-MM-DD.md`:
 price from the COMEX gold future (GC=F), trend and market structure, value area and key levels, two study
 scenarios with ATR-based stops, round-number level alerts, and Arabic and English gold headlines.
-`.github/workflows/daily-report.yml` runs it three times on weekdays and commits the report and
+`.github/workflows/daily-report.yml` runs it every 30 minutes on weekdays and commits the report and
 `trader/state/gold.json`. Study notes only: nothing here places an order.
 
 Settings are optional: copy `trader/gold.example.json` to `trader/gold.json` (for example `level_step`).
@@ -200,7 +200,7 @@ Try it offline: `python3 scripts/gold_report.py --fixtures tests/fixtures/trader
 
 ### Telegram summary
 
-After each run, `scripts/telegram_send.py` sends the report's short summary to Telegram. Create a bot with
+`scripts/telegram_send.py` sends the report's short summary (price, verdict, entry and exit scenarios with stop and target, latest headlines) to Telegram: in full at 06:00, 12:00 and 18:00 UTC and on manual runs, and in between only when an alert fired (a round level crossed, price near support or resistance, or the verdict changed). Create a bot with
 @BotFather, then add two repository Secrets (Settings, Secrets and variables, Actions): `TELEGRAM_BOT_TOKEN`
 and `TELEGRAM_CHAT_ID`. Without them the step prints a note and does nothing. Never put the token in a
 variable, a file or a chat.

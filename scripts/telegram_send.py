@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """Send the summary of reports/latest.md to Telegram.
 
-    python3 scripts/telegram_send.py [reports/latest.md]
+    python3 scripts/telegram_send.py [reports/latest.md] [--only-alerts]
+
+With --only-alerts it sends only when the last run raised an alert (a round level was crossed, the
+price is near support or resistance, or the verdict changed), read from trader/state/gold.json.
 
 Needs two environment variables (GitHub Actions secrets in the workflow):
 TELEGRAM_BOT_TOKEN from @BotFather and TELEGRAM_CHAT_ID. Without them it says so and
@@ -80,13 +83,28 @@ def send(token, chat_id, message, post=None):
         raise RuntimeError("Telegram رفض الرسالة: %s" % str((reply or {}).get("description", "؟"))[:200])
 
 
+def has_alert(state_path):
+    try:
+        with open(state_path, encoding="utf-8") as fh:
+            notify = json.load(fh).get("notify")
+    except (OSError, ValueError, AttributeError):
+        return False
+    return bool(notify)
+
+
 def main(argv=None):
-    argv = sys.argv[1:] if argv is None else argv
+    argv = list(sys.argv[1:] if argv is None else argv)
+    only_alerts = "--only-alerts" in argv
+    argv = [a for a in argv if a != "--only-alerts"]
     path = argv[0] if argv else os.path.join(ROOT, "reports", "latest.md")
+    state_path = os.path.join(ROOT, "trader", "state", "gold.json")
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
     chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
     if not token or not chat:
         print("Telegram غير مفعّل: أضف TELEGRAM_BOT_TOKEN و TELEGRAM_CHAT_ID في Secrets.")
+        return 0
+    if only_alerts and not has_alert(state_path):
+        print("لا تنبيه جديد، لم يُرسل شيء.")
         return 0
     try:
         with open(path, encoding="utf-8") as fh:

@@ -5,8 +5,9 @@ name: تقرير الذهب
 
 on:
   schedule:
-    # ثلاث مرات في أيام العمل: 06:00 و12:00 و18:00 بتوقيت UTC
-    - cron: "0 6,12,18 * * 1-5"
+    # كل نصف ساعة في أيام العمل. ملخص كامل إلى Telegram عند 06:00 و12:00 و18:00 UTC،
+    # وفي بقية الأوقات تنبيه فقط عند عبور مستوى أو الاقتراب من دعم/مقاومة أو تغيّر الحكم.
+    - cron: "*/30 * * * 1-5"
   workflow_dispatch:
 
 permissions:
@@ -48,4 +49,13 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-        run: python3 scripts/telegram_send.py
+        run: |
+          HOUR=$(date -u +%H)
+          MIN=$(date -u +%M)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python3 scripts/telegram_send.py
+          elif [ "$MIN" -lt 30 ] && { [ "$HOUR" = "06" ] || [ "$HOUR" = "12" ] || [ "$HOUR" = "18" ]; }; then
+            python3 scripts/telegram_send.py
+          else
+            python3 scripts/telegram_send.py --only-alerts
+          fi

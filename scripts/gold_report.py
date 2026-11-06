@@ -31,11 +31,25 @@ DEFAULTS = {
     "value_area_pct": 70,
     "atr_stop_mult": 1.5,
     "swing_bars": 3,          # bars on each side of a swing high or low
-    "news_max": 8,
+    "news_max": 12,
+    "near_atr": 0.3,          # within this many ATRs of support/resistance raises a "near level" alert
     "news_hours": 48,
     # Local jewellery and retail price stories are not about trading gold.
     "news_exclude": ["عيار", "جنيه", "جنيها", "جنيهات", "الجرام", "جرام", "دينار", "ريال", "درهم", "بكام"],
 }
+
+# Several searches per language, merged and de-duplicated, so one narrow query cannot starve the report.
+NEWS_QUERIES = {
+    "ar": ["الذهب الأوقية دولار when:2d", "الذهب الفيدرالي الدولار عوائد when:2d", "الذهب عالميا ارتفع انخفض when:2d"],
+    "en": ["gold price XAUUSD when:2d", "gold Fed dollar yields when:2d", "gold futures COMEX when:2d"],
+}
+
+
+def news_url(key, query):
+    if key == "ar":
+        return "https://news.google.com/rss/search?q=%s&hl=ar&gl=DZ&ceid=DZ:ar" % urllib.parse.quote(query)
+    return "https://news.google.com/rss/search?q=%s&hl=en-US&gl=US&ceid=US:en" % urllib.parse.quote(query)
+
 
 DISCLAIMER = (
     "> للدراسة والمعلومة فقط وليس نصيحة مالية ولا توصية بالشراء أو البيع. السعر هو عقد الذهب الآجل GC=F "
@@ -238,6 +252,20 @@ def analyse(candles, price, cfg):
             "hi": max(c["h"] for c in look), "lo": min(c["l"] for c in look)}
 
 
+def merge_news(lists):
+    """Several feeds -> one list, newest first, without repeated links or headlines."""
+    seen, out = set(), []
+    for items in lists:
+        for it in items:
+            key = (it["link"], " ".join(it["title"].split()).lower())
+            if key[0] in seen or key[1] in seen:
+                continue
+            seen.update(key)
+            out.append(it)
+    out.sort(key=lambda i: i["time"] or dt.datetime.min.replace(tzinfo=dt.timezone.utc), reverse=True)
+    return out
+
+
 def scenarios(price, an, cfg):
     """Two conditional study scenarios. Entry is never from the middle of value."""
     stop_d = an["atr"] * float(cfg["atr_stop_mult"])
@@ -316,31 +344,49 @@ def build(cfg, fixtures, today, state):
         summary.append("- **الحكم الحالي:** %s. الاتجاه %s، والبنية: %s." % (an["verdict"], an["trend"], an["structure"]))
         summary.append("- **موقع السعر:** %s." % an["zone"])
         summary.append("- **أقرب دعم / مقاومة:** %.1f$ / %.1f$." % (an["support"], an["resist"]))
+        notify = []
+        for name, cond, stop, target in scenarios(price, an, cfg):
+            side = "صعودي" if name.startswith("صعودي") else "هبوطي"
+            summary.append("- **سيناريو %s:** %s؛ وقف الخسارة %.1f$؛ هدف 1:2 عند %.1f$." % (side, cond, stop, target))
         if an["mid_value"]:
             summary.append("- **تنبيه:** السعر في منتصف القيمة، ولا دخول من هناك. الأفضل الانتظار.")
         prev = state.get("last_price")
         for lvl in crossed(prev, price, float(cfg["level_step"])):
+            notify.append("level")
             summary.append("- **تنبيه مستوى:** عبر الذهب %s$ %s." % ("{:,.0f}".format(lvl),
                                                                   "صعوداً" if price > (prev or 0) else "هبوطاً"))
+        near = float(cfg["near_atr"]) * an["atr"]
+        for label, lvl in (("المقاومة", an["resist"]), ("الدعم", an["support"])):
+            if abs(price - lvl) <= near:
+                notify.append("near")
+                summary.append("- **تنبيه اقتراب:** السعر قرب %s %.1f$. راقب الإغلاق اليومي ثم إعادة الاختبار، "
+                               "ولا دخول قبلهما." % (label, lvl))
+        if state.get("last_verdict") not in (None, an["verdict"]):
+            notify.append("verdict")
+            summary.append("- **تغيّر الحكم:** من %s إلى %s." % (state["last_verdict"], an["verdict"]))
+        state["last_verdict"] = an["verdict"]
+        state["notify"] = sorted(set(notify))
         state["last_price"] = price
         state["last_time"] = now.strftime("%Y-%m-%dT%H:%M:%SZ")
 
     news = {"ar": [], "en": []}
-    feeds = {
-        "ar": ("news-ar.xml", "https://news.google.com/rss/search?q=%s&hl=ar&gl=DZ&ceid=DZ:ar" %
-               urllib.parse.quote("الذهب الأوقية دولار when:2d")),
-        "en": ("news-en.xml", "https://news.google.com/rss/search?q=%s&hl=en-US&gl=US&ceid=US:en" %
-               urllib.parse.quote("gold price XAUUSD when:2d")),
-    }
-    for key, (name, url) in feeds.items():
-        try:
-            news[key] = parse_news(read_source(fixtures, name, url), float(cfg["news_hours"]), now,
-                                   cfg.get("news_exclude") or ())
-        except RuntimeError as exc:
-            errors.append("أخبار (%s): %s" % ("عربي" if key == "ar" else "إنجليزي", exc))
-    top = (news["ar"] or news["en"] or [None])[0]
-    if top:
-        summary.append("- **أحدث خبر:** [%s](%s)" % (cell(top["title"]), top["link"]))
+    for key, queries in NEWS_QUERIES.items():
+        got, failed = [], []
+        for i, query in enumerate(queries):
+            if fixtures and i:
+                continue  # saved test data has one file per language
+            name = "news-%s.xml" % key
+            try:
+                got.append(parse_news(read_source(fixtures, name, news_url(key, query)),
+                                      float(cfg["news_hours"]), now, cfg.get("news_exclude") or ()))
+            except RuntimeError as exc:
+                failed.append(str(exc))
+        news[key] = merge_news(got)
+        if failed and not got:
+            errors.append("أخبار (%s): %s" % ("عربي" if key == "ar" else "إنجليزي", failed[0]))
+    latest = merge_news([news["ar"][:3], news["en"][:3]])[:3]
+    for n, top in enumerate(latest):
+        summary.append("- **%s:** [%s](%s)" % ("أحدث خبر" if n == 0 else "خبر", cell(top["title"]), top["link"]))
 
     if an:
         va = an["va"]

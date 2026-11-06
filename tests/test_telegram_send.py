@@ -94,6 +94,24 @@ class TelegramTests(unittest.TestCase):
                     self.assertEqual(tg.main([path]), 1)
                 self.assertNotIn("SECRET-TOKEN", err.getvalue())
 
+    def test_only_alerts_sends_nothing_without_an_alert(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            state = os.path.join(tmp, "gold.json")
+            for content, expected in (('{"notify": []}', False), ("not json", False), ('{"notify": ["near"]}', True)):
+                with open(state, "w", encoding="utf-8") as fh:
+                    fh.write(content)
+                self.assertEqual(tg.has_alert(state), expected, content)
+            self.assertFalse(tg.has_alert(os.path.join(tmp, "missing.json")))
+
+    def test_only_alerts_main_skips_quietly(self):
+        env = {"TELEGRAM_BOT_TOKEN": "SECRET-TOKEN", "TELEGRAM_CHAT_ID": "42"}
+        out = io.StringIO()
+        with mock.patch.dict(os.environ, env), mock.patch.object(tg, "has_alert", return_value=False), \
+                mock.patch.object(tg, "post_json", side_effect=AssertionError("must not send")), \
+                contextlib.redirect_stdout(out):
+            self.assertEqual(tg.main(["--only-alerts"]), 0)
+        self.assertIn("لا تنبيه", out.getvalue())
+
 
 if __name__ == "__main__":
     unittest.main()

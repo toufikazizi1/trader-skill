@@ -144,6 +144,34 @@ class GoldReportTests(unittest.TestCase):
     def test_pipes_and_newlines_cannot_break_a_table(self):
         self.assertEqual(gold.cell("a|b\nc"), "a/b c")
 
+    def test_summary_carries_entry_scenarios_with_stop_and_target(self):
+        _, text = run(["--fixtures", FIX, "--date", "2026-11-13", "--stdout"])
+        summary = text.split("## التحليل")[0]
+        self.assertIn("سيناريو صعودي", summary)
+        self.assertIn("سيناريو هبوطي", summary)
+        self.assertIn("وقف الخسارة", summary)
+        self.assertIn("هدف 1:2", summary)
+
+    def test_merge_news_drops_repeats_and_keeps_newest_first(self):
+        old = dt.datetime(2026, 11, 13, 1, tzinfo=dt.timezone.utc)
+        new = dt.datetime(2026, 11, 13, 9, tzinfo=dt.timezone.utc)
+        a = [{"title": "Gold  up", "link": "https://x/1", "source": "", "time": old}]
+        b = [{"title": "gold up", "link": "https://x/2", "source": "", "time": old},
+             {"title": "Other", "link": "https://x/1", "source": "", "time": old},
+             {"title": "Fresh", "link": "https://x/3", "source": "", "time": new}]
+        merged = gold.merge_news([a, b])
+        self.assertEqual([i["title"] for i in merged], ["Fresh", "Gold  up"])
+
+    def test_alerts_are_recorded_for_the_notifier(self):
+        cfg = dict(gold.DEFAULTS)
+        state = {"last_price": 4000.0, "last_verdict": "صعودي"}
+        gold.build(cfg, FIX, "2026-11-13", state)
+        self.assertIn("level", state["notify"])
+        self.assertIn("verdict", state["notify"])
+        quiet = {}
+        gold.build(cfg, FIX, "2026-11-13", quiet)
+        self.assertNotIn("verdict", quiet["notify"])
+
 
 if __name__ == "__main__":
     unittest.main()
