@@ -26,6 +26,9 @@ UA = "trader-skill-gold-report"
 SYMBOL = "GC=F"            # COMEX gold future: has volume, trades a few dollars off spot
 SPOT_SYMBOL = "XAUUSD=X"   # spot gold, what charts and brokers show: used for price and levels
 YAHOO = "https://query1.finance.yahoo.com/v8/finance/chart/%s?range=1y&interval=1d"
+GOLDAPI = "https://api.gold-api.com/price/XAU"
+STOOQ_QUOTE = "https://stooq.com/q/l/?s=xauusd&f=sd2t2ohlc&h&e=csv"
+STOOQ_DAILY = "https://stooq.com/q/d/l/?s=xauusd&i=d"
 
 DEFAULTS = {
     "level_step": 100,        # round-number levels that raise an alert when crossed
@@ -55,8 +58,8 @@ def news_url(key, query):
 
 
 DISCLAIMER = (
-    "> للدراسة والمعلومة فقط وليس نصيحة مالية ولا توصية بالشراء أو البيع. السعر هو عقد الذهب الآجل GC=F "
-    "(الذهب الفوري XAUUSD من Yahoo عند توفره، وإلا العقد الآجل GC=F وقد يفرق عدة دولارات عن شارتك) "
+    "> للدراسة والمعلومة فقط وليس نصيحة مالية ولا توصية بالشراء أو البيع. السعر هو الذهب الفوري XAUUSD "
+    "عند توفره، وإلا العقد الآجل GC=F وقد يفرق عدة دولارات عن شارتك (انظر مصدر السعر في التحليل) "
     "والمستويات من شموع يومية فتتغير مرة في اليوم. هي تقديرات حسابية وقد تخطئ. "
     "لا يُنفَّذ أي أمر من هذا المشروع."
 )
@@ -269,44 +272,128 @@ def last_price(meta, candles):
     return float(meta.get("regularMarketPrice") or candles[-1]["c"])
 
 
-def market(fixtures, cfg, errors):
-    """-> (price, prev_close, candles, volume_candles, source). Spot gold first; the future only as a fallback.
+def parse_goldapi(text):
+    """gold-api.com spot quote JSON -> price."""
+    try:
+        price = float(json.loads(text)["price"])
+    except (ValueError, KeyError, TypeError):
+        raise RuntimeError("gold-api أعاد شكلاً غير متوقع")
+    if price <= 0:
+        raise RuntimeError("gold-api أعاد سعراً غير صالح")
+    return price
 
-    Spot candles have no volume, so the value area comes from the future's candles moved by today's
-    spot-minus-future gap."""
-    spot = fut = None
-    problems = []
-    for symbol in (SPOT_SYMBOL, SYMBOL):
+
+def stooq_rows(text):
+    lines = [l.strip() for l in text.strip().splitlines() if l.strip()]
+    if len(lines) < 2 or "close" not in lines[0].lower():
+        raise RuntimeError("Stooq أعاد شكلاً غير متوقع")
+    head = [h.strip().lower() for h in lines[0].split(",")]
+    return head, [l.split(",") for l in lines[1:]]
+
+
+def parse_stooq_quote(text):
+    head, rows = stooq_rows(text)
+    try:
+        price = float(rows[0][head.index("close")])
+    except (ValueError, IndexError):
+        raise RuntimeError("Stooq لا يعطي سعراً الآن")
+    if price <= 0:
+        raise RuntimeError("Stooq أعاد سعراً غير صالح")
+    return price
+
+
+def parse_stooq_daily(text):
+    """Stooq daily CSV (Date,Open,High,Low,Close) -> candles, oldest first. No volume."""
+    head, rows = stooq_rows(text)
+    idx = {k: head.index(k) for k in ("date", "open", "high", "low", "close") if k in head}
+    if len(idx) < 5:
+        raise RuntimeError("Stooq أعاد أعمدة غير متوقعة")
+    candles = []
+    for row in rows[-400:]:
         try:
-            got = load_chart(fixtures, symbol)
-        except RuntimeError as exc:
-            problems.append("%s: %s" % (symbol, exc))
+            when = dt.datetime.strptime(row[idx["date"]], "%Y-%m-%d").replace(tzinfo=dt.timezone.utc)
+            o, h, l, c = (float(row[idx[k]]) for k in ("open", "high", "low", "close"))
+        except (ValueError, IndexError):
             continue
-        if symbol == SPOT_SYMBOL:
-            spot = got
-        else:
-            fut = got
-    if spot:
-        meta, candles = spot
-        price = last_price(meta, candles)
-        vol = shift(fut[1], price - last_price(*fut)) if fut else None
-        source = "الذهب الفوري XAUUSD (Yahoo)"
+        if h < l or min(o, h, l, c) <= 0:
+            continue
+        candles.append({"t": int(when.timestamp()), "o": o, "h": h, "l": l, "c": c, "v": 0.0})
+    if len(candles) < 30:
+        raise RuntimeError("شموع قليلة جداً (%d) للتحليل" % len(candles))
+    return candles
+
+
+def first_ok(attempts, problems):
+    """Run (label, function) pairs in order; the first that works wins, failures are kept for the report."""
+    for label, fn in attempts:
+        try:
+            return fn()
+        except RuntimeError as exc:
+            msg = "%s: %s" % (label, exc)
+            if msg not in problems:
+                problems.append(msg)
+    return None
+
+
+def market(fixtures, cfg, errors):
+    """-> (price, prev_close, candles, volume_candles, source).
+
+    Spot gold (what your chart shows) is preferred and every step has a fallback:
+    price: gold-api, Stooq, Yahoo XAUUSD; candles: Yahoo XAUUSD, Stooq daily. Spot candles have no volume, so
+    the value area uses the COMEX future's candles moved by today's spot-minus-future gap. With a spot price
+    but no spot candles the future's history is moved onto the spot price. With no spot at all the future is
+    used as it is and the report says so."""
+    problems = []
+    yahoo_spot = []  # filled once, reused for the price and the candles
+
+    def yahoo():
+        if not yahoo_spot:
+            yahoo_spot.append(load_chart(fixtures, SPOT_SYMBOL))
+        return yahoo_spot[0]
+
+    spot_price = first_ok([
+        ("gold-api", lambda: parse_goldapi(read_source(fixtures, "spot-goldapi.json", GOLDAPI))),
+        ("stooq", lambda: parse_stooq_quote(read_source(fixtures, "spot-stooq-quote.csv", STOOQ_QUOTE))),
+        ("yahoo", lambda: last_price(*yahoo())),
+    ], problems)
+    spot_candles = first_ok([
+        ("yahoo", lambda: yahoo()[1]),
+        ("stooq", lambda: parse_stooq_daily(read_source(fixtures, "spot-stooq-daily.csv", STOOQ_DAILY))),
+    ], problems)
+    fut = first_ok([(SYMBOL, lambda: load_chart(fixtures, SYMBOL))], problems)
+
+    if spot_price is None and spot_candles:
+        spot_price = spot_candles[-1]["c"]
+    if spot_candles and spot_price:
+        candles = spot_candles
+        vol = shift(fut[1], spot_price - last_price(*fut)) if fut else None
+        source = "الذهب الفوري XAUUSD"
+        prev = candles[-2]["c"]
+    elif spot_price and fut:
+        gap = spot_price - last_price(*fut)
+        candles = vol = shift(fut[1], gap)
+        source = "السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها %+.1f$" % gap
+        prev = fut[0].get("chartPreviousClose") or fut[0].get("previousClose") or fut[1][-2]["c"]
+        prev = float(prev) + gap
+        errors.append("شموع الذهب الفوري غير متاحة، فالمستويات مأخوذة من العقد الآجل بعد إزاحتها (%s)"
+                      % "؛ ".join(problems))
     elif fut:
-        meta, candles = fut
-        price, vol = last_price(meta, candles), None
+        candles, vol = fut[1], None
+        spot_price = last_price(*fut)
         source = "العقد الآجل GC=F (بديل)"
-        errors.append("السعر الفوري XAUUSD غير متاح، السعر من العقد الآجل وقد يفرق عن شارتك بعدة دولارات (%s)"
-                      % problems[0])
+        prev = fut[0].get("chartPreviousClose") or fut[0].get("previousClose") or candles[-2]["c"]
+        errors.append("السعر الفوري غير متاح، السعر من العقد الآجل وقد يفرق عن شارتك بعدة دولارات (%s)"
+                      % "؛ ".join(problems))
     else:
-        raise RuntimeError("; ".join(problems))
-    prev = meta.get("chartPreviousClose") or meta.get("previousClose") or candles[-2]["c"]
+        raise RuntimeError("؛ ".join(problems) or "لا مصدر للسعر")
+    price, prev = float(spot_price), float(prev)
     off = float(cfg.get("price_offset") or 0.0)
     if off:
-        price, prev = price + off, float(prev) + off
+        price, prev = price + off, prev + off
         candles = shift(candles, off)
         vol = shift(vol, off) if vol else None
         source += "، مع تعديل %+.1f$ من إعداداتك" % off
-    return price, float(prev), candles, vol, source
+    return price, prev, candles, vol, source
 
 
 def merge_news(lists):

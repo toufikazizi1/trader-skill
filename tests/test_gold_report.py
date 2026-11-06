@@ -186,11 +186,11 @@ class GoldReportTests(unittest.TestCase):
         import shutil
         with tempfile.TemporaryDirectory() as tmp:
             for name in os.listdir(FIX):
-                if "XAUUSD" not in name:
+                if "XAUUSD" not in name and not name.startswith("spot-"):
                     shutil.copy(os.path.join(FIX, name), tmp)
             _, text = run(["--fixtures", tmp, "--date", "2026-11-13", "--stdout"])
         self.assertIn("4,304.6$", text)
-        self.assertIn("السعر الفوري XAUUSD غير متاح", text)
+        self.assertIn("السعر الفوري غير متاح", text)
 
     def test_price_offset_moves_price_and_levels_together(self):
         errors = []
@@ -205,6 +205,43 @@ class GoldReportTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             with self.assertRaises(RuntimeError):
                 gold.market(tmp, dict(gold.DEFAULTS), [])
+
+    def _copy_fixtures_without(self, tmp, *drop):
+        import shutil
+        for name in os.listdir(FIX):
+            if not any(d in name for d in drop):
+                shutil.copy(os.path.join(FIX, name), tmp)
+
+    def test_stooq_candles_work_when_yahoo_spot_is_gone(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            self._copy_fixtures_without(tmp, "XAUUSD=X")
+            _, text = run(["--fixtures", tmp, "--date", "2026-11-13", "--stdout"])
+        self.assertIn("4,289.6$", text)
+        self.assertIn("الذهب الفوري XAUUSD", text)
+        self.assertNotIn("## ملاحظات وأخطاء", text)
+
+    def test_spot_price_alone_moves_the_futures_levels_onto_it(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            self._copy_fixtures_without(tmp, "XAUUSD=X", "stooq")
+            _, text = run(["--fixtures", tmp, "--date", "2026-11-13", "--stdout"])
+        self.assertIn("4,289.6$", text)
+        self.assertIn("بعد إزاحتها -15.0$", text)
+        self.assertIn("شموع الذهب الفوري غير متاحة", text)
+        self.assertNotIn("4,304.6$", text)
+
+    def test_second_price_source_is_used_when_the_first_is_dead(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            self._copy_fixtures_without(tmp, "XAUUSD=X", "goldapi", "stooq-daily")
+            price, _, _, _, source = gold.market(tmp, dict(gold.DEFAULTS), [])
+        self.assertAlmostEqual(price, 4289.6)
+
+    def test_source_parsers_refuse_junk(self):
+        for fn, bad in ((gold.parse_goldapi, "{}"), (gold.parse_goldapi, '{"price": 0}'),
+                        (gold.parse_stooq_quote, "Symbol,Date,Close\nXAUUSD,N/D,N/D"),
+                        (gold.parse_stooq_quote, "<html>blocked</html>"),
+                        (gold.parse_stooq_daily, "Date,Open,High,Low,Close\n2026-01-01,1,2,0.5,1.5")):
+            with self.assertRaises(RuntimeError, msg=bad):
+                fn(bad)
 
 
 if __name__ == "__main__":
