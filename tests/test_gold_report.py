@@ -172,6 +172,40 @@ class GoldReportTests(unittest.TestCase):
         gold.build(cfg, FIX, "2026-11-13", quiet)
         self.assertNotIn("verdict", quiet["notify"])
 
+    def test_price_and_levels_come_from_spot_not_the_future(self):
+        _, text = run(["--fixtures", FIX, "--date", "2026-11-13", "--stdout"])
+        self.assertIn("4,289.6$", text)  # spot fixture is 15 dollars under the future's 4,304.6
+        self.assertNotIn("4,304.6$", text)
+        self.assertIn("الذهب الفوري XAUUSD", text)
+
+    def test_value_area_still_works_from_the_futures_volume(self):
+        _, text = run(["--fixtures", FIX, "--date", "2026-11-13", "--stdout"])
+        self.assertNotIn("غير متاح", text)
+
+    def test_falls_back_to_the_future_and_says_so(self):
+        import shutil
+        with tempfile.TemporaryDirectory() as tmp:
+            for name in os.listdir(FIX):
+                if "XAUUSD" not in name:
+                    shutil.copy(os.path.join(FIX, name), tmp)
+            _, text = run(["--fixtures", tmp, "--date", "2026-11-13", "--stdout"])
+        self.assertIn("4,304.6$", text)
+        self.assertIn("السعر الفوري XAUUSD غير متاح", text)
+
+    def test_price_offset_moves_price_and_levels_together(self):
+        errors = []
+        price, prev, candles, vol, source = gold.market(FIX, dict(gold.DEFAULTS, price_offset=-10.0), errors)
+        base = gold.market(FIX, dict(gold.DEFAULTS), [])
+        self.assertAlmostEqual(price, base[0] - 10.0)
+        self.assertAlmostEqual(candles[-1]["h"], base[2][-1]["h"] - 10.0)
+        self.assertAlmostEqual(vol[-1]["l"], base[3][-1]["l"] - 10.0)
+        self.assertIn("-10.0", source)
+
+    def test_both_sources_dead_is_an_error_not_a_crash(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            with self.assertRaises(RuntimeError):
+                gold.market(tmp, dict(gold.DEFAULTS), [])
+
 
 if __name__ == "__main__":
     unittest.main()

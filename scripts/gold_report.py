@@ -23,7 +23,9 @@ import xml.etree.ElementTree as ET
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 UA = "trader-skill-gold-report"
-SYMBOL = "GC=F"
+SYMBOL = "GC=F"            # COMEX gold future: has volume, trades a few dollars off spot
+SPOT_SYMBOL = "XAUUSD=X"   # spot gold, what charts and brokers show: used for price and levels
+YAHOO = "https://query1.finance.yahoo.com/v8/finance/chart/%s?range=1y&interval=1d"
 
 DEFAULTS = {
     "level_step": 100,        # round-number levels that raise an alert when crossed
@@ -32,6 +34,7 @@ DEFAULTS = {
     "atr_stop_mult": 1.5,
     "swing_bars": 3,          # bars on each side of a swing high or low
     "news_max": 12,
+    "price_offset": 0.0,      # dollars added to every price, to line the report up with your own chart
     "near_atr": 0.3,          # within this many ATRs of support/resistance raises a "near level" alert
     "news_hours": 48,
     # Local jewellery and retail price stories are not about trading gold.
@@ -53,7 +56,8 @@ def news_url(key, query):
 
 DISCLAIMER = (
     "> للدراسة والمعلومة فقط وليس نصيحة مالية ولا توصية بالشراء أو البيع. السعر هو عقد الذهب الآجل GC=F "
-    "(قد يختلف قليلاً عن السعر الفوري XAUUSD) والبيانات يومية ومتأخرة. المستويات تقديرات حسابية وقد تخطئ. "
+    "(الذهب الفوري XAUUSD من Yahoo عند توفره، وإلا العقد الآجل GC=F وقد يفرق عدة دولارات عن شارتك) "
+    "والمستويات من شموع يومية فتتغير مرة في اليوم. هي تقديرات حسابية وقد تخطئ. "
     "لا يُنفَّذ أي أمر من هذا المشروع."
 )
 
@@ -203,7 +207,7 @@ def value_area(candles, pct, bins=40):
     return lo + (poc + 0.5) * size, lo + (right + 1) * size, lo + left * size
 
 
-def analyse(candles, price, cfg):
+def analyse(candles, price, cfg, vol_candles=None):
     look = candles[-int(cfg["lookback_days"]):]
     closes = [c["c"] for c in candles]
     a = atr(candles)
@@ -227,7 +231,7 @@ def analyse(candles, price, cfg):
     support = sorted((l for _, l in lows if l < price), reverse=True)
     r = resist[0] if resist else price + 2 * a
     s = support[0] if support else price - 2 * a
-    va = value_area(look, float(cfg["value_area_pct"]))
+    va = value_area((vol_candles or candles)[-int(cfg["lookback_days"]):], float(cfg["value_area_pct"]))
     zone, mid_value = "غير متاح (لا حجم)", False
     if va:
         poc, vah, val = va
@@ -250,6 +254,59 @@ def analyse(candles, price, cfg):
     return {"atr": a, "ema20": e20, "ema50": e50, "trend": trend, "structure": structure, "er": er,
             "va": va, "zone": zone, "mid_value": mid_value, "resist": r, "support": s, "verdict": verdict,
             "hi": max(c["h"] for c in look), "lo": min(c["l"] for c in look)}
+
+
+def shift(candles, d):
+    """The same candles with every price moved by d dollars."""
+    return [dict(c, o=c["o"] + d, h=c["h"] + d, l=c["l"] + d, c=c["c"] + d) for c in candles]
+
+
+def load_chart(fixtures, symbol):
+    return parse_chart(read_source(fixtures, "chart-%s.json" % symbol, YAHOO % urllib.parse.quote(symbol)))
+
+
+def last_price(meta, candles):
+    return float(meta.get("regularMarketPrice") or candles[-1]["c"])
+
+
+def market(fixtures, cfg, errors):
+    """-> (price, prev_close, candles, volume_candles, source). Spot gold first; the future only as a fallback.
+
+    Spot candles have no volume, so the value area comes from the future's candles moved by today's
+    spot-minus-future gap."""
+    spot = fut = None
+    problems = []
+    for symbol in (SPOT_SYMBOL, SYMBOL):
+        try:
+            got = load_chart(fixtures, symbol)
+        except RuntimeError as exc:
+            problems.append("%s: %s" % (symbol, exc))
+            continue
+        if symbol == SPOT_SYMBOL:
+            spot = got
+        else:
+            fut = got
+    if spot:
+        meta, candles = spot
+        price = last_price(meta, candles)
+        vol = shift(fut[1], price - last_price(*fut)) if fut else None
+        source = "الذهب الفوري XAUUSD (Yahoo)"
+    elif fut:
+        meta, candles = fut
+        price, vol = last_price(meta, candles), None
+        source = "العقد الآجل GC=F (بديل)"
+        errors.append("السعر الفوري XAUUSD غير متاح، السعر من العقد الآجل وقد يفرق عن شارتك بعدة دولارات (%s)"
+                      % problems[0])
+    else:
+        raise RuntimeError("; ".join(problems))
+    prev = meta.get("chartPreviousClose") or meta.get("previousClose") or candles[-2]["c"]
+    off = float(cfg.get("price_offset") or 0.0)
+    if off:
+        price, prev = price + off, float(prev) + off
+        candles = shift(candles, off)
+        vol = shift(vol, off) if vol else None
+        source += "، مع تعديل %+.1f$ من إعداداتك" % off
+    return price, float(prev), candles, vol, source
 
 
 def merge_news(lists):
@@ -328,13 +385,10 @@ def build(cfg, fixtures, today, state):
         now = dt.datetime.strptime(today, "%Y-%m-%d").replace(tzinfo=dt.timezone.utc, hour=23)
     price = prev_close = None
     an = None
+    source = ""
     try:
-        meta, candles = parse_chart(read_source(
-            fixtures, "chart-GC=F.json",
-            "https://query1.finance.yahoo.com/v8/finance/chart/%s?range=1y&interval=1d" % urllib.parse.quote(SYMBOL)))
-        price = float(meta.get("regularMarketPrice") or candles[-1]["c"])
-        prev_close = meta.get("chartPreviousClose") or meta.get("previousClose") or candles[-2]["c"]
-        an = analyse(candles, price, cfg)
+        price, prev_close, candles, vol, source = market(fixtures, cfg, errors)
+        an = analyse(candles, price, cfg, vol)
     except RuntimeError as exc:
         errors.append("السعر والتحليل: %s" % exc)
 
@@ -392,6 +446,7 @@ def build(cfg, fixtures, today, state):
         va = an["va"]
         body += ["## التحليل", ""]
         body += table(["المؤشر", "القيمة"], [
+            ("مصدر السعر", source),
             ("الاتجاه (EMA 20 و 50)", "%s (%.1f / %.1f)" % (an["trend"], an["ema20"], an["ema50"])),
             ("بنية السوق", an["structure"]),
             ("كفاءة الحركة (20 يوم)", "%.2f (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب)" % an["er"]),
