@@ -197,3 +197,10 @@ scenarios with ATR-based stops, round-number level alerts, and Arabic and Englis
 
 Settings are optional: copy `trader/gold.example.json` to `trader/gold.json` (for example `level_step`).
 Try it offline: `python3 scripts/gold_report.py --fixtures tests/fixtures/trader-gold --stdout`.
+
+### Telegram summary
+
+After each run, `scripts/telegram_send.py` sends the report's short summary to Telegram. Create a bot with
+@BotFather, then add two repository Secrets (Settings, Secrets and variables, Actions): `TELEGRAM_BOT_TOKEN`
+and `TELEGRAM_CHAT_ID`. Without them the step prints a note and does nothing. Never put the token in a
+variable, a file or a chat.
