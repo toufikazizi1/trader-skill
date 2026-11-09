@@ -2,16 +2,26 @@ name: تقرير الذهب
 
 # يكتب تقرير الذهب (السعر والتحليل والسيناريوهات والأخبار) في reports/latest.md
 # وفي reports/YYYY-MM-DD.md. لا ينفّذ أي أمر شراء أو بيع. للقراءة والتقارير فقط.
+#
+# لماذا حلقة بدل cron فقط؟ GitHub يبطّئ ويتخطى تشغيلات cron (كانت تعمل مرتين في اليوم بدل كل 30 دقيقة).
+# الآن كل تشغيل يبقى شغّالاً ~5س40د ويولّد التقرير كل نصف ساعة (أيام العمل UTC الإثنين-الجمعة)،
+# ثم يشغّل التشغيل التالي بنفسه. cron بقي كشبكة أمان لإعادة تشغيل السلسلة لو توقفت.
+# ملخص كامل إلى Telegram عند 06:00 و12:00 و18:00 UTC، وفي بقية الأوقات تنبيه فقط
+# عند عبور مستوى أو الاقتراب من دعم/مقاومة أو تغيّر الحكم.
 
 on:
   schedule:
-    # كل نصف ساعة في أيام العمل. ملخص كامل إلى Telegram عند 06:00 و12:00 و18:00 UTC،
-    # وفي بقية الأوقات تنبيه فقط عند عبور مستوى أو الاقتراب من دعم/مقاومة أو تغيّر الحكم.
-    - cron: "*/30 * * * 1-5"
+    - cron: "7,37 * * * 1-5"
   workflow_dispatch:
+    inputs:
+      chain:
+        description: "تشغيل تلقائي للسلسلة (لا ترسل ملخصاً كاملاً عند البدء)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: gold-report
@@ -20,7 +30,7 @@ concurrency:
 jobs:
   report:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
 
@@ -28,34 +38,61 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: توليد تقرير الذهب
-        run: python3 scripts/gold_report.py
-
-      - name: حفظ التقرير والحالة في الريبو
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add reports trader/state
-          if git diff --cached --quiet; then
-            echo "لا تغييرات للحفظ."
-          else
-            git commit -m "تقرير الذهب $(date -u +%Y-%m-%dT%H:%MZ)"
-            git pull --rebase origin "${GITHUB_REF_NAME}"
-            git push origin "HEAD:${GITHUB_REF_NAME}"
-          fi
-
-      - name: إرسال الملخص إلى Telegram
+      - name: حلقة تقرير الذهب (كل 30 دقيقة)
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GITHUB_REPOSITORY: ${{ github.repository }}
+          MANUAL_START: ${{ github.event_name == 'workflow_dispatch' && !inputs.chain }}
         run: |
-          HOUR=$(date -u +%H)
-          MIN=$(date -u +%M)
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            python3 scripts/telegram_send.py
-          elif [ "$MIN" -lt 30 ] && { [ "$HOUR" = "06" ] || [ "$HOUR" = "12" ] || [ "$HOUR" = "18" ]; }; then
-            python3 scripts/telegram_send.py
-          else
-            python3 scripts/telegram_send.py --only-alerts
-          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          save_state() {
+            git add reports trader/state
+            git diff --cached --quiet && { echo "لا تغييرات للحفظ."; return 0; }
+            git commit -q -m "تقرير الذهب $(date -u +%Y-%m-%dT%H:%MZ)"
+            for i in 1 2 3; do
+              git pull -q --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push -q origin "HEAD:${GITHUB_REF_NAME}" && return 0
+              git rebase --abort 2>/dev/null || true
+              sleep 3
+            done
+            echo "تعذّر الدفع، سيُعاد في الدورة القادمة."
+            return 0
+          }
+
+          END=$((SECONDS + 20400))   # ~5س40د ثم نترك التشغيل التالي يكمل
+          FIRST=1
+          while true; do
+            DOW=$(date -u +%u)       # 1=الإثنين ... 7=الأحد
+            if [ "$DOW" -le 5 ]; then
+              echo "=== دورة $(date -u +%Y-%m-%dT%H:%MZ) ==="
+              python3 scripts/gold_report.py || echo "فشل توليد التقرير في هذه الدورة."
+              save_state
+              HOUR=$(date -u +%H)
+              MIN=$(date -u +%M)
+              if [ "$FIRST" = "1" ] && [ "$MANUAL_START" = "true" ]; then
+                python3 scripts/telegram_send.py || true
+              elif [ "$((10#$MIN))" -lt 30 ] && { [ "$HOUR" = "06" ] || [ "$HOUR" = "12" ] || [ "$HOUR" = "18" ]; }; then
+                python3 scripts/telegram_send.py || true
+              else
+                python3 scripts/telegram_send.py --only-alerts || true
+              fi
+            else
+              echo "عطلة نهاية الأسبوع (UTC)، لا تقرير."
+            fi
+            FIRST=0
+            NOW=$(date +%s)
+            NEXT=$(( (NOW / 1800 + 1) * 1800 ))
+            WAIT=$((NEXT - NOW))
+            if [ $((SECONDS + WAIT)) -ge "$END" ]; then break; fi
+            sleep "$WAIT"
+          done
+
+      - name: تشغيل الدورة التالية
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sleep 30
+          gh workflow run daily-report.yml --ref "${GITHUB_REF_NAME}" -f chain=true || true
