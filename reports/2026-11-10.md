@@ -2,28 +2,28 @@
 
 ## الملخص
 
-- **السعر:** 4,033.8$ (-1.98% عن الإغلاق السابق)
+- **السعر:** 4,036.3$ (-1.94% عن الإغلاق السابق)
 - **الحكم الحالي:** حياد / انتظار. الاتجاه هابط، والبنية: قمم وقيعان أدنى (هابط).
 - **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
-- **أقرب دعم / مقاومة:** 3982.4$ / 4090.5$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4090.5 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3947.2$؛ هدف 1:2 عند 4377.0$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3982.4 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4125.7$؛ هدف 1:2 عند 3695.9$.
-- **أحدث خبر:** [الذهب يتراجع 2.1% إلى 4051 دولارًا للأونصة مع صعود الدولار وعوائد السندات](https://news.google.com/rss/articles/CBMizwJBVV95cUxQLXNINDhwR05vUEp5RUI1VFNmVC1qSmFMRjJLTHNFVkJMOFk2ZHlmMnNRWUZielBuMWd2emQ3TWRTaEVWR25MbHdORHMtelBRVnIxeDdycmNWb2ZBTV9iY1pqdTJSV2dCLUpSWGVCdHJhWVMyblN5VnJ2bDVNTFdsNXQyRTRNRTF6MGhBcW8ySXhZeUo0VXVGcnhJMHNGcUwwV2RGV19hQU83TlFleDN3YzNwa0t3a1lvZ3l5X3JzRWdwR1FLVzZtaWlnWEVDc2gtUlAyQWNLZE1DNmFOUzdXSzAtSzdDQno0Q0Q4bXZCcTFRcFpqNEhrQ3VSX2xTUDA4NXp4WG9RY21aNXc3TW11SVZuR3BrOFJYbGRPSktsV3M0OU01RmVzVTFHOWx1OVNtbkJBQndHNEYtVHlzRWs3ZWVBNncwUFVFYzZkWDY1WQ?oc=5)
-- **خبر:** [الذهب يتراجع بنحو 3% خلال نهاية التعاملات](https://news.google.com/rss/articles/CBMiUkFVX3lxTE45Mjl4dHUwV0U3LVJpcERLeS1UV0RkQm1CbFMzVUN2YWdfYkt2cXpFZktISEJEVTZsdmFZRHVzd2FhZ2JfQzJUcmJxdVhHeVMxVUE?oc=5)
-- **خبر:** [Gold Feels the Weight of USD, Yields on Hawkish Fed and CPI](https://news.google.com/rss/articles/CBMitAFBVV95cUxQOFkxSXFQLUFzdnQzRVpUZEFfMTA5d0pKLU9QSXlrTXZpc2ZxdmNFYU1DNzBHS01RUVhuS3YwMWdxdDBDRHYya2ZYWTVxYWpISzJKVlFSWERSdkhLN0RSRmRmS01Md0FRUDE0eC1tbUh2ZG41TDNrR0YzZjhGd0ZfaDJJQkR1cDZxTmpVR3lqWHkxZi1ocXN3cDJGb3pEOWN4OWRUZ0dNUXpoMGdRNFlUUDBObjnSAbQBQVVfeXFMUDhZMUlxUC1Bc3Z0M0VaVGRBXzEwOXdKSi1PUEl5a012aXNmcXZjRWFNQzcwR0tNUVFYbkt2MDFncXQwQ0R2MmtmWFk1cWFqSEsySlZRUlhEUnZISzdEUkZkZktNTHdBUVAxNHgtbW1IdmRuNUwza0dGM2Y4RndGX2gySUJEdXA2cU5qVUd5alh5MWYtaHFzd3AyRm96RDljeDlkVGdHTVF6aDBnUTRZVFAwTm45?oc=5)
+- **أقرب دعم / مقاومة:** 3983.3$ / 4091.4$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4091.4 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3954.5$؛ هدف 1:2 عند 4365.3$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3983.3 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4120.2$؛ هدف 1:2 عند 3709.4$.
+- **أحدث خبر:** [أسعار الذهب اليوم، 11 نوفمبر: انخفضت بنسبة 3% تقريباً لتصل إلى ما يقارب 4000 دولار.](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUFh4eVdkQjY0RGdxaW1sbGVYNFpfajE0cVhyTl9uNWJFWEJrVm1XUmVwZWNLdXBaY19KNFBleF9MSFlteVpKXzNISmtWR3FaaDJPLVBOVEo4MnpVdmlaOTZfdWZqRC1VRHBtWXN1ZmRtN0pVT1VkbHl3LWVrczJYcThNQjdoRnJmQkdUZ1lEcFpXYTQ?oc=5)
+- **خبر:** [الذهب يتراجع عالميا بنسبة 3% مع تصاعد رهانات رفع الفائدة الأمريكية](https://news.google.com/rss/articles/CBMiUEFVX3lxTE16V1ZZbHRIN0tiTjR4XzdyTkhMckRLR3NGQU8yS3EtaGkxRTJWSGN3RVk5a2NQLUlzR0w2X3NGYWxSMVpFa3FsNnR3VExKU0Uy?oc=5)
+- **خبر:** [الذهب يتراجع 2.1% إلى 4051 دولارًا للأونصة مع صعود الدولار وعوائد السندات](https://news.google.com/rss/articles/CBMizwJBVV95cUxQLXNINDhwR05vUEp5RUI1VFNmVC1qSmFMRjJLTHNFVkJMOFk2ZHlmMnNRWUZielBuMWd2emQ3TWRTaEVWR25MbHdORHMtelBRVnIxeDdycmNWb2ZBTV9iY1pqdTJSV2dCLUpSWGVCdHJhWVMyblN5VnJ2bDVNTFdsNXQyRTRNRTF6MGhBcW8ySXhZeUo0VXVGcnhJMHNGcUwwV2RGV19hQU83TlFleDN3YzNwa0t3a1lvZ3l5X3JzRWdwR1FLVzZtaWlnWEVDc2gtUlAyQWNLZE1DNmFOUzdXSzAtSzdDQno0Q0Q4bXZCcTFRcFpqNEhrQ3VSX2xTUDA4NXp4WG9RY21aNXc3TW11SVZuR3BrOFJYbGRPSktsV3M0OU01RmVzVTFHOWx1OVNtbkJBQndHNEYtVHlzRWs3ZWVBNncwUFVFYzZkWDY1WQ?oc=5)
 
 ## التحليل
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -6.7$ |
-| الاتجاه (EMA 20 و 50) | هابط (4074.4 / 4164.6) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -5.8$ |
+| الاتجاه (EMA 20 و 50) | هابط (4075.5 / 4165.6) |
 | بنية السوق | قمم وقيعان أدنى (هابط) |
 | كفاءة الحركة (20 يوم) | 0.14 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
-| المدى اليومي المتوسط (ATR 14) | 95.5$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4748.3$ / 3872.6$ |
-| مركز الحجم POC | 4168.1$ |
-| منطقة القيمة VAL إلى VAH | 3894.5$ إلى 4419.9$ |
+| المدى اليومي المتوسط (ATR 14) | 91.3$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4749.2$ / 3873.5$ |
+| مركز الحجم POC | 4169.0$ |
+| منطقة القيمة VAL إلى VAH | 3895.4$ إلى 4420.8$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,11 +31,13 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4090.5 ثم إعادة اختبار تثبت فوقه | 3947.2$ | 4377.0$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3982.4 ثم إعادة اختبار يفشل في العودة | 4125.7$ | 3695.9$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4091.4 ثم إعادة اختبار تثبت فوقه | 3954.5$ | 4365.3$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3983.3 ثم إعادة اختبار يفشل في العودة | 4120.2$ | 3709.4$ |
 
 ## أخبار الذهب بالعربية
 
+- [أسعار الذهب اليوم، 11 نوفمبر: انخفضت بنسبة 3% تقريباً لتصل إلى ما يقارب 4000 دولار.](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUFh4eVdkQjY0RGdxaW1sbGVYNFpfajE0cVhyTl9uNWJFWEJrVm1XUmVwZWNLdXBaY19KNFBleF9MSFlteVpKXzNISmtWR3FaaDJPLVBOVEo4MnpVdmlaOTZfdWZqRC1VRHBtWXN1ZmRtN0pVT1VkbHl3LWVrczJYcThNQjdoRnJmQkdUZ1lEcFpXYTQ?oc=5) · Vietnam.vn 11-10 23:14 UTC
+- [الذهب يتراجع عالميا بنسبة 3% مع تصاعد رهانات رفع الفائدة الأمريكية](https://news.google.com/rss/articles/CBMiUEFVX3lxTE16V1ZZbHRIN0tiTjR4XzdyTkhMckRLR3NGQU8yS3EtaGkxRTJWSGN3RVk5a2NQLUlzR0w2X3NGYWxSMVpFa3FsNnR3VExKU0Uy?oc=5) · أسواق للمعلومات 11-10 22:55 UTC
 - [الذهب يتراجع 2.1% إلى 4051 دولارًا للأونصة مع صعود الدولار وعوائد السندات](https://news.google.com/rss/articles/CBMizwJBVV95cUxQLXNINDhwR05vUEp5RUI1VFNmVC1qSmFMRjJLTHNFVkJMOFk2ZHlmMnNRWUZielBuMWd2emQ3TWRTaEVWR25MbHdORHMtelBRVnIxeDdycmNWb2ZBTV9iY1pqdTJSV2dCLUpSWGVCdHJhWVMyblN5VnJ2bDVNTFdsNXQyRTRNRTF6MGhBcW8ySXhZeUo0VXVGcnhJMHNGcUwwV2RGV19hQU83TlFleDN3YzNwa0t3a1lvZ3l5X3JzRWdwR1FLVzZtaWlnWEVDc2gtUlAyQWNLZE1DNmFOUzdXSzAtSzdDQno0Q0Q4bXZCcTFRcFpqNEhrQ3VSX2xTUDA4NXp4WG9RY21aNXc3TW11SVZuR3BrOFJYbGRPSktsV3M0OU01RmVzVTFHOWx1OVNtbkJBQndHNEYtVHlzRWs3ZWVBNncwUFVFYzZkWDY1WQ?oc=5) · جريدة حابي 11-10 22:31 UTC
 - [الذهب يتراجع بنحو 3% خلال نهاية التعاملات](https://news.google.com/rss/articles/CBMiUkFVX3lxTE45Mjl4dHUwV0U3LVJpcERLeS1UV0RkQm1CbFMzVUN2YWdfYkt2cXpFZktISEJEVTZsdmFZRHVzd2FhZ2JfQzJUcmJxdVhHeVMxVUE?oc=5) · دار المعارف 11-10 22:14 UTC
 - [أسعار الذهب تتراجع عند التسوية مع ارتفاع الدولار وعوائد السندات](https://news.google.com/rss/articles/CBMi1AJBVV95cUxOc1ZhYUR3ZnlRX0gtVm9iOHFkUi1WN2QycU03aS1tZlFVaDhxSGZkQlM1bmZBMnA1ekpGTlBxbUMwTzcxWS1YU2lHbWU1bzNERWJZTzJmQ0w5ZF9xcWN1WU1WUS1QbzZQY09xUHV4TnRReUtiWXY1cS1YbHJ6LUx3d29CcFFUR1dzanRpQUV2SXNjU2ZiRUVacWRJVGlQdEpkZ1doVXRWLW9MdXlFaEI2Z0dPbWhDRmpXMWhqaEZKVDFnaDM4WXNIdDNFaVdVY0JUbno5akVoREhNVi1EZnR4eF9Vckx3QnM1WjlzWVFaWEhzV3VzTXdvTXFURm5zbmlpV0c5WUJnRHRJRXEtUHBOZ1FYc2NVa2RhcjQtTjUyODdWNzgxRFhVSWVINjhXbEtyTzRoekd3S0JXRjVnakpoQ041eWp5c1pjYjFtMmtYTWpWUjZE?oc=5) · أموال الغد 11-10 21:27 UTC
@@ -46,11 +48,10 @@
 - [الذهب يتراجع مع تجاوز التضخم الأمريكي التوقعات وصعود الدولار وعوائد السندات](https://news.google.com/rss/articles/CBMi_ARBVV95cUxOQzRqamp6VkF2Wk13RS1Bbi1GbmgxbGU1dWFYQndqUURvV21mYjA1MkVzd1ZoaGRFb0xya29FYmVQalhzWlJJelRvcmpkdlZDSHpXajFpR2laWkQzM19yanUxYkwtMTQ3eGUxVEg2NDFfNFVfVGs4U3h5WG50ZU9NelFEaGx5NHdwMGtkalhOZ3hJcEl4U0JQWm1LQlBRTnpBYmFFZHhZY3AyNGRlU28yWEV1RUVGU2VJemc0eDVoMHZDaUxTSXl2VURXTldZbmF0dkI5RUVORWRJcXpJbEtDaDg4V2RpX20ybHVlM1gzZ2NJZkw5RURhc2F2YzZ5VTJ6TlFEa3IwWm5iNjF0UThfZTNneFhfbk1qdFFDbHItUjNnMENjckttd3RGTkQ1RWdfMGM0S1FDZ3lFSURPNnZnS205WWpDM3F6RXFUVHc0MVJWVWJqNzNRQjA5NzZiNDBVMVNWcXJNU0ZxaDRsc09BQXdYeklLNTlDWFpqbFVrUi1rbU1fSnRZVldNRXpjc2tzSlZWd1hRYUpNNWNhSzhYdG54cnV1LUZZb1BwWUdOR2gzTVZXQlk2Rml0SUo4Z3h1Y3ZmdTNhUVBGRXR6anM3cWxHTi1mLWJobVYweC1tckxLY3dBaTdHVTNTanNNWjJJMDhKZWxDTFJiQURRcVRadzVNNEVkTXlKSjJIY29kdkVSNG5rWDd4bE54ek1fVjQweHRpSGhscEF3SGNhbFVtMGhVUXM5eVg4YXJFZEJqelZMWHhPUVZXekxsd2tSZWZhemFDcXV0NGwwNmQ4UTJhaWhlOHR6Y2p6QW96eHR2MUxBN1BGWEF4NDRMUXQ?oc=5) · FxNewsToday.ae 11-10 20:56 UTC
 - [الذهب ينهار نحو 4000 دولار مع دفع التضخم الأمريكي القوي عوائد سندات الخزانة فوق 5٪](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vcG4yY3JMLW9UV1hSZ1FkY1liUktTRS04SnlldGRSLU11NlhTM09acWI2RWVaU1Ywa1hVem5SLXdmZWFra0JkMjV6cHZvRkp4N3Rn?oc=5) · شبكة تواصل الإخبارية 11-10 20:26 UTC
 - [ارتفاع التضخم الأمريكي يؤثر على أسعار الذهب ويزيد التذبذب في الأسواق العالمية](https://news.google.com/rss/articles/CBMiwwJBVV95cUxOU1JvYnFoUzVxR0MweUktSk01Ujg0YktzMi1tTHRvczRNc3QwTjFXdkVKSTZaRl9iRmpmN2IxUnNNNG1NSkhBekRIM1lhTHVnMXYwcldvVzBnak51OXBab3FSd25QUWFiOEJUZ0Y4SzFhbGJKYmYyNHQxZHYtVHdfUVhOME16QTZuQld3d3pSUW05d0RtbjQteHB4UjA3SWU1WmJFcXF6eUJiaTVHOWZDeExLdTZnSnhIVVlzUXFlbWxVT2tYWkh6S1hfSkhCaHFORC11NlJMMWZUTFFzbXhHSXhWWDZjUEg2ZVJ4bWhwYldrN0FHY3NwY3RIdUFqaHRETTJmZnRFbUU3YVFDT1FKVmwtZG05aUZwdTkxcjU3bktPaWZzR25qS0tTem5qakozbFUtVjJ2bE1uaTBwa2djZGFTRQ?oc=5) · بوابة الزهراء 11-10 20:23 UTC
-- [أحدث أخبار مصر والعالم](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Md2V5S1N5ZmI2eU5LSTNLdjdfQklEeVdraVctbnJEQzRockJYc2F1VVhVMFlEMVZYSEdFUHh5MExiUmlVMFZJckh1dw?oc=5) · ekhbary24.com 11-10 19:54 UTC
-- [الدولار الأمريكي: تصريحات الاحتياطي الفيدرالي وتوقعات مؤشر أسعار المستهلكين توجّه عوائد السندات – رابوبنك](https://news.google.com/rss/articles/CBMiywFBVV95cUxOcEpyaGpOdHZfS3V2eVVKMDlWWktTQ0FlSmlqZkU5ZkZUOElvbmxnYmw4N0R3MlhHR01PdFN4VkEtNHM0cDFQRXJ1a0FJVTFGRS1DOXp2QkNmTURfdTVJc2hDTFVrNWRjcVFJeGp0Zk1Icjl5R2VyM3ZGclpMTGtlNHY3RWdUN2swZXNvQTBaUHFwWmRuUzM4NFVXQzZvR3ltNk1RelBiVUg2Q21HT29vVEtwZkh5dE9Fb01xaldDUVJMck5uRFRKX2VoQQ?oc=5) · www.tmgm.com 11-10 19:25 UTC
 
 ## أخبار الذهب بالإنجليزية
 
+- [Gold Futures Streaming Chart](https://news.google.com/rss/articles/CBMiakFVX3lxTE1aeTFoLWFsUHNUX24yTVZlQm03eU5lbWJIM3VwX3hnY0JkZW9mWXB2Z2ROaEkyazZrSEI5UGlDM2p3MEE2R2pDeEYtM0liVkNRN1ZJdHZ5SWs0R3BhNnpsX1A2TlpybEdRbUE?oc=5) · Investing.com 11-10 22:22 UTC
 - [Gold Feels the Weight of USD, Yields on Hawkish Fed and CPI](https://news.google.com/rss/articles/CBMitAFBVV95cUxQOFkxSXFQLUFzdnQzRVpUZEFfMTA5d0pKLU9QSXlrTXZpc2ZxdmNFYU1DNzBHS01RUVhuS3YwMWdxdDBDRHYya2ZYWTVxYWpISzJKVlFSWERSdkhLN0RSRmRmS01Md0FRUDE0eC1tbUh2ZG41TDNrR0YzZjhGd0ZfaDJJQkR1cDZxTmpVR3lqWHkxZi1ocXN3cDJGb3pEOWN4OWRUZ0dNUXpoMGdRNFlUUDBObjnSAbQBQVVfeXFMUDhZMUlxUC1Bc3Z0M0VaVGRBXzEwOXdKSi1PUEl5a012aXNmcXZjRWFNQzcwR0tNUVFYbkt2MDFncXQwQ0R2MmtmWFk1cWFqSEsySlZRUlhEUnZISzdEUkZkZktNTHdBUVAxNHgtbW1IdmRuNUwza0dGM2Y4RndGX2gySUJEdXA2cU5qVUd5alh5MWYtaHFzd3AyRm96RDljeDlkVGdHTVF6aDBnUTRZVFAwTm45?oc=5) · FOREX.com 11-10 21:38 UTC
 - [Gold Holds Gain Above $4,100 as Lower Oil Eases Inflation Woes](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWZxX1NKb3NlaFNCOHJlcE1kN2NRZjh0OEVaM3hQS1dQX0t4VkFadURVZzJhVE45Mlk0a2RWajItRjdDdWxBSU1mcWZBYng4cnBFUTNSSWE3VnQyOUE0WnRVWGtpcFNZejlNWlJLelgwNk9hWjRsZ3ZyYU1ERnQ1cS1VRWk5dG1PcUJoU01SeURPQUZoN3RnVEFTM1FkVzRORU9PWUpHN20wYXZpOU9jNGd3?oc=5) · Bloomberg.com 11-10 20:17 UTC
 - [Gold Technical Outlook: XAU/USD Bulls Fight to Hold Breakout Support After 7% Rally](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTU81M1ppNkE4SnBPWE9DYnhrX25uRldKX2oyb3c4QkNYc3cxUmZWMDVfcUlqSWwtYjMwcXl3UXFMM1k2MDV6X0hVWXBCQUpnV3R3NWt5RjNOYTFWZzRCVkhiSzJOTVFUdmdfeTNEZGtuM2NuYTJWMWZ4MXB1bGhOY0FvU0tsRVRWRnhHSUR0a3dMX21xSUdzR2RVRU9EVnF3QXFLT3VINHlJSmxkSmJsYW4xQ3NTaGd2VllnSTF1cU93UlVtNWtGdV9ITXpYX1puSEM5WG1fZkRFUdIB5gFBVV95cUxOTDVPSGJ6eWhVWlRLUHROeTdKZG00NnF4MHZhXzVSc090b3p4dFJHeE5ETFZsREJRR3JRU3hXQmxkZGVpMGlqRFFRWEY1MVUyalVxeV9TUEV6bkFsbG1YTUZhQk9Td2RyQUhicFI3UUhfellvMG82cHI4NzZYOWFxN0RCNnVjR0dBMWhQMGRRU2xBbTJUcy1MeGsxQ3ZlV3VFd3FDTFNsZWlZR0QzZkRZVzZralVONnJ0UFZpWVBJU3hZeGM5UG5UQnUydlB4ZVBxWlU1Mk5vUnBuNUtOZlpiNE8zRkhDQQ?oc=5) · FOREX.com 11-10 18:44 UTC
@@ -62,7 +63,6 @@
 - [Gold price today: gold falls 2% as hotter US CPI fuels Fed rate hike bets](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzF2WUM2amF4M0lkc3VuWldFcG8xUlJVRjVTSXFKQUlFM1Q0a0pxUUs5bXJ0ZXpZa0NjbU1pWndpRjhsQmYtU0NQc3ltZUxqSk93Yktoc21mY3BxeXFnT2FNdWJSUHUzV1N3Q0lGUEQxTXdFSHhtMGh2QTMyQUd1QVpTeU1PLUlqdWgw?oc=5) · Invezz 11-10 15:20 UTC
 - [Gold Price Forecast: Hot CPI and Waller Remarks Keep Pressure on XAUUSD](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRE1MRnpkWDhZdF9GdUVZNnFCSmRkTGcxLWgwZF9fYUU2cWlnNmFmWGxGQzIxTmNvaVdxRS1sXzBCbmNSVU5FRUw5VEo1LXhMZVBvdlVaNTNld3htajhRMUR4Nm9WcDY5NVRxOTNFcm5GOTNLdGZpQ0gxYlMydDl2Y29oMUdlU1M4S2UtWTNuU3FjWVBuZVFzZXZqbF9XMEExRWJla3FrMmNTZHJraDdYRXp4TDVEc2JSTE1oSVF3?oc=5) · FXEmpire 11-10 15:19 UTC
 - [Gold drops toward $4,050 as US CPI fuels speculation of larger Fed rate hike](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWQtS2ZNS2hudkNkbHpxQ3RpYXkyTjh0bnRLVERfTk9Qci1lbGZmdzNJMUxKTVlyOFVjUFJhTTRoX2RXZGEyR25Id1RSdnhuSkpFaFpnOUNQNjkwSmJUX2ViaExjVDY1OXpMbFc4ZnZTQlk2QXVVZjlLems5LUlTZS1ZRDN0SC01WGtlOHlNUzF5YnRSX1J2NnA4c0x3eVNKc2RWVFZhbXA?oc=5) · FXStreet 11-10 15:07 UTC
-- [Dollar Rebounds as Fed Waller’s Hawkish Warning and Hot CPI Lift Fed Rate Expectations](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUmtWektDWUZhRkdBQ2JYcjZNekJRbmxYZHVIenVERFRmUHVBX1dXVW4zWlVfR0RQNkpWaDlVT2NEalgyQmpUQnBHOE0yRDU3OXpMc3Z5aVV2ZjdSaXVCWWZ3YllaTHQ3em4wQzl3MzFEYkM4UDZsUk5pZTJNbU56WVVYWWR2WGtCd3BaeTVJclhwb0lDYVFEMm9XV2E2dUo2MG5nNjA1XzhIVzEybnZkS0tfOE91NjZRRkU3aTNZMVRmRHVMVmNoMHdjUVRrcWt6eFYxbmpDVENkWFpCeko2YUx3UlI1VXM?oc=5) · Action Forex 11-10 14:26 UTC
 
 ## ملاحظات وأخطاء
 
