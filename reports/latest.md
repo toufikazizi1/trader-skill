@@ -2,30 +2,30 @@
 
 ## الملخص
 
-- **السعر:** 4,087.9$ (-0.77% عن الإغلاق السابق)
+- **السعر:** 4,078.0$ (-0.81% عن الإغلاق السابق)
 - **الحكم الحالي:** حياد / انتظار. الاتجاه هابط، والبنية: قمم وقيعان أدنى (هابط).
 - **موقع السعر:** منتصف منطقة القيمة.
-- **أقرب دعم / مقاومة:** 3986.9$ / 4095.0$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4095.0 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3959.0$؛ هدف 1:2 عند 4366.9$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3986.9 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4122.9$؛ هدف 1:2 عند 3715.0$.
+- **أقرب دعم / مقاومة:** 3978.4$ / 4086.5$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4086.5 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3950.4$؛ هدف 1:2 عند 4358.6$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3978.4 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4114.5$؛ هدف 1:2 عند 3706.3$.
 - **تنبيه:** السعر في منتصف القيمة، ولا دخول من هناك. الأفضل الانتظار.
-- **تنبيه اقتراب:** السعر قرب المقاومة 4095.0$. راقب الإغلاق اليومي ثم إعادة الاختبار، ولا دخول قبلهما.
-- **أحدث خبر:** [البنوك المركزية تواصل شراء الذهب.. والأوقية تتجاوز 4100 دولار وسط توقعات بتحركات جديدة/ عاجل](https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzTGl4S0E0NW4tUW14aHFDRzhINlMxQVlaLTRRLS01WldtZzI5RmEybnk3Y1BZa2hWWmh0djZSTkhQaFpzSldTdHRR?oc=5)
+- **تنبيه اقتراب:** السعر قرب المقاومة 4086.5$. راقب الإغلاق اليومي ثم إعادة الاختبار، ولا دخول قبلهما.
+- **أحدث خبر:** [الذهب يفقد 42 دولارًا للأوقية.. والأسعار العالمية تتراجع 1%](https://news.google.com/rss/articles/CBMiREFVX3lxTE1nNjVZRWtMZVVzeTRyVzk4Q0t6U2htMFdnZTBja0loSUlHYWY5MktVTldzUXpkLWpPVGFJZFQ2aVR6VGtf?oc=5)
+- **خبر:** [البنوك المركزية تواصل شراء الذهب.. والأوقية تتجاوز 4100 دولار وسط توقعات بتحركات جديدة/ عاجل](https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzTGl4S0E0NW4tUW14aHFDRzhINlMxQVlaLTRRLS01WldtZzI5RmEybnk3Y1BZa2hWWmh0djZSTkhQaFpzSldTdHRR?oc=5)
 - **خبر:** [جون لوكا: الذهب يستهدف 6300 دولار للأوقية في 2027 بدعم من البنوك المركزية](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YbU5fUThzQm5OaFpXWDl6WTYtLUVxN2ZTNDl5MXU5VlBZYllCOUo1WklQV20xVk05bXpobnowSXJjWGw1WWQ2M0w4bk53WDNDQnc?oc=5)
-- **خبر:** [خبير : أسعار الذهب تستهدف 6300 دولار للأوقية بنهاية 2027 بدعم مشتريات البنوك المركزية](https://news.google.com/rss/articles/CBMi0wJBVV95cUxNWE9jaVU3N3RRZm9EZU85a3VNR3lGRDZKQmZiaU9lRngwa3dkbTFoNHdVaWJod1dCeDdRM21zaHJGUThoWUZKWWhTX1VTSFBoY2FELTZ3TE5BdnE4SWptMEVEVXpQVkJaTGZiTFNNYlJQazZ2bUNreFZqRWhKQkIyQS1sa2ZwQmNSd2hBQW9fcWRPTkdYOFpudm1XSGF5VUhweEE5dEhnWFFFV3RESEo4ZUExMlB2MDN0VGVJdUM2bFJDMGRGeVZwVlM2YzJWWHdxbzF1UUx5RHQ0Y1lEVFJrMzJ2TTlFeUkxY2NTWXNzbmZrN01LMjE2Vjl5azJyS1g5cl9GRVhMY21BSFJIZ2xpa2h5aGxmM2VNOXhCWE51a3dNUVQ2VmRFOHliNVJselltRTQyVnZZTjRXT0w4OVBoYjRnaGN4RTY5X0dLT0tNVWlqVzQ?oc=5)
 
 ## التحليل
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -2.2$ |
-| الاتجاه (EMA 20 و 50) | هابط (4083.6 / 4171.1) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -10.7$ |
+| الاتجاه (EMA 20 و 50) | هابط (4075.0 / 4162.5) |
 | بنية السوق | قمم وقيعان أدنى (هابط) |
 | كفاءة الحركة (20 يوم) | 0.09 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
-| المدى اليومي المتوسط (ATR 14) | 90.6$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4752.8$ / 3877.1$ |
-| مركز الحجم POC | 4172.6$ |
-| منطقة القيمة VAL إلى VAH | 3899.0$ إلى 4424.4$ |
+| المدى اليومي المتوسط (ATR 14) | 90.7$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4744.3$ / 3868.6$ |
+| مركز الحجم POC | 4164.1$ |
+| منطقة القيمة VAL إلى VAH | 3890.5$ إلى 4415.9$ |
 
 ## سيناريوهات للدراسة
 
@@ -33,11 +33,12 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4095.0 ثم إعادة اختبار تثبت فوقه | 3959.0$ | 4366.9$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3986.9 ثم إعادة اختبار يفشل في العودة | 4122.9$ | 3715.0$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4086.5 ثم إعادة اختبار تثبت فوقه | 3950.4$ | 4358.6$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3978.4 ثم إعادة اختبار يفشل في العودة | 4114.5$ | 3706.3$ |
 
 ## أخبار الذهب بالعربية
 
+- [الذهب يفقد 42 دولارًا للأوقية.. والأسعار العالمية تتراجع 1%](https://news.google.com/rss/articles/CBMiREFVX3lxTE1nNjVZRWtMZVVzeTRyVzk4Q0t6U2htMFdnZTBja0loSUlHYWY5MktVTldzUXpkLWpPVGFJZFQ2aVR6VGtf?oc=5) · www.dostor.org 11-10 09:59 UTC
 - [البنوك المركزية تواصل شراء الذهب.. والأوقية تتجاوز 4100 دولار وسط توقعات بتحركات جديدة/ عاجل](https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzTGl4S0E0NW4tUW14aHFDRzhINlMxQVlaLTRRLS01WldtZzI5RmEybnk3Y1BZa2hWWmh0djZSTkhQaFpzSldTdHRR?oc=5) · الرئيس نيوز 11-10 09:30 UTC
 - [جون لوكا: الذهب يستهدف 6300 دولار للأوقية في 2027 بدعم من البنوك المركزية](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YbU5fUThzQm5OaFpXWDl6WTYtLUVxN2ZTNDl5MXU5VlBZYllCOUo1WklQV20xVk05bXpobnowSXJjWGw1WWQ2M0w4bk53WDNDQnc?oc=5) · أصول مصر 11-10 09:22 UTC
 - [خبير : أسعار الذهب تستهدف 6300 دولار للأوقية بنهاية 2027 بدعم مشتريات البنوك المركزية](https://news.google.com/rss/articles/CBMi0wJBVV95cUxNWE9jaVU3N3RRZm9EZU85a3VNR3lGRDZKQmZiaU9lRngwa3dkbTFoNHdVaWJod1dCeDdRM21zaHJGUThoWUZKWWhTX1VTSFBoY2FELTZ3TE5BdnE4SWptMEVEVXpQVkJaTGZiTFNNYlJQazZ2bUNreFZqRWhKQkIyQS1sa2ZwQmNSd2hBQW9fcWRPTkdYOFpudm1XSGF5VUhweEE5dEhnWFFFV3RESEo4ZUExMlB2MDN0VGVJdUM2bFJDMGRGeVZwVlM2YzJWWHdxbzF1UUx5RHQ0Y1lEVFJrMzJ2TTlFeUkxY2NTWXNzbmZrN01LMjE2Vjl5azJyS1g5cl9GRVhMY21BSFJIZ2xpa2h5aGxmM2VNOXhCWE51a3dNUVQ2VmRFOHliNVJselltRTQyVnZZTjRXT0w4OVBoYjRnaGN4RTY5X0dLT0tNVWlqVzQ?oc=5) · جريدة المال 11-10 08:55 UTC
@@ -49,10 +50,10 @@
 - [انخفاض أسعار الذهب عالميا](https://news.google.com/rss/articles/CBMiggJBVV95cUxNRWZxZzJZY3NIR21NQUc2WkZUVGEzZ0YyTk4yY0tYNUszdk4yelpPY2k5akswaWJYSG9ZN2dZSjJRb2w2NVhNTllEdWJQVTBxcE5YdWJCc2ZjeVlYN3U3bGlpcE93MzVWeHpINUNVRjNVVDgtU2FlTUxfQ2sxNzMzMGNhaERmbnlOaDRjSFZzQkRhUDVvWEhOalppZ29LVHl4YnNjS1JGS0hJUUo4Nklkd2ljUzBMcW1jNDJSRUdwTFNBVHZXYlFEeWUtd1IycUFBRl9UenJ4NF9CWnNyNE5xU3NVZXNla04xZ0lpbUFYN3JQNlB2S0dpcUN2QTdqeXJzZ3c?oc=5) · وكالة الانباء الاردنية 11-10 06:43 UTC
 - [انخفض الذهب في المعاملات الفورية 0.6 بالمئة إلى 4115.12 دولارا للأوقية (الأونصة) بحلول الساعة 0238 بتوقيت غرينتش. وارتفعت العقود الأميركية الآجلة للذهب تسليم كانون الأول 0.2 بالمئة إلى 4123.90 دولارا. (copy)](https://news.google.com/rss/articles/CBMi0ARBVV95cUxPcVQ3VkVwYVFFaUNMUU8zOWY4SlhFWnlXa1NzMUFPTHgxbVBBVHpERTduMl9QMm43X2ZRSWVVc3IzbmlqaXJtRHJNUjZJTW8wRzhfLXJadXgxVWtKd1RTZFk0NnV5NDRxXzB4SURCOUFnR3ozc25jRGJQLWhtamQyUHpSTmw1YlItcGZkWW9HQldDTlNaUVpRZmlsQ1k4UmNpTkJKS1I5RmdRZlRrdktHRGFzdVZZaHdqTDJsOEFhSG1MVlY1aFVTNGtDdzBaLVVkcWxqNEE5RlNjODVZY1JlTko5OGZBNmZHYnNkTmZfVi1aZlJWZGpSQi1SckhSaHNTOXl1MWd4bUtFS29EN2lhRko5SlJ5ZEs3UGU2cURUMWxoazNUeUV5SVNRa2drcjNSNl9ZUndDOVVlSWFqZDcxR0JNRkJtelFmTlczOENuWEtrM0hhNmctd1BhZ1RqRldpanlRUVhSNE1iUFVBdjJqSE5ZdVVvcHh0T1Q4MWcxS0hpZE5pZFUzNXIweXFELVVGMWMwelgzQVZCTWk5N3BLM2RpNzdzN3FKSDVHNjdYWEtMUkFWaVFpTjc3bFBJcFg1RmpkVkpBRXZJNEtRb3ZTQ2J0Q3NaQlREOC1LX0ZUZXBjZVpfZWRycF9wT1AwaVhHa1FzMFhwSVl0SFpxMVpCUVNvS0ZJa1pVZTNrUERIblFyNHc1d0xUb29NYWxTM3UxVWFOOGJXQkVJcmFCNWNoMkxhWDU3WVFuUl9CalZqRlBPWnp3SkQtVVNmRlE2VzNU?oc=5) · الديار 11-10 05:57 UTC
 - [أسعار الذهب تتراجع عالميًا: 4115.12 دولار للأوقية](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mMmRIZlowcnlCUUNSODRRMTVfVk4ybXBxYXpUWkhIbUYwOG1XNXNWVkZGMk40Y044eVdIclA4LVNKWmY0WEo0RUxFTnJnTnc?oc=5) · المشهد اليمني 11-10 05:48 UTC
-- [جون لوكا يتوقع ارتفاع سعر الذهب إلى 6300 دولار للأوقية بحلول 2027 بدعم من البنوك المركزية](https://news.google.com/rss/articles/CBMixwJBVV95cUxOYk1jOHF4Y1g5MEJuTzVDa01rN3NnemVQMTRERkUtM19PZzJtYXQ1czQyeVVjeUZnVEVNRHhsZnNxZzFiSEozWWptWkRLVkw4OHdIME95UjNyaFF5RGNkUGVJeWEyOWU4QVBVb3lSMVRTUFNhN3VhZFN5SUlUWGhKVHhkQVpoUHFjaFNXSVVIT01rOGxLdnBaVjZiR1B4UFZObnBqSExkd01sdTRzOVI4N2dfZkZfTjUtc1RoZ184M0NRUEtyMGpIbzFRbUVSa01kNXBqY1VpMDk3cDkxUXRjdFdVa25hNElWQjVacmhJOXdYZE4zRWVFNFBYbV9LUl9IQUs0N0Nab282UmZWb1BvMEdiTEpIb05KTmU2Wm5QN21CZ2xJNkdCOUhxVTVwM1Y0R1BBNnNPakNlYjh2NlhEbDlOcnB4TFk?oc=5) · جريدة آخر الأخبار 11-10 05:42 UTC
 
 ## أخبار الذهب بالإنجليزية
 
+- [Market Movers blog: Nvidia shares sink after investigation into CEO over affair with suspected spy](https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5) · Investment Week 11-10 09:00 UTC
 - [Gold (XAUUSD) & Silver Price Forecast: Gold Holds $4,088 as CPI Test Looms, Can It Break $4,147?](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeE1CS2E2Yk9YSTdvUm42Q0tTdlVJNkZIWkp6RUJuQm9ZM1NSOGpfcDRkMG1oNDlOUk5wUFB4LWdyR0VXd3c5eE4xWGk1cEpHWFcwT2dmUHJyZlhJYjJkTl9yUkctaEFSUTRzOEROZzNYR1NJRkdxZ0FvdjZxWWk2SUVmaGVScm9ZVUcxMERscUdLblNPV09uSDBnUVpmYm84Nm5KTjBGM1lXc3FRX21Sd016Wmd6TVgzb3JmWFFLa3FPWXN1a3FSTDF5NUtGT0lmNmc?oc=5) · FXEmpire 11-10 08:20 UTC
 - [Gold Futures Streaming Chart](https://news.google.com/rss/articles/CBMiakFVX3lxTE1aeTFoLWFsUHNUX24yTVZlQm03eU5lbWJIM3VwX3hnY0JkZW9mWXB2Z2ROaEkyazZrSEI5UGlDM2p3MEE2R2pDeEYtM0liVkNRN1ZJdHZ5SWs0R3BhNnpsX1A2TlpybEdRbUE?oc=5) · Investing.com 11-10 07:38 UTC
 - [XAU/USD price outlook: Gold faces rejection at 0.786 Arc – Awaiting directional confirmation](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmwzaGxhdC1Gb1V0WFZlX1Zsc0FWV2hma2RkMEVkdWZSQWZpMzFLbGtrRkhQeGpOUTBGMk5VUExId3hnRXh0SEtIZmdYUkg0N1F5Z1FsT1c2Mk00dHBjNXk0cTRoQlJBMkpWLTBiZXJQa1FTNzFjNjhjSDdOeUxpSFhiVjF5TGJkazVPeVhLbnVJWWlHYUh1bXhCUHRPNzcwVDNNOWJrbU9WaHQ0bXFGYnFRNzBIbDJ1V2xnRVVNbGR1aE0xckpTY2lPQVZGNVQ1?oc=5) · FXStreet 11-10 07:15 UTC
@@ -64,7 +65,6 @@
 - [Gold dips ahead of US inflation data](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdGNKZ2F6WS1JYnNzZTlybHFFNkNEY09yWUt4VGZlVDlBRDdvZUZ3Y0xCZldxMkVPbldDUjNtRmhMTmRQTFdSZ1JHVDFLaUlIVDhPTW01bGNmU1k0YTVNejVmbzRWa0pZVWJaVnphNG03ajFfR3I5dGU5MVJ4QW5CUkxBNXBrTm9VcEE3M01KYmh3ckNPcEZ0VGlxR1dPaEFFaXlOV19iZzJxMlY0cVdpbk9OQTN5M2VNOFZYQ2VkcGxfZw?oc=5) · The Economic Times 11-10 00:56 UTC
 - [Gold Price Today, November 10: Yellow metal slips but holds above $4,100 as US dollar strengthens; Fed rate hike bets weigh](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcVd4VDlGOWNSbXNYMzNHT0p4Y0tLVmZWMGs5NU9XZnFYeFh3RGsteU5adkNoc1dmWFo2VU0yWGdRQjJIT3F1QUxKbzNCZGh2LWdZQVJrY1hXRGlaRkcxWjlTNjRJdHFndnFtb0pwcEY3U1d3SVNkcHRtMUlZYUNyRDU4V1ExeXJXazlURmJFdW5sdS1jcHB3NU1fNFh0QmVkckNoMnI3N2ctLU1IUUNwQmlmN0tCZzZ6T05qM2l4T2sxeEx6Wnk1RGdHOEtobE1WYnJqZjlZUURuNDE3cVF4N0ZCYWNkZEZuczh6RnRncV9PSndhRTRNN1V0b3RFZVnSAYQCQVVfeXFMT3c1QUQwaEV3WHQ5ejFMNWJ0cm9kN2dyZHI3T3VzcDY1ZEpFcmUtZUJ3NzlQb0g5b1RpVDJzZ0NydHBidVVHYm9jX1NyNTlDQjE2UHgyT2I5OXBjR1hMeXpSeTJxa2tBbUVtRTV3bEhqS01KUTJlMFp4LUJNclEtSnM1cGxLZVd1SGpZYW1UaEx2YjZxVkNCaUpRRnJJRVFiM2g3OTVvWGtvTkhFU1lmSFVwWF9QMXQyN2Y4clQyVVlhS3h3UzI0WXdhLUctdlVhcFVSU1hBV0xvLWdwM2pTTjVpa3FOaFp4Q25seWFmSll0TW5ZYUZmMzBTTGlfT05fWDFyQVM?oc=5) · ET Now 11-10 00:47 UTC
 - [Brent oil falls nearly 6% and gold jumps while two-year Treasury yields climb before CPI](https://news.google.com/rss/articles/CBMirAFBVV95cUxObktiaUc2RzhoenBFUFlFWWdnWDN4YVpEQXRvNmhibk1XYzlmZHNTM0tzMWhfdDJLX0hYZDhrZmVOVDB5WnloSWVSVWt0UkRMN3FCUk1ZaHE4Wk9xNzFuMTVmSHhVX0ZuVDBZYzM2SHF4MjdRR3NMYmxaeThCbWlNQTB1d3FKYnFEVnI2dUxKNTRmTTVsd3lfc1BZUFNnbXFIWU9XdFBBZGlxUE9r?oc=5) · MLQ.ai 11-09 23:17 UTC
-- [Gold, silver advance as dollar weakens, Fed rate expectations face inflation test - Kitco PM Report](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUlc5eDBpY1JadW5RdE9SaTdxSjZGY01md213N3VBLV9Najd0R2ljWFl1cG85RlNSaThWc1poa1VEclRUdnFKOUo3T0cyR0hYMVZrY180bFhvWW10X1pqRDMxeW8zMTFVZEN6ZVc5RHJoQlV1Z3VjWkdOU2cwRjRpT3UtQ0trNGxSRDZJcExveUZrbm1kU1RGcDc1TTRYRzJiWTRmZi1aTEd1R1NERmppcW5IMENuUVR1?oc=5) · Kitco 11-09 22:03 UTC
 
 ## ملاحظات وأخطاء
 
