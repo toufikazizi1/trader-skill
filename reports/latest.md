@@ -2,12 +2,12 @@
 
 ## الملخص
 
-- **السعر:** 4,028.5$ (-2.27% عن الإغلاق السابق)
+- **السعر:** 4,019.7$ (-2.25% عن الإغلاق السابق)
 - **الحكم الحالي:** حياد / انتظار. الاتجاه هابط، والبنية: قمم وقيعان أدنى (هابط).
 - **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
-- **أقرب دعم / مقاومة:** 3989.1$ / 4097.2$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4097.2 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3953.9$؛ هدف 1:2 عند 4383.7$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3989.1 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4132.4$؛ هدف 1:2 عند 3702.6$.
+- **أقرب دعم / مقاومة:** 3979.4$ / 4087.5$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4087.5 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3944.2$؛ هدف 1:2 عند 4374.0$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3979.4 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4122.7$؛ هدف 1:2 عند 3692.9$.
 - **أحدث خبر:** [هبوط حاد لأسعار الذهب عالميًا والتضخم الأمريكي يضغط على الأسعار](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lQUhsaXlKN3VzWi0ySHM3Z3czOHByTy1jcE9OZW50RllWUDVnMkNWb0J3cFgyMjZVVmJQbGt5VW5pSlFYbDRmWlRlOENaQ1dTb3ln?oc=5)
 - **خبر:** [Gold Technical Outlook: XAU/USD Bulls Fight to Hold Breakout Support After 7% Rally](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdjFubHZ0cjlyenNWaG5mSDBHN0pLNHF4ajJlVjU1SlRWZFhmaHVPWEIzY0pXSUs5TkNva0Q5a0FPSV8wOHl2VkVtQjdsTnZjd3c5b1dTSzZ3emZXek9hUzJnTUlubjZNYTV3NzFGRmgxelZkd0hyYkJReDlXQlVLdFNfSEdlOTV1dk1ZRjk2OURkRnZsOU5CVnoxZ2hIaFpBbEstYzhZRnFKZ0lhQmVyMjYzZW9kV2JhRjNpV1Zad3J0N0VJcHloT3p1RkwtS3JNMlpxdE1kMU5Udw?oc=5)
 - **خبر:** [الذهب يواصل الهبوط عالميا.. الأوقية تفقد أكثر من 2% اليوم](https://news.google.com/rss/articles/CBMiigNBVV95cUxNbV9zOV9KZ3ZDbU5nRjJkS0ZPX1hVNTc4dkt0cUdhSDZhcVAwd0xkY1IyRkVwaXVuVVdNcTdVS2VQcThucDdTR1Z4YldDN1ZaUnF1d3ZJd3J4RWZOTGtEai1RUk1OQTBnajYyVVN5dlVOSHdKRGVYWEEzX0lLRS0ycTBhWHJXTy1tT0Z6UkNwRlhkQWQ4U2V3d3hxYkZ0VTU1QTJoRXpxNW1RVnpILXJIOE9rcUFWVV92YzNFeWJPZWRwRDZjU2RSOUJfZXJhd25EeDN6MzJKRkNSVzk1RlluMlZGYkFEOVhjNWFpTktJVktKSEl2ZlJYOXg2QjhCV0d5cUdfZTg4LUkxRVdrRGZwWWg4N1B5NEtOOUtVeWRnSmFxZE9KcUs5dE43T0xad3R0ZUlsSVhXNThaN1NMc29wR0hpbkVISDRkUXp1cU15d08yZDlJYWRqQ3QxdTUwZTJEWGctU1UzSGdnM0pacC1sM3RfaEc3ZGFSaHF6el9QUFVlOTJFT2VVVk5n?oc=5)
@@ -16,14 +16,14 @@
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | العقد الآجل GC=F (بديل) |
-| الاتجاه (EMA 20 و 50) | هابط (4080.0 / 4170.9) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -9.7$ |
+| الاتجاه (EMA 20 و 50) | هابط (4070.4 / 4161.2) |
 | بنية السوق | قمم وقيعان أدنى (هابط) |
 | كفاءة الحركة (20 يوم) | 0.15 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 95.5$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4755.0$ / 3879.3$ |
-| مركز الحجم POC | 4174.8$ |
-| منطقة القيمة VAL إلى VAH | 3901.2$ إلى 4426.6$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4745.3$ / 3869.6$ |
+| مركز الحجم POC | 4165.1$ |
+| منطقة القيمة VAL إلى VAH | 3891.5$ إلى 4416.9$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,8 +31,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4097.2 ثم إعادة اختبار تثبت فوقه | 3953.9$ | 4383.7$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3989.1 ثم إعادة اختبار يفشل في العودة | 4132.4$ | 3702.6$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4087.5 ثم إعادة اختبار تثبت فوقه | 3944.2$ | 4374.0$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3979.4 ثم إعادة اختبار يفشل في العودة | 4122.7$ | 3692.9$ |
 
 ## أخبار الذهب بالعربية
 
@@ -66,7 +66,7 @@
 
 ## ملاحظات وأخطاء
 
-- السعر الفوري غير متاح، السعر من العقد الآجل وقد يفرق عن شارتك بعدة دولارات (gold-api: تعذّر الوصول إلى api.gold-api.com: [Errno -2] Name or service not known؛ stooq: stooq.com أجاب HTTP 404؛ yahoo: query1.finance.yahoo.com أجاب HTTP 404؛ stooq: Stooq أعاد شكلاً غير متوقع)
+- شموع الذهب الفوري غير متاحة، فالمستويات مأخوذة من العقد الآجل بعد إزاحتها (yahoo: query1.finance.yahoo.com أجاب HTTP 404؛ stooq: Stooq أعاد شكلاً غير متوقع)
 
 ---
 > للدراسة والمعلومة فقط وليس نصيحة مالية ولا توصية بالشراء أو البيع. السعر هو الذهب الفوري XAUUSD عند توفره، وإلا العقد الآجل GC=F وقد يفرق عدة دولارات عن شارتك (انظر مصدر السعر في التحليل) والمستويات من شموع يومية فتتغير مرة في اليوم. هي تقديرات حسابية وقد تخطئ. لا يُنفَّذ أي أمر من هذا المشروع.
