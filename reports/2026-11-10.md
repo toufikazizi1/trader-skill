@@ -2,29 +2,30 @@
 
 ## الملخص
 
-- **السعر:** 4,115.1$ (+0.06% عن الإغلاق السابق)
+- **السعر:** 4,117.0$ (-0.02% عن الإغلاق السابق)
 - **الحكم الحالي:** حياد / انتظار. الاتجاه هابط، والبنية: قمم وقيعان أدنى (هابط).
 - **موقع السعر:** منتصف منطقة القيمة.
-- **أقرب دعم / مقاومة:** 4085.6$ / 4232.9$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4232.9 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 4099.7$؛ هدف 1:2 عند 4499.4$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 4085.6 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4218.8$؛ هدف 1:2 عند 3819.1$.
+- **أقرب دعم / مقاومة:** 4090.7$ / 4238.0$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4238.0 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 4105.1$؛ هدف 1:2 عند 4503.7$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 4090.7 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4223.6$؛ هدف 1:2 عند 3825.0$.
 - **تنبيه:** السعر في منتصف القيمة، ولا دخول من هناك. الأفضل الانتظار.
-- **أحدث خبر:** [سعر الذهب في البحرين اليوم الثلاثاء 10 نوفمبر 2026م](https://news.google.com/rss/articles/CBMi1gJBVV95cUxNTHRKMXRNMjJtRS1hanVnaUpETVIyY1JKbURyNWNtTnBaYk12eFFRMG51T3B1eV9LSGFlczQ0S2k4eUt3aTh0Nlg2N3RNNXhiZXFHQWdXc0ZjcWlpblg3MXlnV3lfTFJoOVA2OWRaUHBDbVJmcmFvTG5PMkhFQXRfX1MtVmNxWnNvcmotZ1VieXVqTXM0dlM0TVg3Z0hrY3luRnM2ZExYOUJGdlJPc0xhUXo3V0ZmcGVELW5mWURHVk42MUVBbkZIRmFhRkQtYVplcEVwQXFCRmlLa1ZSM3E3MFdkZm5HbnRzMHVkd1R1aDZJVG1DUzRueDNNU2htLV9IM3pVRlRPTmJYQ2FrZUpGWXgwcTFfMmtPNlZycjhLb3ZFbFNLNHA4cll3aXI0dVlidXh2eVBlREYzSzJXcDYyMi1KMXJva0xyZ0U2WnhwRkhSUUtmb2fSAdYCQVVfeXFMTUx0SjF0TTIybUUtYWp1Z2lKRE1SMmNSSm1EcjVjbU5wWmJNdnhRUTBudU9wdXlfS0hhZXM0NEtpOHlLd2k4dDZYNjd0TTV4YmVxR0FnV3NGY3FpaW5YNzF5Z1d5X0xSaDlQNjlkWlBwQ21SZnJhb0xuTzJIRUF0X19TLVZjcVpzb3JqLWdVYnl1ak1zNHZTNE1YN2dIa2N5bkZzNmRMWDlCRnZST3NMYVF6N1dGZnBlRC1uZllER1ZONjFFQW5GSEZhYUZELWFaZXBFcEFxQkZpS2tWUjNxNzBXZGZuR250czB1ZHdUdWg2SVRtQ1M0bngzTVNobS1fSDN6VUZUT05iWENha2VKRll4MHExXzJrTzZWcnI4S292RWxTSzRwOHJZd2lyNHVZYnV4dnlQZURGM0syV3A2MjItSjFyb2tMcmdFNlp4cEZIUlFLZm9n?oc=5)
-- **خبر:** [أسعار الذهب العالمية تستقر بعد ارتفاع 5% الأسبوع الماضي، وهذا هو السبب](https://news.google.com/rss/articles/CBMipwRBVV95cUxQbzViR29MbE02SFM3aFJmNzBoc2JZZkJfQVRPT3JSazBsN1F2dEljVEhhNllKYXlEdE8zWEExSk1COFppcnVjNGlCZGlVWm1aLU4wakdGU1FQSUlrUFFpbm5uck85UjZWSHlIZloxSFZMVUdBWXFESkFzOEE1QlpPWFBDMU40dmJ4Y2xsSUNhQTNKSmFLUVB5dE4tUXNodGtkYUlWOUF0QXQ1M0Nsclg1Yk1Ec2dQR1puS2R2SWpYd1MxU19IeUR4NmloOGt3clphM2l6QXNlLWZ1azN2OVA4LWlmcVBic1pHMnNRRnRySnpYWGtlamNaWGdDRXg0MlB1ZTdnSW5vNHdEcEM5QjkxbHRjUnJwMEM3QWcyVklQc09HTk5Tb0gwaUhNeUtHLWtod1VtODZwbGNGVnBlWDlGbTBsNFAycUtQWTk2azBjb1ZFMGJnaHdEZ2xxRmwyang5WVljMkQ0UHVqU25yY1dLTU5waV9uRWFzdV9UOTJmQzNQTHZ1Ny1ESmRRT0IwQjZlV21QS0xJRmpwRnZnU3RaLWk2aHY0dm03cUF4dkp4MjlJelNIVGpPX0w1aF9HR2pSaHlrVWVwaGdLc3o3TGQ2Nno1R1ZHWlJFNFRhS2VDb3N1eExER25RMWxaQ1UtMHI2STNfaVhiMmtSNnBGRmVpelQ0b2VzZzlsQVRZRHIyWFE4YTdKQjVDc3FQNUxUb2U1cktmNUZDRQ?oc=5)
-- **خبر:** [Gold Price Analysis Today / Forex Gold Analysis / XAU/USD Analysis - November 10, 2026](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWxiLXliekFwX0JwaDl5WkRMWkp5cjJ5bzY4Z01Xc3JkRWlXR29La1Y0OGlUZk9ZUW1FTUtaSDg1SnpLOTRfTnlNanhHYU1oR1dRQWpTcVJFQ2UtX01EZFl3Qmx0M1VkS2hZbmQ3amNLYzY1QlNBVURDSHZnbGtfWHhWYVJ5Q3U2ZXFxNmU0NVp2N01CNUlBWDNGNA?oc=5)
+- **تنبيه اقتراب:** السعر قرب الدعم 4090.7$. راقب الإغلاق اليومي ثم إعادة الاختبار، ولا دخول قبلهما.
+- **أحدث خبر:** [Gold Price Forecast: US Inflation Expected to Slow, October CPI May Support Gold Breaking Above $4,200](https://news.google.com/rss/articles/CBMizgFBVV95cUxNWUdLdzlwUDlOQWlSQjN4VXdzNUtPWjdrLURkdkRIajhiYkltWUZJc0hDNk1zSms2RXVaczctckVGVzhYcmRHcGxkS2ZOWFZyTEd3aHpsV0ZhTGxSTGdNdjlENDN6QjdMT2pna0pWSVQxc2xmd2p6ZGtQbzdEeHhQcWxxTmNlVzRhemRULVBrMWJMMWdRZmx5QlNPX2t2WU9va3pEcnFlYzB2OXlLTExtSVBkd3JSYUJvdTFvZWVBZUlhTzgxVFl0Y2p5ajdOUQ?oc=5)
+- **خبر:** [أسعار الذهب اليوم، 10 نوفمبر: ارتفعت أسعار الذهب العالمية بمقدار 57 دولارًا، في انتظار بيانات التضخم الأمريكية.](https://news.google.com/rss/articles/CBMimgFBVV95cUxOWVhqbXY0RF9qV2V2MFhCOUdFYXBkbkQzSGlQOTF5Z1QzS0U4RzMtUm9NRFB0Z0JhZ0JteXQzMXd4NkxtTTFnYjJlSXY5X29QcjVKY3VldUVzLUNTbi1uQ3lsWTc4X1h6SmZoMkxGUkRUNUNvQVhFMzA4cG41T3cyQmF0MDZsMm5kV3lHRWhsalNGUXkyal9NTS13?oc=5)
+- **خبر:** [سعر الذهب في البحرين اليوم الثلاثاء 10 نوفمبر 2026م](https://news.google.com/rss/articles/CBMi1gJBVV95cUxNTHRKMXRNMjJtRS1hanVnaUpETVIyY1JKbURyNWNtTnBaYk12eFFRMG51T3B1eV9LSGFlczQ0S2k4eUt3aTh0Nlg2N3RNNXhiZXFHQWdXc0ZjcWlpblg3MXlnV3lfTFJoOVA2OWRaUHBDbVJmcmFvTG5PMkhFQXRfX1MtVmNxWnNvcmotZ1VieXVqTXM0dlM0TVg3Z0hrY3luRnM2ZExYOUJGdlJPc0xhUXo3V0ZmcGVELW5mWURHVk42MUVBbkZIRmFhRkQtYVplcEVwQXFCRmlLa1ZSM3E3MFdkZm5HbnRzMHVkd1R1aDZJVG1DUzRueDNNU2htLV9IM3pVRlRPTmJYQ2FrZUpGWXgwcTFfMmtPNlZycjhLb3ZFbFNLNHA4cll3aXI0dVlidXh2eVBlREYzSzJXcDYyMi1KMXJva0xyZ0U2WnhwRkhSUUtmb2fSAdYCQVVfeXFMTUx0SjF0TTIybUUtYWp1Z2lKRE1SMmNSSm1EcjVjbU5wWmJNdnhRUTBudU9wdXlfS0hhZXM0NEtpOHlLd2k4dDZYNjd0TTV4YmVxR0FnV3NGY3FpaW5YNzF5Z1d5X0xSaDlQNjlkWlBwQ21SZnJhb0xuTzJIRUF0X19TLVZjcVpzb3JqLWdVYnl1ak1zNHZTNE1YN2dIa2N5bkZzNmRMWDlCRnZST3NMYVF6N1dGZnBlRC1uZllER1ZONjFFQW5GSEZhYUZELWFaZXBFcEFxQkZpS2tWUjNxNzBXZGZuR250czB1ZHdUdWg2SVRtQ1M0bngzTVNobS1fSDN6VUZUT05iWENha2VKRll4MHExXzJrTzZWcnI4S292RWxTSzRwOHJZd2lyNHVZYnV4dnlQZURGM0syV3A2MjItSjFyb2tMcmdFNlp4cEZIUlFLZm9n?oc=5)
 
 ## التحليل
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -9.4$ |
-| الاتجاه (EMA 20 و 50) | هابط (4079.7 / 4165.2) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -4.3$ |
+| الاتجاه (EMA 20 و 50) | هابط (4081.1 / 4172.4) |
 | بنية السوق | قمم وقيعان أدنى (هابط) |
-| كفاءة الحركة (20 يوم) | 0.06 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
-| المدى اليومي المتوسط (ATR 14) | 88.8$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4745.6$ / 3869.9$ |
-| مركز الحجم POC | 4165.4$ |
-| منطقة القيمة VAL إلى VAH | 3891.8$ إلى 4417.2$ |
+| كفاءة الحركة (20 يوم) | 0.08 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
+| المدى اليومي المتوسط (ATR 14) | 88.6$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4750.7$ / 3875.0$ |
+| مركز الحجم POC | 4170.5$ |
+| منطقة القيمة VAL إلى VAH | 3896.9$ إلى 4422.3$ |
 
 ## سيناريوهات للدراسة
 
@@ -32,11 +33,12 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4232.9 ثم إعادة اختبار تثبت فوقه | 4099.7$ | 4499.4$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 4085.6 ثم إعادة اختبار يفشل في العودة | 4218.8$ | 3819.1$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4238.0 ثم إعادة اختبار تثبت فوقه | 4105.1$ | 4503.7$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 4090.7 ثم إعادة اختبار يفشل في العودة | 4223.6$ | 3825.0$ |
 
 ## أخبار الذهب بالعربية
 
+- [أسعار الذهب اليوم، 10 نوفمبر: ارتفعت أسعار الذهب العالمية بمقدار 57 دولارًا، في انتظار بيانات التضخم الأمريكية.](https://news.google.com/rss/articles/CBMimgFBVV95cUxOWVhqbXY0RF9qV2V2MFhCOUdFYXBkbkQzSGlQOTF5Z1QzS0U4RzMtUm9NRFB0Z0JhZ0JteXQzMXd4NkxtTTFnYjJlSXY5X29QcjVKY3VldUVzLUNTbi1uQ3lsWTc4X1h6SmZoMkxGUkRUNUNvQVhFMzA4cG41T3cyQmF0MDZsMm5kV3lHRWhsalNGUXkyal9NTS13?oc=5) · Vietnam.vn 11-10 03:04 UTC
 - [سعر الذهب في البحرين اليوم الثلاثاء 10 نوفمبر 2026م](https://news.google.com/rss/articles/CBMi1gJBVV95cUxNTHRKMXRNMjJtRS1hanVnaUpETVIyY1JKbURyNWNtTnBaYk12eFFRMG51T3B1eV9LSGFlczQ0S2k4eUt3aTh0Nlg2N3RNNXhiZXFHQWdXc0ZjcWlpblg3MXlnV3lfTFJoOVA2OWRaUHBDbVJmcmFvTG5PMkhFQXRfX1MtVmNxWnNvcmotZ1VieXVqTXM0dlM0TVg3Z0hrY3luRnM2ZExYOUJGdlJPc0xhUXo3V0ZmcGVELW5mWURHVk42MUVBbkZIRmFhRkQtYVplcEVwQXFCRmlLa1ZSM3E3MFdkZm5HbnRzMHVkd1R1aDZJVG1DUzRueDNNU2htLV9IM3pVRlRPTmJYQ2FrZUpGWXgwcTFfMmtPNlZycjhLb3ZFbFNLNHA4cll3aXI0dVlidXh2eVBlREYzSzJXcDYyMi1KMXJva0xyZ0U2WnhwRkhSUUtmb2fSAdYCQVVfeXFMTUx0SjF0TTIybUUtYWp1Z2lKRE1SMmNSSm1EcjVjbU5wWmJNdnhRUTBudU9wdXlfS0hhZXM0NEtpOHlLd2k4dDZYNjd0TTV4YmVxR0FnV3NGY3FpaW5YNzF5Z1d5X0xSaDlQNjlkWlBwQ21SZnJhb0xuTzJIRUF0X19TLVZjcVpzb3JqLWdVYnl1ak1zNHZTNE1YN2dIa2N5bkZzNmRMWDlCRnZST3NMYVF6N1dGZnBlRC1uZllER1ZONjFFQW5GSEZhYUZELWFaZXBFcEFxQkZpS2tWUjNxNzBXZGZuR250czB1ZHdUdWg2SVRtQ1M0bngzTVNobS1fSDN6VUZUT05iWENha2VKRll4MHExXzJrTzZWcnI4S292RWxTSzRwOHJZd2lyNHVZYnV4dnlQZURGM0syV3A2MjItSjFyb2tMcmdFNlp4cEZIUlFLZm9n?oc=5) · صوت الدعاة 11-10 03:02 UTC
 - [أسعار الذهب العالمية تستقر بعد ارتفاع 5% الأسبوع الماضي، وهذا هو السبب](https://news.google.com/rss/articles/CBMipwRBVV95cUxQbzViR29MbE02SFM3aFJmNzBoc2JZZkJfQVRPT3JSazBsN1F2dEljVEhhNllKYXlEdE8zWEExSk1COFppcnVjNGlCZGlVWm1aLU4wakdGU1FQSUlrUFFpbm5uck85UjZWSHlIZloxSFZMVUdBWXFESkFzOEE1QlpPWFBDMU40dmJ4Y2xsSUNhQTNKSmFLUVB5dE4tUXNodGtkYUlWOUF0QXQ1M0Nsclg1Yk1Ec2dQR1puS2R2SWpYd1MxU19IeUR4NmloOGt3clphM2l6QXNlLWZ1azN2OVA4LWlmcVBic1pHMnNRRnRySnpYWGtlamNaWGdDRXg0MlB1ZTdnSW5vNHdEcEM5QjkxbHRjUnJwMEM3QWcyVklQc09HTk5Tb0gwaUhNeUtHLWtod1VtODZwbGNGVnBlWDlGbTBsNFAycUtQWTk2azBjb1ZFMGJnaHdEZ2xxRmwyang5WVljMkQ0UHVqU25yY1dLTU5waV9uRWFzdV9UOTJmQzNQTHZ1Ny1ESmRRT0IwQjZlV21QS0xJRmpwRnZnU3RaLWk2aHY0dm03cUF4dkp4MjlJelNIVGpPX0w1aF9HR2pSaHlrVWVwaGdLc3o3TGQ2Nno1R1ZHWlJFNFRhS2VDb3N1eExER25RMWxaQ1UtMHI2STNfaVhiMmtSNnBGRmVpelQ0b2VzZzlsQVRZRHIyWFE4YTdKQjVDc3FQNUxUb2U1cktmNUZDRQ?oc=5) · IDNFinancials 11-10 02:40 UTC
 - [أسعار الذهب العالمية ترتفع بينما أسعار النفط تنخفض بشكل حاد.](https://news.google.com/rss/articles/CBMieEFVX3lxTE9kODdFOEJST3NLY1hPR3k3Umw4Q0duLVlDSXZld19CNm0xNTdhRm50R1ZLSVVyajVmSXJvQWtqUnJiY1U4Q3d3QWZXRzJfWTl1WWI3NVQza0dKN3FwVlJHc3RLTXBqbElHcU5RRndaZTFNOTNlcTk1aw?oc=5) · Vietnam.vn 11-10 01:26 UTC
@@ -48,10 +50,10 @@
 - [سعر الذهب اليوم الثلاثاء 10-11-2026 بعد الارتفاع](https://news.google.com/rss/articles/CBMiREFVX3lxTE80Q0N5N1FnZHJ4VjR0NmZ1M0JDWUF2emdNMmV5UTZiZ0owRjNKNGY2cEN0QkxXdVRRdGpCNHlkR3ZKVGkx?oc=5) · صورة لايف 11-09 22:14 UTC
 - [توقعات سعر الذهب لأعوام 2026، 2027، 2028–2030 وما بعدها](https://news.google.com/rss/articles/CBMiekFVX3lxTE5QSmFCVm5TVHdqbVZQVEJ2R2ZQdGo4dFQzT094VTFZRFhhQmxUb1FfM0Noc1A4QXpNZkpQdlRvNFRSVGpfeFNpQVBjUndubnplejdGZWVFajFXZEp6c1IxQ19KSHo5eGNNRTR5NHJUbUd4U1IzcXVxYmtn?oc=5) · LiteFinance 11-09 21:38 UTC
 - [67 دولارًا زيادة في الأوقية.. الذهب العالمي يقفز فوق 4130 دولارًا](https://news.google.com/rss/articles/CBMiREFVX3lxTE5NMU9xTWoxRm9sU1cxYjJsYWJabWIyUU13ZFBuSEM3Sy0wMGRNdmp2VmJMZHdTaTdzMTBQVjZrYUJuamY4?oc=5) · جريدة الدستور 11-09 20:46 UTC
-- [أسعار الذهب تتجاوز 4126 دولاراً مع هبوط النفط والدولار](https://news.google.com/rss/articles/CBMiqwNBVV95cUxQd2Z4d3REekVfMnIxYXdXZUpkb3lIeGEtUFZITGRPalRiTldyXzJTaWlaM0hpZy1ydHB0VjZrdUl1Zmt5dEM5LTFlclhmSUk5cUQyMHpkcHFISFdra3ZSbnNwMnFIQ2hxSlJNWEktQUZqbGt2TVI3N1AwcE5XZmx3QWVVdG9qWHpPMWMzSnFwVGtPajVtNFNFak9WaC13RVBaa0JzT0taNFpIQnMxblNQbTh6TlF2UWp3Q0luN3oxcklGNVZ6S1RSWHBtSndxZnhXUHpoVFM2QUZub0t4RFNaR3FXTzZBOFB5ZTNlaThtY1NZMXZ0cFdRbTg3VHg5X3ktTHBMalZ6SEUzVTRldFNPVkdIaktxZV9Qb3hmUnFqNmNBa1ZkMnJqeGs5T0FkeTFqYmJEZ0dhT3JNQUZGaVpKRXlfVjA4YndzUzlsR3huQnBLaENyUUs2N3hoUGtxTVBCcm5CQVdNMFFBeDNwOVdiZWxmMTJ2bWNLRHp0U3ZUd0M0LUVXWmtGMmtSb0pBRHFIT0JpMWdBNDdqem1Hc24ySHA2UFRFaFlKbmln?oc=5) · معلومات مباشر 11-09 18:20 UTC
 
 ## أخبار الذهب بالإنجليزية
 
+- [Gold Price Forecast: US Inflation Expected to Slow, October CPI May Support Gold Breaking Above $4,200](https://news.google.com/rss/articles/CBMizgFBVV95cUxNWUdLdzlwUDlOQWlSQjN4VXdzNUtPWjdrLURkdkRIajhiYkltWUZJc0hDNk1zSms2RXVaczctckVGVzhYcmRHcGxkS2ZOWFZyTEd3aHpsV0ZhTGxSTGdNdjlENDN6QjdMT2pna0pWSVQxc2xmd2p6ZGtQbzdEeHhQcWxxTmNlVzRhemRULVBrMWJMMWdRZmx5QlNPX2t2WU9va3pEcnFlYzB2OXlLTExtSVBkd3JSYUJvdTFvZWVBZUlhTzgxVFl0Y2p5ajdOUQ?oc=5) · TradingKey 11-10 03:54 UTC
 - [Gold Price Analysis Today / Forex Gold Analysis / XAU/USD Analysis - November 10, 2026](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWxiLXliekFwX0JwaDl5WkRMWkp5cjJ5bzY4Z01Xc3JkRWlXR29La1Y0OGlUZk9ZUW1FTUtaSDg1SnpLOTRfTnlNanhHYU1oR1dRQWpTcVJFQ2UtX01EZFl3Qmx0M1VkS2hZbmQ3amNLYzY1QlNBVURDSHZnbGtfWHhWYVJ5Q3U2ZXFxNmU0NVp2N01CNUlBWDNGNA?oc=5) · Mitrade 11-10 02:15 UTC
 - [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Gains Ground As Oil Tests New Lows](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEFWXy1YUmhXdFVsT21Rc3JWUmJTTXJacG1ycU1PVUkyRUFlSFUyTHUtZm1fSmt6Uk1SdTY2dzYyYWg2TkVRYWJBM25RakxUdkNIVXl6VkszaHQ4SDV4eVNqNVdGZ2tqamttbWJOeG5zbE1MRmtJc2VmYTNQU1hDMmEwZEpOcmRwYnVKdjFBTFNsVzg3ckYxMlVUUFVzcHNnSm16WHZLZk0xaUNTMlpfVzBpU2dZWEFvTmxxYXEzUi11aURONU5j?oc=5) · FXEmpire 11-10 02:05 UTC
 - [Gold Futures Streaming Chart](https://news.google.com/rss/articles/CBMiakFVX3lxTE1aeTFoLWFsUHNUX24yTVZlQm03eU5lbWJIM3VwX3hnY0JkZW9mWXB2Z2ROaEkyazZrSEI5UGlDM2p3MEE2R2pDeEYtM0liVkNRN1ZJdHZ5SWs0R3BhNnpsX1A2TlpybEdRbUE?oc=5) · Investing.com 11-10 01:57 UTC
@@ -63,7 +65,6 @@
 - [Gold Climbs as Central Banks Absorb the Blow From a Hawkish Fed](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYmlodk1wZE5vLVQ5aEZsOXRmWjdjSUhuYlhhTGZ0V3FUSkNSY3RLaUFtSXZmWXc3dGJLeGVaYldNcDRBcGd0LURqRzRVQVpVRWFvWUV3WnZ4NlJKNkZQUE9lMlJSM2FabTJGVnc1UXZnVVFJTEkxSHhXcTQ4MFB5cGhTU0x6N3VMOU5QeGJYeWFWWnVBSGF6LTNZUHRQcTlxYXcydXQ0Slc3V1g2UlpCYzNKVXhrZDg2TTFwUi1Ca093emx5YVZnOEV4TGd1b3cy?oc=5) · ad-hoc-news.de 11-09 19:02 UTC
 - [GBP/USD, XAU/USD Weekly Technical Outlook](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVlhQ3JwRlhXYktmZmM4UFJ1ZE54OG1LSUNnT1hOcWxKZ2RQSW9MdW4xTjRlVEhBNTVZNTE5Y2k4VG5OTE1RWXR6NEdoX19GNDItUHBsdUYtSHJQS2NyRG0zd21tZXF4d3M5T0dkc0xZZFVnakJibTlPUTFSb2JidVZnLXMxMHJaUzBXSU9wRU5pQQ?oc=5) · StoneX 11-09 18:44 UTC
 - [Gold Price Forecast: XAU/USD 17% Plunge Threatens Multi-Year Uptrend](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVc5VDAwZFdVZk0xR0l0MDcxSzl2OEtTQmcwMm5HVGptNi1RbU81RWdqclBpbHVzYi00c2J0bzE3dUUxeDNSRHlyRmRPMWdhQlFWUjNpNHhWNkdYVm83OTl6Q0tOR0QxQkVwNjY5OVZ1UzdjXzh4aGg5RFNtbHlZOGlPTzA4OVRSZ0hMWm5KemxDV296SUtZeTYwazJaUTJMUEpVSy1SN05xWnN0elM1YXBtMGhSNFYz?oc=5) · StoneX 11-09 17:54 UTC
-- [$4,100 area: Gold price forecast as XAU/USD maintains gains while risk appetite weighs on USD](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRXdPSjVrdjZxTnRjaVBOVUcyS0s5MVFaN1lPdzNoMVJFcUNCRTlEZEE4TjhXSGtWQmRCUkI4WFNCWkNuMVZGcU56cGlERWhoTjh6djdyT0JuZUs0SGRjUEJMa0pmaXhQdjR5RF9QempDWG5RZGg5dzB0WGhHRXF0ZDcyV1JFd2wtcTlZeWZuZUNmQjVIdHMtUGFrMmdXTDRRdUhpcFJ5X2JlblRhX3FySHVhVFpUMGJ6Y2NsVjNWTXBOdDg1UElQR1lUVzhBQ0RvU1p5MFlrTC11elNxczFRSw?oc=5) · www.tmgm.com 11-09 17:10 UTC
 
 ## ملاحظات وأخطاء
 
