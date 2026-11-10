@@ -2,30 +2,29 @@
 
 ## الملخص
 
-- **السعر:** 4,112.1$ (-0.05% عن الإغلاق السابق)
+- **السعر:** 4,123.6$ (+0.04% عن الإغلاق السابق)
 - **الحكم الحالي:** حياد / انتظار. الاتجاه هابط، والبنية: قمم وقيعان أدنى (هابط).
 - **موقع السعر:** منتصف منطقة القيمة.
-- **أقرب دعم / مقاومة:** 4087.2$ / 4234.5$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4234.5 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 4101.3$؛ هدف 1:2 عند 4501.0$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 4087.2 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4220.4$؛ هدف 1:2 عند 3820.7$.
+- **أقرب دعم / مقاومة:** 4095.0$ / 4242.3$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4242.3 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 4109.1$؛ هدف 1:2 عند 4508.8$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 4095.0 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4228.2$؛ هدف 1:2 عند 3828.5$.
 - **تنبيه:** السعر في منتصف القيمة، ولا دخول من هناك. الأفضل الانتظار.
-- **تنبيه اقتراب:** السعر قرب الدعم 4087.2$. راقب الإغلاق اليومي ثم إعادة الاختبار، ولا دخول قبلهما.
 - **أحدث خبر:** [أسعار الذهب العالمية تستقر بعد ارتفاع 5% الأسبوع الماضي، وهذا هو السبب](https://news.google.com/rss/articles/CBMipwRBVV95cUxQbzViR29MbE02SFM3aFJmNzBoc2JZZkJfQVRPT3JSazBsN1F2dEljVEhhNllKYXlEdE8zWEExSk1COFppcnVjNGlCZGlVWm1aLU4wakdGU1FQSUlrUFFpbm5uck85UjZWSHlIZloxSFZMVUdBWXFESkFzOEE1QlpPWFBDMU40dmJ4Y2xsSUNhQTNKSmFLUVB5dE4tUXNodGtkYUlWOUF0QXQ1M0Nsclg1Yk1Ec2dQR1puS2R2SWpYd1MxU19IeUR4NmloOGt3clphM2l6QXNlLWZ1azN2OVA4LWlmcVBic1pHMnNRRnRySnpYWGtlamNaWGdDRXg0MlB1ZTdnSW5vNHdEcEM5QjkxbHRjUnJwMEM3QWcyVklQc09HTk5Tb0gwaUhNeUtHLWtod1VtODZwbGNGVnBlWDlGbTBsNFAycUtQWTk2azBjb1ZFMGJnaHdEZ2xxRmwyang5WVljMkQ0UHVqU25yY1dLTU5waV9uRWFzdV9UOTJmQzNQTHZ1Ny1ESmRRT0IwQjZlV21QS0xJRmpwRnZnU3RaLWk2aHY0dm03cUF4dkp4MjlJelNIVGpPX0w1aF9HR2pSaHlrVWVwaGdLc3o3TGQ2Nno1R1ZHWlJFNFRhS2VDb3N1eExER25RMWxaQ1UtMHI2STNfaVhiMmtSNnBGRmVpelQ0b2VzZzlsQVRZRHIyWFE4YTdKQjVDc3FQNUxUb2U1cktmNUZDRQ?oc=5)
+- **خبر:** [Gold Price Analysis Today / Forex Gold Analysis / XAU/USD Analysis - November 10, 2026](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWxiLXliekFwX0JwaDl5WkRMWkp5cjJ5bzY4Z01Xc3JkRWlXR29La1Y0OGlUZk9ZUW1FTUtaSDg1SnpLOTRfTnlNanhHYU1oR1dRQWpTcVJFQ2UtX01EZFl3Qmx0M1VkS2hZbmQ3amNLYzY1QlNBVURDSHZnbGtfWHhWYVJ5Q3U2ZXFxNmU0NVp2N01CNUlBWDNGNA?oc=5)
 - **خبر:** [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Gains Ground As Oil Tests New Lows](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEFWXy1YUmhXdFVsT21Rc3JWUmJTTXJacG1ycU1PVUkyRUFlSFUyTHUtZm1fSmt6Uk1SdTY2dzYyYWg2TkVRYWJBM25RakxUdkNIVXl6VkszaHQ4SDV4eVNqNVdGZ2tqamttbWJOeG5zbE1MRmtJc2VmYTNQU1hDMmEwZEpOcmRwYnVKdjFBTFNsVzg3ckYxMlVUUFVzcHNnSm16WHZLZk0xaUNTMlpfVzBpU2dZWEFvTmxxYXEzUi11aURONU5j?oc=5)
-- **خبر:** [Gold Futures Streaming Chart](https://news.google.com/rss/articles/CBMiakFVX3lxTE1aeTFoLWFsUHNUX24yTVZlQm03eU5lbWJIM3VwX3hnY0JkZW9mWXB2Z2ROaEkyazZrSEI5UGlDM2p3MEE2R2pDeEYtM0liVkNRN1ZJdHZ5SWs0R3BhNnpsX1A2TlpybEdRbUE?oc=5)
 
 ## التحليل
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -7.8$ |
-| الاتجاه (EMA 20 و 50) | هابط (4080.9 / 4166.7) |
+| مصدر السعر | العقد الآجل GC=F (بديل) |
+| الاتجاه (EMA 20 و 50) | هابط (4089.0 / 4174.6) |
 | بنية السوق | قمم وقيعان أدنى (هابط) |
 | كفاءة الحركة (20 يوم) | 0.06 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 88.8$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4747.2$ / 3871.5$ |
-| مركز الحجم POC | 4167.0$ |
-| منطقة القيمة VAL إلى VAH | 3893.4$ إلى 4418.8$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4755.0$ / 3879.3$ |
+| مركز الحجم POC | 4174.8$ |
+| منطقة القيمة VAL إلى VAH | 3901.2$ إلى 4426.6$ |
 
 ## سيناريوهات للدراسة
 
@@ -33,8 +32,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4234.5 ثم إعادة اختبار تثبت فوقه | 4101.3$ | 4501.0$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 4087.2 ثم إعادة اختبار يفشل في العودة | 4220.4$ | 3820.7$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4242.3 ثم إعادة اختبار تثبت فوقه | 4109.1$ | 4508.8$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 4095.0 ثم إعادة اختبار يفشل في العودة | 4228.2$ | 3828.5$ |
 
 ## أخبار الذهب بالعربية
 
@@ -53,22 +52,22 @@
 
 ## أخبار الذهب بالإنجليزية
 
+- [Gold Price Analysis Today / Forex Gold Analysis / XAU/USD Analysis - November 10, 2026](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWxiLXliekFwX0JwaDl5WkRMWkp5cjJ5bzY4Z01Xc3JkRWlXR29La1Y0OGlUZk9ZUW1FTUtaSDg1SnpLOTRfTnlNanhHYU1oR1dRQWpTcVJFQ2UtX01EZFl3Qmx0M1VkS2hZbmQ3amNLYzY1QlNBVURDSHZnbGtfWHhWYVJ5Q3U2ZXFxNmU0NVp2N01CNUlBWDNGNA?oc=5) · Mitrade 11-10 02:15 UTC
 - [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Gains Ground As Oil Tests New Lows](https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEFWXy1YUmhXdFVsT21Rc3JWUmJTTXJacG1ycU1PVUkyRUFlSFUyTHUtZm1fSmt6Uk1SdTY2dzYyYWg2TkVRYWJBM25RakxUdkNIVXl6VkszaHQ4SDV4eVNqNVdGZ2tqamttbWJOeG5zbE1MRmtJc2VmYTNQU1hDMmEwZEpOcmRwYnVKdjFBTFNsVzg3ckYxMlVUUFVzcHNnSm16WHZLZk0xaUNTMlpfVzBpU2dZWEFvTmxxYXEzUi11aURONU5j?oc=5) · FXEmpire 11-10 02:05 UTC
 - [Gold Futures Streaming Chart](https://news.google.com/rss/articles/CBMiakFVX3lxTE1aeTFoLWFsUHNUX24yTVZlQm03eU5lbWJIM3VwX3hnY0JkZW9mWXB2Z2ROaEkyazZrSEI5UGlDM2p3MEE2R2pDeEYtM0liVkNRN1ZJdHZ5SWs0R3BhNnpsX1A2TlpybEdRbUE?oc=5) · Investing.com 11-10 01:57 UTC
+- [Gold Forecast: XAU/USD Holds Firm Ahead of U.S. CPI Data](https://news.google.com/rss/articles/CBMiowFBVV95cUxQVTBRTER0YTJqSE1kSDR2dTctNWZocDFBSXh4WGZWT3dBZ0lxZ2lEaWd5Nm8tVTU2SGY3STNZMVZUUEFuR19vVjRicHlvX2JGWVRSTkEzd2V4aTdwWlN4MUo1MjJSRWpLdEVWcXhQMi1aOUlHVGJRRER4d3V4eXU1cEQ3VkRkV1BReHBuTUhlQkl6VjljQ2tSS1J0QThMUjRMaTlR?oc=5) · FOREX.com 11-10 01:46 UTC
 - [Gold dips ahead of US inflation data](https://news.google.com/rss/articles/CBMitgFBVV95cUxPMmlTaTJxS1UxVXRUaFBtbXhiNGZHXzc0WEN2dXJreDVBNldnbkx4OFhxVEh5V2RGelVKSW1DNmlZLXIzX1VpaGVaS1VHZnpsTTN3Z3R4NER4cFpYaERXSU1wY1NtWXpOUmZIYVR3N2EweHFlRlFTMFFqeHNwUnFScEF6NndtN3hOeEszYVdIdnlvU09tc09vVDhOZWp2bWxnMjhfdTZwX0xGdFVaX3JxaGhiSWlEZ9IBuwFBVV95cUxNTkE5bDN6WUZYcV9YdTVGb1FRNEE1Q3RuWGxxN1lZd0NROThJNTU0cGxoc3NvTUhMQmVfcEc0cFB0SmM4ejhjamY0alpMWDBPNUdlTFY5YVVCbWdHTmNIQ1VGdThiU2xlM0NEclRtVnEySUdnZ2QyYndQcmVIMjlnZmVNb3JBdlBCZGdTb0czZTNaNld5S0NoVmRSSzluT3gtaVZuMEc5a0RaSXJuODVZZjM1TUNHN0tKY3RV?oc=5) · The Economic Times 11-10 00:56 UTC
 - [Gold Price Today, November 10: Yellow metal slips but holds above $4,100 as US dollar strengthens; Fed rate hike bets weigh](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcVd4VDlGOWNSbXNYMzNHT0p4Y0tLVmZWMGs5NU9XZnFYeFh3RGsteU5adkNoc1dmWFo2VU0yWGdRQjJIT3F1QUxKbzNCZGh2LWdZQVJrY1hXRGlaRkcxWjlTNjRJdHFndnFtb0pwcEY3U1d3SVNkcHRtMUlZYUNyRDU4V1ExeXJXazlURmJFdW5sdS1jcHB3NU1fNFh0QmVkckNoMnI3N2ctLU1IUUNwQmlmN0tCZzZ6T05qM2l4T2sxeEx6Wnk1RGdHOEtobE1WYnJqZjlZUURuNDE3cVF4N0ZCYWNkZEZuczh6RnRncV9PSndhRTRNN1V0b3RFZVnSAYQCQVVfeXFMT3c1QUQwaEV3WHQ5ejFMNWJ0cm9kN2dyZHI3T3VzcDY1ZEpFcmUtZUJ3NzlQb0g5b1RpVDJzZ0NydHBidVVHYm9jX1NyNTlDQjE2UHgyT2I5OXBjR1hMeXpSeTJxa2tBbUVtRTV3bEhqS01KUTJlMFp4LUJNclEtSnM1cGxLZVd1SGpZYW1UaEx2YjZxVkNCaUpRRnJJRVFiM2g3OTVvWGtvTkhFU1lmSFVwWF9QMXQyN2Y4clQyVVlhS3h3UzI0WXdhLUctdlVhcFVSU1hBV0xvLWdwM2pTTjVpa3FOaFp4Q25seWFmSll0TW5ZYUZmMzBTTGlfT05fWDFyQVM?oc=5) · ET Now 11-10 00:47 UTC
 - [Brent oil falls nearly 6% and gold jumps while two-year Treasury yields climb before CPI](https://news.google.com/rss/articles/CBMirAFBVV95cUxObktiaUc2RzhoenBFUFlFWWdnWDN4YVpEQXRvNmhibk1XYzlmZHNTM0tzMWhfdDJLX0hYZDhrZmVOVDB5WnloSWVSVWt0UkRMN3FCUk1ZaHE4Wk9xNzFuMTVmSHhVX0ZuVDBZYzM2SHF4MjdRR3NMYmxaeThCbWlNQTB1d3FKYnFEVnI2dUxKNTRmTTVsd3lfc1BZUFNnbXFIWU9XdFBBZGlxUE9r?oc=5) · MLQ.ai 11-09 23:17 UTC
 - [Gold, silver advance as dollar weakens, Fed rate expectations face inflation test - Kitco PM Report](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUlc5eDBpY1JadW5RdE9SaTdxSjZGY01md213N3VBLV9Najd0R2ljWFl1cG85RlNSaThWc1poa1VEclRUdnFKOUo3T0cyR0hYMVZrY180bFhvWW10X1pqRDMxeW8zMTFVZEN6ZVc5RHJoQlV1Z3VjWkdOU2cwRjRpT3UtQ0trNGxSRDZJcExveUZrbm1kU1RGcDc1TTRYRzJiWTRmZi1aTEd1R1NERmppcW5IMENuUVR1?oc=5) · Kitco 11-09 22:03 UTC
-- [Gold Forecast: XAU/USD Holds Firm Ahead of U.S. CPI Data](https://news.google.com/rss/articles/CBMiowFBVV95cUxNYnpqV0VBX25jZVdhREFlYWgyeTQ2UjI2b1h2MEtqRE1Ia180eUZoanN4am5qbWxPQmNuNWhBT0hWa1owTHRRU0VlajV6QWQxTkNzMV9xR0ZCY2FObUMta2ZPcHhqcGdaUmtpQ2lab0VScGE5aDBuczF1amU2TDBxZUxKcHJuYWc2d0g0RFMwN19Yb1kxRGhWc0xMcE1iZjBnVnRz0gGvAUFVX3lxTFBLaktXUVF2aElsQ0hDYWNmc0t2R2RtQm5kUGFGUUYxZlI4aEFtTWltcFZTQXh0U1M2NldZSV9yMV8yQzdPMzZnM0xSNm9IZ1h4NUpKRC1hUENhQWFEVmZvWjFVNE5BVTgwYkU1ZW03bGdreEZTRzUzLTMyVG1CaXlOZjl4RWVGWHNBTU0yQnRHc2wta0FabmFCaFFHSFluYWhQUlloX1gyWEFIb2JDYVk?oc=5) · FOREX.com 11-09 20:28 UTC
 - [Gold Climbs as Central Banks Absorb the Blow From a Hawkish Fed](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYmlodk1wZE5vLVQ5aEZsOXRmWjdjSUhuYlhhTGZ0V3FUSkNSY3RLaUFtSXZmWXc3dGJLeGVaYldNcDRBcGd0LURqRzRVQVpVRWFvWUV3WnZ4NlJKNkZQUE9lMlJSM2FabTJGVnc1UXZnVVFJTEkxSHhXcTQ4MFB5cGhTU0x6N3VMOU5QeGJYeWFWWnVBSGF6LTNZUHRQcTlxYXcydXQ0Slc3V1g2UlpCYzNKVXhrZDg2TTFwUi1Ca093emx5YVZnOEV4TGd1b3cy?oc=5) · ad-hoc-news.de 11-09 19:02 UTC
 - [GBP/USD, XAU/USD Weekly Technical Outlook](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVlhQ3JwRlhXYktmZmM4UFJ1ZE54OG1LSUNnT1hOcWxKZ2RQSW9MdW4xTjRlVEhBNTVZNTE5Y2k4VG5OTE1RWXR6NEdoX19GNDItUHBsdUYtSHJQS2NyRG0zd21tZXF4d3M5T0dkc0xZZFVnakJibTlPUTFSb2JidVZnLXMxMHJaUzBXSU9wRU5pQQ?oc=5) · StoneX 11-09 18:44 UTC
 - [Gold Price Forecast: XAU/USD 17% Plunge Threatens Multi-Year Uptrend](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVc5VDAwZFdVZk0xR0l0MDcxSzl2OEtTQmcwMm5HVGptNi1RbU81RWdqclBpbHVzYi00c2J0bzE3dUUxeDNSRHlyRmRPMWdhQlFWUjNpNHhWNkdYVm83OTl6Q0tOR0QxQkVwNjY5OVZ1UzdjXzh4aGg5RFNtbHlZOGlPTzA4OVRSZ0hMWm5KemxDV296SUtZeTYwazJaUTJMUEpVSy1SN05xWnN0elM1YXBtMGhSNFYz?oc=5) · StoneX 11-09 17:54 UTC
-- [$4,100 area: Gold price forecast as XAU/USD maintains gains while risk appetite weighs on USD](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRXdPSjVrdjZxTnRjaVBOVUcyS0s5MVFaN1lPdzNoMVJFcUNCRTlEZEE4TjhXSGtWQmRCUkI4WFNCWkNuMVZGcU56cGlERWhoTjh6djdyT0JuZUs0SGRjUEJMa0pmaXhQdjR5RF9QempDWG5RZGg5dzB0WGhHRXF0ZDcyV1JFd2wtcTlZeWZuZUNmQjVIdHMtUGFrMmdXTDRRdUhpcFJ5X2JlblRhX3FySHVhVFpUMGJ6Y2NsVjNWTXBOdDg1UElQR1lUVzhBQ0RvU1p5MFlrTC11elNxczFRSw?oc=5) · www.tmgm.com 11-09 17:10 UTC
 - [Gold forecast: Inflation data could determine metal’s next big move](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeXlyNEFhcTZFcmxDZ2lFcFBtT2lxcU9TbkNfcjB1ZHBvYmRwVXBvNkNWVy1fVGJMT0psQzFTdUpoSVlNSkpzVFZ6bExQRkFmSThST091c2EtWVlBbVo1c0xVNW5lcElFZjNab0pucUtQY3NqSDRQaFpjWU1kN0dsekd3bE80LTFSdEM5NVRWendfMlgyYVNtdklVYTZXYzkyM1lXTldFUXVZU0t0WUtUdldGdXhsTnRkcGYxLThLbEduc0U?oc=5) · StoneX 11-09 16:35 UTC
 
 ## ملاحظات وأخطاء
 
-- شموع الذهب الفوري غير متاحة، فالمستويات مأخوذة من العقد الآجل بعد إزاحتها (yahoo: query1.finance.yahoo.com أجاب HTTP 404؛ stooq: Stooq أعاد شكلاً غير متوقع)
+- السعر الفوري غير متاح، السعر من العقد الآجل وقد يفرق عن شارتك بعدة دولارات (gold-api: تعذّر الوصول إلى api.gold-api.com: [Errno -2] Name or service not known؛ stooq: stooq.com أجاب HTTP 404؛ yahoo: query1.finance.yahoo.com أجاب HTTP 404؛ stooq: Stooq أعاد شكلاً غير متوقع)
 
 ---
 > للدراسة والمعلومة فقط وليس نصيحة مالية ولا توصية بالشراء أو البيع. السعر هو الذهب الفوري XAUUSD عند توفره، وإلا العقد الآجل GC=F وقد يفرق عدة دولارات عن شارتك (انظر مصدر السعر في التحليل) والمستويات من شموع يومية فتتغير مرة في اليوم. هي تقديرات حسابية وقد تخطئ. لا يُنفَّذ أي أمر من هذا المشروع.
