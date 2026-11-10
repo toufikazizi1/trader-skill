@@ -2,29 +2,29 @@
 
 ## الملخص
 
-- **السعر:** 4,124.8$ (+0.20% عن الإغلاق السابق)
+- **السعر:** 4,125.5$ (+0.24% عن الإغلاق السابق)
 - **الحكم الحالي:** حياد / انتظار. الاتجاه هابط، والبنية: قمم وقيعان أدنى (هابط).
 - **موقع السعر:** منتصف منطقة القيمة.
-- **أقرب دعم / مقاومة:** 4089.4$ / 4236.7$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4236.7 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 4103.5$؛ هدف 1:2 عند 4503.2$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 4089.4 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4222.6$؛ هدف 1:2 عند 3822.9$.
+- **أقرب دعم / مقاومة:** 4088.8$ / 4236.1$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4236.1 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 4102.9$؛ هدف 1:2 عند 4502.6$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 4088.8 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4222.0$؛ هدف 1:2 عند 3822.3$.
 - **تنبيه:** السعر في منتصف القيمة، ولا دخول من هناك. الأفضل الانتظار.
-- **أحدث خبر:** [انخفض الذهب في المعاملات الفورية 0.6 بالمئة إلى 4115.12 دولارا للأوقية (الأونصة) بحلول الساعة 0238 بتوقيت غرينتش. وارتفعت العقود الأميركية الآجلة للذهب تسليم كانون الأول 0.2 بالمئة إلى 4123.90 دولارا. (copy)](https://news.google.com/rss/articles/CBMi0ARBVV95cUxPcVQ3VkVwYVFFaUNMUU8zOWY4SlhFWnlXa1NzMUFPTHgxbVBBVHpERTduMl9QMm43X2ZRSWVVc3IzbmlqaXJtRHJNUjZJTW8wRzhfLXJadXgxVWtKd1RTZFk0NnV5NDRxXzB4SURCOUFnR3ozc25jRGJQLWhtamQyUHpSTmw1YlItcGZkWW9HQldDTlNaUVpRZmlsQ1k4UmNpTkJKS1I5RmdRZlRrdktHRGFzdVZZaHdqTDJsOEFhSG1MVlY1aFVTNGtDdzBaLVVkcWxqNEE5RlNjODVZY1JlTko5OGZBNmZHYnNkTmZfVi1aZlJWZGpSQi1SckhSaHNTOXl1MWd4bUtFS29EN2lhRko5SlJ5ZEs3UGU2cURUMWxoazNUeUV5SVNRa2drcjNSNl9ZUndDOVVlSWFqZDcxR0JNRkJtelFmTlczOENuWEtrM0hhNmctd1BhZ1RqRldpanlRUVhSNE1iUFVBdjJqSE5ZdVVvcHh0T1Q4MWcxS0hpZE5pZFUzNXIweXFELVVGMWMwelgzQVZCTWk5N3BLM2RpNzdzN3FKSDVHNjdYWEtMUkFWaVFpTjc3bFBJcFg1RmpkVkpBRXZJNEtRb3ZTQ2J0Q3NaQlREOC1LX0ZUZXBjZVpfZWRycF9wT1AwaVhHa1FzMFhwSVl0SFpxMVpCUVNvS0ZJa1pVZTNrUERIblFyNHc1d0xUb29NYWxTM3UxVWFOOGJXQkVJcmFCNWNoMkxhWDU3WVFuUl9CalZqRlBPWnp3SkQtVVNmRlE2VzNU?oc=5)
+- **أحدث خبر:** [جون لوكا: الذهب يستهدف 6300 دولار للأوقية في 2027 بدعم من البنوك المركزية](https://news.google.com/rss/articles/CBMiU0FVX3lxTE85VE5VcGpmUVFMQTBYT1B4RFk5YVhBc1MzY2pSbDBreHdsV3BfMnZUUTMtOFN1VE9YMUNJd2F5dG1pOS1VMWhETjRGUk41ZUF6dDcw?oc=5)
+- **خبر:** [انخفض الذهب في المعاملات الفورية 0.6 بالمئة إلى 4115.12 دولارا للأوقية (الأونصة) بحلول الساعة 0238 بتوقيت غرينتش. وارتفعت العقود الأميركية الآجلة للذهب تسليم كانون الأول 0.2 بالمئة إلى 4123.90 دولارا. (copy)](https://news.google.com/rss/articles/CBMi0ARBVV95cUxPcVQ3VkVwYVFFaUNMUU8zOWY4SlhFWnlXa1NzMUFPTHgxbVBBVHpERTduMl9QMm43X2ZRSWVVc3IzbmlqaXJtRHJNUjZJTW8wRzhfLXJadXgxVWtKd1RTZFk0NnV5NDRxXzB4SURCOUFnR3ozc25jRGJQLWhtamQyUHpSTmw1YlItcGZkWW9HQldDTlNaUVpRZmlsQ1k4UmNpTkJKS1I5RmdRZlRrdktHRGFzdVZZaHdqTDJsOEFhSG1MVlY1aFVTNGtDdzBaLVVkcWxqNEE5RlNjODVZY1JlTko5OGZBNmZHYnNkTmZfVi1aZlJWZGpSQi1SckhSaHNTOXl1MWd4bUtFS29EN2lhRko5SlJ5ZEs3UGU2cURUMWxoazNUeUV5SVNRa2drcjNSNl9ZUndDOVVlSWFqZDcxR0JNRkJtelFmTlczOENuWEtrM0hhNmctd1BhZ1RqRldpanlRUVhSNE1iUFVBdjJqSE5ZdVVvcHh0T1Q4MWcxS0hpZE5pZFUzNXIweXFELVVGMWMwelgzQVZCTWk5N3BLM2RpNzdzN3FKSDVHNjdYWEtMUkFWaVFpTjc3bFBJcFg1RmpkVkpBRXZJNEtRb3ZTQ2J0Q3NaQlREOC1LX0ZUZXBjZVpfZWRycF9wT1AwaVhHa1FzMFhwSVl0SFpxMVpCUVNvS0ZJa1pVZTNrUERIblFyNHc1d0xUb29NYWxTM3UxVWFOOGJXQkVJcmFCNWNoMkxhWDU3WVFuUl9CalZqRlBPWnp3SkQtVVNmRlE2VzNU?oc=5)
 - **خبر:** [أسعار الذهب تتراجع عالميًا: 4115.12 دولار للأوقية](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mMmRIZlowcnlCUUNSODRRMTVfVk4ybXBxYXpUWkhIbUYwOG1XNXNWVkZGMk40Y044eVdIclA4LVNKWmY0WEo0RUxFTnJnTnc?oc=5)
-- **خبر:** [جون لوكا يتوقع ارتفاع سعر الذهب إلى 6300 دولار للأوقية بحلول 2027 بدعم من البنوك المركزية](https://news.google.com/rss/articles/CBMixwJBVV95cUxOYk1jOHF4Y1g5MEJuTzVDa01rN3NnemVQMTRERkUtM19PZzJtYXQ1czQyeVVjeUZnVEVNRHhsZnNxZzFiSEozWWptWkRLVkw4OHdIME95UjNyaFF5RGNkUGVJeWEyOWU4QVBVb3lSMVRTUFNhN3VhZFN5SUlUWGhKVHhkQVpoUHFjaFNXSVVIT01rOGxLdnBaVjZiR1B4UFZObnBqSExkd01sdTRzOVI4N2dfZkZfTjUtc1RoZ184M0NRUEtyMGpIbzFRbUVSa01kNXBqY1VpMDk3cDkxUXRjdFdVa25hNElWQjVacmhJOXdYZE4zRWVFNFBYbV9LUl9IQUs0N0Nab282UmZWb1BvMEdiTEpIb05KTmU2Wm5QN21CZ2xJNkdCOUhxVTVwM1Y0R1BBNnNPakNlYjh2NlhEbDlOcnB4TFk?oc=5)
 
 ## التحليل
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -5.6$ |
-| الاتجاه (EMA 20 و 50) | هابط (4084.1 / 4169.3) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -6.2$ |
+| الاتجاه (EMA 20 و 50) | هابط (4083.6 / 4168.7) |
 | بنية السوق | قمم وقيعان أدنى (هابط) |
 | كفاءة الحركة (20 يوم) | 0.05 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 88.8$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4749.4$ / 3873.7$ |
-| مركز الحجم POC | 4169.2$ |
-| منطقة القيمة VAL إلى VAH | 3895.6$ إلى 4421.0$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4748.8$ / 3873.1$ |
+| مركز الحجم POC | 4168.6$ |
+| منطقة القيمة VAL إلى VAH | 3895.0$ إلى 4420.4$ |
 
 ## سيناريوهات للدراسة
 
@@ -32,16 +32,16 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4236.7 ثم إعادة اختبار تثبت فوقه | 4103.5$ | 4503.2$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 4089.4 ثم إعادة اختبار يفشل في العودة | 4222.6$ | 3822.9$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4236.1 ثم إعادة اختبار تثبت فوقه | 4102.9$ | 4502.6$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 4088.8 ثم إعادة اختبار يفشل في العودة | 4222.0$ | 3822.3$ |
 
 ## أخبار الذهب بالعربية
 
+- [جون لوكا: الذهب يستهدف 6300 دولار للأوقية في 2027 بدعم من البنوك المركزية](https://news.google.com/rss/articles/CBMiU0FVX3lxTE85VE5VcGpmUVFMQTBYT1B4RFk5YVhBc1MzY2pSbDBreHdsV3BfMnZUUTMtOFN1VE9YMUNJd2F5dG1pOS1VMWhETjRGUk41ZUF6dDcw?oc=5) · شبكة تواصل الإخبارية 11-10 06:16 UTC
 - [انخفض الذهب في المعاملات الفورية 0.6 بالمئة إلى 4115.12 دولارا للأوقية (الأونصة) بحلول الساعة 0238 بتوقيت غرينتش. وارتفعت العقود الأميركية الآجلة للذهب تسليم كانون الأول 0.2 بالمئة إلى 4123.90 دولارا. (copy)](https://news.google.com/rss/articles/CBMi0ARBVV95cUxPcVQ3VkVwYVFFaUNMUU8zOWY4SlhFWnlXa1NzMUFPTHgxbVBBVHpERTduMl9QMm43X2ZRSWVVc3IzbmlqaXJtRHJNUjZJTW8wRzhfLXJadXgxVWtKd1RTZFk0NnV5NDRxXzB4SURCOUFnR3ozc25jRGJQLWhtamQyUHpSTmw1YlItcGZkWW9HQldDTlNaUVpRZmlsQ1k4UmNpTkJKS1I5RmdRZlRrdktHRGFzdVZZaHdqTDJsOEFhSG1MVlY1aFVTNGtDdzBaLVVkcWxqNEE5RlNjODVZY1JlTko5OGZBNmZHYnNkTmZfVi1aZlJWZGpSQi1SckhSaHNTOXl1MWd4bUtFS29EN2lhRko5SlJ5ZEs3UGU2cURUMWxoazNUeUV5SVNRa2drcjNSNl9ZUndDOVVlSWFqZDcxR0JNRkJtelFmTlczOENuWEtrM0hhNmctd1BhZ1RqRldpanlRUVhSNE1iUFVBdjJqSE5ZdVVvcHh0T1Q4MWcxS0hpZE5pZFUzNXIweXFELVVGMWMwelgzQVZCTWk5N3BLM2RpNzdzN3FKSDVHNjdYWEtMUkFWaVFpTjc3bFBJcFg1RmpkVkpBRXZJNEtRb3ZTQ2J0Q3NaQlREOC1LX0ZUZXBjZVpfZWRycF9wT1AwaVhHa1FzMFhwSVl0SFpxMVpCUVNvS0ZJa1pVZTNrUERIblFyNHc1d0xUb29NYWxTM3UxVWFOOGJXQkVJcmFCNWNoMkxhWDU3WVFuUl9CalZqRlBPWnp3SkQtVVNmRlE2VzNU?oc=5) · الديار 11-10 05:57 UTC
 - [أسعار الذهب تتراجع عالميًا: 4115.12 دولار للأوقية](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mMmRIZlowcnlCUUNSODRRMTVfVk4ybXBxYXpUWkhIbUYwOG1XNXNWVkZGMk40Y044eVdIclA4LVNKWmY0WEo0RUxFTnJnTnc?oc=5) · المشهد اليمني 11-10 05:48 UTC
 - [جون لوكا يتوقع ارتفاع سعر الذهب إلى 6300 دولار للأوقية بحلول 2027 بدعم من البنوك المركزية](https://news.google.com/rss/articles/CBMixwJBVV95cUxOYk1jOHF4Y1g5MEJuTzVDa01rN3NnemVQMTRERkUtM19PZzJtYXQ1czQyeVVjeUZnVEVNRHhsZnNxZzFiSEozWWptWkRLVkw4OHdIME95UjNyaFF5RGNkUGVJeWEyOWU4QVBVb3lSMVRTUFNhN3VhZFN5SUlUWGhKVHhkQVpoUHFjaFNXSVVIT01rOGxLdnBaVjZiR1B4UFZObnBqSExkd01sdTRzOVI4N2dfZkZfTjUtc1RoZ184M0NRUEtyMGpIbzFRbUVSa01kNXBqY1VpMDk3cDkxUXRjdFdVa25hNElWQjVacmhJOXdYZE4zRWVFNFBYbV9LUl9IQUs0N0Nab282UmZWb1BvMEdiTEpIb05KTmU2Wm5QN21CZ2xJNkdCOUhxVTVwM1Y0R1BBNnNPakNlYjh2NlhEbDlOcnB4TFk?oc=5) · جريدة آخر الأخبار 11-10 05:42 UTC
 - [الذهب يتراجع مع ترقب بيانات التضخم الأميركية](https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xbm5BTXlkdUtqV1lOemV1NEh3ckZmeGpZSHBVWUtxX2gybF9nanIydnRpWkc3RVBueGsxSmVKNWpVdkpMODFvajhDTWZfU1g5Z0dv?oc=5) · شبكة تواصل الإخبارية 11-10 05:37 UTC
-- [جون لوكا: الذهب يستهدف 6300 دولار للأوقية في 2027 بدعم من البنوك المركزية](https://news.google.com/rss/articles/CBMixwJBVV95cUxNTXBQbnoyQXVxTk44MmFMb3J1TkpocWZYSjdoTGF3VG5FSWFtYndCMzV3UXhndFhfbS16M09CRlY3MDdmdFNNOFBWcGd6ZC0zLXlGbk40OGpaOVZod1puRmhfMzA2T0pfbXFNQVBlQnZaT1NUd3M1R1BQYUZLWV9XSG5VX0NwcHpaMEdRdVR6YlJBNmRuYnY5SEd3NEtuYWhHVUpUbzV0MUIyX0NBRG8zSmR5aVlrR0RzSjZZd2FBUy1KN0psV2ZoTVAwZmh3R3F3M25jSUNBZVd2WGdDQUplRHNkd2tyZU5oNmdaSmZFNVlaOUlwMGV1WTlZS21FLUctanFOclJRcmtjY05DaHdoeUtzNkw0aWo0cWVnQWg4T05UUlF5dWEzeGJxajhLbl9ybzduY2xFU0NYTWVCSTU4MEt1SW1ZWGM?oc=5) · - سي نيوز 11-10 05:35 UTC
 - [الذهب يتراجع عالمياً وسط جني الأرباح وترقب بيانات التضخم الأميركية](https://news.google.com/rss/articles/CBMiwwJBVV95cUxOYVNBcm5KZVFTMFRJUFFNLUpHOGFSdGVfbWd3Q2NoOXY4cWVwSUQ4SlM1U1o3bl9rUjBETjhiTXNKQk5ac0hKTmhSVDAxSmtZQ3J5bkhjWXY4RDBFcWR1bEsyRjVOcnVYYmNXYlRYeUgwSXhEa2I5RUtKNFlpRjNNRDlRSjVPYVlCU2h1SHVob1A4U1d3UjNKU2kySFZnNnhXUmcxbG1IUHNVRHlrTFVzQmxMODJpdTBwSjVGXzE3WUdEdW5FMWdzZlYtMHRqZTlHcldySnF3Q2tDY1NPRzFvQTF1bTZTTnlfUjAzY3FrTk9STDFmWGRrZ3E5eFpUa2hjMEZ6VmwzSnJvb1dhRVF1Z3gxY1FxR3ZPeUw5NGYyMDZ4elBVTVJhbFdsdDNDSnFwQTNyM0djOXJPV2RGdjltZlhXOA?oc=5) · وكالة الصحافة المستقلة 11-10 05:05 UTC
 - [أسعار الذهب اليوم، 10 نوفمبر: ارتفعت أسعار الذهب العالمية بمقدار 57 دولارًا، في انتظار بيانات التضخم الأمريكية.](https://news.google.com/rss/articles/CBMimgFBVV95cUxOWVhqbXY0RF9qV2V2MFhCOUdFYXBkbkQzSGlQOTF5Z1QzS0U4RzMtUm9NRFB0Z0JhZ0JteXQzMXd4NkxtTTFnYjJlSXY5X29QcjVKY3VldUVzLUNTbi1uQ3lsWTc4X1h6SmZoMkxGUkRUNUNvQVhFMzA4cG41T3cyQmF0MDZsMm5kV3lHRWhsalNGUXkyal9NTS13?oc=5) · Vietnam.vn 11-10 03:04 UTC
 - [سعر الذهب في البحرين اليوم الثلاثاء 10 نوفمبر 2026م](https://news.google.com/rss/articles/CBMi1gJBVV95cUxNTHRKMXRNMjJtRS1hanVnaUpETVIyY1JKbURyNWNtTnBaYk12eFFRMG51T3B1eV9LSGFlczQ0S2k4eUt3aTh0Nlg2N3RNNXhiZXFHQWdXc0ZjcWlpblg3MXlnV3lfTFJoOVA2OWRaUHBDbVJmcmFvTG5PMkhFQXRfX1MtVmNxWnNvcmotZ1VieXVqTXM0dlM0TVg3Z0hrY3luRnM2ZExYOUJGdlJPc0xhUXo3V0ZmcGVELW5mWURHVk42MUVBbkZIRmFhRkQtYVplcEVwQXFCRmlLa1ZSM3E3MFdkZm5HbnRzMHVkd1R1aDZJVG1DUzRueDNNU2htLV9IM3pVRlRPTmJYQ2FrZUpGWXgwcTFfMmtPNlZycjhLb3ZFbFNLNHA4cll3aXI0dVlidXh2eVBlREYzSzJXcDYyMi1KMXJva0xyZ0U2WnhwRkhSUUtmb2fSAdYCQVVfeXFMTUx0SjF0TTIybUUtYWp1Z2lKRE1SMmNSSm1EcjVjbU5wWmJNdnhRUTBudU9wdXlfS0hhZXM0NEtpOHlLd2k4dDZYNjd0TTV4YmVxR0FnV3NGY3FpaW5YNzF5Z1d5X0xSaDlQNjlkWlBwQ21SZnJhb0xuTzJIRUF0X19TLVZjcVpzb3JqLWdVYnl1ak1zNHZTNE1YN2dIa2N5bkZzNmRMWDlCRnZST3NMYVF6N1dGZnBlRC1uZllER1ZONjFFQW5GSEZhYUZELWFaZXBFcEFxQkZpS2tWUjNxNzBXZGZuR250czB1ZHdUdWg2SVRtQ1M0bngzTVNobS1fSDN6VUZUT05iWENha2VKRll4MHExXzJrTzZWcnI4S292RWxTSzRwOHJZd2lyNHVZYnV4dnlQZURGM0syV3A2MjItSjFyb2tMcmdFNlp4cEZIUlFLZm9n?oc=5) · صوت الدعاة 11-10 03:02 UTC
