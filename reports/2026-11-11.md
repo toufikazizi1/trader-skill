@@ -2,13 +2,12 @@
 
 ## الملخص
 
-- **السعر:** 3,989.0$ (-2.97% عن الإغلاق السابق)
+- **السعر:** 3,982.8$ (-3.12% عن الإغلاق السابق)
 - **الحكم الحالي:** حياد / انتظار. الاتجاه هابط، والبنية: قمم وقيعان أدنى (هابط).
 - **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
-- **أقرب دعم / مقاومة:** 3983.8$ / 4091.9$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4091.9 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3953.2$؛ هدف 1:2 عند 4369.4$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3983.8 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4122.5$؛ هدف 1:2 عند 3706.3$.
-- **تنبيه اقتراب:** السعر قرب الدعم 3983.8$. راقب الإغلاق اليومي ثم إعادة الاختبار، ولا دخول قبلهما.
+- **أقرب دعم / مقاومة:** 3874.1$ / 4092.0$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4092.0 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3957.8$؛ هدف 1:2 عند 4360.5$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3874.1 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4008.3$؛ هدف 1:2 عند 3605.6$.
 - **أحدث خبر:** [Gold (XAU/USD) Price Forecast: Bullish Reversal Faces Critical Support Test](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXEwT1JWbHRBcGJoeHFoUGdldG8yNFFzOWRwMTFJdHp2YndEbmpfNUhFa1Rrci1lVElKSS0zdE1hMi1BZE1qMjU4Y2c2QnFfUm5YbjkzalVpeG5BNmJoX0lPRjJEanBFT0dKYlhGZXpfWmptRWNGQXBNVVctZXd0ZWJTWHctc3lWb0RMQWlxekVrc216U1dneTdrMThZRjcwc2xBWFdHUWY4TG1OMGpKX1FMNU1yMDhTVy1SNFo4QnY?oc=5)
 - **خبر:** [سعر الذهب اليوم الخميس 12-11-2026 بعد الانخفاض](https://news.google.com/rss/articles/CBMiREFVX3lxTE5ZVEdidENvOTl0WmRvYmRITlM0WmJUSlFYd2drNWdKNXdiTUZDTmpvbmhEbDB3bDFWaV9obGM5RUJWVDNj?oc=5)
 - **خبر:** [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Drops As Dollar Tests Yearly Highs](https://news.google.com/rss/articles/CBMixwFBVV95cUxPZktBMEVrTlY5Q1ZUV3JtTDJBX3BUWjE2c0tJdGQxZ0JGc3BKb1dtc1F4Y1UySEotNWZ5ak5uUjdDUHlQRVN0bUJvLVAtVGw2dFFkWkkxUE9NWG1MNXVFaU12Rk8xam1XWHVrSXI3d3BWMC1NNDE5LWNoUWQ2T2lvMHRYeFRMTGthaldnVGQzZTR6UkdFQ21TUFl4bnNwUHN4aC1lbmdROFRjXzNVdlBrcWFmZ1hwMTNFUTVuM2tKWDlwRUlvYnZB?oc=5)
@@ -17,14 +16,14 @@
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -5.3$ |
-| الاتجاه (EMA 20 و 50) | هابط (4066.7 / 4158.7) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -5.2$ |
+| الاتجاه (EMA 20 و 50) | هابط (4066.2 / 4158.6) |
 | بنية السوق | قمم وقيعان أدنى (هابط) |
 | كفاءة الحركة (20 يوم) | 0.12 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
-| المدى اليومي المتوسط (ATR 14) | 92.5$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4749.7$ / 3874.0$ |
-| مركز الحجم POC | 4169.5$ |
-| منطقة القيمة VAL إلى VAH | 3895.9$ إلى 4399.4$ |
+| المدى اليومي المتوسط (ATR 14) | 89.5$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4749.8$ / 3874.1$ |
+| مركز الحجم POC | 4169.6$ |
+| منطقة القيمة VAL إلى VAH | 3896.0$ إلى 4399.5$ |
 
 ## سيناريوهات للدراسة
 
@@ -32,8 +31,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4091.9 ثم إعادة اختبار تثبت فوقه | 3953.2$ | 4369.4$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3983.8 ثم إعادة اختبار يفشل في العودة | 4122.5$ | 3706.3$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4092.0 ثم إعادة اختبار تثبت فوقه | 3957.8$ | 4360.5$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3874.1 ثم إعادة اختبار يفشل في العودة | 4008.3$ | 3605.6$ |
 
 ## أخبار الذهب بالعربية
 
@@ -42,13 +41,13 @@
 - [الذهب يستعيد بريقه قرب 4055 دولارا للأوقية.. هل ترتفع أسعاره مجددا؟](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9WWXBHUi1XOFRfSHFwU3hXN0w3VVhrQU5FOW5TR1JoSm1SQ3Y0Sm9lLUp0WWRqS2l4MTRIVTVaTlhIdEk?oc=5) · https://www.youlyou.com/ 11-11 19:00 UTC
 - [الذهب يتراجع دون 4000 دولار مع ارتفاع عوائد الولايات المتحدة الذي يعزز احتمالات رفع الفيدرالي في ديسمبر](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MbFN0Zm1OUVZYR0ZrUUh0S1p5cUNQaExmdHBqTUJJcVpIcC1Kd1c2Z3lXWU8wWkdmclZBYTFidTJJbkRTLWVWYURlLWJMWWIydmZ3?oc=5) · شبكة تواصل الإخبارية 11-11 18:39 UTC
 - [الذهب يتراجع عالميا مع صعود الدولار وتزايد رهانات رفع الفائدة الأمريكية](https://news.google.com/rss/articles/CBMizgJBVV95cUxNUDMxSUFXeV85UktFNHA5Y194RnZHXzFmYnRjbVVoQVhuX19JRDBpZHRQMDJrNDI1Z3VLMTQ0MDB3TU9UNUF0QnVvWl9wX3hWYzZtc204LUJhamVwM0VPSTZLdmRDU1lJWDE2VkNKSjdfeXBFLU9jQzExLXhBS0ZzMlFqRTJ0dHdEX3JOTWZDUkhQZU1QbXhZc20ydkwwQzdWaVNhLXd5YTN2UzB6czE2blRHemx5MHpmbzZuYkVPdkpsRmN4R09xR2dqNHA5d0g3WG9rWjVUODV3VnQ3TF9NS2JyWlg0Z3J4cGhDSmdlUm1faWpyN281ME9NNU1Wd2RUWnZRUzZjdk0zbzVpblNaXzdZTGI2RUdMaGZsX2VBdUcyc1ZQcHlqbEZCWlNoX2JMai00WEgweHptVkZMNGlMcXFOUy1oZzhOSmFENS13?oc=5) · إقرأ نيوز 11-11 17:56 UTC
-- [انخفض المعروض من الذهب في الربع الثالث رغم تسجيل إنتاج قياسي من المناجم؛ ماذا حدث؟](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYjFlZzB5NXZTR19aeVp1QU85Q1JMZkdueXlhd09aQ1BVY3NJVmoycmhHOW0wczZBYThhai1FWXE1V0VPcFFkb0czQ01VcUxkOHp3bElGOEZvY3pFRU9HU013NUhyVzkxLWs5Nm14dHhkSnNzZDh3RThCeVpKeTNXMTg3MjNpRmEtVDVvd2pveHZ0ZzJ2cENqN2hsdjVJYlRvLWw3em5Jb21wbFlnYlJSMlNYVklSenNf?oc=5) · FXStreet 11-11 16:00 UTC
 - [تحرك جديد في أسعار الذهب بمنتصف تعاملات اليوم 11 نوفمبر](https://news.google.com/rss/articles/CBMi-wJBVV95cUxPckczLU5ycDhadW1MXzhNMjFLZk8xT2hNak1FUUVWYjluNTF4WUpfNWxad0U2bk9hZG5nRDNXbTVnWENtSkhhajdnVTY4LUZPTHlVUlp2Tnl1cTI5bXVLdi1fRFBHVnNqZ3dLdE5CcFoyTVVyU0lISGpGeDFyZVBBQ2diZ3pncG10bUhTQVQtcERrbzg4U05PUXI1UUt5SU41MXNkalhESUhXbjBpOGlOUDdvdVhDekdzVkxsYVMwVmpRMWVzMXB4aEJ5d09QejRNTnJQaGdqWXZqN25pak50NDUxWnRQTFZwNXpZMFNtT0lTcEx5eHNSdHdXSWtvYU9YZVRqU3lDTkU0N1U1RGF1eTk3akthU0VFVFJxNHYxajZ3OWN0X1pVQmVyUjdObmhjVkhCMlBwSHEyNXhhRXliOGQzcEpxWDBTUjNhZ040TzRvc0RjeFJTbDVkWGdiZjZtMWJHTnZzNVkydE56Nl9wenZ4Q0RORW5zYVZB?oc=5) · الأخبار المسائى 11-11 14:28 UTC
 - [سعر الذهب اليوم عالمياً يرتفع مجدداً.. هل انتهت موجة الهبوط؟](https://news.google.com/rss/articles/CBMi4gNBVV95cUxONDFjdjREM2RHRTRuYUFDQW5vaU5WVWx2VndRa3ZEUnJJV1NSNkZELUxyVUNwU2F5cThmbUhEUjV0bGJTQ1EtOUlXX2RFbzdzTF9FRGlRWnVpRS1fNXkzZTZxTjU1OXBoWXBGOVFUdHI2YU1aUHpyTk5fU0lKalNPR3ZadmRKQTJEY2FiWmQybVF5SnlfVVlfUFRxTWYwNDBFelVUaUZjaWp5SUM5VU4yWDA1Sm1hTlFGT1NIanhFel81OXdKeXRVLVBOVEhOaHFmdFFuWkNPRGpWazF4SDNkRUpoOXJlOGFaNUwxVmZ3TU5BVHlYakVocVRyMTNrdGZ2YW15YzVLVGh0ci1GYm1ub0FsQjdEamtlUUVyTkRvcnQ4SjM5MFlDZHY5RHZJN1lPSTdTdjFlUGtPZ0pYRDhqd1hRbzI4eGhLSWpRVFFZV0NicE5kbkVYM3Bka2FLS3FIdDFzeThWcHpCdlFaUC1pZkNTY2ZYTUZLSGcybzROM1V6WFBLOWFHWElIX2ktYUZNVUl5OUdvdjZKN3lzZXJHLXVNRmZBOWxUSWFlTEx5MG9DNHFYTEJGYlZ6MnFoWkY2cXo5R1VPUXFxN3hUQ2NPa0JtaGxIbDhuZVdNQ2w2MDNJUdIB5wNBVV95cUxOZV9aTFdMeFRIX0x0SjlIbGpLdEp0c2ZqT25wTzI2QmcxR0ppYWI0T1hXOVNHdEstdEFaeEIxa1laU04wcTBadnlhSk5nck9EVWEzUlo1eFBaRzgyei1xazUyV1JCTUFtMlJCcFZUeEttc25pSkkwT1V5R2d1bG5yXzZrdXZaYUNaSC1McVpEN3RLajFHa3A0LXlUbG5RNmNFUkpoVjl1X2NsdjFRbUNxb0M1RUlHQ2VEYi1Fd0x2T25CMk5sWFkwbklnbUY4YTE3RlJxcnR1V2FRX1hDZ3dvNFZieHMzSTREQkxnelRNZWZ4MjVwNkpDTG5qNlF6RFFLSDA5anZRaW8tU2E1Mm5Ja21OV2lPUDNPNGtLVnlKRHpLQ0E4bElxbzdBd0tUelUtdXd0eVV5ME5vcUpwem5OU1k3OGpMQm5IczdXd1g1ZmpRazhLbmZRdHVhdGNhVG95MnJvNG5iVF9LczByUko5UUxIc1pLdTBmS1Z5WWZ4WU5SLUZkSWl3enoxbktuTHFaeU1uVG1vYVhNeDVuRHN4TG5lc2pqSVViZE1OR09udHJzMkZvbURPcGx5SHhKYlpoSWQzWFpxMG9obWY2NjNUVzVtVUdzVU80NUJYMWFucXlLVlQwcjVj?oc=5) · موقع القيادي 11-11 14:09 UTC
 - [هل تعود أسعار الذهب للصعود بعد تصريحات ترامب بشأن إيران؟ خبيران يجيبان](https://news.google.com/rss/articles/CBMi1wRBVV95cUxQS2tUazY4bUpRbzN5YjBleVBXUC15WU5xZ1J2UGltWUZXU2ttQVdfdi1ObVk1NUptdkpaLTYyUGxsLUJUd0xBVGk0aU85RHNpeWwyNHRBeWFUUnlZdklVNjFHODFuZlQ3cGJaR21BM1Q0R184bUtFemVQX0t6dWFiempuMFpLN1M3SEhEeERmeFFybm1wMzNxQnIxNDhxZzFXb3JFd1ZHN01obzNJTnJZSjYzZGhDb2dTLTNnOFJUV0QyNWtoS2VtalhiRVRwMV81ZFhjT0V0MVBhdGJGd3VJdGp5Y1NBMHVRNDNLZktxUDRzRWRDVDhBRnZlSkVXbWlwN1BQcE1OZm43U3EtMk1Ca2FXRGYxVlA3T2FVV2Z2Q2lxcnYwZENVcDBrSHlORU55aTVGWTBuZXJ2ckRTbTFyUTlQdEU3Vkxvc0wtU0RUelpVdXJLYmI0LUxkMEJMdklrbjdrVldzWmttZG9CbXU2QjZ5STdROU5lYzB5Q05taW9yc05QMExmSEpaMzlHdVo3V0t2NjVNNG1MeDNIMzBGRTJ6NlJpMG5yZTE1bTdpT2RoVF9GWWxWV1F1Wlp0SnVPRTl0ZVk1N1NlaTg1Y1BZWWNxZ2UtN3pIQlFUaHhfQXl1ZTVGdWdZMmFDZjE1ZUlaUlhnY21UMkFMYVlLdnVLQ0VlTW5ZcXF4emU2UEpZTTJUNEpSV3I3Z3dLUjc2QmZSSEtMa19yYUN3T09hWGttbmw3Uk9Kc0E5RVItSVlHejBLUFlVdUc0RGtiQi1RRlppbE1MRWFBMNIB3ARBVV95cUxPTGY4UDA5aWl4bm9oNjRxd0NhOHRvVEpnYzU5clZYUzZtSWRfa3BSM2JrRWtXRkx6b29Db1NuLVhvUVRUdmxfTllvNF9NbnBKTUo2QzVLRkItV1lqZmJjbFVobDR4b19UUUxIbkgwTTd6bEhsQ0o1X3YwQnd3ZmVkS205ZVpDWG9MdkVmeHpvUEhuaWxmYzVtNGFwTGhmOFVHVWVhNmNhb0NuQ1dFNW0yM0VpX2F1VTFpZ0JCWXR6azIwQVhiTlFkMWNrYWFIUTlSTi13ZDlKcUY0SDFfS0VHYXVJWXFzS2lrb3pXNGZ5WmNWVXYxbU1QazlBQW9GQ05HR1RCUVZBaURTWU1XcHQ4TUNiTzlUZ2t0QnNMWUdIRldlVmNPVTNpUmVycDNnZW1UVUVJS1dJQjNoTDhad1R0MHZkcldxY0ZJZnYtWV8zZHQ3ZUJ5bTZTUFNzTFE3Z0pYS1dLclVzQnRocWtER09ZbHZHNXVqX2tPM1ZUYVYxS1RkQldvNmFLMWNCWXVPemQ1ZXBLMHNtNUhnUUlnQ0FRR1Z0UEJvQnZvTXNfRFZlaks0ajY4S3FCaElyZFJJMDRHYnhfOVdCY0lvdlJIZDI5UXNUd0tjekFVbkJrdFFBOWl0WDQ2X0kwSTVzNHhRYlVxcTVJSjQ5T3dKU05QbUVjY3pVSXAxZ3EwejJyR3VHVHhOVWdVc0RZREJVUk80aDdGRXV3ODBhdmV0Y3J1cDRfVXZOcmFJRjNNbEJpR2JLbjJ6RDZxLWMyZ0VKc3pUQXJyU05pSHVUQWNha1FZ?oc=5) · Masrawy 11-11 13:35 UTC
 - [سعر الذهب الآن / أخبار الذهب اليوم: الذهب يحاول الصعود رغم الفيدرالي والدولار](https://news.google.com/rss/articles/CBMib0FVX3lxTE1Pb2RlcE02UXktVW41Z3NGMTJpbGZhY0dQU184V2U3emdhblNTRUhlLVg5YkdFS1Q5RXRwdVQ0QWNsV0N6MTdhd2RsRzdHOENEOXdKbEFjWE5laUJ0UlpTMTdZZzF2bzhHdWQ3WkRMNA?oc=5) · Investing.com 11-11 12:00 UTC
 - [الذهب العالمي يرتفع 23 دولارًا.. والأوقية تتجاوز 4050 دولارًا](https://news.google.com/rss/articles/CBMiREFVX3lxTFBreTBVd0hScEhsN3JDWU0yMVBld19ETmhkYm9iUFdDSkVnYVFpQmh0QjhQRDlMMGtsaElsSVJYbnEyeVo1?oc=5) · جريدة الدستور 11-11 11:47 UTC
 - [الفضة تتجاوز 53 دولارا للأوقية.. هل تصبح بديلا للذهب في مصر؟](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdHNJS1NLS2V6QnhVQkpCYjZ2VHlfNFZfVVR6Ql9IdVBOYnBrOGZ3dmQ1cXZHTFZwRno0S1lwVHRGV0pxYkJxbjhGYTFuakNZbjRKVW9hUXNja2RM?oc=5) · الوطن 11-11 11:29 UTC
+- [أسعار الذهب اليوم ترتفع إلى 4044 دولارًا بعد هبوط 3%.. الفيدرالي يكبح المكاسب](https://news.google.com/rss/articles/CBMixwJBVV95cUxQWERSNVQweVBaVXVQejlmTjRIazlmdWdoUGRWOHFISWNwX2lFZDRhQ0FYUUJCZHhhckdwUEt3TDY1a25VT3lvcFpkbGlwS183TnM2WWJCdHBJNE9kTVhhV0R6VXItVC12eXNsUTR3SzNhWjN6N25UTU14MlpwMDBmMHM0QnlnZFBTLUNpdms1SDIwNC1RdFZBWGtCTV9kU1dwbTNUMHBSeEkzN3FWV3lWT3pKUkJkcDlOSndqS0lCdzJWT2x6SnhlYVBVYkZ6TE9mSWI4QnlIM1gtVjVQOUk2azRTakdyZlp5ZUUxLXd1a0phaWpyVmRBclJzbXNsYzJTYkk5NnVYdnhoTE5FQ1dNLWpLLXBPLXNyZHF3RDNfTUpyN3lFYjhZb3VjUjhuYkdyMld2aUlWSHgxYzl5TVJqeU5fY2s1Tm8?oc=5) · بوابة المصرف 11-11 11:16 UTC
 
 ## أخبار الذهب بالإنجليزية
 
@@ -59,11 +58,11 @@
 - [Gold climbs as dollar and Treasury yields retreat ahead of US inflation data and Fed guidance](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjVoZjFjUm8ybFppbkVxYlVPb0RXOXZuXzltV0FsUm94RjVjZmo2ZDhZNTBkbGFnWFFRcVJueUoyRzlOVG9TYTY0YnZGNkpRenMtUHFOaDdscXhUQkNiVnRCWXFrYmlxNTRsem9FSjJlSTlUbmNmY1BuTnY0NWtmQ2NreC1LWVd6dWZmWXBteEl2ZEhuR1lXc0IyNVFvZ2huOHlOd2tXdTZqVE1fMTM4bzlUcFpJRnUyZ08xd1c1LUFYRzF3N2F4VFlPMjhFaXprYVhsSm5R?oc=5) · VT Markets 11-11 16:51 UTC
 - [Gold pares gains as US dollar and Treasury yields climb after firm inflation reading](https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXJualVuRGdfeGExTmRjNWJuZE02VE5YWEtDV201U0hYeFRDemkwbU43dmZnYU5HYXVCQmJOYTQ4aTVPejByb09CVjY4ZElvdXpMaXJjSk1hWUZ1T2U5X0JqMlRxWHh1RUxkQ3Z4dnRwRzRQN2VRcWpTM3p4UVAxak5WbS1mV0VFM1ZGNlp4YjNMMFZ3ZEFxWWZSR29KcWtUYkgyanBYU00ybkpJZWptTkx3bHF6NmZ5d3VCRkstX2s4TGJBd0JJQkJR?oc=5) · VT Markets 11-11 16:43 UTC
 - [Dollar recovers as markets reprice December Fed hike; euro and sterling slip, yen tops 158](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMGFPRUhFb0VINkUzMlhXVzZlYUdJSDc5MFpDM0dZTHZvdmhnOVRGd2t6RnZKSTFfWlZFNmdHRGZsZWRqS2RNemptZk5FSndXVFpzTmYxQ2pkTWI4bTZWaEdsWFlydFR2UDNMTElCSVp6SllkelFnV2Q0UUc5OWE2TF9ISE1IWHpCMHhWT3lUMC1GTUdVc0lSbTZtUkVYMjRMUW1melJScFNPdkw0NW9LclA0XzA4WnVxV2Rma2FlcXp2NU1kdEQ2MUFHeTJVTEE?oc=5) · VT Markets 11-11 16:40 UTC
+- [Dollar Rallies on Expectations of More Fed Rate Hikes](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3dpWDdLVjRvQVFmYk94RlR3di10WWZtNXVUY3RLbXppQmFYMDZibXlPYTFudmFDWGF6cTB4OTB1Q1FLbFd2NFp1S3BSSHdsRVYtSFNqQ0FqMnNKd2R5elpaQ3pWc0lYOFBKbFg2QlFGR2lHeU96STZJZ2UwMGRFdXNLd3A3NmExeTdIYmtQYkJteG9KNGh1QTdldW50UmFsRHZPWlRhV2E?oc=5) · Yahoo Finance 11-11 15:45 UTC
 - [Gold struggles below $4,050 as Fed rate-hike bets boost US Dollar](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWnBKQTBxWDhUZkNMZ2IwUUwwTTM1OXNuemNfRUEtb1FTVFcwcnlHVGJZbk5vLUttZU54LV9lVmx6LUR3dWFCMFI2MncwX09EQU5XampvUk52N0lybmdkczVIVzBpNzg4YWxfMUpxUVA0MTNTYjJ4QUtPbDRUTVZ0LW9qRTZ0d1ZQcFd1N1JUNDgtbWZNcFdUeVRQMkdfeEpLV2c?oc=5) · FXStreet 11-11 15:12 UTC
+- [Gold Dec 26 (GC=F) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCLWFGVVBHUGF5Q2c0b1o5UTFKT0M1RWtfQS14aDl1SDdPR2t6eHFLQnkzbWU3MFhGTHQ1Mk1tWmpjVk9zYWpvMGRKVUhmeFk0NFhoUg?oc=5) · Yahoo! Finance Canada 11-11 11:13 UTC
 - [Gold Price Forecast: XAU/USD rallies remain limited with bulls capped below $4,050](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUE94U3h1aGo0MlQ5bEpwRnNsM2EyNXUya1dPbjAwQzcyUnpZNlgyR2kweGZQcXdqMWZEOUFMOTAtWFIyX2xUeVQ4dUZXeEpvWVhIUktJN1k5bGxrdkpWczhrOUFNQkd3N1dsR0dlNnpOZ0t3V28zVncwNFV1ejBpY3pCcmktMWpBTmlUUTJIVGdES2x3Q2tiZnVUV2xpaEc1eGJCM3BKWE5OeThTQW9HMUlwd0E4dFBUcVZXcElINUQ?oc=5) · FXStreet 11-11 11:12 UTC
-- [Gold Dec 26 (GC=F) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCLWFGVVBHUGF5Q2c0b1o5UTFKT0M1RWtfQS14aDl1SDdPR2t6eHFLQnkzbWU3MFhGTHQ1Mk1tWmpjVk9zYWpvMGRKVUhmeFk0NFhoUg?oc=5) · Yahoo! Finance Canada 11-11 11:10 UTC
 - [Gold Dec 26 (GC=F) stock price, news, quote and history](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SQWk0Z0RfZVhUQjUwOG54eVJVVDlFaHd3T3JoSnlTT1BmOG9RNURraVB1UU5pTFRHSFByOGJ5UWdPaDNHVUlXMkRxNkVIZ20zeURleQ?oc=5) · Yahoo Finance Australia 11-11 10:36 UTC
-- [Gold, silver rates today, November 11: Check 22K, 24K gold and silver prices in India](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeTFBN0tYQ1hzUmVzOWRkejVJSXBWRTNkcGxWejNOeW1Ja0tQY2Q5UWlrelBYeG1zVENxcTNWeHZ6ZzhMaEhONDRjYVI3S3F3clA5Q3BhVVVNY1Nkd0drekNPeUhneUpYNTZpQ0ZMV05oQ3gtc19QMzNMTUctNGlpV2IwR2ROZFJsSHg2bWY1aGdMYXhUOUNSdU1XOUJJX3ZPdkdPNHVVMTVJXzEtMTRfWDRSOVZibmRFTG1Zc2NUMGhRTDluaHNHQlVYRnEzZTVlWWIycVlVb1dHVHFSWGFqZHg4NEt1Y0E?oc=5) · Upstox 11-11 10:21 UTC
 
 ## ملاحظات وأخطاء
 
