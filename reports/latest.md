@@ -2,13 +2,13 @@
 
 ## الملخص
 
-- **السعر:** 4,009.8$ (-2.59% عن الإغلاق السابق)
+- **السعر:** 4,006.2$ (-2.61% عن الإغلاق السابق)
 - **الحكم الحالي:** حياد / انتظار. الاتجاه هابط، والبنية: قمم وقيعان أدنى (هابط).
 - **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
-- **أقرب دعم / مقاومة:** 3989.1$ / 4097.2$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4097.2 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3960.5$؛ هدف 1:2 عند 4370.6$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3989.1 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4125.8$؛ هدف 1:2 عند 3715.7$.
-- **تنبيه اقتراب:** السعر قرب الدعم 3989.1$. راقب الإغلاق اليومي ثم إعادة الاختبار، ولا دخول قبلهما.
+- **أقرب دعم / مقاومة:** 3986.3$ / 4094.4$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4094.4 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3957.7$؛ هدف 1:2 عند 4367.8$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3986.3 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4123.0$؛ هدف 1:2 عند 3712.9$.
+- **تنبيه اقتراب:** السعر قرب الدعم 3986.3$. راقب الإغلاق اليومي ثم إعادة الاختبار، ولا دخول قبلهما.
 - **أحدث خبر:** [تحرك جديد في أسعار الذهب بمنتصف تعاملات اليوم 11 نوفمبر](https://news.google.com/rss/articles/CBMi-wJBVV95cUxPckczLU5ycDhadW1MXzhNMjFLZk8xT2hNak1FUUVWYjluNTF4WUpfNWxad0U2bk9hZG5nRDNXbTVnWENtSkhhajdnVTY4LUZPTHlVUlp2Tnl1cTI5bXVLdi1fRFBHVnNqZ3dLdE5CcFoyTVVyU0lISGpGeDFyZVBBQ2diZ3pncG10bUhTQVQtcERrbzg4U05PUXI1UUt5SU41MXNkalhESUhXbjBpOGlOUDdvdVhDekdzVkxsYVMwVmpRMWVzMXB4aEJ5d09QejRNTnJQaGdqWXZqN25pak50NDUxWnRQTFZwNXpZMFNtT0lTcEx5eHNSdHdXSWtvYU9YZVRqU3lDTkU0N1U1RGF1eTk3akthU0VFVFJxNHYxajZ3OWN0X1pVQmVyUjdObmhjVkhCMlBwSHEyNXhhRXliOGQzcEpxWDBTUjNhZ040TzRvc0RjeFJTbDVkWGdiZjZtMWJHTnZzNVkydE56Nl9wenZ4Q0RORW5zYVZB?oc=5)
 - **خبر:** [هل تعود أسعار الذهب للصعود بعد تصريحات ترامب بشأن إيران؟ خبيران يجيبان](https://news.google.com/rss/articles/CBMi1wRBVV95cUxQS2tUazY4bUpRbzN5YjBleVBXUC15WU5xZ1J2UGltWUZXU2ttQVdfdi1ObVk1NUptdkpaLTYyUGxsLUJUd0xBVGk0aU85RHNpeWwyNHRBeWFUUnlZdklVNjFHODFuZlQ3cGJaR21BM1Q0R184bUtFemVQX0t6dWFiempuMFpLN1M3SEhEeERmeFFybm1wMzNxQnIxNDhxZzFXb3JFd1ZHN01obzNJTnJZSjYzZGhDb2dTLTNnOFJUV0QyNWtoS2VtalhiRVRwMV81ZFhjT0V0MVBhdGJGd3VJdGp5Y1NBMHVRNDNLZktxUDRzRWRDVDhBRnZlSkVXbWlwN1BQcE1OZm43U3EtMk1Ca2FXRGYxVlA3T2FVV2Z2Q2lxcnYwZENVcDBrSHlORU55aTVGWTBuZXJ2ckRTbTFyUTlQdEU3Vkxvc0wtU0RUelpVdXJLYmI0LUxkMEJMdklrbjdrVldzWmttZG9CbXU2QjZ5STdROU5lYzB5Q05taW9yc05QMExmSEpaMzlHdVo3V0t2NjVNNG1MeDNIMzBGRTJ6NlJpMG5yZTE1bTdpT2RoVF9GWWxWV1F1Wlp0SnVPRTl0ZVk1N1NlaTg1Y1BZWWNxZ2UtN3pIQlFUaHhfQXl1ZTVGdWdZMmFDZjE1ZUlaUlhnY21UMkFMYVlLdnVLQ0VlTW5ZcXF4emU2UEpZTTJUNEpSV3I3Z3dLUjc2QmZSSEtMa19yYUN3T09hWGttbmw3Uk9Kc0E5RVItSVlHejBLUFlVdUc0RGtiQi1RRlppbE1MRWFBMNIB3ARBVV95cUxPTGY4UDA5aWl4bm9oNjRxd0NhOHRvVEpnYzU5clZYUzZtSWRfa3BSM2JrRWtXRkx6b29Db1NuLVhvUVRUdmxfTllvNF9NbnBKTUo2QzVLRkItV1lqZmJjbFVobDR4b19UUUxIbkgwTTd6bEhsQ0o1X3YwQnd3ZmVkS205ZVpDWG9MdkVmeHpvUEhuaWxmYzVtNGFwTGhmOFVHVWVhNmNhb0NuQ1dFNW0yM0VpX2F1VTFpZ0JCWXR6azIwQVhiTlFkMWNrYWFIUTlSTi13ZDlKcUY0SDFfS0VHYXVJWXFzS2lrb3pXNGZ5WmNWVXYxbU1QazlBQW9GQ05HR1RCUVZBaURTWU1XcHQ4TUNiTzlUZ2t0QnNMWUdIRldlVmNPVTNpUmVycDNnZW1UVUVJS1dJQjNoTDhad1R0MHZkcldxY0ZJZnYtWV8zZHQ3ZUJ5bTZTUFNzTFE3Z0pYS1dLclVzQnRocWtER09ZbHZHNXVqX2tPM1ZUYVYxS1RkQldvNmFLMWNCWXVPemQ1ZXBLMHNtNUhnUUlnQ0FRR1Z0UEJvQnZvTXNfRFZlaks0ajY4S3FCaElyZFJJMDRHYnhfOVdCY0lvdlJIZDI5UXNUd0tjekFVbkJrdFFBOWl0WDQ2X0kwSTVzNHhRYlVxcTVJSjQ5T3dKU05QbUVjY3pVSXAxZ3EwejJyR3VHVHhOVWdVc0RZREJVUk80aDdGRXV3ODBhdmV0Y3J1cDRfVXZOcmFJRjNNbEJpR2JLbjJ6RDZxLWMyZ0VKc3pUQXJyU05pSHVUQWNha1FZ?oc=5)
 - **خبر:** [أسعار الذهب اليوم الأربعاء 11 نوفمبر 2026 في الصاغة المصرية](https://news.google.com/rss/articles/CBMiREFVX3lxTE5ZYU02cE10eWRGUnFFck5WWHBFM05kam9CMHl2MWdaX0FpSE82b3l1Vzl0dnQ2YkdPdGlCak9SVTdSNWIz?oc=5)
@@ -17,14 +17,14 @@
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | العقد الآجل GC=F (بديل) |
-| الاتجاه (EMA 20 و 50) | هابط (4073.4 / 4164.6) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -2.8$ |
+| الاتجاه (EMA 20 و 50) | هابط (4070.6 / 4161.8) |
 | بنية السوق | قمم وقيعان أدنى (هابط) |
 | كفاءة الحركة (20 يوم) | 0.10 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 91.1$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4755.0$ / 3879.3$ |
-| مركز الحجم POC | 4174.8$ |
-| منطقة القيمة VAL إلى VAH | 3901.2$ إلى 4404.7$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4752.2$ / 3876.5$ |
+| مركز الحجم POC | 4172.0$ |
+| منطقة القيمة VAL إلى VAH | 3898.4$ إلى 4401.9$ |
 
 ## سيناريوهات للدراسة
 
@@ -32,8 +32,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4097.2 ثم إعادة اختبار تثبت فوقه | 3960.5$ | 4370.6$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3989.1 ثم إعادة اختبار يفشل في العودة | 4125.8$ | 3715.7$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4094.4 ثم إعادة اختبار تثبت فوقه | 3957.7$ | 4367.8$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3986.3 ثم إعادة اختبار يفشل في العودة | 4123.0$ | 3712.9$ |
 
 ## أخبار الذهب بالعربية
 
@@ -67,7 +67,7 @@
 
 ## ملاحظات وأخطاء
 
-- السعر الفوري غير متاح، السعر من العقد الآجل وقد يفرق عن شارتك بعدة دولارات (gold-api: تعذّر الوصول إلى api.gold-api.com: [Errno 104] Connection reset by peer؛ stooq: stooq.com أجاب HTTP 404؛ yahoo: query1.finance.yahoo.com أجاب HTTP 404؛ stooq: Stooq أعاد شكلاً غير متوقع)
+- شموع الذهب الفوري غير متاحة، فالمستويات مأخوذة من العقد الآجل بعد إزاحتها (yahoo: query1.finance.yahoo.com أجاب HTTP 404؛ stooq: Stooq أعاد شكلاً غير متوقع)
 
 ---
 > للدراسة والمعلومة فقط وليس نصيحة مالية ولا توصية بالشراء أو البيع. السعر هو الذهب الفوري XAUUSD عند توفره، وإلا العقد الآجل GC=F وقد يفرق عدة دولارات عن شارتك (انظر مصدر السعر في التحليل) والمستويات من شموع يومية فتتغير مرة في اليوم. هي تقديرات حسابية وقد تخطئ. لا يُنفَّذ أي أمر من هذا المشروع.
