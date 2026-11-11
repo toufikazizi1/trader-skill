@@ -2,12 +2,12 @@
 
 ## الملخص
 
-- **السعر:** 4,042.7$ (-1.59% عن الإغلاق السابق)
+- **السعر:** 4,039.4$ (-1.57% عن الإغلاق السابق)
 - **الحكم الحالي:** حياد / انتظار. الاتجاه هابط، والبنية: قمم وقيعان أدنى (هابط).
 - **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
-- **أقرب دعم / مقاومة:** 3981.0$ / 4089.1$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4089.1 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3954.7$؛ هدف 1:2 عند 4357.9$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3981.0 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4115.4$؛ هدف 1:2 عند 3712.2$.
+- **أقرب دعم / مقاومة:** 3976.7$ / 4084.8$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4084.8 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3950.4$؛ هدف 1:2 عند 4353.6$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3976.7 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4111.1$؛ هدف 1:2 عند 3707.9$.
 - **أحدث خبر:** [أسعار الذهب اليوم الأربعاء 11 نوفمبر 2026 في الصاغة المصرية](https://news.google.com/rss/articles/CBMiREFVX3lxTE5ZYU02cE10eWRGUnFFck5WWHBFM05kam9CMHl2MWdaX0FpSE82b3l1Vzl0dnQ2YkdPdGlCak9SVTdSNWIz?oc=5)
 - **خبر:** [سعر الذهب الآن / أخبار الذهب اليوم: الذهب يحاول الصعود رغم الفيدرالي والدولار](https://news.google.com/rss/articles/CBMib0FVX3lxTE1Pb2RlcE02UXktVW41Z3NGMTJpbGZhY0dQU184V2U3emdhblNTRUhlLVg5YkdFS1Q5RXRwdVQ0QWNsV0N6MTdhd2RsRzdHOENEOXdKbEFjWE5laUJ0UlpTMTdZZzF2bzhHdWQ3WkRMNA?oc=5)
 - **خبر:** [الفضة تتجاوز 53 دولارا للأوقية.. هل تصبح بديلا للذهب في مصر؟](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdHNJS1NLS2V6QnhVQkpCYjZ2VHlfNFZfVVR6Ql9IdVBOYnBrOGZ3dmQ1cXZHTFZwRno0S1lwVHRGV0pxYkJxbjhGYTFuakNZbjRKVW9hUXNja2RM?oc=5)
@@ -16,14 +16,14 @@
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -8.1$ |
-| الاتجاه (EMA 20 و 50) | هابط (4069.2 / 4158.1) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -12.4$ |
+| الاتجاه (EMA 20 و 50) | هابط (4065.0 / 4153.9) |
 | بنية السوق | قمم وقيعان أدنى (هابط) |
 | كفاءة الحركة (20 يوم) | 0.06 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 89.6$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4746.9$ / 3871.2$ |
-| مركز الحجم POC | 4166.7$ |
-| منطقة القيمة VAL إلى VAH | 3893.1$ إلى 4396.6$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4742.6$ / 3866.9$ |
+| مركز الحجم POC | 4162.4$ |
+| منطقة القيمة VAL إلى VAH | 3888.8$ إلى 4392.3$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,8 +31,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4089.1 ثم إعادة اختبار تثبت فوقه | 3954.7$ | 4357.9$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3981.0 ثم إعادة اختبار يفشل في العودة | 4115.4$ | 3712.2$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4084.8 ثم إعادة اختبار تثبت فوقه | 3950.4$ | 4353.6$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3976.7 ثم إعادة اختبار يفشل في العودة | 4111.1$ | 3707.9$ |
 
 ## أخبار الذهب بالعربية
 
@@ -62,7 +62,7 @@
 - [Gold and silver prices rise on commodity markets](https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGZlckJNWUlWdDlfaEU4SzIzQmFNTHRMblFwRnptekNOM3llQUJaMEt5S3VHQ3VCY29HazlYUWRpUkNZM041dkpybG1JU1N6Yzg1RlhXUVFSNlVLYXVwYmt0UTFDZUFrX2QzaER6dmstV1Roa3N5RjJmYWgwZHptaFRPalhXdmc?oc=5) · Apa.az 11-11 05:22 UTC
 - [Dollar Bears and Gold Bulls, Take Warning: Goldman’s David Mericle Adds Another Fed Hike](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRUZULXhyRGtKQi1jQ2U1U3djelYxeG1zSjUwa1pxSHcyaVlrRVBCOEd5cThRUnZla2VRYWRtMnhpY0tOaHpYTkc0OXE4TjVQRzdkRFBxeEg4VjJEbWM4OTcwODlxRVFWcTFvakpjVUJYNG53ak1jYnhoa0NUeDdRb3pB?oc=5) · The Dark Side Of The Boom 11-11 04:30 UTC
 - [Gold Price Forecast: XAU/USD defends $4,000, but for how long?](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR21CU0pxSlpuRktsdXV0a3daSndwV2lDel9GaFdQVGFWaGo3MjVtbndBVjc4SEtvVVBWWG1rdkdsVzhTYWhmTUhzekpIVC1jMHN5VjFKZkVaMnFaZENGa2hTckQ0UkhjbU41Wi0wZlRFZExIS1l4QzZETUZ6cTVmS0pLZDdac21KREh5M2E0Nk1qNm1RZDlRU0EzSktQNTNfaDZHZTVGQkE?oc=5) · FXStreet 11-11 04:26 UTC
-- [Gold Price Analysis Today / Forex Gold Analysis / XAU/USD Analysis - November 11, 2026](https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUFLUTM4NlRHTkdLZjg1YUctVlZyZUlyUVlwR2pEbDJYcm1nQ0poVUlVNEVwNkRHbTd0a2pxYXNlSDg1cVAyQVgxZ2UxN3hndU5pSXQ3ZmlCcXBjWUp6VHljcnpoUm52NzBfcnJGNkVsMXpNX1liM0JsSGxOWkl6RG5hT0w2di0waHhIRktVS0l5MWYzeVFYdQ?oc=5) · Mitrade 11-11 03:14 UTC
+- [Gold Price Analysis Today / Forex Gold Analysis / XAU/USD Analysis - November 11, 2026](https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUFLUTM4NlRHTkdLZjg1YUctVlZyZUlyUVlwR2pEbDJYcm1nQ0poVUlVNEVwNkRHbTd0a2pxYXNlSDg1cVAyQVgxZ2UxN3hndU5pSXQ3ZmlCcXBjWUp6VHljcnpoUm52NzBfcnJGNkVsMXpNX1liM0JsSGxOWkl6RG5hT0w2di0waHhIRktVS0l5MWYzeVFYdQ?oc=5) · Mitrade 11-11 03:00 UTC
 
 ## ملاحظات وأخطاء
 
