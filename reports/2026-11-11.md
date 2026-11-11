@@ -2,28 +2,28 @@
 
 ## الملخص
 
-- **السعر:** 4,051.5$ (-1.45% عن الإغلاق السابق)
+- **السعر:** 4,051.5$ (-1.39% عن الإغلاق السابق)
 - **الحكم الحالي:** حياد / انتظار. الاتجاه هابط، والبنية: قمم وقيعان أدنى (هابط).
 - **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
-- **أقرب دعم / مقاومة:** 3984.1$ / 4092.2$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4092.2 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3957.8$؛ هدف 1:2 عند 4361.0$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3984.1 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4118.5$؛ هدف 1:2 عند 3715.3$.
-- **أحدث خبر:** [Gold, silver rates today, November 11: Check 22K, 24K gold and silver prices in India](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeTFBN0tYQ1hzUmVzOWRkejVJSXBWRTNkcGxWejNOeW1Ja0tQY2Q5UWlrelBYeG1zVENxcTNWeHZ6ZzhMaEhONDRjYVI3S3F3clA5Q3BhVVVNY1Nkd0drekNPeUhneUpYNTZpQ0ZMV05oQ3gtc19QMzNMTUctNGlpV2IwR2ROZFJsSHg2bWY1aGdMYXhUOUNSdU1XOUJJX3ZPdkdPNHVVMTVJXzEtMTRfWDRSOVZibmRFTG1Zc2NUMGhRTDluaHNHQlVYRnEzZTVlWWIycVlVb1dHVHFSWGFqZHg4NEt1Y0E?oc=5)
-- **خبر:** [ارتفعت أسعار الذهب بشكل كبير، بفارق يزيد عن 13 مليون دونغ فيتنامي للأونصة مقارنة بالأسعار العالمية.](https://news.google.com/rss/articles/CBMigwFBVV95cUxNblRmX1RFQUhuRVEzZnQ5S1FVWURIRW1iVUkzaDVPZG1OcDhrQThYSHRGZkFhMGpwRThELWd3VHpPVnFMMGw2UjRVYU9tUlNYZGF4a1JpY3NNSDhuR3ZQTjE2ZDRESTZ5Q3JBWFRiem54MDA5Qll5ZzdMT1RRdll6M3hXWQ?oc=5)
-- **خبر:** [Gold Futures Rise 1% to Rs 1.41 Lakh Amid Firm Global Trends](https://news.google.com/rss/articles/CBMisAFBVV95cUxPZDhXZDJTbHRwS3JmczJ6SE92aG95UE5hWllJVnN6bnBra1BkNDUzZThSa1FDZnRHSkdzUzVyTnNleVNhM2lCR2dpTXJKeG1LMktwRXpBVHhYRTN4eHhBZDFJZ3VZZl8wTEx4bENqYnJhLW5SMkNxbWE4MTBFcXdkYW9fcThVUDZjbUp3VnAtcFVOckdWMXhKZE42X1AtUUNqRFppcVNXdEJkeExBaXhfdtIBtgFBVV95cUxQMUtGMkh1SjdERGFWVFRCR2ZTVmMwdzFRM2c5eUpvNVRTZG10VlhIMmk5Uk1mOXlzcEQ1SGk1OGxxb0Fod3d6bGMtam1mWHprc3pBeGE2ZnZ3MEw3Z0prMmU4c0g3WFhZaTBrblg0VFdUekVTVnROcENaNTZLOElWWUNVYi1GYy1MaFAtSm95Q21UVnVsQkNLUjJQeFhseGMwbjJZUmpXWHVnNkpoQXl2VlppZURaQQ?oc=5)
+- **أقرب دعم / مقاومة:** 3981.4$ / 4089.5$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4089.5 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3955.1$؛ هدف 1:2 عند 4358.3$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3981.4 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4115.8$؛ هدف 1:2 عند 3712.6$.
+- **أحدث خبر:** [ارتفاع محدود بأسعار الذهب اليوم الأربعاء 11 نوفمبر في السوق المحلية](https://news.google.com/rss/articles/CBMiiANBVV95cUxNalBHXzJON1pvbzF0UjhzbXdvWXBmbmFQVko2SXJnNFN6eS1jdkFBUXlIV1M4NlVpMTNodmJrM0x6eU5YQ3hXUWp0VDRMclllemo2UThwTnB4WWtzMWFUU2FGdWtjR0Q1OFFMbF9kSDk0Q25KUUpiZWNWeVQyV2xNQnY4V3c1aXhUNlZCWmJDOXN6WnNseUxzYTZxcjB4bEY0SWxrTXlHNGJkNGVKeUVzYVhTV2JmTERWVXU5bW0tVmZVWTVpWERsaF90ZDF2cUNCNk5uYUhzSDV5cXdJY0ZSTlFBUnFJaEphNEhDVWx6SHRaNFdXaFJSNnRuUUZBTk5RTURNbzJXeHNIa1dkSWFTT3pZNU9TR2R3ZVRrTHhYY1VJZ3RNT0hrNVlNY1dEZWhWSG1OWVBnWU5BdFZJWjdXb0xsWUV1cG00M2RvdVJpc0hHSnVxS0R3cWVnYVZqZmhnZmR1WDI5dDlnRjRUQWF0aWJwS2x6cHBEWThHWWNPeDhxRjk3M1Rtdw?oc=5)
+- **خبر:** [الذهب يعوض جانباً من خسائره الحادة والأوقية تكسر حاجز 4043 دولاراً](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oTjlpeGk1dXVXWnh2d3hiaXAwZWdGN0JHZkVncDJGYVdIMWgyQmZpM29pWXRueUxpcGkzLUo4UmtPWUYyN2hlSlFNaVIwckFrUjVneEFmb3FwVEU?oc=5)
+- **خبر:** [Gold, silver rates today, November 11: Check 22K, 24K gold and silver prices in India](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeTFBN0tYQ1hzUmVzOWRkejVJSXBWRTNkcGxWejNOeW1Ja0tQY2Q5UWlrelBYeG1zVENxcTNWeHZ6ZzhMaEhONDRjYVI3S3F3clA5Q3BhVVVNY1Nkd0drekNPeUhneUpYNTZpQ0ZMV05oQ3gtc19QMzNMTUctNGlpV2IwR2ROZFJsSHg2bWY1aGdMYXhUOUNSdU1XOUJJX3ZPdkdPNHVVMTVJXzEtMTRfWDRSOVZibmRFTG1Zc2NUMGhRTDluaHNHQlVYRnEzZTVlWWIycVlVb1dHVHFSWGFqZHg4NEt1Y0E?oc=5)
 
 ## التحليل
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -5.0$ |
-| الاتجاه (EMA 20 و 50) | هابط (4072.9 / 4161.4) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -7.7$ |
+| الاتجاه (EMA 20 و 50) | هابط (4070.4 / 4158.9) |
 | بنية السوق | قمم وقيعان أدنى (هابط) |
 | كفاءة الحركة (20 يوم) | 0.05 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 89.6$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4750.0$ / 3874.3$ |
-| مركز الحجم POC | 4169.8$ |
-| منطقة القيمة VAL إلى VAH | 3896.2$ إلى 4399.7$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4747.3$ / 3871.6$ |
+| مركز الحجم POC | 4167.1$ |
+| منطقة القيمة VAL إلى VAH | 3893.5$ إلى 4397.0$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,11 +31,13 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4092.2 ثم إعادة اختبار تثبت فوقه | 3957.8$ | 4361.0$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3984.1 ثم إعادة اختبار يفشل في العودة | 4118.5$ | 3715.3$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4089.5 ثم إعادة اختبار تثبت فوقه | 3955.1$ | 4358.3$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3981.4 ثم إعادة اختبار يفشل في العودة | 4115.8$ | 3712.6$ |
 
 ## أخبار الذهب بالعربية
 
+- [ارتفاع محدود بأسعار الذهب اليوم الأربعاء 11 نوفمبر في السوق المحلية](https://news.google.com/rss/articles/CBMiiANBVV95cUxNalBHXzJON1pvbzF0UjhzbXdvWXBmbmFQVko2SXJnNFN6eS1jdkFBUXlIV1M4NlVpMTNodmJrM0x6eU5YQ3hXUWp0VDRMclllemo2UThwTnB4WWtzMWFUU2FGdWtjR0Q1OFFMbF9kSDk0Q25KUUpiZWNWeVQyV2xNQnY4V3c1aXhUNlZCWmJDOXN6WnNseUxzYTZxcjB4bEY0SWxrTXlHNGJkNGVKeUVzYVhTV2JmTERWVXU5bW0tVmZVWTVpWERsaF90ZDF2cUNCNk5uYUhzSDV5cXdJY0ZSTlFBUnFJaEphNEhDVWx6SHRaNFdXaFJSNnRuUUZBTk5RTURNbzJXeHNIa1dkSWFTT3pZNU9TR2R3ZVRrTHhYY1VJZ3RNT0hrNVlNY1dEZWhWSG1OWVBnWU5BdFZJWjdXb0xsWUV1cG00M2RvdVJpc0hHSnVxS0R3cWVnYVZqZmhnZmR1WDI5dDlnRjRUQWF0aWJwS2x6cHBEWThHWWNPeDhxRjk3M1Rtdw?oc=5) · الأخبار المسائى 11-11 10:51 UTC
+- [الذهب يعوض جانباً من خسائره الحادة والأوقية تكسر حاجز 4043 دولاراً](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oTjlpeGk1dXVXWnh2d3hiaXAwZWdGN0JHZkVncDJGYVdIMWgyQmZpM29pWXRueUxpcGkzLUo4UmtPWUYyN2hlSlFNaVIwckFrUjVneEFmb3FwVEU?oc=5) · https://alsaudi.news/ 11-11 10:47 UTC
 - [ارتفعت أسعار الذهب بشكل كبير، بفارق يزيد عن 13 مليون دونغ فيتنامي للأونصة مقارنة بالأسعار العالمية.](https://news.google.com/rss/articles/CBMigwFBVV95cUxNblRmX1RFQUhuRVEzZnQ5S1FVWURIRW1iVUkzaDVPZG1OcDhrQThYSHRGZkFhMGpwRThELWd3VHpPVnFMMGw2UjRVYU9tUlNYZGF4a1JpY3NNSDhuR3ZQTjE2ZDRESTZ5Q3JBWFRiem54MDA5Qll5ZzdMT1RRdll6M3hXWQ?oc=5) · Vietnam.vn 11-11 10:02 UTC
 - [أسعار الذهب ترتفع لـ4043 دولارا للأوقية](https://news.google.com/rss/articles/CBMizwJBVV95cUxPaTRRdUdlT3ZBcUZ4ZjZ2R1BkNVVBdm9NMDF5Uk5FQU9Wa2QzTnVqeVpSQlhCaHRHLXp0WjlGLVIyYmhzQThpNjAzN3ZSTWFRRUFtNlpYVkdUOXBYaWtkbjBLby13OFVIel96S2w1aEY5Yl9rREFjbXQ5d2o2YkR4eC1sRmFWTTEtb1VmVmJad084emhOTGJOSjkzMzBWSFg4b1VOOWJvOUlBMUlJUXJ6eWN0R0NsUS16X1BRd0NzRVc4WWkxb19fbG9iMl9zUkphVFktbjVPanI4bThvaXU0ZkZncDBCcERrSjFNQzFEbFY2WFQ0OWNib3dBbEdrUjZwQmV6ZjBxVnpyTENFVXY4T05kVDd3SE13V21OOFVqNXhnZ2NXWE1sSUlHUFd3YVdtUmhqX0IyMGlYeC1HcVN0X2stdzhNVnJFTFZlbGtVSQ?oc=5) · صحيفة الوئام 11-11 08:06 UTC
 - [الذهب يعاود الارتفاع بعد خسائر بنحو 3%.. والأوقية تتجاوز 4043 دولاراً](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPX2tuVkYzb2JOY1Z1VW93Nm0xQU9RTXBHajdfM1dvYXplTTljTnNOWU4yNklRSjQ1QmhTcTh1YnBUMjN6N09NVFFlTGg0djgtSHpKQTJyaW9ZWnRuN2xmUi0xYnVKU2xCcWphMDFfZVQwZ2pnT29CVG92aUF1TXVnZ213YUk3dnJ3a2NyMVpfWjYtY2ZPQ29mcUlDRUx4MEJseUF1NVZISEw2VDdXdXNlbmkxZWMwQzlnNWdoSUo2TXplUWRiTWJXbDlZQjEzVHBJTXNpM2VVOXJtSXdMdEhzTngydXFXU1FTY2l5Q3k1bmdPN2pvM2dIcDNEUTdfdllXWnVGWTFlUHpUa2wteC00U1ljUTVvNkJIUXlFREdkaEhUZ1RMYTlwQmdnLWd2RUtiLVRpbUE2bHVSQWVNdnQ4UjhTUQ?oc=5) · Agadir24 11-11 08:02 UTC
@@ -46,8 +48,6 @@
 - [ارتفاع سعر الذهب في المعاملات الفورية 0.3 بالمئة إلى 4043.62 دولارا للأوقية (الأونصة)](https://news.google.com/rss/articles/CBMiugRBVV95cUxNQ0paYUh6UnhYRy0taHVfZWVYY3ZqUU53ZG00bm1KYjBJX3JCMzZKcnlrZ2tRYllrN3ZZeVFkNk5GeUxPdlRRa0RQVU12Nl9NVDJ5YzdJc0VPUFVFWkR4UjhJako0WnFXVGlJaW9zY25GVU5VMVVTQUdfZmt6S0Y3dy1tdk9vTEFkYXh4UmhPRzFpa2ZQUEx5cVlVUWpiZ21MTl9yeWdRaXFrOVFUYWxwVlBYcmtRT3lOWnd3MmJyNEcxaUNNNWZaaU0tZW5XRHE1Yms4S1RpMGgxT3JKTkdSZklUZDFwM2Rvb2lxNFpaUXM5MTBPRk5vN1pmelU2LTRjSUJfcURFc3dtODkyNkdNc09DSlRaVjF3N21vcF9uUmxtSkd6QWRmV2xBN1FtcEltUUU1Vmd5YzVmeU5ZeXNWQm1MMWZWVktiSmpNLVVJNk9ZbFF4LVYzc1FyZHloR0RtVXlKblN2RV9qOGhfdEdQb2JCeEp0ZmpnNU4zZ1hWZ0pDZk4zWF83RmRBQ0ZBR3FtZVdfWGVXVkY0SlZ2MmlJYmE0bmxGdEVwTGY4WkNlOEVhUlRQb0pWbUNaazdXUV9vZ2tjX0V1M25rdW1fcFAzMWJuRWxuclRaNHFGWThBVkdNeXp6cFFKS0dHNjRCbnBnQ21FVEliRlhPQWxqM3hOVm43dV9wcGw5UEtQVG9EaDQzVmFDb25qOHVHcG95VTZvVmxfc0hRaGVkbU1aRWtuZmtVTmlFUy03ZGc?oc=5) · الديار 11-11 06:07 UTC
 - [ارتفاع أسعار الذهب واستقرار الدولار عالميا...](https://news.google.com/rss/articles/CBMigwRBVV95cUxOdVk1bW0tN0MtdXAzVGF0OHgwbDVqRWl4X2RqRC05LUo1QnVodUR0UHljbDJ0bElaTlVXQXRZQWRqSlJmbEdnUTY2eHptR3R2dmRaMWYzNE1oVnJ5UENfbjJ2X2NFZ0RIUmRPMXJmNTlXS3ZnZ092alIyei1BZVVvT2dmS2MzNXozemEyb0RFYXExWE9zQnBVOGpsN0hLdkRXUjR0bUI4MEFBV2lSVVJIY2ZrUEtJUlVlQW9rWldTalBvczJ5bU1ERTlLaVF0MkZqSGVObkNZTDhpWGlSc2NaUnFNdHJid2hpdFZmZlZvenJ1cERvNVJpenZyN1RUNzNMQmJSVThrdHk2UXYyUlUxeFI5NnM2MWpiY3Y5T0tYVmFVVVlndjFPUjJxOTdrNGphR1Bxb3RHVGpVTEFXaXpkQzFvM2NlOFZaX0ROczUzSnpaeUJ6N3Y1QWc5YU1aSTBxbExUdEc5dU9VYzdRR2djdm42N2pzc1R3cGJJTW5jQTdwX21FbF9wWkp4OFNnV3pKNjBGbWt2bzBmeURHSXAwY2UwaGNZY2RQTWg0dlJBeV8wbjM3Ym01eU1DNlRWV043bG96Q2txZmFQTHJRakpCZ1EtWE5TeDd6Tm9xZzdWSFh6UXQ2XzNIdzc5amxBVVhqbTNkUkhsbmMxbnJ1SnNEaFBoTQ?oc=5) · جريدة الغد 11-11 06:00 UTC
 - [الذهب يحاول التعافي.. والفيدرالي يهدد مكاسبه برفع الفائدة](https://news.google.com/rss/articles/CBMi7gNBVV95cUxQU0pUdFVUdWM4dE5VSDVwUkVjTEZ0SGF0QWFwOEJMVU85dDRqcDJEV3E3OXhuaFRMR3EybkZzY0k1eDhQU2tiVzZlbWNac1RUU3FfUWVDZEtXVURpX3pUTVRJMnc1MDBZdGtUTF9ZcE5DMm9hYTVOdW5yaXV5cEVkRHRNeWRTR2Jia18ySW5IRG43bldueEpZQjA4bzZLQmZmd2FsQVNpV0lsQ1VQZUtVSzJyaG45WTc4bmc0UjcyLV9nMmJOb2hqMTBXVEZGSUVxRE85T3UwQ0JURnRpMVp6SDRxbS1hb3RSLUFNSkViYlFHbnlYdWtIYk1ZNFZPa2dTTmg5OEhINGNPSWlIaDF1REhYYmo3WFZSNThFUkpfUXJmTTNTUTI4RHZXSlZ1cEhmSF9LamlsQnhBY3V1VV9YTXdCaXNId3JBS2Zvdy1ramFsR3hvR1dOd3hPblFfU25taXBuSmFLMExVcm5LZ1E3U3ZLcEZsTGs4bjNyMy1ucGQyNHR0VUZBRW9mT2Q0Z2IzdE9fQXN1MHZsemp6SjdxX3NGRS1haDdGMDJaNV9HRUZEamRzeTZjRmtYTEFNb21DSENNLUtZZE10LW0zMTFsUkpVWm5RRTJXNUZFN2hVdWhteW1INFlNekFTRDlOZw?oc=5) · CNN الاقتصادية 11-11 06:00 UTC
-- [الذهب يتماسك بعد خسائر حادة.. ورهانات رفع الفائدة تكبح التعافي](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VbnVfaUhIRllVRzJ0YXFsaUttVXVYSWxPNldLb1U5UHpqeFExTGhWSjI0cnhwWW94NXNLenEzQTVqdjlucGdQU2VnazVtVmVZZGs3TEw3bw?oc=5) · إرم بزنس 11-11 05:26 UTC
-- [الذهب يرتفع عالمياً بعد خسائر حادة.. وترقب لقرار الفيدرالي الأمريكي](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQVTJldzY0d2NrVU9ONURaeldXcHVwXzk5Zm82aUNLYzFCaXJiWXA1cU5Yb2VpVkZDU2JqRzlnVW05VUtvOHJzdWZwR29VLUJ2MjFOQTNYdmhYZXQ0aTYwTlhUV1NDSzlac3lmR0xjOTBUbXp6X2FYRHQ0NjNpMjB5YUVrMHVQRlJFMmxxUEw2Y0E2aERfc0VNNDQ0azhUWENSNzVtaG1WcnhQb2NDNEtPbmk1NkJCcGdncmJ5S0FRenBYS09OTk5zaVYzTndZNllINVBmNEJiek1hMmxzdllhNnA3Uk1fLXA1UHlUWWNrRzBxSW9PNzgzWmJyMXlXbldNYUdGSXlubklHZEVzbkZ1YXl3ZUVJazU5S0lYaG5FT3RsVlBqdkw1REI1eGFvTFVZb2VzVFgzel9sNDhBckRyemdJVQ?oc=5) · وكالة الصحافة المستقلة 11-11 05:15 UTC
 
 ## أخبار الذهب بالإنجليزية
 
