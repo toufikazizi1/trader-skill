@@ -2,28 +2,28 @@
 
 ## الملخص
 
-- **السعر:** 4,035.2$ (-2.00% عن الإغلاق السابق)
+- **السعر:** 4,046.9$ (-1.61% عن الإغلاق السابق)
 - **الحكم الحالي:** حياد / انتظار. الاتجاه هابط، والبنية: قمم وقيعان أدنى (هابط).
 - **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
-- **أقرب دعم / مقاومة:** 3984.8$ / 4092.9$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4092.9 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3955.5$؛ هدف 1:2 عند 4367.7$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3984.8 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4122.2$؛ هدف 1:2 عند 3710.0$.
+- **أقرب دعم / مقاومة:** 3980.3$ / 4088.4$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4088.4 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3951.0$؛ هدف 1:2 عند 4363.2$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3980.3 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4117.7$؛ هدف 1:2 عند 3705.5$.
 - **أحدث خبر:** [أدت أرقام التضخم الأمريكية التي جاءت أفضل من المتوقع إلى انخفاض أسعار الذهب بنسبة تقارب 3%.](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaExsQTVzZ0RPd3FLZjREWl9kU3p6VVBXekZwSnFPLW11YXA5RVhKTUZBalotUWRpNXR1N0xBLW1MQmQ0NHlzUHFQYmwxSk9aVFJIcE5SZWlINWVVMHoxYk9KME1NZnVlQndxNVFoYzIydnVfa1hzbktWd3lZaXE4SkNiVGprT3hta0JSNzBwSQ?oc=5)
+- **خبر:** [Global gold prices plunge nearly 3% on 10 November 2026 after US inflation exceeds forecasts](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiSjNBdjFhWGQ0YUVySFlrY29vY3FSOW9pTlNRTFJUbWpUb3N2WkZUOEFPSlFzRHRxTHYyY0o5bThQMFptMWxjOTZKdE1MaXNzRjU1cnVaZlpsZ1hwM0ZxTG5R?oc=5)
 - **خبر:** [توقعات سعر الذهب لأعوام 2026، 2027، 2028–2030 وما بعدها](https://news.google.com/rss/articles/CBMiekFVX3lxTE5QSmFCVm5TVHdqbVZQVEJ2R2ZQdGo4dFQzT094VTFZRFhhQmxUb1FfM0Noc1A4QXpNZkpQdlRvNFRSVGpfeFNpQVBjUndubnplejdGZWVFajFXZEp6c1IxQ19KSHo5eGNNRTR5NHJUbUd4U1IzcXVxYmtn?oc=5)
-- **خبر:** [أسعار الذهب اليوم، 11 نوفمبر: انخفاض حاد في الأسعار العالمية، حيث خسرت ما يقرب من 100 دولار للأونصة.](https://news.google.com/rss/articles/CBMilwFBVV95cUxNcXZvUi1DelVXeFUydkVhQkZabWhKOVMyVVBHdDlnWFlxdDByM0EyRDlVZ3lJdW5tektzZUpQR1BxQjhrNG4tVjYwUTlLUFpVX2dnYzhLaEctWnU1cHdsOTUxc3c4SVcyOXZSaFMwRFo1d1RfN0dnWE50TFlSeTh3ajNVc2R5NFdPN2d1bktwLWtrRWY1SGtn?oc=5)
 
 ## التحليل
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -4.3$ |
-| الاتجاه (EMA 20 و 50) | هابط (4076.7 / 4167.0) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -8.8$ |
+| الاتجاه (EMA 20 و 50) | هابط (4073.8 / 4163.1) |
 | بنية السوق | قمم وقيعان أدنى (هابط) |
-| كفاءة الحركة (20 يوم) | 0.14 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
+| كفاءة الحركة (20 يوم) | 0.12 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 91.6$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4750.7$ / 3875.0$ |
-| مركز الحجم POC | 4170.5$ |
-| منطقة القيمة VAL إلى VAH | 3896.9$ إلى 4422.3$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4746.2$ / 3870.5$ |
+| مركز الحجم POC | 4166.0$ |
+| منطقة القيمة VAL إلى VAH | 3892.4$ إلى 4417.8$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,8 +31,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4092.9 ثم إعادة اختبار تثبت فوقه | 3955.5$ | 4367.7$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3984.8 ثم إعادة اختبار يفشل في العودة | 4122.2$ | 3710.0$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4088.4 ثم إعادة اختبار تثبت فوقه | 3951.0$ | 4363.2$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3980.3 ثم إعادة اختبار يفشل في العودة | 4117.7$ | 3705.5$ |
 
 ## أخبار الذهب بالعربية
 
@@ -51,8 +51,8 @@
 
 ## أخبار الذهب بالإنجليزية
 
+- [Global gold prices plunge nearly 3% on 10 November 2026 after US inflation exceeds forecasts](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiSjNBdjFhWGQ0YUVySFlrY29vY3FSOW9pTlNRTFJUbWpUb3N2WkZUOEFPSlFzRHRxTHYyY0o5bThQMFptMWxjOTZKdE1MaXNzRjU1cnVaZlpsZ1hwM0ZxTG5R?oc=5) · Nation Thailand 11-11 00:28 UTC
 - [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives 3% As U.S. CPI Data Supports Fed Hike](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcmM2Q190bGg4WnRaMmU3emppZGlsSDJkSUlYR3g5MTdRQ1o0bUtvclF6SWZPUWRpZWFtOS1abjgyMHlPeW5mamtJaUlUSFc2S2lrRmNvdy1pcFdOdk13aUJ3SWF0X3h1Q1NNTVN3aUg5SHNVY2hXaGZ6bE9HOFVJU3ZRYXpVb2pjX2dpTmxLcVR6enZaXzdITTd4d2E0YzkxV1IxTW9YSXk2dmdnMzY1M3QzLUdFc2taYWxyRkZVTGQ1OGlJVmVqM0dabzduR1JN?oc=5) · FXEmpire 11-11 00:12 UTC
-- [Gold Price Forecast: XAU/USD 17% Plunge Threatens Multi-Year Uptrend](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVc5VDAwZFdVZk0xR0l0MDcxSzl2OEtTQmcwMm5HVGptNi1RbU81RWdqclBpbHVzYi00c2J0bzE3dUUxeDNSRHlyRmRPMWdhQlFWUjNpNHhWNkdYVm83OTl6Q0tOR0QxQkVwNjY5OVZ1UzdjXzh4aGg5RFNtbHlZOGlPTzA4OVRSZ0hMWm5KemxDV296SUtZeTYwazJaUTJMUEpVSy1SN05xWnN0elM1YXBtMGhSNFYz?oc=5) · StoneX 11-10 23:53 UTC
 - [Gold, silver plunge as hotter U.S. inflation raises prospect of larger Fed rate hike - Kitco PM Report](https://news.google.com/rss/articles/CBMivgFBVV95cUxOWjFnYTZXd19NRGpCTENYaVNGRFJjYkkyOWM3ZVZycC1NeV9MTVBvVDBsVE10UGhvZFlzRWg1UkJXTDduSVZ2S25QOXBtTGdyZzB3d1VQc3lUc000d2hQUnU2SFBVbG1vU0pTeW5oTlFEdVJRODBKanAwbWpOeC0xOS1UTEhYUzh3WVRYajY4aU1OTlNmSFpkM3VyZEMxcnBqQXVyU2VNMFdOR3R6RXNITEdPbkJpcWZkNy1Bcjln?oc=5) · Kitco 11-10 23:40 UTC
 - [Gold Futures Streaming Chart](https://news.google.com/rss/articles/CBMiakFVX3lxTE1aeTFoLWFsUHNUX24yTVZlQm03eU5lbWJIM3VwX3hnY0JkZW9mWXB2Z2ROaEkyazZrSEI5UGlDM2p3MEE2R2pDeEYtM0liVkNRN1ZJdHZ5SWs0R3BhNnpsX1A2TlpybEdRbUE?oc=5) · Investing.com 11-10 22:22 UTC
 - [Gold Feels the Weight of USD, Yields on Hawkish Fed and CPI](https://news.google.com/rss/articles/CBMitAFBVV95cUxQOFkxSXFQLUFzdnQzRVpUZEFfMTA5d0pKLU9QSXlrTXZpc2ZxdmNFYU1DNzBHS01RUVhuS3YwMWdxdDBDRHYya2ZYWTVxYWpISzJKVlFSWERSdkhLN0RSRmRmS01Md0FRUDE0eC1tbUh2ZG41TDNrR0YzZjhGd0ZfaDJJQkR1cDZxTmpVR3lqWHkxZi1ocXN3cDJGb3pEOWN4OWRUZ0dNUXpoMGdRNFlUUDBObjnSAbQBQVVfeXFMUDhZMUlxUC1Bc3Z0M0VaVGRBXzEwOXdKSi1PUEl5a012aXNmcXZjRWFNQzcwR0tNUVFYbkt2MDFncXQwQ0R2MmtmWFk1cWFqSEsySlZRUlhEUnZISzdEUkZkZktNTHdBUVAxNHgtbW1IdmRuNUwza0dGM2Y4RndGX2gySUJEdXA2cU5qVUd5alh5MWYtaHFzd3AyRm96RDljeDlkVGdHTVF6aDBnUTRZVFAwTm45?oc=5) · FOREX.com 11-10 21:38 UTC
