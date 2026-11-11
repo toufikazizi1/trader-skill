@@ -2,12 +2,12 @@
 
 ## الملخص
 
-- **السعر:** 4,050.4$ (-1.45% عن الإغلاق السابق)
+- **السعر:** 4,051.5$ (-1.45% عن الإغلاق السابق)
 - **الحكم الحالي:** حياد / انتظار. الاتجاه هابط، والبنية: قمم وقيعان أدنى (هابط).
 - **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
-- **أقرب دعم / مقاومة:** 3983.0$ / 4091.1$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4091.1 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3956.7$؛ هدف 1:2 عند 4359.9$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3983.0 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4117.4$؛ هدف 1:2 عند 3714.2$.
+- **أقرب دعم / مقاومة:** 3984.1$ / 4092.2$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4092.2 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3957.8$؛ هدف 1:2 عند 4361.0$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3984.1 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4118.5$؛ هدف 1:2 عند 3715.3$.
 - **أحدث خبر:** [Gold, silver rates today, November 11: Check 22K, 24K gold and silver prices in India](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeTFBN0tYQ1hzUmVzOWRkejVJSXBWRTNkcGxWejNOeW1Ja0tQY2Q5UWlrelBYeG1zVENxcTNWeHZ6ZzhMaEhONDRjYVI3S3F3clA5Q3BhVVVNY1Nkd0drekNPeUhneUpYNTZpQ0ZMV05oQ3gtc19QMzNMTUctNGlpV2IwR2ROZFJsSHg2bWY1aGdMYXhUOUNSdU1XOUJJX3ZPdkdPNHVVMTVJXzEtMTRfWDRSOVZibmRFTG1Zc2NUMGhRTDluaHNHQlVYRnEzZTVlWWIycVlVb1dHVHFSWGFqZHg4NEt1Y0E?oc=5)
 - **خبر:** [ارتفعت أسعار الذهب بشكل كبير، بفارق يزيد عن 13 مليون دونغ فيتنامي للأونصة مقارنة بالأسعار العالمية.](https://news.google.com/rss/articles/CBMigwFBVV95cUxNblRmX1RFQUhuRVEzZnQ5S1FVWURIRW1iVUkzaDVPZG1OcDhrQThYSHRGZkFhMGpwRThELWd3VHpPVnFMMGw2UjRVYU9tUlNYZGF4a1JpY3NNSDhuR3ZQTjE2ZDRESTZ5Q3JBWFRiem54MDA5Qll5ZzdMT1RRdll6M3hXWQ?oc=5)
 - **خبر:** [Gold Futures Rise 1% to Rs 1.41 Lakh Amid Firm Global Trends](https://news.google.com/rss/articles/CBMisAFBVV95cUxPZDhXZDJTbHRwS3JmczJ6SE92aG95UE5hWllJVnN6bnBra1BkNDUzZThSa1FDZnRHSkdzUzVyTnNleVNhM2lCR2dpTXJKeG1LMktwRXpBVHhYRTN4eHhBZDFJZ3VZZl8wTEx4bENqYnJhLW5SMkNxbWE4MTBFcXdkYW9fcThVUDZjbUp3VnAtcFVOckdWMXhKZE42X1AtUUNqRFppcVNXdEJkeExBaXhfdtIBtgFBVV95cUxQMUtGMkh1SjdERGFWVFRCR2ZTVmMwdzFRM2c5eUpvNVRTZG10VlhIMmk5Uk1mOXlzcEQ1SGk1OGxxb0Fod3d6bGMtam1mWHprc3pBeGE2ZnZ3MEw3Z0prMmU4c0g3WFhZaTBrblg0VFdUekVTVnROcENaNTZLOElWWUNVYi1GYy1MaFAtSm95Q21UVnVsQkNLUjJQeFhseGMwbjJZUmpXWHVnNkpoQXl2VlppZURaQQ?oc=5)
@@ -16,14 +16,14 @@
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -6.1$ |
-| الاتجاه (EMA 20 و 50) | هابط (4071.8 / 4160.3) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -5.0$ |
+| الاتجاه (EMA 20 و 50) | هابط (4072.9 / 4161.4) |
 | بنية السوق | قمم وقيعان أدنى (هابط) |
 | كفاءة الحركة (20 يوم) | 0.05 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 89.6$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4748.9$ / 3873.2$ |
-| مركز الحجم POC | 4168.7$ |
-| منطقة القيمة VAL إلى VAH | 3895.1$ إلى 4398.6$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4750.0$ / 3874.3$ |
+| مركز الحجم POC | 4169.8$ |
+| منطقة القيمة VAL إلى VAH | 3896.2$ إلى 4399.7$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,8 +31,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4091.1 ثم إعادة اختبار تثبت فوقه | 3956.7$ | 4359.9$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3983.0 ثم إعادة اختبار يفشل في العودة | 4117.4$ | 3714.2$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4092.2 ثم إعادة اختبار تثبت فوقه | 3957.8$ | 4361.0$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3984.1 ثم إعادة اختبار يفشل في العودة | 4118.5$ | 3715.3$ |
 
 ## أخبار الذهب بالعربية
 
