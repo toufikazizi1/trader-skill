@@ -2,12 +2,12 @@
 
 ## الملخص
 
-- **السعر:** 4,040.1$ (-1.78% عن الإغلاق السابق)
+- **السعر:** 4,033.5$ (-1.97% عن الإغلاق السابق)
 - **الحكم الحالي:** حياد / انتظار. الاتجاه هابط، والبنية: قمم وقيعان أدنى (هابط).
 - **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
-- **أقرب دعم / مقاومة:** 3980.3$ / 4088.4$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4088.4 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3951.5$؛ هدف 1:2 عند 4362.3$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3980.3 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4117.2$؛ هدف 1:2 عند 3706.4$.
+- **أقرب دعم / مقاومة:** 3981.7$ / 4089.8$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4089.8 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3952.9$؛ هدف 1:2 عند 4363.7$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3981.7 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4118.6$؛ هدف 1:2 عند 3707.8$.
 - **أحدث خبر:** [أسعار الذهب اليوم، 11 نوفمبر: انخفاض حاد في الأسعار العالمية، حيث خسرت ما يقرب من 100 دولار للأونصة.](https://news.google.com/rss/articles/CBMilwFBVV95cUxNcXZvUi1DelVXeFUydkVhQkZabWhKOVMyVVBHdDlnWFlxdDByM0EyRDlVZ3lJdW5tektzZUpQR1BxQjhrNG4tVjYwUTlLUFpVX2dnYzhLaEctWnU1cHdsOTUxc3c4SVcyOXZSaFMwRFo1d1RfN0dnWE50TFlSeTh3ajNVc2R5NFdPN2d1bktwLWtrRWY1SGtn?oc=5)
 - **خبر:** [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives 3% As U.S. CPI Data Supports Fed Hike](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcmM2Q190bGg4WnRaMmU3emppZGlsSDJkSUlYR3g5MTdRQ1o0bUtvclF6SWZPUWRpZWFtOS1abjgyMHlPeW5mamtJaUlUSFc2S2lrRmNvdy1pcFdOdk13aUJ3SWF0X3h1Q1NNTVN3aUg5SHNVY2hXaGZ6bE9HOFVJU3ZRYXpVb2pjX2dpTmxLcVR6enZaXzdITTd4d2E0YzkxV1IxTW9YSXk2dmdnMzY1M3QzLUdFc2taYWxyRkZVTGQ1OGlJVmVqM0dabzduR1JN?oc=5)
 - **خبر:** [أسعار الذهب اليوم، 11 نوفمبر 2026: انخفاض حاد في الأسعار العالمية، والأسعار المحلية تنتظر إعادة فتح السوق.](https://news.google.com/rss/articles/CBMimgFBVV95cUxOclR4WUpxNHpuTV9zTUxYNDhTODhCcDgwTU1ESXpvX0FjV0ZpYUF6UTZNNU0xYjJmZmZCb0daVXM2RGRGSjQ1ZnJSWUhhUU0xMkJkUU0xVkMzUU41UnoyWm9MTGUxZUlmQnBJUUgwNWU4X2FKVXJKMWhTMTJtTFhjbnIwWjV4N25KM1ZyYTROWlRrRktETVZpZi1B?oc=5)
@@ -16,14 +16,14 @@
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -8.8$ |
-| الاتجاه (EMA 20 و 50) | هابط (4073.1 / 4162.9) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -7.4$ |
+| الاتجاه (EMA 20 و 50) | هابط (4073.8 / 4164.0) |
 | بنية السوق | قمم وقيعان أدنى (هابط) |
-| كفاءة الحركة (20 يوم) | 0.13 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
+| كفاءة الحركة (20 يوم) | 0.14 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 91.3$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4746.2$ / 3870.5$ |
-| مركز الحجم POC | 4166.0$ |
-| منطقة القيمة VAL إلى VAH | 3892.4$ إلى 4417.8$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4747.6$ / 3871.9$ |
+| مركز الحجم POC | 4167.4$ |
+| منطقة القيمة VAL إلى VAH | 3893.8$ إلى 4419.2$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,8 +31,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4088.4 ثم إعادة اختبار تثبت فوقه | 3951.5$ | 4362.3$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3980.3 ثم إعادة اختبار يفشل في العودة | 4117.2$ | 3706.4$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4089.8 ثم إعادة اختبار تثبت فوقه | 3952.9$ | 4363.7$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3981.7 ثم إعادة اختبار يفشل في العودة | 4118.6$ | 3707.8$ |
 
 ## أخبار الذهب بالعربية
 
@@ -57,12 +57,12 @@
 - [Gold Feels the Weight of USD, Yields on Hawkish Fed and CPI](https://news.google.com/rss/articles/CBMitAFBVV95cUxQOFkxSXFQLUFzdnQzRVpUZEFfMTA5d0pKLU9QSXlrTXZpc2ZxdmNFYU1DNzBHS01RUVhuS3YwMWdxdDBDRHYya2ZYWTVxYWpISzJKVlFSWERSdkhLN0RSRmRmS01Md0FRUDE0eC1tbUh2ZG41TDNrR0YzZjhGd0ZfaDJJQkR1cDZxTmpVR3lqWHkxZi1ocXN3cDJGb3pEOWN4OWRUZ0dNUXpoMGdRNFlUUDBObjnSAbQBQVVfeXFMUDhZMUlxUC1Bc3Z0M0VaVGRBXzEwOXdKSi1PUEl5a012aXNmcXZjRWFNQzcwR0tNUVFYbkt2MDFncXQwQ0R2MmtmWFk1cWFqSEsySlZRUlhEUnZISzdEUkZkZktNTHdBUVAxNHgtbW1IdmRuNUwza0dGM2Y4RndGX2gySUJEdXA2cU5qVUd5alh5MWYtaHFzd3AyRm96RDljeDlkVGdHTVF6aDBnUTRZVFAwTm45?oc=5) · FOREX.com 11-10 21:38 UTC
 - [Gold Holds Gain Above $4,100 as Lower Oil Eases Inflation Woes](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWZxX1NKb3NlaFNCOHJlcE1kN2NRZjh0OEVaM3hQS1dQX0t4VkFadURVZzJhVE45Mlk0a2RWajItRjdDdWxBSU1mcWZBYng4cnBFUTNSSWE3VnQyOUE0WnRVWGtpcFNZejlNWlJLelgwNk9hWjRsZ3ZyYU1ERnQ1cS1VRWk5dG1PcUJoU01SeURPQUZoN3RnVEFTM1FkVzRORU9PWUpHN20wYXZpOU9jNGd3?oc=5) · Bloomberg.com 11-10 20:17 UTC
 - [Gold Technical Outlook: XAU/USD Bulls Fight to Hold Breakout Support After 7% Rally](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTU81M1ppNkE4SnBPWE9DYnhrX25uRldKX2oyb3c4QkNYc3cxUmZWMDVfcUlqSWwtYjMwcXl3UXFMM1k2MDV6X0hVWXBCQUpnV3R3NWt5RjNOYTFWZzRCVkhiSzJOTVFUdmdfeTNEZGtuM2NuYTJWMWZ4MXB1bGhOY0FvU0tsRVRWRnhHSUR0a3dMX21xSUdzR2RVRU9EVnF3QXFLT3VINHlJSmxkSmJsYW4xQ3NTaGd2VllnSTF1cU93UlVtNWtGdV9ITXpYX1puSEM5WG1fZkRFUdIB5gFBVV95cUxOTDVPSGJ6eWhVWlRLUHROeTdKZG00NnF4MHZhXzVSc090b3p4dFJHeE5ETFZsREJRR3JRU3hXQmxkZGVpMGlqRFFRWEY1MVUyalVxeV9TUEV6bkFsbG1YTUZhQk9Td2RyQUhicFI3UUhfellvMG82cHI4NzZYOWFxN0RCNnVjR0dBMWhQMGRRU2xBbTJUcy1MeGsxQ3ZlV3VFd3FDTFNsZWlZR0QzZkRZVzZralVONnJ0UFZpWVBJU3hZeGM5UG5UQnUydlB4ZVBxWlU1Mk5vUnBuNUtOZlpiNE8zRkhDQQ?oc=5) · FOREX.com 11-10 18:44 UTC
-- [Gold crashes toward $4,000 as hot US inflation sends Treasury yields above 5%](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaEFoMmJfNDBIR0lWZjNpS1k1TGhFVVFDdnZ1cEVxSWRDM3ZiWXlsLTVTSlhVakp4Tjc1LVJCd01wVEF5V0RDWHBuOFluVmhUN1A5eXNDT2tybFVIcy1Jc0JNS0ZWOWRJRk1VbExOcjRGdF9JeDdfandaMGJxVmVPVFE5b2ctSDlzSkd5M0RvVThXTXBVb1RXRXhtS210TncyQmdDMllNRy1aUGE2eWRJZU1jZjJGTlFhdlE?oc=5) · FXStreet 11-10 18:15 UTC
-- [META_TITLE_QUOTE](https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyUjl3TDFqeXJOOE9qNm8tYXNFcUJJREpDdXFNaE9fU0d0d29zN0pkaExFZUZiZENwMVJIOW5UTGVGVmZJRlB0dUJhSEZLUQ?oc=5) · Yahoo Finance 11-10 16:51 UTC
 - [Bullion Takes A Hit: Gold Drops Over 2% As Hotter US CPI Lifts Dollar, Yields On Hawkish Fed Repricing](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdUpHVU1OX2lFZTB4UUVCNm01a09OeG5KT3ZDdWY4NldKVXlOMEVOQ3BFajM0SEc1VjhjTGRYUU5GZVBqcmRiUnNscWZlNzdWUXV5aHNwUHJId0s5eXg3dTZaN3NqZ0taa1Q3YjM1TDJBVnJIbEdkOTA0OUExbjdSZ1cxeTBwSDdfQ1ZPTDh1ZDN0WTdZRkRWWTlOOXJMc1RRcm9QU003eXdXQ19hQlhiVjFIY0w5Z1FvVVZDdGJINUx6YVNFQ1JSTngzVFBvSkszemhqcEFOU3lhdjjSAeMBQVVfeXFMTUpNRGQzNUVmY2dQSHVIN29ZSktYQUdNeFV1a1RXQWJmM0dQWXZMLW1PUjRMRTNiWVpkOWU2bkdDa0UzWlRvUkN5Qm9vYnUwYmwtSmdLdWxzbVVLVDBud3JKSHptdm5lR0Z6Rl9fVjZabFU5bEhSeklMTThCVmNteC1XTTgyUkwybm1jVzVWTUE3aVBkeExyR2xEMFViRjJUN2NtZ2g3M0F6ZEdRaGFiNXhVaG1rNEV3ajE1VWV3RkZab0VzNXRlcFpnX3VPeU9wUDlydHRia0ZMWTRFMjNMU2FPenc?oc=5) · NDTV Profit 11-10 16:50 UTC
 - [Gold Price Today: Spot Gold Slides 2.6% to $4,026 as Treasury Yields and the Dollar Climb](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ25EMXhFTWdOemVZc0VQenhYRXd0NHFEem1nNUo0cDBOVll2RUJacFZ2N2lEYVFLdWI2OUdreDNXb3BNcms4ZVdsaUdoV3VweUw4SlFmZWdkYUFqYUpDZElrZDFRdXNuLTRtaVVTNjNEdTI3bzFYZnY4Q2FBb3d5X0VJQXA4MG5nSGxubjhfV0FiTmw2NEpoWHNWZ3FiM24wblljb0pXNFJfdVp0S1h4WGlISmdzWEt0MTVlbElGclhOQQ?oc=5) · JournalArta 11-10 16:40 UTC
 - [Gold Price Forecast: Fed Rate Hike Odds, CPI Data and Key XAUUSD Levels](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZF9TVW1HQmFiWURpVF8yTEdYcmhSQjdHbTgycERGNXVXalJfUFRTcnhGV2xfSWRTQ1ZGM1dlUFVTMkEzUWRwUWZoYkxOT3lNd295c0ZBSk5tTTBZYjAyQURKRHhIN2dhcjlFT0NJSE9GUFQ2OU9fVk9sZ1dEXzE4WVlZMW1SWjlXUm1ROGhlUGxZaU9PeUEzT0llSGhwTmhxdFdGYlVMdm9pMi1QVlpQeklR?oc=5) · FXLeaders 11-10 16:12 UTC
 - [Dollar Jumps and Gold Falls on Hot US CPI and Hawkish Fed Comments](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTlA4MDFuSjhfR0FGNFg1R1ItMWJxM0VyX2lYSTlDaV9sX3FmWjh3R21QbGJJTFVoRWEtZDhsaGhpaHpsNnZSSUJXSHd2QUQzY0lEejJkYUhqVWV6SkpwMThuTjd2Q1lmNFQwWERsVlZHRzJwa29VNjJtYmd2V3d6RWprRUM4QVdLX0Z0aFU1azdDc1JBVUN6bmRlTXM0ZnVrRS1fZkIyR0VIRmdiUmxvTE93Mjd2TmdRWHdZY2hDQzhsNEU?oc=5) · TradingView 11-10 15:39 UTC
+- [Gold price today: gold falls 2% as hotter US CPI fuels Fed rate hike bets](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzF2WUM2amF4M0lkc3VuWldFcG8xUlJVRjVTSXFKQUlFM1Q0a0pxUUs5bXJ0ZXpZa0NjbU1pWndpRjhsQmYtU0NQc3ltZUxqSk93Yktoc21mY3BxeXFnT2FNdWJSUHUzV1N3Q0lGUEQxTXdFSHhtMGh2QTMyQUd1QVpTeU1PLUlqdWgw?oc=5) · Invezz 11-10 15:20 UTC
+- [Gold Price Forecast: Hot CPI and Waller Remarks Keep Pressure on XAUUSD](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRE1MRnpkWDhZdF9GdUVZNnFCSmRkTGcxLWgwZF9fYUU2cWlnNmFmWGxGQzIxTmNvaVdxRS1sXzBCbmNSVU5FRUw5VEo1LXhMZVBvdlVaNTNld3htajhRMUR4Nm9WcDY5NVRxOTNFcm5GOTNLdGZpQ0gxYlMydDl2Y29oMUdlU1M4S2UtWTNuU3FjWVBuZVFzZXZqbF9XMEExRWJla3FrMmNTZHJraDdYRXp4TDVEc2JSTE1oSVF3?oc=5) · FXEmpire 11-10 15:19 UTC
 
 ## ملاحظات وأخطاء
 
