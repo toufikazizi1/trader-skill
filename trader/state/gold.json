@@ -1,6 +1,8 @@
 {
-  "last_price": 3875.5,
-  "last_time": "2026-11-12T21:30:00Z",
+  "last_price": 3878.600098,
+  "last_time": "2026-11-12T22:00:00Z",
   "last_verdict": "\u0645\u0627\u0626\u0644 \u0644\u0644\u0647\u0628\u0648\u0637",
-  "notify": []
+  "notify": [
+    "near"
+  ]
 }
