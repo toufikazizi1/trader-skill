@@ -2,28 +2,28 @@
 
 ## الملخص
 
-- **السعر:** 3,943.8$ (-6.32% عن الإغلاق السابق)
+- **السعر:** 3,948.9$ (-6.17% عن الإغلاق السابق)
 - **الحكم الحالي:** حياد / انتظار. الاتجاه هابط، والبنية: متذبذب.
 - **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
-- **أقرب دعم / مقاومة:** 3875.7$ / 4093.6$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4093.6 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3954.3$؛ هدف 1:2 عند 4372.2$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3875.7 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4015.0$؛ هدف 1:2 عند 3597.2$.
-- **أحدث خبر:** [Gold prices fall for third straight day as dollar and Treasury yields rise](https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ1RkdTBDOU5TQUsyb01nTjV4Yy1ySWc0Y2hMQ1p6RFk2NnhQWGxXcGZLalJ2bUI0QTl5bGtMV3hnS1JMRS1Nc2VON2UzR0dyWEhod1VZcU10UUVKWFhDVmxQX1R1UDgzUTJqNlppaDFDVkhpc2M0SnpWbUtiX09RbkMyZ0RncV9PV1E?oc=5)
+- **أقرب دعم / مقاومة:** 3874.1$ / 4092.0$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4092.0 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3952.7$؛ هدف 1:2 عند 4370.6$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3874.1 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4013.4$؛ هدف 1:2 عند 3595.5$.
+- **أحدث خبر:** [تراجع أسعار الذهب عالميًا.. والأوقية تسجل 3979.09 دولار](https://news.google.com/rss/articles/CBMivwJBVV95cUxNakEtekJCanRXN3JGa19PbnN1QWRtVW5wY0VFemxTdkNHV2lfMTFCMWNEcHRpU0llYjUwZkJMZXlQSlJQSmdWT25nSC15NUt4Q1p2WTVoT3o0OWcwNHRYOU5qRW5KSnF0YkdJeHB4b0JFNnRDVkxVMkd1cXZtY3JsUVpleGxQOGlJRk1JSVAyUEd5M01wT043cmlZWlpwMjE5aF8yM1NuNm0zbEowVVk3OUZ1c2l0a3NzdWFPSG84clpaSTBoN3dSNFJJeVQyb2w2dTdQMnhqQ1QzS0h3SE5jWFMySTNPU1Y2VjJuaVh3d2dweXh1SDAwOTNOZE5zU085ZjNjOU1zSXJLQWkwSHRVdzl5UUpfY0tRWEVWLUVtZmFnRmRUM0dwZTBKNlJBRUJvRm9YcktWdzhJOERaWmhR?oc=5)
+- **خبر:** [Gold prices fall for third straight day as dollar and Treasury yields rise](https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ1RkdTBDOU5TQUsyb01nTjV4Yy1ySWc0Y2hMQ1p6RFk2NnhQWGxXcGZLalJ2bUI0QTl5bGtMV3hnS1JMRS1Nc2VON2UzR0dyWEhod1VZcU10UUVKWFhDVmxQX1R1UDgzUTJqNlppaDFDVkhpc2M0SnpWbUtiX09RbkMyZ0RncV9PV1E?oc=5)
 - **خبر:** [هبوط أسعار الذهب في الأردن الخميس 12 نوفمبر مع تراجع عالمي](https://news.google.com/rss/articles/CBMivwNBVV95cUxPVUtyZ0R3VERuMHZlZHYwX28yX0ZQT3MwMWlCZFVLNzBRUHpfQnZoc1ZxMXNSZk5EaVJ3QTNjMUlyQ24xUjBmV3JqZXFDUjQ4Y3RxNzlHRDZGOXdNUjh6ejVtRUM2c2pmNk54cTBVZUlPc2JRMUM0aWZ1aEJ3eThhTW5YZGtHWEtMRWZkQW4zV0lrZVRMd2xNZzVIRW9tZ0I2LXQzQUxCUnctMFhfZkpGZHhZY1dFWERDTnpMZl80MUQ1SUFWbzJtVTNJZzZaTWVDTVFlTGhDeGNfbVQtc2NyVzNqU0s5NnpXNjhVTVM4SnFKc2dOUXp0S3VxNG1Id1NTaV85dTEtUENYNzU0SmNTNl9iUHl3VjkwUnRvUy1EOUl2Qk40ZjBZMGlaS2xYRFJBYzVfRWllRTVmZEZzS3hjbmw3ZnBRekIxdnBhZXZ4T1pCNmR3c3BjMDVnUjVSajhTT2dmY0p0UWhISmlDQ1dFd1Bqblg5aE1EZU16WEhnQkkwQW92Zi1DbThuTzh1NXZoOEZOYnJEUHpCUDZOMWVOY1hQMlA1VlR6elVIQ3p5LWdHN1FiakEwR0R1ZFFjSUk?oc=5)
-- **خبر:** [تراجع أسعار الذهب عالميًا.. والأوقية تسجل 3979.09 دولار للأونصة](https://news.google.com/rss/articles/CBMizAJBVV95cUxNVE5rWndvZmVMTElJQjNEQWNIM2h2VFJRdEdVR0lVZWFkT1ZnVUN0ajNFQkdNaFU1YkZ0Q2lZMGw4bHVUVVpQRmNuWWFmeDZmUU5KNTlhSlN1YVJIVU0tMDZxYWtvN1dldkZLWVA3d1ltSWVzR25Lb0s2TGVJTUlaY2hzdDF6N0xRUlc2YmdUVWpiMnhQYTFXcEVMRjU4WjhjZExFWmVEVmFJWk1rX25ka3FTTENZSXdXT3dIYjJ5Q2c0Mm0yT3lOZF9RUlJFck43MjNjRTIxRDEzWDN1X0JGbURZYnVFOEJLeDFVTVNCWlhYaU1oeGVIRnhnVWZWaTAtTllwSW5WejZaRWk5Q2E0WVR5b3hQRjk3U0dmUXJvSkU5aE1aQlZBQnJIWXJVSnA2aFR4MDAyRzNiT0dQMDNZSlFOMEpJc1cwRVlDVA?oc=5)
 
 ## التحليل
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -3.6$ |
-| الاتجاه (EMA 20 و 50) | هابط (4057.0 / 4152.2) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -5.2$ |
+| الاتجاه (EMA 20 و 50) | هابط (4056.1 / 4150.8) |
 | بنية السوق | متذبذب |
 | كفاءة الحركة (20 يوم) | 0.23 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 92.8$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4751.4$ / 3875.7$ |
-| مركز الحجم POC | 4171.2$ |
-| منطقة القيمة VAL إلى VAH | 3897.6$ إلى 4401.1$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4749.8$ / 3874.1$ |
+| مركز الحجم POC | 4169.6$ |
+| منطقة القيمة VAL إلى VAH | 3896.0$ إلى 4399.5$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,13 +31,15 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4093.6 ثم إعادة اختبار تثبت فوقه | 3954.3$ | 4372.2$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3875.7 ثم إعادة اختبار يفشل في العودة | 4015.0$ | 3597.2$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4092.0 ثم إعادة اختبار تثبت فوقه | 3952.7$ | 4370.6$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3874.1 ثم إعادة اختبار يفشل في العودة | 4013.4$ | 3595.5$ |
 
 ## أخبار الذهب بالعربية
 
+- [تراجع أسعار الذهب عالميًا.. والأوقية تسجل 3979.09 دولار](https://news.google.com/rss/articles/CBMivwJBVV95cUxNakEtekJCanRXN3JGa19PbnN1QWRtVW5wY0VFemxTdkNHV2lfMTFCMWNEcHRpU0llYjUwZkJMZXlQSlJQSmdWT25nSC15NUt4Q1p2WTVoT3o0OWcwNHRYOU5qRW5KSnF0YkdJeHB4b0JFNnRDVkxVMkd1cXZtY3JsUVpleGxQOGlJRk1JSVAyUEd5M01wT043cmlZWlpwMjE5aF8yM1NuNm0zbEowVVk3OUZ1c2l0a3NzdWFPSG84clpaSTBoN3dSNFJJeVQyb2w2dTdQMnhqQ1QzS0h3SE5jWFMySTNPU1Y2VjJuaVh3d2dweXh1SDAwOTNOZE5zU085ZjNjOU1zSXJLQWkwSHRVdzl5UUpfY0tRWEVWLUVtZmFnRmRUM0dwZTBKNlJBRUJvRm9YcktWdzhJOERaWmhR?oc=5) · موقع الموقع 11-12 10:06 UTC
 - [هبوط أسعار الذهب في الأردن الخميس 12 نوفمبر مع تراجع عالمي](https://news.google.com/rss/articles/CBMivwNBVV95cUxPVUtyZ0R3VERuMHZlZHYwX28yX0ZQT3MwMWlCZFVLNzBRUHpfQnZoc1ZxMXNSZk5EaVJ3QTNjMUlyQ24xUjBmV3JqZXFDUjQ4Y3RxNzlHRDZGOXdNUjh6ejVtRUM2c2pmNk54cTBVZUlPc2JRMUM0aWZ1aEJ3eThhTW5YZGtHWEtMRWZkQW4zV0lrZVRMd2xNZzVIRW9tZ0I2LXQzQUxCUnctMFhfZkpGZHhZY1dFWERDTnpMZl80MUQ1SUFWbzJtVTNJZzZaTWVDTVFlTGhDeGNfbVQtc2NyVzNqU0s5NnpXNjhVTVM4SnFKc2dOUXp0S3VxNG1Id1NTaV85dTEtUENYNzU0SmNTNl9iUHl3VjkwUnRvUy1EOUl2Qk40ZjBZMGlaS2xYRFJBYzVfRWllRTVmZEZzS3hjbmw3ZnBRekIxdnBhZXZ4T1pCNmR3c3BjMDVnUjVSajhTT2dmY0p0UWhISmlDQ1dFd1Bqblg5aE1EZU16WEhnQkkwQW92Zi1DbThuTzh1NXZoOEZOYnJEUHpCUDZOMWVOY1hQMlA1VlR6elVIQ3p5LWdHN1FiakEwR0R1ZFFjSUk?oc=5) · لحظات نيوز 11-12 09:15 UTC
 - [تراجع أسعار الذهب عالميًا.. والأوقية تسجل 3979.09 دولار للأونصة](https://news.google.com/rss/articles/CBMizAJBVV95cUxNVE5rWndvZmVMTElJQjNEQWNIM2h2VFJRdEdVR0lVZWFkT1ZnVUN0ajNFQkdNaFU1YkZ0Q2lZMGw4bHVUVVpQRmNuWWFmeDZmUU5KNTlhSlN1YVJIVU0tMDZxYWtvN1dldkZLWVA3d1ltSWVzR25Lb0s2TGVJTUlaY2hzdDF6N0xRUlc2YmdUVWpiMnhQYTFXcEVMRjU4WjhjZExFWmVEVmFJWk1rX25ka3FTTENZSXdXT3dIYjJ5Q2c0Mm0yT3lOZF9RUlJFck43MjNjRTIxRDEzWDN1X0JGbURZYnVFOEJLeDFVTVNCWlhYaU1oeGVIRnhnVWZWaTAtTllwSW5WejZaRWk5Q2E0WVR5b3hQRjk3U0dmUXJvSkU5aE1aQlZBQnJIWXJVSnA2aFR4MDAyRzNiT0dQMDNZSlFOMEpJc1cwRVlDVA?oc=5) · إقرأ نيوز 11-12 09:06 UTC
+- [توقعات سعر الذهب لأعوام 2026، 2027، 2028–2030 وما بعدها](https://news.google.com/rss/articles/CBMiekFVX3lxTE5QSmFCVm5TVHdqbVZQVEJ2R2ZQdGo4dFQzT094VTFZRFhhQmxUb1FfM0Noc1A4QXpNZkpQdlRvNFRSVGpfeFNpQVBjUndubnplejdGZWVFajFXZEp6c1IxQ19KSHo5eGNNRTR5NHJUbUd4U1IzcXVxYmtn?oc=5) · LiteFinance 11-12 08:26 UTC
 - [انخفاض أسعار الذهب دون 4 آلاف دولار للأوقية](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yN2I5UTEyZ1FMc0pwLTZKZmU4N1NZd1paOTFSX2l5UVk0dks2bGZXMDdKdVNfUnhZWkNzVmsxd2c2RDV5MWE4dUpWX3RETWROTjI3blNB?oc=5) · جريدة البورصة 11-12 08:26 UTC
 - [TD Securities: أسعار الذهب قد تعاود اختبار مستوى 3900 دولار للأوقية](https://news.google.com/rss/articles/CBMiygNBVV95cUxPc2ZyMnVlNEI3dmR6bVo0ckE4MGFKcFJOZVh5SDgwc2gwdktwb1lia3p1VnY4X3Y4am1UNmdCYlBkbHhYdzJqdlVBX3FpQXJaMEtZWTJhV2pqMTBuN0JOM0xINGF6dTRzLVljQXp3ZU9mQnE0RGR6QWpqNWhlSFZKdTFWX3FsT2RkdnI1YTVHYjl0eTdYN1FyZV84SlBQOV80UFZnS1J6WFUwd1dBc3Y3c052TjZsZGN0Nm10TjR6ci1SWHBiNHc4X2xJN2FmUEwtN2VFYU54cFF5SHdCRUk3dnhjamlKd2F2ZTNFSWowbnNaVDRHeDRrQUhsZkhUbS1wVmRkeGZyeWg2VVNhbGdoWHVtVnFkRnR0OWhtMkZUcDRPXzI0V1dLSDRHQ2dVWk00Rl9TSG15T0dtSXFBZkRxSFZCZS1NbFkwamdEZjR2WE53a0l6eGhydjNyMldOOTNvXy1FRkRJOVFhdFR4bUVkbmhjMUsybVFsSzhaM1VGdjFsMjllUTA5c2dWZUNDajFneDVkWDNTNGxfd1I2VG5MUzRPbWtoeklqMUNSbjYteXMxYlE5LUlpUVgxOTVDUDVxeHN6T0FEVlZRUQ?oc=5) · المتداول العربي 11-12 07:44 UTC
 - [تراجع أسعار الذهب عالميًا.. الأوقية تحت 4000 دولار](https://news.google.com/rss/articles/CBMiwwJBVV95cUxOR1JIbUp3SHlwM1VyRG1PQ01qajFkM2gxVGVralRiNVZCY2dGSkEwNjNpdUVlQ2Z3TnlZMVRQbWJPeXVsbFBuOENMb3RtRG0wNGpOOV9tX1JYX3NJTm5DRnUtNUtxLUNaNEJRdm9pMXR1b1M4c0NCVk0xR2Z0MUdNSjZNNnY5TnZmU0xqQVJPc0FHZkR5QmNWVlcxNTNQNlNWdkM3MVplLWo0VlhCbzlpdHE3S2FwcGJYSDNKSkE5Z0VVX3JFazN5bzRfSTRJTXBGMElTajdxRFlSRXY2QnpobmtXb2JVQ0Q4LVg5dGxMSHVEdzc2X1kzaTBKa2F5aWJYTzBucnRNUHJpcHpFQ3p0X3lRVERtTWtZc09laWl0M25Ocnc3NEY2bzJ2ZUt3MVJuWGhEVmtzcTI4MElTUnp2VzFJTQ?oc=5) · شبكة رؤية الإخبارية 11-12 07:33 UTC
@@ -45,9 +47,7 @@
 - [انخفاض أسعار الذهب وارتفاع الدولار عالميا](https://news.google.com/rss/articles/CBMi7AJBVV95cUxPZUtmZXBlbjdVWXJyTjdzYmE3WE56MWw3dGN4SWtyQWFYV21pR3A4d2V3dS1IUjRXaHZsOFNLWVJOWFUycmNmMDlyeTB2RDY2bTh6R3pNLUxRaExJU1UxazBKc2hhYXd0LW81aWI2UjVkajZvSE9yZVVZc3d6eVAtbXIycjFkTzA0azA3blVMMG5jS1AxUlpWVkNBT1MwUWVfZy1Db2VtM0JqbnJ6QzhHTm1rS1dsT21GQklVM2RDcjY1TFVtX0dOdjN0UzdiT3M3MzNPSkpCT1dCY183Q1FGME1WMHltYXlVYmFnTGwxNnhyeWFPTUhuYk9UUFgyTmtHOTFtWFRveXdPd1JSRlZPcHdqY3pBNXhuajlRdTJ6d1dBUW5lcGdjTkNfc3RYX2ZVRENUclNLR2dpWTJ6Q1Z2VkpaX3U1R3c5ejVzNWI1b2loOWM2Nk10U210MEZLeGNfMm9zSjIwd1h0Qldm?oc=5) · وكالة الانباء الاردنية 11-12 07:05 UTC
 - [الذهب يواجه اختبارا حاسما عند 4,000 دولار فما هي التوقعات؟](https://news.google.com/rss/articles/CBMiU0FVX3lxTE04YW9hMmwyZnB0OGszaE1Ca2pUSTNQc3k2OVpxX2M1M2NGNWJMSVlCVHgtVDJmNGY3ZlRhcmtoeldZeXBoNkVtRHhtZXV4dlFiOVJJ?oc=5) · شبكة تواصل الإخبارية 11-12 06:35 UTC
 - [الذهب يهبط إلى (3979.09) دولارًا للأوقية مع صعود الدولار](https://news.google.com/rss/articles/CBMivgJBVV95cUxNTGtGRUI0NFdPQmRfWk55T1BkNmpWcVZFT1JTUlp0WkI5WHJUam90WE9aZVBFYVVYaUNsREg4Rk94TEk5SWJqcFg5ZmprWVRGUWNJSUdlbTRod01GTHFVNXRuZEdqYXZoRHA1X0lVLWRfS01waTFwaVJxVFpONU1mUDBObEJmSWQwU0NCRlBkdnZtYnZpOUE3UGduT0lPcnZtbERvU1hHQXN3Zlp2WE5nU3NqYUd4V2xGdjUxWWJ3MHQxcEduUF9uWW9qSm1IbjhVVWtsM0Z4YlZVLS1xRmt2VEQyaF9mNlQ0dXlPY2ZaOGE3ajZhbW9KaEduQm02aFhHV1h5bzBZTHB0YTExYWgzei1DNktTSHhwUmFoNmk5bTZQT0tlVUdoQk9nZ05MUjZWcTFUaVFxYXNZSXgzMVE?oc=5) · صحيفة صراحة الالكترونية 11-12 06:18 UTC
-- [تراجع أسعار الذهب عالمياً مع ارتفاع الدولار](https://news.google.com/rss/articles/CBMizgNBVV95cUxNRHhMSm56VXhmTjdQLUZWaWpBTHFCX0t6QzdWcGdtRjVLc0tWeDBzcGFLdXRwOGw3dWNmQzJ3YUY1aXhrQldqNHptWFh4SnBiUlRkNEdja0EwQ25DdWFUeWZqeTVvckRBTXc3Y0RhT29ZY083bldtaTVnX1dvTFhDQzVycmFKeWdyMW9wM3dfR2lsSmFscGxCaEo3eDZLbms5UktiQUtyMm1ibF92dVl5Qzh6RlltNjRRMzg4bzIwLVpydzFzOFZCZGgwN3NXUUFvMzhKNjcyNHpWWnJBUzlObTlpaEduT013SVQ1Y2dwXzE1N0JoUXdSS0JpUmJMNDZLRzlBU2RkdmVqV0lKQUVweVFfZmV3eWhmNk5INTdmbC1JZURqS1FpTVZfRU1XWkhXNWdmTmJYWmE0WVpCTmlHWE5TdjRXS1VtZ2sxcHdlYlhzZXNJazFKc3BjWElZOFpzNmkzWDA4YVJjVDVua1JJR3dUYjhZOXE4RHpxMDNmMnNHb24yd2E3UkFHbFdMMGc0dngxVEotdlplQ2pNV05VYnpFQ3paUG9tNE02X2hUTE9mZV85aXlicXV4bWtEUXZPbV93RjNUVGJKcFRCVWfSAdMDQVVfeXFMTS1veTJodmhHb1RmMkQ0U2ZWQUx5akh6LU9od18tOFJZVVlPMDhMQWI2NnlkTFF2WFVnZGFJLTFsc1B4TWRBcVU3SDI0eEZKN3lTeWREeTFXcUpEd3MtQ0EwUloyNkpuWVZxNW9MSVJYVWM0aTVrQXVnTExEaVhaTUYzcWFVdEFvWFI1TUQ4QU55SnpPc2tJNlZ1bnYtUHRQeE4ySVBRb293R2hXVnhxRHhfS05JZTgzQng2ekV1dWpnLXB3QTNmbzIxLWZ6MnZuX2hWcDUtdDlqM0RzY2w5U3AxYlRNVHEtTHVXbE9JakptZlZPR1ZpWXBULWw2ejBKQXpGcV9pODlXYWljUDc1bDQwODlHZkVRZVFDSEs5b0lKQnRzTWtJT3kxckhiaGUxSFc4eDlnRFV6T2lGWW16X0l0OVlyNHlpRmVVV1NtWm4yNG5XVVk2d2ZZRUxOSDVUM1ZETlBFOXZEb3ZFRkIyWllvbDVVWmVZYmhobUtyR05yeFQ1SkpKMUNxS1BjN04tRUhyUVZsN0N1cjRqOTFMNUhuek15dk5XSVNQNXJsNkVoZXlqb1o1cU8yV090YzVZdVlBSTlucnhLRjhNU1NjN1F2aU0?oc=5) · الوكيل الإخباري 11-12 04:27 UTC
 - [تراجع أسعار الذهب عالميًا بفعل ارتفاع الدولار ورفع الفائدة الأمريكية](https://news.google.com/rss/articles/CBMivwJBVV95cUxQdE5mZFNrMmlzbU4tUHVmMmRZcnA5ZjhFS3lsS2FBcGNCbDg3TkdJdlN1Z0Z4aGQ0MVBpWXZLdi1WTWNESkNIaWpIcFpXRG9MaEFhc0xOSHpXUU1iUG1nTjAzYmJ5WEZJUUxjODFKRmpQaGNXbThXeHlsY2hLbUhUWlBCOExOXzFMbFRneWNCYUhNaDMtaGxBM1Q5cE5wSWRReHJ3SVZDVUcyckxNbGJ4bV8xVW5tMFNNS0lvV0tEX3l0SWJkbk5PMnpMdXhrVzdVNEFXaUoxeUpGUmlxZUxid2RRQUR0ckkzV0I1UkJWZnd1UUZpSUVzYTEwUEpuUWxuQVpDZG83LUVaZDE4NHdVTnJ3VkFpNVl0dkpJU0dDRndsTk4xaU5zd3pzcEs1ZFRFVUFTNmJkY1EzLUZKWm40?oc=5) · مانكيش نت 11-12 03:35 UTC
-- [الذهب يستقر دون 4000 دولار أمريكي، والمستثمرون يتوقعون أسعار الفائدة](https://news.google.com/rss/articles/CBMimARBVV95cUxQdjNyOFdxN1UyRmFuV2VmY25fRkdUSkp4U3I2ckNuUjVfc1d6Uk1INFU2NHpvTEV3MDdPUW9rZXNUYTVObEowZG5jQ2I3Q0kzd3lLSEI4Z05wellsZkdGN1Vxd2N3YkV1Mlp5a095MFl4ajc0X1RRY3FuMlFMYjBMeG9FNDF2TU5LMzdxUE53NXFydWJpeDFvcUpZOEpqMW0wbTVhd1ZOZk0xcGJjMGs3aUtKZWd5VkZQNEdXS2Npa3R3T1YyVXlxSTJ1X211bW9oNmFZdEo3bV9CUkRIOURHNFZHemhiR2JFeWxXbFppdGRPNDN1elFwWWNUT3JteExDWVJwdU9Ra21UaWNCM3p5VnJ4ZW9ZdGZIYVRCbXNBU2dBQ3JtM3g4c2lIS1RsNzZ2d1c2aDhnaWJxcFFMWV9FUHRuSlRTQktXdEJHbEpGdWQzOHlYOFFxMTRSblJuQ1AxUTl6QWdyNXpLSTV5UGdyVU5uY3FrRl9FWlJSOTB2cUd5TVZuUzRxemNOMXN4c1NucG9reHkwbFM3N251MkJYckN2dnJGcjJYcVQ5YTFVNTFOUi0wUXM5aDJhdnFNLXo1dDZ5QkJYc0VBRmlPamZmWWY0TVh5Q3dxcVB3d2w1M00zT3J1ZkR3aUlXc29odEVLVHp6a2o4Z245YWZhWHBkX3dOR1RPTlhoa2FPdktJYnJpZEJic19saw?oc=5) · IDNFinancials 11-12 02:40 UTC
 
 ## أخبار الذهب بالإنجليزية
 
