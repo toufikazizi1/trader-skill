@@ -2,12 +2,12 @@
 
 ## الملخص
 
-- **السعر:** 3,947.2$ (-5.99% عن الإغلاق السابق)
+- **السعر:** 3,947.3$ (-6.02% عن الإغلاق السابق)
 - **الحكم الحالي:** حياد / انتظار. الاتجاه هابط، والبنية: متذبذب.
 - **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
-- **أقرب دعم / مقاومة:** 3864.4$ / 4082.3$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4082.3 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3946.3$؛ هدف 1:2 عند 4354.2$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3864.4 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4000.4$؛ هدف 1:2 عند 3592.5$.
+- **أقرب دعم / مقاومة:** 3865.8$ / 4083.7$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4083.7 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3947.7$؛ هدف 1:2 عند 4355.7$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3865.8 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4001.8$؛ هدف 1:2 عند 3593.9$.
 - **أحدث خبر:** [انخفاض أسعار الذهب دون 4 آلاف دولار للأوقية](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yN2I5UTEyZ1FMc0pwLTZKZmU4N1NZd1paOTFSX2l5UVk0dks2bGZXMDdKdVNfUnhZWkNzVmsxd2c2RDV5MWE4dUpWX3RETWROTjI3blNB?oc=5)
 - **خبر:** [Gold Breaks Below $4,000 as Strong US Inflation Boosts Dollar](https://news.google.com/rss/articles/CBMipgFBVV95cUxOeWdNVzZwNEF4UzJYMXpldFRMc1d3d0dSMWVRQUNTcXhBbFZ0WkE1V0V4SUp2bkJwLTI4cFd1Z21rN3VxeXdmSHdBbE5RWmlWWnRVUUI3Zlk2Wmh1OC1vMUlZd2FzeGJHTE9ldy1nVDVrNzVnTUhpNnY4bWw5YzF1QlNkSFlWZS15akpMTlVPWWI5ams5SEFEOVBfY09VUkJZLVNlZ2Vn?oc=5)
 - **خبر:** [TD Securities: أسعار الذهب قد تعاود اختبار مستوى 3900 دولار للأوقية](https://news.google.com/rss/articles/CBMiygNBVV95cUxPc2ZyMnVlNEI3dmR6bVo0ckE4MGFKcFJOZVh5SDgwc2gwdktwb1lia3p1VnY4X3Y4am1UNmdCYlBkbHhYdzJqdlVBX3FpQXJaMEtZWTJhV2pqMTBuN0JOM0xINGF6dTRzLVljQXp3ZU9mQnE0RGR6QWpqNWhlSFZKdTFWX3FsT2RkdnI1YTVHYjl0eTdYN1FyZV84SlBQOV80UFZnS1J6WFUwd1dBc3Y3c052TjZsZGN0Nm10TjR6ci1SWHBiNHc4X2xJN2FmUEwtN2VFYU54cFF5SHdCRUk3dnhjamlKd2F2ZTNFSWowbnNaVDRHeDRrQUhsZkhUbS1wVmRkeGZyeWg2VVNhbGdoWHVtVnFkRnR0OWhtMkZUcDRPXzI0V1dLSDRHQ2dVWk00Rl9TSG15T0dtSXFBZkRxSFZCZS1NbFkwamdEZjR2WE53a0l6eGhydjNyMldOOTNvXy1FRkRJOVFhdFR4bUVkbmhjMUsybVFsSzhaM1VGdjFsMjllUTA5c2dWZUNDajFneDVkWDNTNGxfd1I2VG5MUzRPbWtoeklqMUNSbjYteXMxYlE5LUlpUVgxOTVDUDVxeHN6T0FEVlZRUQ?oc=5)
@@ -16,14 +16,14 @@
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -14.9$ |
-| الاتجاه (EMA 20 و 50) | هابط (4047.1 / 4141.4) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -13.5$ |
+| الاتجاه (EMA 20 و 50) | هابط (4048.4 / 4142.8) |
 | بنية السوق | متذبذب |
 | كفاءة الحركة (20 يوم) | 0.22 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 90.6$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4740.1$ / 3864.4$ |
-| مركز الحجم POC | 4159.9$ |
-| منطقة القيمة VAL إلى VAH | 3886.3$ إلى 4389.8$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4741.5$ / 3865.8$ |
+| مركز الحجم POC | 4161.3$ |
+| منطقة القيمة VAL إلى VAH | 3887.7$ إلى 4391.2$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,8 +31,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4082.3 ثم إعادة اختبار تثبت فوقه | 3946.3$ | 4354.2$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3864.4 ثم إعادة اختبار يفشل في العودة | 4000.4$ | 3592.5$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4083.7 ثم إعادة اختبار تثبت فوقه | 3947.7$ | 4355.7$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3865.8 ثم إعادة اختبار يفشل في العودة | 4001.8$ | 3593.9$ |
 
 ## أخبار الذهب بالعربية
 
