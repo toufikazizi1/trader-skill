@@ -1,8 +1,9 @@
 {
-  "last_price": 3906.699951,
-  "last_time": "2026-11-12T14:30:00Z",
+  "last_price": 3872.199951,
+  "last_time": "2026-11-12T15:00:00Z",
   "last_verdict": "\u0645\u0627\u0626\u0644 \u0644\u0644\u0647\u0628\u0648\u0637",
   "notify": [
-    "level"
+    "level",
+    "near"
   ]
 }
