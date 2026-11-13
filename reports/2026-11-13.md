@@ -2,13 +2,14 @@
 
 ## الملخص
 
-- **السعر:** 3,887.2$ (-7.29% عن الإغلاق السابق)
+- **السعر:** 3,902.9$ (-6.97% عن الإغلاق السابق)
 - **الحكم الحالي:** مائل للهبوط. الاتجاه هابط، والبنية: متذبذب.
 - **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
-- **أقرب دعم / مقاومة:** 3877.7$ / 4095.6$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4095.6 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3948.8$؛ هدف 1:2 عند 4389.1$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3877.7 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4024.4$؛ هدف 1:2 عند 3584.1$.
-- **تنبيه اقتراب:** السعر قرب الدعم 3877.7$. راقب الإغلاق اليومي ثم إعادة الاختبار، ولا دخول قبلهما.
+- **أقرب دعم / مقاومة:** 3880.3$ / 4098.2$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4098.2 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3951.4$؛ هدف 1:2 عند 4391.7$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3880.3 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4027.0$؛ هدف 1:2 عند 3586.7$.
+- **تنبيه مستوى:** عبر الذهب 3,900$ صعوداً.
+- **تنبيه اقتراب:** السعر قرب الدعم 3880.3$. راقب الإغلاق اليومي ثم إعادة الاختبار، ولا دخول قبلهما.
 - **أحدث خبر:** [ارتفاع مؤشر الدولار وعوائد السندات الأمريكية تدفع الذهب للتراجع مجددا](https://news.google.com/rss/articles/CBMiiANBVV95cUxOdk5NR2JrQlBQSFQ4bGtURkQ5NEJJV3Fxa1llRUt3VFlrTWNKWkxadi1FZ1l3ZEs4VHZnRjJ6MjZUdkFxMllZMG9ySnF4eDNlMTN6LUVNTG5ReE9VanB3dVhvTHlaVmQ3LVdDTklEeDhEY1VaVnZ3a1dSdndZTkZ6bDdld2NQbVBWemIyTk01S2lzNkFsejZPOEh1LW1NcDRULWw1c2NmVDM3c0p4WXBrSlN0NElkVkM0WjE2UGw2QUFvX3JPNVZkS2EyNElEakFXWnFpSGRiUU8tYUJSdEhKTVFvNDZERm41ZkJkSFhxMFB0NW5LT0ZTN1lOYldPYW92VElxd1F4M3FwQ1lIRFpyR0plaTA1djFfNkVlc2Z2eWtLMXdQRTNZOFJjaWVpVnZWRDV3UlpzUDdTbzByMTI3WG9YMG1SeGtMZmRLVVpUb3UySUotYVBhdkw0VHFGYVQ3QS1jTWhudkxFUWZFZklIaDFzM2c2VmRWWWJaMzhZNE1zRjZfTTYyQQ?oc=5)
 - **خبر:** [ارتفاع مؤشر الدولار وعوائد السندات الأمريكية تدفع الذهب للتراجع](https://news.google.com/rss/articles/CBMi_gJBVV95cUxQbkFtTkthN3I4RjRiQ2tMUXRoS09YM0p4dlFSNjVjNktuLWVHQ1QxcjRFX2NEZkg3S2FkREZhNlpRMl80cDZJdkFDUGdwNm56elhiQ1VBaFFQVmNmNEpZOWlud3BkVndRc0FWNXdEQnVJajVuYk9uTDR6ZHpVc1BHRkxtUThGY1BEWUR3NkdWenZNbFhzMFRNOHpDa092ZG51Q0daaklQQ1VSOWZiaGpfVDk1RHJkTTJ3MTI4WUNaVjVuR2xIbTFEdkpUV29SUGNIRmQ3OGxDWXNlLXg5LTI4SXZmZkJodVR5RVdxVlA4RHI4Y0ZLalhtSl9neFlFSEM1ZGk3Tjc3ZkFMQVRhR0NYelM3cUkyNHduOU9hX05HOXpVZGRORWxKZXE1R2VRUkwzUWRKalBMSEN1RmVKQ05YNVd2cGY2XzdIN3dpRTJwMml6U19YUTg4ZVV0VHlPd19YbkhjRU90a1AwWHZwVUp3bVV4MVpZS0x1U0QtaE53?oc=5)
 - **خبر:** [الذهب ينتفض بعد 3 أيام من الهبوط.. كم سيصل سعر الأونصة قبل نهاية 2026؟](https://news.google.com/rss/articles/CBMi7ANBVV95cUxNRFp5ZWZ5OHNGMXZ5OGRrYTdXV2R5dmFBNXl2UjUxQ1BmUk1tQTJrR2ptR2FqVFJQSDRHcnNSVW94d3VZc1M3bHdjYlV5QTU2cjlfeVQxYkhLYjNhRDFhSmpBTUpwTTZXQVBsNjdxNllNRTFQVjlGZmY4X0NRX3ZNWFA0VWhBNC1ETjJJZlVLV3JqMURkRFlfV3IxcUtlRFlvQWpwSHJ1WkcyYnFLX0UxQk5CWm84WlFva1dwczFtYzV1enhheVp3MFRCSTBjQUtTYWZnRm14U0twRHllUm9UcDJKOTdlQ25kT3pVMzVReXp6LXZtUklDOEgtaFFDbDl2dWtrSlZ5MGZ1bVZlQUUxZldSQU5tZjRZbE1WeGR5SU5KejN1d2lMUGZjUTJXNWFFb0VJYjVPRWFKamJFMTdJckxRQnl1SzU4dnlFdmFGVFo1M2RscTcwd293RklQY2NGTWVCelJYUnlweVR4YnlaQTZJNjMxblVyR1lFZ25YNXRLdUdNQ3JYYjJEdGp3LV9kOWpFYlRFQXRScEtiNndMSFh2ck9aU0JxZ3NDVkxqR1I5M3lsckUwNHAtUkV2VTBvM2ZmOGlldGN1NUVSaUVELWk0dlZPM1MtUUNJQ3ZjME5OZ3Frc2podFV2TGY?oc=5)
@@ -17,14 +18,14 @@
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -1.6$ |
-| الاتجاه (EMA 20 و 50) | هابط (4037.3 / 4141.3) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها +1.0$ |
+| الاتجاه (EMA 20 و 50) | هابط (4041.1 / 4144.4) |
 | بنية السوق | متذبذب |
-| كفاءة الحركة (20 يوم) | 0.29 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
+| كفاءة الحركة (20 يوم) | 0.27 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 97.8$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4753.4$ / 3855.1$ |
-| مركز الحجم POC | 4158.2$ |
-| منطقة القيمة VAL إلى VAH | 3877.5$ إلى 4394.0$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4756.0$ / 3857.7$ |
+| مركز الحجم POC | 4160.8$ |
+| منطقة القيمة VAL إلى VAH | 3880.1$ إلى 4396.7$ |
 
 ## سيناريوهات للدراسة
 
@@ -32,8 +33,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4095.6 ثم إعادة اختبار تثبت فوقه | 3948.8$ | 4389.1$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3877.7 ثم إعادة اختبار يفشل في العودة | 4024.4$ | 3584.1$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4098.2 ثم إعادة اختبار تثبت فوقه | 3951.4$ | 4391.7$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3880.3 ثم إعادة اختبار يفشل في العودة | 4027.0$ | 3586.7$ |
 
 ## أخبار الذهب بالعربية
 
@@ -48,7 +49,7 @@
 - [الذهب يتعافى من أدنى مستوى منذ بداية العام، ويستعيد 3900 دولار؛ رهانات رفع الفائدة من جانب البنك الاحتياطي الفيدرالي Fed والدولار الأمريكي الصعودي قد تحد من المكاسب](https://news.google.com/rss/articles/CBMinAFBVV95cUxPdWo1RXQybmN4dFlMRU10M3MtWmh2SEl1alluVTVfTF9obmtIS3dNMDZTVmkwMWxTZVNsd1pPOGR2WTk2VklTdFJmTm03Y3hHSnBQYWlPVWJ1M2E5T0FJbkFmYUttNUNvNnY3UVAzTkZWU21VdTdSYzJxZ2ZUeGxKM3NnQWNDZEIyNktiTUpwZlhycEhXX2lObVFLSmM?oc=5) · Mitrade 11-13 10:18 UTC
 - [الذهب يقلص خسائره عالميا في بداية تعاملات الجمعة.. ومكاسب الأوقية 40 دولار](https://news.google.com/rss/articles/CBMi9wJBVV95cUxQVzZEMkI1VmFZdjNfNGxMUTYzTTRaXzdrZzQyLVVtYVFxSU9lM3d5NGczNUpMVkd5MXRMeGVYZ05ONEJxZDhlM0o4OXVWSjk1N2k1dU40YmdQZlR6WVQzNWRLeEFJaUpERlpWekhtcng5a2dVLVJreFdlSl9QN05ZYVctSDZISWp1SlFKS3UxSDZ4aEt0TFlZNWl1V2VIV3hudjVBMDZvRGFta1FaWFB1Z3hBTzF3TjI2UUlpNzI2Z3ZteHJhamc0bHFWY2x6TDZtNU5WbHZENjYwTkNUckNJYk9hb1g3dmg1bEYzSlZKeW1xRVRScHVQcENMZ0lUWExnQUI2ZXNLQnFoVWthcGoxVXRrT0tPN0h6MmNhVHlGU3ZPRk5tcEpTQXpLbzMwYThWVTRoaHNzOWcybGRVdVRGbDdramlzeUFQUWhfYmw2elktd0lqVnhtM1FIVUNpbXI1X2ppQmVFYS1rWWlyRGU0Y0tBYVNhZ2M?oc=5) · بوابة أخبار اليوم الإلكترونية 11-13 09:22 UTC
 - [ارتفاع أسعار النفط والذهب](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5eHZkQThtaFdHdjliYkZCYXFwNlEzYmE1RXgwb3pONUlmRWw2T2JEaWxxdjZ5bnpnMWxWaXdhOHlZRmxWUXNRU2Etckg3Q3p1cTllZnF0VmhxelFRLU5icDlB?oc=5) · النجاح الإخباري 11-13 09:13 UTC
-- [أسعار الذهب فى الإمارات تتراجع مع هبوط الأوقية عالميًا وترقب قرارات الفيدرالى](https://news.google.com/rss/articles/CBMi_wNBVV95cUxPRFVxS2VGbDlHcU9ud1ZrdlVZQVcxS1owRm11VWVXbE11cnhyMm95ZXZYWkRtMnRvQmZjb3o3SXpwYlF4bTk0M1BPbEdTam1iNUQ4OG0wbm9pSTRwTTdGc3Vud2VrMFZEVnVWVFJaRW5sLTA4ZkcySTExQ1JmZFBnQXRrdFhZWnVZcVJDRm12WlF2V2FnTlFWQ0l0U3FTaVF6SFJvTHpldWFBRy1uMEtySFNWRlFXZjBoRkZwM0taOXVDd0V2MHprVFVxR1NIOXNILWhhTnJSRFg1b1I5alM5MXFaSE5KNmhhNmVJZUVOWDFzLUlQcmxjbmxXRWNINnNBQy04cmRfOElpR25FalNFVldqWlFwc3JrenVnLVlEMGd2WlZqdm1fcXdnZzVnMVY4NzVVcmdsLWdVTlcxT0xCSzF1el9zNndGMkpuMVY2WmRhVW9KZGhfVFYxLVk0SG1aS01QbjV6OVBPZGJVVGRCT2JMX2duVHkxWGdzdEM0V005aDBsc01zSTdjQUdDN1ZQeE5JOG1GTzNhRzNJOG52cG9qbEowbG1UUTgzSjBXT3Q4SmdjSTF0OWR1WS1qcnhJUm5VaU1abzA2cnZfN2loTVJQNDFtcWhmSXFCV2pQTEllaENBc0xQWi1COU42ZjVOYUtoSk5wR1RuMWtGOFJF0gH6A0FVX3lxTFA2Tk1JdlBQZzZWSDRPV1R4TDdpYUtoRGNrUlM5WFpidkp4NUoxNTJCTVVzZ1FkVUIxNGZjaXBLWm41aXI2RldOUHczQ0JQZjJ0a3RuVkxtX1hVM1JaWXo0ZjBnNmlHQXpJRmRHZGNMOHhBZEM4UENld2lnYnZoZWxQRWNTRkZPUmZ0Z3RIbGxhbzJLMFVEcFF4bDVNLVAxclc3MlVqSnJDbGVCTkdEUXk4blZKTWV1dzdsYUZtaU5WcWxTcEpwSDZ2WjlCNlBIUmJXeV9FejEyR3lYdUEzbzVkalZRY0NITUpxeGJvU2NfTTRBVUNXUHhTTVZmc0ZGT2ZBZjdIZWFHcDl6cGZiTllUWkt6QjJpOVdudGVSN0gtU19nVEJrWU5hem5leGsyNEFtdjhQZ28xVkpXRTFUdVI2bWo2QkRtdTF4UnM2eDl4cUczU0gwdjUxZ3BrMlRXSW1jN3VVZlBsbzRJNGFKUUducnVEal9NVVZ2aXQ2WjJoLVlEcm9HejNzMUlQWnVGb3JEWmtUdTJURWw1eWRKbTUySUJkZHFpb3JXbmROUndCWmVWeGNsNTV1Rm5DTlFiamhDcUJyal9VbHVwV203Zlk4VXYtRHFZSGxYc0hKeEU3eVhhVC1feDZDcWhlaU5oZFRLQnROZmRQdzZ3?oc=5) · اليوم السابع 11-13 08:00 UTC
+- [ارتفاع أسعار الذهب اليوم الجمعة في بداية تعاملات الجمعة](https://news.google.com/rss/articles/CBMiggNBVV95cUxQeVZRNFplY2N2WjBXdkp0U0J4M29qTHJsWDlmUXpIVkFiTVNxcVppby1KTUs0RHI2cUdYTXhRamhZZ1lDdkIwWG9CSTlYRFl2b0N4M0w2Z05SY25Ybk52dEhYWll0bGhUQVJMUnQzWHJGOV9jZDd6THBLMUpkT0FvMVhnaklkdXU4Q2dGUFBrOEM0ZndPN0w4WDBFcnYzdkQ0emRwZGFoQ0VfRTdYM1RMZUtWUDM4TnRVQUlmVnVsWjhoSnV2YmphaGVsZEVLMU5hSUdrbE1hYS1rYUNMaXJCVXdlQmhzM3hRMHJuckRXbmVkMmNyNUFfcFJmeG1yaDJ4dkhhVUF6YnAyUWtCSWk0VnpyZWNXVXRSMzJBZXltcUhwTmJ5QS1SaGl3blh4dkJadm4zNEV2eUtWVFNxOFctNDNTYmRvMWdZVjZCX3ViVGQ0cFFtMEUteVRvWFFJbDRqcURzR01vck5ZYU9kcHJqaEQ4em41QVV0UTF4Z01GbGI4QQ?oc=5) · الأخبار المسائى 11-13 08:09 UTC
 
 ## أخبار الذهب بالإنجليزية
 
