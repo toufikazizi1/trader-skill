@@ -2,29 +2,30 @@
 
 ## الملخص
 
-- **السعر:** 3,886.7$ (-7.65% عن الإغلاق السابق)
+- **السعر:** 3,912.5$ (-7.34% عن الإغلاق السابق)
 - **الحكم الحالي:** مائل للهبوط. الاتجاه هابط، والبنية: متذبذب.
 - **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
-- **أقرب دعم / مقاومة:** 3874.3$ / 4092.2$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4092.2 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3948.1$؛ هدف 1:2 عند 4380.4$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3874.3 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4018.4$؛ هدف 1:2 عند 3586.1$.
-- **تنبيه اقتراب:** السعر قرب الدعم 3874.3$. راقب الإغلاق اليومي ثم إعادة الاختبار، ولا دخول قبلهما.
+- **أقرب دعم / مقاومة:** 3888.1$ / 4106.0$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4106.0 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3961.9$؛ هدف 1:2 عند 4394.2$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3888.1 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4032.2$؛ هدف 1:2 عند 3599.9$.
+- **تنبيه مستوى:** عبر الذهب 3,900$ صعوداً.
+- **تنبيه اقتراب:** السعر قرب الدعم 3888.1$. راقب الإغلاق اليومي ثم إعادة الاختبار، ولا دخول قبلهما.
 - **أحدث خبر:** [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives Below $3900 As Dollar Rallies](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlhtM1dCUHAwcW03ekFvRHhPc2tkWVFZSV83MmxBZFNuRkU3RDZEbmQ1aDFkUUZfd2RZVGVfRnJreHA1SE13MFI0MHJ6Q3dvWlA2SEhPTEFZNHRyTDFoVE1MOEJ0aVlKNFVzZExRNGZoTERNYndfRHR6cjdWZXRGemZqUVh4T081MlQ5a0JzNHBzRXdaZmI5SW1WaVRySTlnc2RnS0g2LTVsVkhlZXRJZHZoVWZsTmhaY29hT0Vzc2FUVk0wSnFN?oc=5)
+- **خبر:** [تراجع أسعار الذهب عالميا اليوم.. والأوقية تسجل 3877 دولارا](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPd0RITUxTYUphcGJoZHVPa09HTktmZ19VaURWcUUyX1hndE10WUw4MDl4NTNlLWl6LWZEMHkzeHF4eGJWb1cwUjdscUtGMTlLQ0hQSmY4TzYyM2VR?oc=5)
 - **خبر:** [Gold falls to over one-year low below $3,900 amid inflation concerns, US PPI data looms](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWWZsNGswcEZxUVdPTXVwckxCYUV4UEdjbWhkeGVReGNIaG9PdjZNVVhtTURnWGd4bW80NzJULW1vMzhMY3hvQzV1WGw4Zm83Z2oxMXdqS1pGUDgwQ3Fla3N1emdsRkRFNlA4b2Q2N0I1RzgySFRnQU9KQTVKOS1QOUlVMXdPbHZ3eXpYM21TSEhXaW8wZTlIOFdudW5XeXpzN2RsakQ3VDBnRDhEVElkakVzOVNJcXROLXRmSl9HUkVTNENvbjFDZDVtSUgyclEzLUkxbk5oY0NUTHhyaDhHZ3QwQ0t2dw?oc=5)
-- **خبر:** [Gold (XAU/USD) Price Forecast: Dollar Strength Extends Downside Targets](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2VtN0JnSHljcTdzZEdBVnVOdWIyRGMycTFNckRfZFhXVjI3YnZfRHQ1Wk1kMVQ4Qy1KN3d6ZF9NeVBMTUhqX3gzem1pd2lMbEMzVDBaNWJFYlI2SkFxLWtMU1BUdzN6TG4xZ05MX1VtN2FXNE9va1RvXzRyanN6cDAtUXFmM2J4X1NtbF9Ia2JyUkQ0LW9iSXRSUWxYZWtrbmZOUmlUb1FCdWNkZGdycmhMTkNYX3N1Z0Vn?oc=5)
 
 ## التحليل
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -5.0$ |
-| الاتجاه (EMA 20 و 50) | هابط (4050.3 / 4148.6) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها +8.8$ |
+| الاتجاه (EMA 20 و 50) | هابط (4065.3 / 4162.8) |
 | بنية السوق | متذبذب |
 | كفاءة الحركة (20 يوم) | 0.27 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 96.1$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4750.0$ / 3874.1$ |
-| مركز الحجم POC | 4169.7$ |
-| منطقة القيمة VAL إلى VAH | 3874.1$ إلى 4399.6$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4763.8$ / 3887.9$ |
+| مركز الحجم POC | 4183.5$ |
+| منطقة القيمة VAL إلى VAH | 3887.9$ إلى 4413.4$ |
 
 ## سيناريوهات للدراسة
 
@@ -32,11 +33,12 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4092.2 ثم إعادة اختبار تثبت فوقه | 3948.1$ | 4380.4$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3874.3 ثم إعادة اختبار يفشل في العودة | 4018.4$ | 3586.1$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4106.0 ثم إعادة اختبار تثبت فوقه | 3961.9$ | 4394.2$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3888.1 ثم إعادة اختبار يفشل في العودة | 4032.2$ | 3599.9$ |
 
 ## أخبار الذهب بالعربية
 
+- [تراجع أسعار الذهب عالميا اليوم.. والأوقية تسجل 3877 دولارا](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPd0RITUxTYUphcGJoZHVPa09HTktmZ19VaURWcUUyX1hndE10WUw4MDl4NTNlLWl6LWZEMHkzeHF4eGJWb1cwUjdscUtGMTlLQ0hQSmY4TzYyM2VR?oc=5) · الوطن 11-13 00:23 UTC
 - [تراجع حاد لأسعار الذهب يفقد الأونصة 4% وتهوي إلى 3868 دولاراً](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TTUlQaUNuMzE1bkdHaDJvdFNOeWoxUEV5WGlLRENtTGNUM3FFMlp5TWpTcXJuM3I1YVVUUWZybDFUWGpHRFlRdnI0ejBfYnJFdmNF?oc=5) · شبكة تواصل الإخبارية 11-12 23:19 UTC
 - [توقعات سعر الذهب لأعوام 2026، 2027، 2028–2030 وما بعدها](https://news.google.com/rss/articles/CBMiekFVX3lxTE5QSmFCVm5TVHdqbVZQVEJ2R2ZQdGo4dFQzT094VTFZRFhhQmxUb1FfM0Noc1A4QXpNZkpQdlRvNFRSVGpfeFNpQVBjUndubnplejdGZWVFajFXZEp6c1IxQ19KSHo5eGNNRTR5NHJUbUd4U1IzcXVxYmtn?oc=5) · LiteFinance 11-12 21:06 UTC
 - [5 أسباب وراء انخفاض أسعار الذهب.. هل يواصل الهبوط أم يستعد للارتفاع؟](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xZkdIVTBVdEJPbmk2eUQtdWh4MDZWeEI1VDFIUEFDalFyWGNXM3g3czBpTnJ6VV9zQ214RXF2WkFwdERGQkRRcjVlQXhKVlZlVWJCY1Y5eEp3ZFUt?oc=5) · الوطن 11-12 19:20 UTC
@@ -48,11 +50,10 @@
 - [الذهب تحت 4 آلاف دولار مجددا.. ما الذي دفع الأسعار للهبوط؟](https://news.google.com/rss/articles/CBMi6ANBVV95cUxNWG9fMTJ4N1B5aGx4UmMzYzYxdmptNUdEb1lVOTg4QldzUVVkdUFCbjM2VnAzQl9PcWduX01Kb0U2MlZldjFSamVCV0c1dmFlN3pXU1loSVh3RS05UHduLUViTXlTQkZ5el9rTGhpOHExWEp0c0dXZlowVWJPckJFQnNIYm9kUVRIc0l2cVVQWmkybVRiZldwZWxITnFIRGctRW9XQjd0SUlHZlBGaVVmclpzRDhBMkJuRjd3THA5S3F0bGllYkNFYkJWN1JIUUdTNTFZVTQ5dGlxOWIzWGo5ZzBaQ1YwMGpNY3RhZFdyTXBKa3p3Y096a3ExZ0lZc3hudzNVWmh0aC1sbTNjakFhcTZXcEd4NmZGOWEzdmlYZGQ4MzBRSno2dndib3Uwa1hJdnBjbGVqN0pBcXRMU0wzV3A2RU5GcW93bU9wTnd6M1h3eUtLOFhUYUVpRVBlQ0w3c3lrdENpWTljWGo1MS1TenlVcFJYSE82b2ltTzhFQVUzbEx0Y0tmd1VFZjNFY1VvYUozdnZQeDhhdHZ1WXIwSThnV1NjSnQ3aktQMGdYZFNDd3FkNVVXNzRJTzAtb2RyRGhPR2VMN19xOUgzMmprUldoS0dnTkJjeFFoWllBZk5HV1pZb0JqONIB7gNBVV95cUxNbmlZMlY3ckIzUzRlMERSWWd4akNyaUVhdVV6YXBuTV8wYlNwaVBBWEMxaFhtUG1uOVFvYjNtMHdPSEhmVjVNX3B0M1d4d3ZXbHY5S3N3dFVoTk4yeGtaRnNINWp1S3RyOV9hS0ZBaTV5bmFyc2p6Ylc3X3F6WVhwX1lrQ3BRRXcwdXRmMUVnU1BCZVZDekpHX0dtSDBydGsxaWU0VEVaLWFORGxlVzM1Q3pHMkJhWXlwOTdaTHJDRVFrendURVZlakRTMlhJeUNTSmFQbllqMmI3YVdSYUV0aXVPdGd4RTlpNjZKalZENFRLbHZ1cFhmX0paZ3cxY3NqblVEa2xuV1NieDlLQm83b2pxZS03a0xvQkNXd25TdndyM1lVNTBRY09oUEtiQ0ZGa0N5MmNWdkFmcmJ4SERqbjhzQXlCTzczZk9wNFNQaXUyM1U4UUd1WUptZ3ZPbkJRa2hyWHgzMjJlS2llRXB1dm4yc0JxVFYwZW9icTc1NGhSLWtLNXJwYUhJbEhBTFFPNXRyWE1xcFRMR0dQd2xmbm5TcGs3dndVVXMxODg5OVl3UUVPdE52bnBJNEs3SHFyWmNJTnJydHlVWTI2OXpwcEJqZUxHaEtTTnFRX1U4Zk5PbmNRWFR1X0RqbHkwZw?oc=5) · Masrawy 11-12 15:16 UTC
 - [للجلسة الثالثة.. الذهب ينخفض عالميا...](https://news.google.com/rss/articles/CBMiwgNBVV95cUxQS2ZUMTdwMzBxWVE4Um1PbDgwY3JRamRtVmMyVDZGNFpNaUhEdmVaSlJCZFRzMHE0RmMwZDlGU3ROMWxSY3ZVTmMteDVGM1JvVUdUb09mMjJvSG5RWHRuNVhtTFQ5MUxyLThsak1HSDdzbVJaMXpiR1VjXzdsUWxkSDF0a0J6dlNYTEV4OFRlaTR5cU5ZUnVSSWx6OXJyYlpOZjlZYzB2eHJsOUp1U0czOXJxZTlTcmx5Zmk4Qk45ZnZ5Z18xNk1SSElPc0ZyQWFUc2RMb052Zk9XSmd4eHpGY3I0MjVrQlFTcHROREs1WTc0MHRCaWYxcGV0V3RpMmNNSGdJSU5NOS1rOGJ0S3VBMzZYT3hDd2xSSWR4MzVKckh0d2VoaDRlcV9ITGNUMjYxRWZFQVo3VHBRWkswX3dOWHB1TFJhNW5qR1ZWQ3B1Mm0tcnhsTVBwdFB0eGpzTkl1eVZrTnFXcXFlb2xwanRhZW54a0Itc2wtT2pIQkg1UmZrUEI0aGltRHJQR2E1RHNYUFRUeUVuWXZzbHg5d0lGOUt2SzhNRG11SlFQRms1aTVva1VqcU1Ja09QRTN0TnhzVWc?oc=5) · جريدة الغد 11-12 14:03 UTC
 - [الذهب يتراجع 2% إلى 3908 دولارات للأوقية والنفط يرتفع بأكثر من 1%](https://news.google.com/rss/articles/CBMi0wNBVV95cUxNYlRJSW1CRUphXzNJUjBIMlN3emtiV2ZiNnVqOEZ2azBDRkNiR25UQVdIaEtZcklSN1d4YWdITmRiTm8xajNmRnl1U2NEaEd0Y19XOTdGQTQyTGhmclRxOW0wRHBFZmpwVU9USi1TbVphZkhFblJlYUhFN0I4UHVrQ3MzYTNqa3RDZFA1MTR4ampDVGY3dlpzbW1SZ2d3VkNoUDNRbXVrRGlUOFdBTjhHaERMTGJBWWJRaklWTENMbW5aZXVrUHpmYXByT0dPQWZHYlZyLXhuXzhleVF6c2NDRkNkeHpwamlWZ0JLXzdLaXEtNUxEV09od2xRcE5CelpjSVoxcGg0R1JhTDFnT2xnUWRvOTNMWTRpZDREdmtfWEx3RlUwdVRsZlM4aG94aU5LOV9Ob3lfeWhraHJZQ0RoLWNhWFFlek5SMWR5N281ZUxyS0ZRUEo4cS03SzZ3TUdrSUZubHVDU2JrOVY2dEhsWjVvdTNTSmE3Nkh3THgyczdKRnkwYzFhbVIzbEZJMHdsX000T2tDQUR1ZWk2OFlmdk1RRGkxcWlsQ0ZRbVplR0M2N3dSSDhHcXkzc1pLLTdabWRZWkVhVjViZU9leXYzSXhWRQ?oc=5) · الديار 11-12 13:40 UTC
-- [الذهب يعود للهبوط.. الأوقية إلى 3,931 دولاراً](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XMm9zT29xQ1NJUlNhS2xldXNNb3pxbEFtMkt3LU9XeDV6ZElCM2dXNVRJM1JoRVBfOTZuNDRLSXJSbEQ3dmxXVW9iMmRQcnZ0TGFrddIBVEFVX3lxTE5XMm9zT29xQ1NJUlNhS2xldXNNb3pxbEFtMkt3LU9XeDV6ZElCM2dXNVRJM1JoRVBfOTZuNDRLSXJSbEQ3dmxXVW9iMmRQcnZ0TGFrdQ?oc=5) · عكاظ 11-12 13:40 UTC
 
 ## أخبار الذهب بالإنجليزية
 
-- [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives Below $3900 As Dollar Rallies](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlhtM1dCUHAwcW03ekFvRHhPc2tkWVFZSV83MmxBZFNuRkU3RDZEbmQ1aDFkUUZfd2RZVGVfRnJreHA1SE13MFI0MHJ6Q3dvWlA2SEhPTEFZNHRyTDFoVE1MOEJ0aVlKNFVzZExRNGZoTERNYndfRHR6cjdWZXRGemZqUVh4T081MlQ5a0JzNHBzRXdaZmI5SW1WaVRySTlnc2RnS0g2LTVsVkhlZXRJZHZoVWZsTmhaY29hT0Vzc2FUVk0wSnFN?oc=5) · FXEmpire 11-13 00:08 UTC
+- [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives Below $3900 As Dollar Rallies](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlhtM1dCUHAwcW03ekFvRHhPc2tkWVFZSV83MmxBZFNuRkU3RDZEbmQ1aDFkUUZfd2RZVGVfRnJreHA1SE13MFI0MHJ6Q3dvWlA2SEhPTEFZNHRyTDFoVE1MOEJ0aVlKNFVzZExRNGZoTERNYndfRHR6cjdWZXRGemZqUVh4T081MlQ5a0JzNHBzRXdaZmI5SW1WaVRySTlnc2RnS0g2LTVsVkhlZXRJZHZoVWZsTmhaY29hT0Vzc2FUVk0wSnFN?oc=5) · FXEmpire 11-13 01:17 UTC
 - [Gold falls to over one-year low below $3,900 amid inflation concerns, US PPI data looms](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWWZsNGswcEZxUVdPTXVwckxCYUV4UEdjbWhkeGVReGNIaG9PdjZNVVhtTURnWGd4bW80NzJULW1vMzhMY3hvQzV1WGw4Zm83Z2oxMXdqS1pGUDgwQ3Fla3N1emdsRkRFNlA4b2Q2N0I1RzgySFRnQU9KQTVKOS1QOUlVMXdPbHZ3eXpYM21TSEhXaW8wZTlIOFdudW5XeXpzN2RsakQ3VDBnRDhEVElkakVzOVNJcXROLXRmSl9HUkVTNENvbjFDZDVtSUgyclEzLUkxbk5oY0NUTHhyaDhHZ3QwQ0t2dw?oc=5) · www.tmgm.com 11-12 23:56 UTC
 - [Gold (XAU/USD) Price Forecast: Dollar Strength Extends Downside Targets](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2VtN0JnSHljcTdzZEdBVnVOdWIyRGMycTFNckRfZFhXVjI3YnZfRHQ1Wk1kMVQ4Qy1KN3d6ZF9NeVBMTUhqX3gzem1pd2lMbEMzVDBaNWJFYlI2SkFxLWtMU1BUdzN6TG4xZ05MX1VtN2FXNE9va1RvXzRyanN6cDAtUXFmM2J4X1NtbF9Ia2JyUkQ0LW9iSXRSUWxYZWtrbmZOUmlUb1FCdWNkZGdycmhMTkNYX3N1Z0Vn?oc=5) · FXEmpire 11-12 23:31 UTC
 - [Gold sinks to more than one-year low as Fed rate hike bets boost dollar, Treasury yields](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQTJzZktlVFZ2bzY1QnNuM0RwSFhuN0QwQUV2YnIySjR5SlJPYy0zcmhEVUIzTE5CM2lDbHk0dzZDMFdHWDBkYjhiYkdpTEd1ZDhLQ0JDZmxZTHhUUzBXcm9pWWFDblpHcENFREVmRE1hNzc5S2t2VUpiM1RrYmZFejBzd1BVTjNUOWw2T0dRYzhpMndSem9wWjdfc2lqR2htZEFma1dTdUZfYjJRYXYtOUJTNm00dkZSaElaUHJkbVBTdjFjSXloaXdWQXI2dEFBdTYwUGdCcTRXeklrMzlkRFV0Zlc?oc=5) · TradingView 11-12 22:40 UTC
