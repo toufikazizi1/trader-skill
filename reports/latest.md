@@ -2,14 +2,14 @@
 
 ## الملخص
 
-- **السعر:** 3,897.1$ (-7.07% عن الإغلاق السابق)
+- **السعر:** 3,901.6$ (-7.07% عن الإغلاق السابق)
 - **الحكم الحالي:** مائل للهبوط. الاتجاه هابط، والبنية: متذبذب.
 - **موقع السعر:** تحت منطقة القيمة.
-- **أقرب دعم / مقاومة:** 3878.4$ / 4096.4$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4096.4 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3949.8$؛ هدف 1:2 عند 4389.4$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3878.4 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4025.0$؛ هدف 1:2 عند 3585.4$.
-- **تنبيه مستوى:** عبر الذهب 3,900$ هبوطاً.
-- **تنبيه اقتراب:** السعر قرب الدعم 3878.4$. راقب الإغلاق اليومي ثم إعادة الاختبار، ولا دخول قبلهما.
+- **أقرب دعم / مقاومة:** 3883.4$ / 4101.3$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4101.3 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3954.8$؛ هدف 1:2 عند 4394.3$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3883.4 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4029.9$؛ هدف 1:2 عند 3590.4$.
+- **تنبيه مستوى:** عبر الذهب 3,900$ صعوداً.
+- **تنبيه اقتراب:** السعر قرب الدعم 3883.4$. راقب الإغلاق اليومي ثم إعادة الاختبار، ولا دخول قبلهما.
 - **أحدث خبر:** [أسعار الذهب فى الإمارات تتراجع مع هبوط الأوقية عالميًا وترقب قرارات الفيدرالى](https://news.google.com/rss/articles/CBMi_wNBVV95cUxPRFVxS2VGbDlHcU9ud1ZrdlVZQVcxS1owRm11VWVXbE11cnhyMm95ZXZYWkRtMnRvQmZjb3o3SXpwYlF4bTk0M1BPbEdTam1iNUQ4OG0wbm9pSTRwTTdGc3Vud2VrMFZEVnVWVFJaRW5sLTA4ZkcySTExQ1JmZFBnQXRrdFhZWnVZcVJDRm12WlF2V2FnTlFWQ0l0U3FTaVF6SFJvTHpldWFBRy1uMEtySFNWRlFXZjBoRkZwM0taOXVDd0V2MHprVFVxR1NIOXNILWhhTnJSRFg1b1I5alM5MXFaSE5KNmhhNmVJZUVOWDFzLUlQcmxjbmxXRWNINnNBQy04cmRfOElpR25FalNFVldqWlFwc3JrenVnLVlEMGd2WlZqdm1fcXdnZzVnMVY4NzVVcmdsLWdVTlcxT0xCSzF1el9zNndGMkpuMVY2WmRhVW9KZGhfVFYxLVk0SG1aS01QbjV6OVBPZGJVVGRCT2JMX2duVHkxWGdzdEM0V005aDBsc01zSTdjQUdDN1ZQeE5JOG1GTzNhRzNJOG52cG9qbEowbG1UUTgzSjBXT3Q4SmdjSTF0OWR1WS1qcnhJUm5VaU1abzA2cnZfN2loTVJQNDFtcWhmSXFCV2pQTEllaENBc0xQWi1COU42ZjVOYUtoSk5wR1RuMWtGOFJF0gH6A0FVX3lxTFA2Tk1JdlBQZzZWSDRPV1R4TDdpYUtoRGNrUlM5WFpidkp4NUoxNTJCTVVzZ1FkVUIxNGZjaXBLWm41aXI2RldOUHczQ0JQZjJ0a3RuVkxtX1hVM1JaWXo0ZjBnNmlHQXpJRmRHZGNMOHhBZEM4UENld2lnYnZoZWxQRWNTRkZPUmZ0Z3RIbGxhbzJLMFVEcFF4bDVNLVAxclc3MlVqSnJDbGVCTkdEUXk4blZKTWV1dzdsYUZtaU5WcWxTcEpwSDZ2WjlCNlBIUmJXeV9FejEyR3lYdUEzbzVkalZRY0NITUpxeGJvU2NfTTRBVUNXUHhTTVZmc0ZGT2ZBZjdIZWFHcDl6cGZiTllUWkt6QjJpOVdudGVSN0gtU19nVEJrWU5hem5leGsyNEFtdjhQZ28xVkpXRTFUdVI2bWo2QkRtdTF4UnM2eDl4cUczU0gwdjUxZ3BrMlRXSW1jN3VVZlBsbzRJNGFKUUducnVEal9NVVZ2aXQ2WjJoLVlEcm9HejNzMUlQWnVGb3JEWmtUdTJURWw1eWRKbTUySUJkZHFpb3JXbmROUndCWmVWeGNsNTV1Rm5DTlFiamhDcUJyal9VbHVwV203Zlk4VXYtRHFZSGxYc0hKeEU3eVhhVC1feDZDcWhlaU5oZFRLQnROZmRQdzZ3?oc=5)
 - **خبر:** [الذهب يرتفع عالميا...](https://news.google.com/rss/articles/CBMi1wJBVV95cUxNUmQtNmlnaUphdll0VEZ4UzRpWTQ1QURSNUNWRmtNZkk5MkNkZjBzYWFOWjRhengtZDVQbWRSYks1UDZNckk2QjBHWFNIeHlnVl9wa2lVQjltTVhnVjRyRm5wTGpEb09meVd3UDFtTWpQbWx6bmZTamphUVNFc3pud190MHZCQWprNGhtcENFOW1rOHpBeUgwa2VFa1hYVUM1U0U1SVI5UV9MVkhBMjZCSGtnd1lwdzRCM3NpX1hmV25JY1JnSWw2VHpORXlHRnQ4cUFNTHAwQUxGWjlvanc0OV9taTEtdnlEX0VSLXJWd1Judm9jbFRKbnNMVnFycFd3T1BMY3d1aU9kdDRoamRBM0stS1VKZUFaMTN5NFpnV2VQXzZGSmYybkhUaFUtZzRwazhlN0xaMmlleTA4eVlna3NLbkM0MDZUTGgwN0E0U0RGLV84MXFJ?oc=5)
 - **خبر:** [Gold (XAUUSD) & Silver Price Forecast: Gold Bounces From One-Year Low, Can It Clear $3,903?](https://news.google.com/rss/articles/CBMizgFBVV95cUxQSTNPVzUxRGtiTmFqQWNYR2t6Um9YSFNWcHJTZ2N1WW1tNWdhdjBzQUpIc3BodUotSURSbmxHNGU3dDVyTGdXak5VQVhRVTI4dDhIeWVzVS1zWFpKc25vb056dEw0TVZ1UXVGZ09tQ3VHVGVzRzJNSUhhaUpfRkJtT3ZudXVyOEFzQXpOY1FpakhYaFcySG83TE5Wa24zQzlQTXREQmZBbks3M0tqSDRWQmxHOGJfVjFxSUh6LUJXZXZtZkQ2amNTcWhUTXREQQ?oc=5)
@@ -18,14 +18,14 @@
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -0.9$ |
-| الاتجاه (EMA 20 و 50) | هابط (4038.9 / 4142.5) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها +4.1$ |
+| الاتجاه (EMA 20 و 50) | هابط (4043.8 / 4147.4) |
 | بنية السوق | متذبذب |
 | كفاءة الحركة (20 يوم) | 0.28 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 97.7$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4754.1$ / 3855.8$ |
-| مركز الحجم POC | 4159.0$ |
-| منطقة القيمة VAL إلى VAH | 3900.8$ إلى 4394.8$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4759.1$ / 3860.8$ |
+| مركز الحجم POC | 4164.0$ |
+| منطقة القيمة VAL إلى VAH | 3905.7$ إلى 4399.8$ |
 
 ## سيناريوهات للدراسة
 
@@ -33,8 +33,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4096.4 ثم إعادة اختبار تثبت فوقه | 3949.8$ | 4389.4$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3878.4 ثم إعادة اختبار يفشل في العودة | 4025.0$ | 3585.4$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4101.3 ثم إعادة اختبار تثبت فوقه | 3954.8$ | 4394.3$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3883.4 ثم إعادة اختبار يفشل في العودة | 4029.9$ | 3590.4$ |
 
 ## أخبار الذهب بالعربية
 
@@ -61,10 +61,10 @@
 - [Gold Steadies After Three-Day 6% Rout; Asian Session Pushes Back Above $3,900](https://news.google.com/rss/articles/CBMidkFVX3lxTE1ad0tLNFBGaUNsZEhoME1XTnBHd2llRUlQa0JBN2tYUS1ZcnVfZG83MWdrSnZNWi0zOGpzYjRYTlJza1AtWEFrWnk5Z2trUDdkSUNLQkJFU2NyVFRiNmNWSXkyaTJoVE85WW5rcVBnaHNlOVZiWXc?oc=5) · BigGo Finance 11-13 03:11 UTC
 - [Gold Price Forecast: Gold Tumbles Below $3,900 as Trump Says No Need for Iran Deal; Can October PPI Spur a Rebound?](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSUoxSDF6c3NpY0E1TUwxTmM0WExVdkoyZEN3eE1QYkphMnhSWHpKNl8xTW5FT2VMY3hFLThfcFJWVFJuQ2pCTnFfZVVhRER0U0VieHpSQl9oa0FvMnJMNTl2Q0NtYjgxZ3dMSG9kXzFqZzY2djVrM284dUxmaHEteWVFdG42NFNPQ2cyY09xdzF5bVMwS3hQa09qWnQtSXVPRG5GWkZnNEtIUlRNZTYwMm1ubEJCa0ROLTdrWWZVNllTTU03d25yZGJvMUg5WWNEXzhBMmVNZkxzZTNX?oc=5) · TradingKey 11-13 02:38 UTC
 - [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives Below $3900 As Dollar Rallies](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlhtM1dCUHAwcW03ekFvRHhPc2tkWVFZSV83MmxBZFNuRkU3RDZEbmQ1aDFkUUZfd2RZVGVfRnJreHA1SE13MFI0MHJ6Q3dvWlA2SEhPTEFZNHRyTDFoVE1MOEJ0aVlKNFVzZExRNGZoTERNYndfRHR6cjdWZXRGemZqUVh4T081MlQ5a0JzNHBzRXdaZmI5SW1WaVRySTlnc2RnS0g2LTVsVkhlZXRJZHZoVWZsTmhaY29hT0Vzc2FUVk0wSnFN?oc=5) · FXEmpire 11-13 02:05 UTC
-- [Gold, EUR/USD hit 2026 lows as US yields erupt](https://news.google.com/rss/articles/CBMipwFBVV95cUxQYXZEdnZZOXZJRUxyUW9HaGN4Y0VQVkJOM2RmRW85cE1PcFdIT3BuQ3BndGZmdHZoaS1KOTlnMEpYSjZDRG5QWkJVQml5Q2tTa2U0YVhsSjFocmdtRzdrZ0YtUmJiY2x1V3BJME9adzB6dllJX3ZQWmNMTHNyYzdXMTEtVHJCUERGakVPNE9ROEFvNXd1TUVWWTRkQWJrdzBoUnRwMWlTWQ?oc=5) · StoneX 11-13 01:42 UTC
 - [Gold falls to over one-year low below $3,900 amid inflation concerns, US PPI data looms](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWWZsNGswcEZxUVdPTXVwckxCYUV4UEdjbWhkeGVReGNIaG9PdjZNVVhtTURnWGd4bW80NzJULW1vMzhMY3hvQzV1WGw4Zm83Z2oxMXdqS1pGUDgwQ3Fla3N1emdsRkRFNlA4b2Q2N0I1RzgySFRnQU9KQTVKOS1QOUlVMXdPbHZ3eXpYM21TSEhXaW8wZTlIOFdudW5XeXpzN2RsakQ3VDBnRDhEVElkakVzOVNJcXROLXRmSl9HUkVTNENvbjFDZDVtSUgyclEzLUkxbk5oY0NUTHhyaDhHZ3QwQ0t2dw?oc=5) · www.tmgm.com 11-12 23:56 UTC
 - [Gold sinks to more than one-year low as Fed rate hike bets boost dollar, Treasury yields](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQTJzZktlVFZ2bzY1QnNuM0RwSFhuN0QwQUV2YnIySjR5SlJPYy0zcmhEVUIzTE5CM2lDbHk0dzZDMFdHWDBkYjhiYkdpTEd1ZDhLQ0JDZmxZTHhUUzBXcm9pWWFDblpHcENFREVmRE1hNzc5S2t2VUpiM1RrYmZFejBzd1BVTjNUOWw2T0dRYzhpMndSem9wWjdfc2lqR2htZEFma1dTdUZfYjJRYXYtOUJTNm00dkZSaElaUHJkbVBTdjFjSXloaXdWQXI2dEFBdTYwUGdCcTRXeklrMzlkRFV0Zlc?oc=5) · TradingView 11-12 22:40 UTC
 - [Gold, silver slide as Treasury yields surge, Fed hike concerns intensify - Kitco PM Report](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGhvbHBVekx2Sm1QRGxIbnVzMWJZMThnNEVJNTJab2N5c0MtZkxzbDNGellpU2MzcHRBQlV1cWtZMVJoVWh1aVNERTJKV3N1R1NVUnl4QXVYZUdWc2VYbjJROWd6RXhsem1ZZ3V2SVR0TkZDbDF0bExDSHV0b3c5YTV3V01Mcl9JTlp0ZmZ6MXlCTk0zOHdTQjVVX3ZtQktJd2dIVUhGN3IxSUVoZGpVMmlOVndyQUwxa1BV?oc=5) · Kitco 11-12 22:16 UTC
+- [Gold Prices Plunge as Fed Rate Hike Fears Intensify](https://news.google.com/rss/articles/CBMisAFBVV95cUxNcWVFYzFSNVpQLUtxQWRpNkJ1RURxeEdjczBXVU9kQktOb0l5N1ZBTHNBZDVxYWpIbWtPcjVNUEplVk5WV0x3STFDQjcyM09xV3pDdUE0ZmFYSlFtd2thb3NNS3k2VVQ5R3dqZlUwMm1xNWJUekNVMlVUaU1fYlNIMnZ4QkVfNmRLZVhvME8zQ190Nk5WRndGNk9PNDNSZU4yR2xOSGI5QVZ1eTJ2N3dPag?oc=5) · TradingView 11-12 19:44 UTC
 
 ## ملاحظات وأخطاء
 
