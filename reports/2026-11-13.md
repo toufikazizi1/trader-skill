@@ -2,29 +2,29 @@
 
 ## الملخص
 
-- **السعر:** 3,889.9$ (-7.34% عن الإغلاق السابق)
+- **السعر:** 3,887.2$ (-7.29% عن الإغلاق السابق)
 - **الحكم الحالي:** مائل للهبوط. الاتجاه هابط، والبنية: متذبذب.
 - **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
-- **أقرب دعم / مقاومة:** 3882.8$ / 4100.7$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4100.7 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3954.3$؛ هدف 1:2 عند 4393.5$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3882.8 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4029.2$؛ هدف 1:2 عند 3590.0$.
-- **تنبيه اقتراب:** السعر قرب الدعم 3882.8$. راقب الإغلاق اليومي ثم إعادة الاختبار، ولا دخول قبلهما.
-- **أحدث خبر:** [ارتفاع مؤشر الدولار وعوائد السندات الأمريكية تدفع الذهب للتراجع](https://news.google.com/rss/articles/CBMi_gJBVV95cUxQbkFtTkthN3I4RjRiQ2tMUXRoS09YM0p4dlFSNjVjNktuLWVHQ1QxcjRFX2NEZkg3S2FkREZhNlpRMl80cDZJdkFDUGdwNm56elhiQ1VBaFFQVmNmNEpZOWlud3BkVndRc0FWNXdEQnVJajVuYk9uTDR6ZHpVc1BHRkxtUThGY1BEWUR3NkdWenZNbFhzMFRNOHpDa092ZG51Q0daaklQQ1VSOWZiaGpfVDk1RHJkTTJ3MTI4WUNaVjVuR2xIbTFEdkpUV29SUGNIRmQ3OGxDWXNlLXg5LTI4SXZmZkJodVR5RVdxVlA4RHI4Y0ZLalhtSl9neFlFSEM1ZGk3Tjc3ZkFMQVRhR0NYelM3cUkyNHduOU9hX05HOXpVZGRORWxKZXE1R2VRUkwzUWRKalBMSEN1RmVKQ05YNVd2cGY2XzdIN3dpRTJwMml6U19YUTg4ZVV0VHlPd19YbkhjRU90a1AwWHZwVUp3bVV4MVpZS0x1U0QtaE53?oc=5)
+- **أقرب دعم / مقاومة:** 3877.7$ / 4095.6$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4095.6 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3948.8$؛ هدف 1:2 عند 4389.1$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3877.7 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4024.4$؛ هدف 1:2 عند 3584.1$.
+- **تنبيه اقتراب:** السعر قرب الدعم 3877.7$. راقب الإغلاق اليومي ثم إعادة الاختبار، ولا دخول قبلهما.
+- **أحدث خبر:** [ارتفاع مؤشر الدولار وعوائد السندات الأمريكية تدفع الذهب للتراجع مجددا](https://news.google.com/rss/articles/CBMiiANBVV95cUxOdk5NR2JrQlBQSFQ4bGtURkQ5NEJJV3Fxa1llRUt3VFlrTWNKWkxadi1FZ1l3ZEs4VHZnRjJ6MjZUdkFxMllZMG9ySnF4eDNlMTN6LUVNTG5ReE9VanB3dVhvTHlaVmQ3LVdDTklEeDhEY1VaVnZ3a1dSdndZTkZ6bDdld2NQbVBWemIyTk01S2lzNkFsejZPOEh1LW1NcDRULWw1c2NmVDM3c0p4WXBrSlN0NElkVkM0WjE2UGw2QUFvX3JPNVZkS2EyNElEakFXWnFpSGRiUU8tYUJSdEhKTVFvNDZERm41ZkJkSFhxMFB0NW5LT0ZTN1lOYldPYW92VElxd1F4M3FwQ1lIRFpyR0plaTA1djFfNkVlc2Z2eWtLMXdQRTNZOFJjaWVpVnZWRDV3UlpzUDdTbzByMTI3WG9YMG1SeGtMZmRLVVpUb3UySUotYVBhdkw0VHFGYVQ3QS1jTWhudkxFUWZFZklIaDFzM2c2VmRWWWJaMzhZNE1zRjZfTTYyQQ?oc=5)
+- **خبر:** [ارتفاع مؤشر الدولار وعوائد السندات الأمريكية تدفع الذهب للتراجع](https://news.google.com/rss/articles/CBMi_gJBVV95cUxQbkFtTkthN3I4RjRiQ2tMUXRoS09YM0p4dlFSNjVjNktuLWVHQ1QxcjRFX2NEZkg3S2FkREZhNlpRMl80cDZJdkFDUGdwNm56elhiQ1VBaFFQVmNmNEpZOWlud3BkVndRc0FWNXdEQnVJajVuYk9uTDR6ZHpVc1BHRkxtUThGY1BEWUR3NkdWenZNbFhzMFRNOHpDa092ZG51Q0daaklQQ1VSOWZiaGpfVDk1RHJkTTJ3MTI4WUNaVjVuR2xIbTFEdkpUV29SUGNIRmQ3OGxDWXNlLXg5LTI4SXZmZkJodVR5RVdxVlA4RHI4Y0ZLalhtSl9neFlFSEM1ZGk3Tjc3ZkFMQVRhR0NYelM3cUkyNHduOU9hX05HOXpVZGRORWxKZXE1R2VRUkwzUWRKalBMSEN1RmVKQ05YNVd2cGY2XzdIN3dpRTJwMml6U19YUTg4ZVV0VHlPd19YbkhjRU90a1AwWHZwVUp3bVV4MVpZS0x1U0QtaE53?oc=5)
 - **خبر:** [الذهب ينتفض بعد 3 أيام من الهبوط.. كم سيصل سعر الأونصة قبل نهاية 2026؟](https://news.google.com/rss/articles/CBMi7ANBVV95cUxNRFp5ZWZ5OHNGMXZ5OGRrYTdXV2R5dmFBNXl2UjUxQ1BmUk1tQTJrR2ptR2FqVFJQSDRHcnNSVW94d3VZc1M3bHdjYlV5QTU2cjlfeVQxYkhLYjNhRDFhSmpBTUpwTTZXQVBsNjdxNllNRTFQVjlGZmY4X0NRX3ZNWFA0VWhBNC1ETjJJZlVLV3JqMURkRFlfV3IxcUtlRFlvQWpwSHJ1WkcyYnFLX0UxQk5CWm84WlFva1dwczFtYzV1enhheVp3MFRCSTBjQUtTYWZnRm14U0twRHllUm9UcDJKOTdlQ25kT3pVMzVReXp6LXZtUklDOEgtaFFDbDl2dWtrSlZ5MGZ1bVZlQUUxZldSQU5tZjRZbE1WeGR5SU5KejN1d2lMUGZjUTJXNWFFb0VJYjVPRWFKamJFMTdJckxRQnl1SzU4dnlFdmFGVFo1M2RscTcwd293RklQY2NGTWVCelJYUnlweVR4YnlaQTZJNjMxblVyR1lFZ25YNXRLdUdNQ3JYYjJEdGp3LV9kOWpFYlRFQXRScEtiNndMSFh2ck9aU0JxZ3NDVkxqR1I5M3lsckUwNHAtUkV2VTBvM2ZmOGlldGN1NUVSaUVELWk0dlZPM1MtUUNJQ3ZjME5OZ3Frc2podFV2TGY?oc=5)
-- **خبر:** [ارتفاع طفيف لأسعار الذهب عند 3883.05 دولار للاوقية](https://news.google.com/rss/articles/CBMigwNBVV95cUxNT1Z6OVc3QzlWWDBUNW9BN0hkelR2WTFBMTJXNktoQXRLcTVETFpCdUE4WHA0WHljZkVYMVFDX3pVekNVTkhlbVdOY3ZUamE0TmtONEsybVVRVTZSVTQ5V3E2Q1VMVW1meXJHZ1d6S2RtYURaYlJ5b253Ty1DYTg5WGRjakhxQWZLNjF3Z1hxcnZmQkJhTFBXYzB6QnZzdkQyMmd3SEtYQTNLVzczOHVIUjNlMnpUVlA0V2V0U24xZzl3ZERzRWZLY3BNa0Vxa2lQYmE5bkFWbl8wVFVvcks4aWhnQ1JRdldORVRsTmJjUy1GSDNpclp6RUdkMjJsN0lRQXdaYkU4ZmZwX3N6VnhBVmpxZEdnLVNjTGF5d1AxdVQ5QlJndno1VFNqVV9iQXdEQm9OVkdRMEJ0SUdzU1R0OThQWTVacEtrRXg0SFZRZDh5RnN3TjRxOTRWNXBYWGJyVDJsd2FyNHIyVE9DOUZPQVBuQkJUMkxabXZwSG9mOV9QMFU?oc=5)
 
 ## التحليل
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها +3.5$ |
-| الاتجاه (EMA 20 و 50) | هابط (4042.2 / 4146.3) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -1.6$ |
+| الاتجاه (EMA 20 و 50) | هابط (4037.3 / 4141.3) |
 | بنية السوق | متذبذب |
 | كفاءة الحركة (20 يوم) | 0.29 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
-| المدى اليومي المتوسط (ATR 14) | 97.6$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4758.5$ / 3860.2$ |
-| مركز الحجم POC | 4163.4$ |
-| منطقة القيمة VAL إلى VAH | 3882.7$ إلى 4399.2$ |
+| المدى اليومي المتوسط (ATR 14) | 97.8$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4753.4$ / 3855.1$ |
+| مركز الحجم POC | 4158.2$ |
+| منطقة القيمة VAL إلى VAH | 3877.5$ إلى 4394.0$ |
 
 ## سيناريوهات للدراسة
 
@@ -32,23 +32,23 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4100.7 ثم إعادة اختبار تثبت فوقه | 3954.3$ | 4393.5$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3882.8 ثم إعادة اختبار يفشل في العودة | 4029.2$ | 3590.0$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4095.6 ثم إعادة اختبار تثبت فوقه | 3948.8$ | 4389.1$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3877.7 ثم إعادة اختبار يفشل في العودة | 4024.4$ | 3584.1$ |
 
 ## أخبار الذهب بالعربية
 
+- [ارتفاع مؤشر الدولار وعوائد السندات الأمريكية تدفع الذهب للتراجع مجددا](https://news.google.com/rss/articles/CBMiiANBVV95cUxOdk5NR2JrQlBQSFQ4bGtURkQ5NEJJV3Fxa1llRUt3VFlrTWNKWkxadi1FZ1l3ZEs4VHZnRjJ6MjZUdkFxMllZMG9ySnF4eDNlMTN6LUVNTG5ReE9VanB3dVhvTHlaVmQ3LVdDTklEeDhEY1VaVnZ3a1dSdndZTkZ6bDdld2NQbVBWemIyTk01S2lzNkFsejZPOEh1LW1NcDRULWw1c2NmVDM3c0p4WXBrSlN0NElkVkM0WjE2UGw2QUFvX3JPNVZkS2EyNElEakFXWnFpSGRiUU8tYUJSdEhKTVFvNDZERm41ZkJkSFhxMFB0NW5LT0ZTN1lOYldPYW92VElxd1F4M3FwQ1lIRFpyR0plaTA1djFfNkVlc2Z2eWtLMXdQRTNZOFJjaWVpVnZWRDV3UlpzUDdTbzByMTI3WG9YMG1SeGtMZmRLVVpUb3UySUotYVBhdkw0VHFGYVQ3QS1jTWhudkxFUWZFZklIaDFzM2c2VmRWWWJaMzhZNE1zRjZfTTYyQQ?oc=5) · الأخبار المسائى 11-13 14:05 UTC
 - [ارتفاع مؤشر الدولار وعوائد السندات الأمريكية تدفع الذهب للتراجع](https://news.google.com/rss/articles/CBMi_gJBVV95cUxQbkFtTkthN3I4RjRiQ2tMUXRoS09YM0p4dlFSNjVjNktuLWVHQ1QxcjRFX2NEZkg3S2FkREZhNlpRMl80cDZJdkFDUGdwNm56elhiQ1VBaFFQVmNmNEpZOWlud3BkVndRc0FWNXdEQnVJajVuYk9uTDR6ZHpVc1BHRkxtUThGY1BEWUR3NkdWenZNbFhzMFRNOHpDa092ZG51Q0daaklQQ1VSOWZiaGpfVDk1RHJkTTJ3MTI4WUNaVjVuR2xIbTFEdkpUV29SUGNIRmQ3OGxDWXNlLXg5LTI4SXZmZkJodVR5RVdxVlA4RHI4Y0ZLalhtSl9neFlFSEM1ZGk3Tjc3ZkFMQVRhR0NYelM3cUkyNHduOU9hX05HOXpVZGRORWxKZXE1R2VRUkwzUWRKalBMSEN1RmVKQ05YNVd2cGY2XzdIN3dpRTJwMml6U19YUTg4ZVV0VHlPd19YbkhjRU90a1AwWHZwVUp3bVV4MVpZS0x1U0QtaE53?oc=5) · بوابة أخبار اليوم الإلكترونية 11-13 13:56 UTC
 - [الذهب ينتفض بعد 3 أيام من الهبوط.. كم سيصل سعر الأونصة قبل نهاية 2026؟](https://news.google.com/rss/articles/CBMi7ANBVV95cUxNRFp5ZWZ5OHNGMXZ5OGRrYTdXV2R5dmFBNXl2UjUxQ1BmUk1tQTJrR2ptR2FqVFJQSDRHcnNSVW94d3VZc1M3bHdjYlV5QTU2cjlfeVQxYkhLYjNhRDFhSmpBTUpwTTZXQVBsNjdxNllNRTFQVjlGZmY4X0NRX3ZNWFA0VWhBNC1ETjJJZlVLV3JqMURkRFlfV3IxcUtlRFlvQWpwSHJ1WkcyYnFLX0UxQk5CWm84WlFva1dwczFtYzV1enhheVp3MFRCSTBjQUtTYWZnRm14U0twRHllUm9UcDJKOTdlQ25kT3pVMzVReXp6LXZtUklDOEgtaFFDbDl2dWtrSlZ5MGZ1bVZlQUUxZldSQU5tZjRZbE1WeGR5SU5KejN1d2lMUGZjUTJXNWFFb0VJYjVPRWFKamJFMTdJckxRQnl1SzU4dnlFdmFGVFo1M2RscTcwd293RklQY2NGTWVCelJYUnlweVR4YnlaQTZJNjMxblVyR1lFZ25YNXRLdUdNQ3JYYjJEdGp3LV9kOWpFYlRFQXRScEtiNndMSFh2ck9aU0JxZ3NDVkxqR1I5M3lsckUwNHAtUkV2VTBvM2ZmOGlldGN1NUVSaUVELWk0dlZPM1MtUUNJQ3ZjME5OZ3Frc2podFV2TGY?oc=5) · نيو ترك بوست 11-13 13:15 UTC
+- [الفيدرالي يقرر مصير الفائدة اليوم.. الأسواق ترجح التثبيت ومحللون لـ أرقام: رفع جديد محتمل في ديسمبر](https://news.google.com/rss/articles/CBMiakFVX3lxTE16WDNPMnROeUdxNXpielNCbDYtakQyZ3IweFVrNU51VXFSNnQ2TFpfZDN4Yzc0N1NXY3V4S2ltV0ZtUUU5YmY1dmM1YnZjN0V3LWZRaVpTTXNQcEhoX2owajk2dFVrQWcydlE?oc=5) · ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي 11-13 12:56 UTC
+- [توقعات سعر الذهب لأعوام 2026، 2027، 2028–2030 وما بعدها](https://news.google.com/rss/articles/CBMiekFVX3lxTE5QSmFCVm5TVHdqbVZQVEJ2R2ZQdGo4dFQzT094VTFZRFhhQmxUb1FfM0Noc1A4QXpNZkpQdlRvNFRSVGpfeFNpQVBjUndubnplejdGZWVFajFXZEp6c1IxQ19KSHo5eGNNRTR5NHJUbUd4U1IzcXVxYmtn?oc=5) · LiteFinance 11-13 12:26 UTC
 - [ارتفاع طفيف لأسعار الذهب عند 3883.05 دولار للاوقية](https://news.google.com/rss/articles/CBMigwNBVV95cUxNT1Z6OVc3QzlWWDBUNW9BN0hkelR2WTFBMTJXNktoQXRLcTVETFpCdUE4WHA0WHljZkVYMVFDX3pVekNVTkhlbVdOY3ZUamE0TmtONEsybVVRVTZSVTQ5V3E2Q1VMVW1meXJHZ1d6S2RtYURaYlJ5b253Ty1DYTg5WGRjakhxQWZLNjF3Z1hxcnZmQkJhTFBXYzB6QnZzdkQyMmd3SEtYQTNLVzczOHVIUjNlMnpUVlA0V2V0U24xZzl3ZERzRWZLY3BNa0Vxa2lQYmE5bkFWbl8wVFVvcks4aWhnQ1JRdldORVRsTmJjUy1GSDNpclp6RUdkMjJsN0lRQXdaYkU4ZmZwX3N6VnhBVmpxZEdnLVNjTGF5d1AxdVQ5QlJndno1VFNqVV9iQXdEQm9OVkdRMEJ0SUdzU1R0OThQWTVacEtrRXg0SFZRZDh5RnN3TjRxOTRWNXBYWGJyVDJsd2FyNHIyVE9DOUZPQVBuQkJUMkxabXZwSG9mOV9QMFU?oc=5) · جريدة الشرق 11-13 11:23 UTC
 - [الذهب يواجه صعوبة دون 3900 دولار قبل صدور بيانات مؤشر أسعار المنتجين الأمريكي PPI](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQVg5N0JUTktkR1o1SzV0anhweHpFR1N6QmhUZ1FMWXBMLVdXdkxfWU9yNktpUkRicGp1TW9nRHZSU05tbDRybFpoMm50UWpyRlJ2OVJQak91aFdkalpNSGpYUlBOa0Y1ZWJBemJSYm9YaWlINDM5bnBNbE9Jb0I1ZzVPNnZZZGNsMFpxWURENTlNR3NUUzlGdl8wVDVGUXFOX2tTaEFtWGlCS29iUm9WVE1n?oc=5) · FXStreet 11-13 11:11 UTC
 - [بعد هبوط حاد.. ارتفاع أسعار الذهب عالميًا 1% بدعم من عمليات الشراء](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mTVlyV2tIRzZpOFhEZ3E0ZWs4emk2NmlNYmxBcFN3VUFQR2o5bE1pNzNjTTMwSlhBNWpnTl9sMmlISkNmUXVEN3ROZ3VsZTdWUDBPcWVObGtjc2RKYzR3?oc=5) · المصري اليوم 11-13 10:35 UTC
 - [الذهب يتعافى من أدنى مستوى منذ بداية العام، ويستعيد 3900 دولار؛ رهانات رفع الفائدة من جانب البنك الاحتياطي الفيدرالي Fed والدولار الأمريكي الصعودي قد تحد من المكاسب](https://news.google.com/rss/articles/CBMinAFBVV95cUxPdWo1RXQybmN4dFlMRU10M3MtWmh2SEl1alluVTVfTF9obmtIS3dNMDZTVmkwMWxTZVNsd1pPOGR2WTk2VklTdFJmTm03Y3hHSnBQYWlPVWJ1M2E5T0FJbkFmYUttNUNvNnY3UVAzTkZWU21VdTdSYzJxZ2ZUeGxKM3NnQWNDZEIyNktiTUpwZlhycEhXX2lObVFLSmM?oc=5) · Mitrade 11-13 10:18 UTC
-- [توقعات سعر الذهب لأعوام 2026، 2027، 2028–2030 وما بعدها](https://news.google.com/rss/articles/CBMiekFVX3lxTE5QSmFCVm5TVHdqbVZQVEJ2R2ZQdGo4dFQzT094VTFZRFhhQmxUb1FfM0Noc1A4QXpNZkpQdlRvNFRSVGpfeFNpQVBjUndubnplejdGZWVFajFXZEp6c1IxQ19KSHo5eGNNRTR5NHJUbUd4U1IzcXVxYmtn?oc=5) · LiteFinance 11-13 09:22 UTC
 - [الذهب يقلص خسائره عالميا في بداية تعاملات الجمعة.. ومكاسب الأوقية 40 دولار](https://news.google.com/rss/articles/CBMi9wJBVV95cUxQVzZEMkI1VmFZdjNfNGxMUTYzTTRaXzdrZzQyLVVtYVFxSU9lM3d5NGczNUpMVkd5MXRMeGVYZ05ONEJxZDhlM0o4OXVWSjk1N2k1dU40YmdQZlR6WVQzNWRLeEFJaUpERlpWekhtcng5a2dVLVJreFdlSl9QN05ZYVctSDZISWp1SlFKS3UxSDZ4aEt0TFlZNWl1V2VIV3hudjVBMDZvRGFta1FaWFB1Z3hBTzF3TjI2UUlpNzI2Z3ZteHJhamc0bHFWY2x6TDZtNU5WbHZENjYwTkNUckNJYk9hb1g3dmg1bEYzSlZKeW1xRVRScHVQcENMZ0lUWExnQUI2ZXNLQnFoVWthcGoxVXRrT0tPN0h6MmNhVHlGU3ZPRk5tcEpTQXpLbzMwYThWVTRoaHNzOWcybGRVdVRGbDdramlzeUFQUWhfYmw2elktd0lqVnhtM1FIVUNpbXI1X2ppQmVFYS1rWWlyRGU0Y0tBYVNhZ2M?oc=5) · بوابة أخبار اليوم الإلكترونية 11-13 09:22 UTC
 - [ارتفاع أسعار النفط والذهب](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5eHZkQThtaFdHdjliYkZCYXFwNlEzYmE1RXgwb3pONUlmRWw2T2JEaWxxdjZ5bnpnMWxWaXdhOHlZRmxWUXNRU2Etckg3Q3p1cTllZnF0VmhxelFRLU5icDlB?oc=5) · النجاح الإخباري 11-13 09:13 UTC
-- [ارتفاع أسعار الذهب اليوم الجمعة في بداية تعاملات الجمعة](https://news.google.com/rss/articles/CBMiggNBVV95cUxQeVZRNFplY2N2WjBXdkp0U0J4M29qTHJsWDlmUXpIVkFiTVNxcVppby1KTUs0RHI2cUdYTXhRamhZZ1lDdkIwWG9CSTlYRFl2b0N4M0w2Z05SY25Ybk52dEhYWll0bGhUQVJMUnQzWHJGOV9jZDd6THBLMUpkT0FvMVhnaklkdXU4Q2dGUFBrOEM0ZndPN0w4WDBFcnYzdkQ0emRwZGFoQ0VfRTdYM1RMZUtWUDM4TnRVQUlmVnVsWjhoSnV2YmphaGVsZEVLMU5hSUdrbE1hYS1rYUNMaXJCVXdlQmhzM3hRMHJuckRXbmVkMmNyNUFfcFJmeG1yaDJ4dkhhVUF6YnAyUWtCSWk0VnpyZWNXVXRSMzJBZXltcUhwTmJ5QS1SaGl3blh4dkJadm4zNEV2eUtWVFNxOFctNDNTYmRvMWdZVjZCX3ViVGQ0cFFtMEUteVRvWFFJbDRqcURzR01vck5ZYU9kcHJqaEQ4em41QVV0UTF4Z01GbGI4QQ?oc=5) · الأخبار المسائى 11-13 08:09 UTC
 - [أسعار الذهب فى الإمارات تتراجع مع هبوط الأوقية عالميًا وترقب قرارات الفيدرالى](https://news.google.com/rss/articles/CBMi_wNBVV95cUxPRFVxS2VGbDlHcU9ud1ZrdlVZQVcxS1owRm11VWVXbE11cnhyMm95ZXZYWkRtMnRvQmZjb3o3SXpwYlF4bTk0M1BPbEdTam1iNUQ4OG0wbm9pSTRwTTdGc3Vud2VrMFZEVnVWVFJaRW5sLTA4ZkcySTExQ1JmZFBnQXRrdFhZWnVZcVJDRm12WlF2V2FnTlFWQ0l0U3FTaVF6SFJvTHpldWFBRy1uMEtySFNWRlFXZjBoRkZwM0taOXVDd0V2MHprVFVxR1NIOXNILWhhTnJSRFg1b1I5alM5MXFaSE5KNmhhNmVJZUVOWDFzLUlQcmxjbmxXRWNINnNBQy04cmRfOElpR25FalNFVldqWlFwc3JrenVnLVlEMGd2WlZqdm1fcXdnZzVnMVY4NzVVcmdsLWdVTlcxT0xCSzF1el9zNndGMkpuMVY2WmRhVW9KZGhfVFYxLVk0SG1aS01QbjV6OVBPZGJVVGRCT2JMX2duVHkxWGdzdEM0V005aDBsc01zSTdjQUdDN1ZQeE5JOG1GTzNhRzNJOG52cG9qbEowbG1UUTgzSjBXT3Q4SmdjSTF0OWR1WS1qcnhJUm5VaU1abzA2cnZfN2loTVJQNDFtcWhmSXFCV2pQTEllaENBc0xQWi1COU42ZjVOYUtoSk5wR1RuMWtGOFJF0gH6A0FVX3lxTFA2Tk1JdlBQZzZWSDRPV1R4TDdpYUtoRGNrUlM5WFpidkp4NUoxNTJCTVVzZ1FkVUIxNGZjaXBLWm41aXI2RldOUHczQ0JQZjJ0a3RuVkxtX1hVM1JaWXo0ZjBnNmlHQXpJRmRHZGNMOHhBZEM4UENld2lnYnZoZWxQRWNTRkZPUmZ0Z3RIbGxhbzJLMFVEcFF4bDVNLVAxclc3MlVqSnJDbGVCTkdEUXk4blZKTWV1dzdsYUZtaU5WcWxTcEpwSDZ2WjlCNlBIUmJXeV9FejEyR3lYdUEzbzVkalZRY0NITUpxeGJvU2NfTTRBVUNXUHhTTVZmc0ZGT2ZBZjdIZWFHcDl6cGZiTllUWkt6QjJpOVdudGVSN0gtU19nVEJrWU5hem5leGsyNEFtdjhQZ28xVkpXRTFUdVI2bWo2QkRtdTF4UnM2eDl4cUczU0gwdjUxZ3BrMlRXSW1jN3VVZlBsbzRJNGFKUUducnVEal9NVVZ2aXQ2WjJoLVlEcm9HejNzMUlQWnVGb3JEWmtUdTJURWw1eWRKbTUySUJkZHFpb3JXbmROUndCWmVWeGNsNTV1Rm5DTlFiamhDcUJyal9VbHVwV203Zlk4VXYtRHFZSGxYc0hKeEU3eVhhVC1feDZDcWhlaU5oZFRLQnROZmRQdzZ3?oc=5) · اليوم السابع 11-13 08:00 UTC
-- [الذهب يرتفع عالميا...](https://news.google.com/rss/articles/CBMi1wJBVV95cUxNUmQtNmlnaUphdll0VEZ4UzRpWTQ1QURSNUNWRmtNZkk5MkNkZjBzYWFOWjRhengtZDVQbWRSYks1UDZNckk2QjBHWFNIeHlnVl9wa2lVQjltTVhnVjRyRm5wTGpEb09meVd3UDFtTWpQbWx6bmZTamphUVNFc3pud190MHZCQWprNGhtcENFOW1rOHpBeUgwa2VFa1hYVUM1U0U1SVI5UV9MVkhBMjZCSGtnd1lwdzRCM3NpX1hmV25JY1JnSWw2VHpORXlHRnQ4cUFNTHAwQUxGWjlvanc0OV9taTEtdnlEX0VSLXJWd1Judm9jbFRKbnNMVnFycFd3T1BMY3d1aU9kdDRoamRBM0stS1VKZUFaMTN5NFpnV2VQXzZGSmYybkhUaFUtZzRwazhlN0xaMmlleTA4eVlna3NLbkM0MDZUTGgwN0E0U0RGLV84MXFJ?oc=5) · جريدة الغد 11-13 07:29 UTC
 
 ## أخبار الذهب بالإنجليزية
 
