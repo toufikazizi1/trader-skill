@@ -2,29 +2,30 @@
 
 ## الملخص
 
-- **السعر:** 3,922.1$ (-6.49% عن الإغلاق السابق)
-- **الحكم الحالي:** حياد / انتظار. الاتجاه هابط، والبنية: متذبذب.
-- **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
-- **أقرب دعم / مقاومة:** 3878.9$ / 4096.9$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4096.9 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3950.4$؛ هدف 1:2 عند 4389.7$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3878.9 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4025.4$؛ هدف 1:2 عند 3586.1$.
-- **تغيّر الحكم:** من مائل للهبوط إلى حياد / انتظار.
-- **أحدث خبر:** [ارتفاع طفيف لأسعار الذهب عند 3883.05 دولار للاوقية](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FdVFMSmVuTG9DeVgyQ05KUEZKZ2xhbmgzWGwtVXBIbTlfWHJkM0xQbXNsRy1vU0FJTHEyREQ2VTAta19qd1VzdnlVSXNaTThjRlhR?oc=5)
+- **السعر:** 3,900.3$ (-7.02% عن الإغلاق السابق)
+- **الحكم الحالي:** مائل للهبوط. الاتجاه هابط، والبنية: متذبذب.
+- **موقع السعر:** تحت منطقة القيمة.
+- **أقرب دعم / مقاومة:** 3879.7$ / 4097.6$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4097.6 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3951.2$؛ هدف 1:2 عند 4390.4$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3879.7 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4026.1$؛ هدف 1:2 عند 3586.9$.
+- **تنبيه اقتراب:** السعر قرب الدعم 3879.7$. راقب الإغلاق اليومي ثم إعادة الاختبار، ولا دخول قبلهما.
+- **تغيّر الحكم:** من حياد / انتظار إلى مائل للهبوط.
+- **أحدث خبر:** [Gold (XAU/USD) Price Forecast: Dollar Strength Extends Downside Targets](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2VtN0JnSHljcTdzZEdBVnVOdWIyRGMycTFNckRfZFhXVjI3YnZfRHQ1Wk1kMVQ4Qy1KN3d6ZF9NeVBMTUhqX3gzem1pd2lMbEMzVDBaNWJFYlI2SkFxLWtMU1BUdzN6TG4xZ05MX1VtN2FXNE9va1RvXzRyanN6cDAtUXFmM2J4X1NtbF9Ia2JyUkQ0LW9iSXRSUWxYZWtrbmZOUmlUb1FCdWNkZGdycmhMTkNYX3N1Z0Vn?oc=5)
+- **خبر:** [ارتفاع طفيف لأسعار الذهب عند 3883.05 دولار للاوقية](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FdVFMSmVuTG9DeVgyQ05KUEZKZ2xhbmgzWGwtVXBIbTlfWHJkM0xQbXNsRy1vU0FJTHEyREQ2VTAta19qd1VzdnlVSXNaTThjRlhR?oc=5)
 - **خبر:** [Gold's Slide Puts Futures Positioning in the Spotlight as Traders Brace for Inflation Data](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWGdCbFJqTnFYR1FrZzJMYWstZHZMYTNIT2J6QnI2a3pkZDRIYVZabmJmTUVRWjNkUHoxenZkODBHb2RfWkdQMkZFWXQwaG91MDVlVzVvT1E5UTd0bjlJcVFYdzhCYTlQWXFDZnE3MHk3TWlRSGVRcVd0NVNqbDNyS2QtSkRLejVaaUdHSFhqYlpZbmxVdWdHX2l3cTZvdS02WVpQdktOd2VJd3Zsa0dTeWkxUUxCc1RrR3hnQXFoVzVWd2lNUUhFQURlYnhqZjV5UHAwUWpkTXFEZXpJbHdFclR1ZmtfTWlrNmExMzJGT1o5blpV?oc=5)
-- **خبر:** [Gold (XAU/USD) Price Forecast: Dollar Strength Extends Downside Targets](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2VtN0JnSHljcTdzZEdBVnVOdWIyRGMycTFNckRfZFhXVjI3YnZfRHQ1Wk1kMVQ4Qy1KN3d6ZF9NeVBMTUhqX3gzem1pd2lMbEMzVDBaNWJFYlI2SkFxLWtMU1BUdzN6TG4xZ05MX1VtN2FXNE9va1RvXzRyanN6cDAtUXFmM2J4X1NtbF9Ia2JyUkQ0LW9iSXRSUWxYZWtrbmZOUmlUb1FCdWNkZGdycmhMTkNYX3N1Z0Vn?oc=5)
 
 ## التحليل
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -0.4$ |
-| الاتجاه (EMA 20 و 50) | هابط (4041.8 / 4143.9) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها +0.4$ |
+| الاتجاه (EMA 20 و 50) | هابط (4040.4 / 4143.8) |
 | بنية السوق | متذبذب |
-| كفاءة الحركة (20 يوم) | 0.25 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
+| كفاءة الحركة (20 يوم) | 0.27 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 97.6$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4754.6$ / 3856.3$ |
-| مركز الحجم POC | 4159.5$ |
-| منطقة القيمة VAL إلى VAH | 3901.3$ إلى 4395.3$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4755.4$ / 3857.1$ |
+| مركز الحجم POC | 4160.3$ |
+| منطقة القيمة VAL إلى VAH | 3902.0$ إلى 4396.1$ |
 
 ## سيناريوهات للدراسة
 
@@ -32,8 +33,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4096.9 ثم إعادة اختبار تثبت فوقه | 3950.4$ | 4389.7$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3878.9 ثم إعادة اختبار يفشل في العودة | 4025.4$ | 3586.1$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4097.6 ثم إعادة اختبار تثبت فوقه | 3951.2$ | 4390.4$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3879.7 ثم إعادة اختبار يفشل في العودة | 4026.1$ | 3586.9$ |
 
 ## أخبار الذهب بالعربية
 
@@ -52,8 +53,8 @@
 
 ## أخبار الذهب بالإنجليزية
 
+- [Gold (XAU/USD) Price Forecast: Dollar Strength Extends Downside Targets](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2VtN0JnSHljcTdzZEdBVnVOdWIyRGMycTFNckRfZFhXVjI3YnZfRHQ1Wk1kMVQ4Qy1KN3d6ZF9NeVBMTUhqX3gzem1pd2lMbEMzVDBaNWJFYlI2SkFxLWtMU1BUdzN6TG4xZ05MX1VtN2FXNE9va1RvXzRyanN6cDAtUXFmM2J4X1NtbF9Ia2JyUkQ0LW9iSXRSUWxYZWtrbmZOUmlUb1FCdWNkZGdycmhMTkNYX3N1Z0Vn?oc=5) · FXEmpire 11-13 05:32 UTC
 - [Gold's Slide Puts Futures Positioning in the Spotlight as Traders Brace for Inflation Data](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWGdCbFJqTnFYR1FrZzJMYWstZHZMYTNIT2J6QnI2a3pkZDRIYVZabmJmTUVRWjNkUHoxenZkODBHb2RfWkdQMkZFWXQwaG91MDVlVzVvT1E5UTd0bjlJcVFYdzhCYTlQWXFDZnE3MHk3TWlRSGVRcVd0NVNqbDNyS2QtSkRLejVaaUdHSFhqYlpZbmxVdWdHX2l3cTZvdS02WVpQdktOd2VJd3Zsa0dTeWkxUUxCc1RrR3hnQXFoVzVWd2lNUUhFQURlYnhqZjV5UHAwUWpkTXFEZXpJbHdFclR1ZmtfTWlrNmExMzJGT1o5blpV?oc=5) · ad-hoc-news.de 11-13 05:10 UTC
-- [Gold (XAU/USD) Price Forecast: Dollar Strength Extends Downside Targets](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2VtN0JnSHljcTdzZEdBVnVOdWIyRGMycTFNckRfZFhXVjI3YnZfRHQ1Wk1kMVQ4Qy1KN3d6ZF9NeVBMTUhqX3gzem1pd2lMbEMzVDBaNWJFYlI2SkFxLWtMU1BUdzN6TG4xZ05MX1VtN2FXNE9va1RvXzRyanN6cDAtUXFmM2J4X1NtbF9Ia2JyUkQ0LW9iSXRSUWxYZWtrbmZOUmlUb1FCdWNkZGdycmhMTkNYX3N1Z0Vn?oc=5) · FXEmpire 11-13 04:13 UTC
 - [Gold Price Forecast: XAU/USD finds temporary floor near $3,850, downside risks persist](https://news.google.com/rss/articles/CBMiygFBVV95cUxPN2o0bGFjWHM1R19zczQzNHRzeWRsamFkNXhnNnN6c29CWVR6UjNValNiZHBJcFVqdEQ2Z0V1VlBxM1hqQVZCSjYteEhZUC1KVTYwYnc4aDFrMGRscWMtR3dEd3hnS2xGbDFCRmFuZU9wM3FMb2ZFelpHQWNsSEd5RkkxS1JPcUhOUnlzZzZBWXdST2FTUmZPWVI0YzlNb2I1UUFSRzFyRmY0TzhLWGFCeTNCNk1FaEVYdXZxc094cFdvZGJiY3QyTDRR?oc=5) · FXStreet 11-13 03:28 UTC
 - [Gold Steadies After Three-Day 6% Rout; Asian Session Pushes Back Above $3,900](https://news.google.com/rss/articles/CBMidkFVX3lxTE1ad0tLNFBGaUNsZEhoME1XTnBHd2llRUlQa0JBN2tYUS1ZcnVfZG83MWdrSnZNWi0zOGpzYjRYTlJza1AtWEFrWnk5Z2trUDdkSUNLQkJFU2NyVFRiNmNWSXkyaTJoVE85WW5rcVBnaHNlOVZiWXc?oc=5) · BigGo Finance 11-13 03:11 UTC
 - [Gold Price Forecast: Gold Tumbles Below $3,900 as Trump Says No Need for Iran Deal; Can October PPI Spur a Rebound?](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSUoxSDF6c3NpY0E1TUwxTmM0WExVdkoyZEN3eE1QYkphMnhSWHpKNl8xTW5FT2VMY3hFLThfcFJWVFJuQ2pCTnFfZVVhRER0U0VieHpSQl9oa0FvMnJMNTl2Q0NtYjgxZ3dMSG9kXzFqZzY2djVrM284dUxmaHEteWVFdG42NFNPQ2cyY09xdzF5bVMwS3hQa09qWnQtSXVPRG5GWkZnNEtIUlRNZTYwMm1ubEJCa0ROLTdrWWZVNllTTU03d25yZGJvMUg5WWNEXzhBMmVNZkxzZTNX?oc=5) · TradingKey 11-13 02:37 UTC
