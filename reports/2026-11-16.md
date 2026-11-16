@@ -2,28 +2,28 @@
 
 ## الملخص
 
-- **السعر:** 3,877.4$ (-4.82% عن الإغلاق السابق)
+- **السعر:** 3,878.6$ (-4.86% عن الإغلاق السابق)
 - **الحكم الحالي:** مائل للهبوط. الاتجاه هابط، والبنية: متذبذب.
 - **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
-- **أقرب دعم / مقاومة:** 3682.2$ / 4096.7$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4096.7 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3950.2$؛ هدف 1:2 عند 4389.6$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3682.2 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3828.6$؛ هدف 1:2 عند 3389.2$.
-- **أحدث خبر:** [Gold stabilises after touching lowest level since October 2025 as hawkish Fed restrains gains](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeFFMR2E3bXp1MVdzT05aZW5HSkllcDd4anZpdHlGOFRlYmZqcDlob2xMcUhPZVlTT0FnWmJhSzBYbVZEejRUNWFfLUJhb3BYaHBEdEQ3dGFVSWN1NGdaQWtEUzhXNWt5aDhuZGo4OUhHMS0tRGpqUHo1bGJvSTd2azh3UWJpbDVPai1mTE03M21VM1k2ZFo4aHBDUzZSam5RNU9xalJiQXBITUt0V1BTSEhvbk44U1RNVHJTODdVX2FmRTRKX2Z1MEhuTldlN0JOdkdaUXI2YVhwU2VhNHc?oc=5)
+- **أقرب دعم / مقاومة:** 3683.3$ / 4099.4$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4099.4 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3952.9$؛ هدف 1:2 عند 4392.3$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3683.3 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3829.7$؛ هدف 1:2 عند 3390.3$.
+- **أحدث خبر:** [آي صاغة: الذهب عالميا يخسر 2.07 تريليون دولار خلال أسبوع](https://news.google.com/rss/articles/CBMi2gNBVV95cUxQTVR3VkNUNU5mWFNIbkpsV2NuNFZkRW9tQUw1WnRBVkpaQXN4UTRUTUJQRGttYXI2OTUwOGlhOUdvTkRIeUxxaEliNTUwZDlXbDRFLVhKTV9XaG1xeEcycmktM0Y0aFN6NkxhZV8tYU1QRUd6UTBQZ3NJWnl4ZTdJRU52bDJlWHFYS3JndEFiS1QzM0xCdkZfNjZnZ3B2UUU2WHBhTXhJRkxZWktKMDZ5NkN0MU51a1NKRHlyN3h6RjZPZmM3aks4Y1ZNYUNNbHBGNFRIU3RYLVJGUVhPekhwbzlqTDMtUnJEZWhKSGhES3ZiOUtBUTd5Nk5EeHV2U1VSMzRnM3RMOEZXdlY2dzNlWEdCdjJvd01vV2RSRnVnRy1ycS00dWNvVTRFN0xubjZ4NXVzbi12Wk1xdWthMWhRT3VOSGNoMGl2eUNZc0Jrc2Q0Q2hkQ0NFenMyTDJKelZvZFNZTjljWTFKLURzOGNWcjhPVXVYVWRjbzhDMGxjM21UbGlOT3Q4eTRYVG1qMXl5NEMwcXVZU2t4WERVR0dWWi1XcV9TcGdKWi1DbXZkazN1QWM5V2dCSl9OUHhXeDVWNlZESjVVWHZLSkpXc3ZWdE13alh5UEZMLVHSAd8DQVVfeXFMTTJJSVRrOFlkQW9sM2xWckZyakJxYnItZkZhb1JPSDBTSF8yTURIZG1mM25QYU5SVUxtSVF3SHFoeEVZRWJHMHdNQlZESHBIYml5bWl2ejdqOFM5cGRmRjlOQ2U0WUFta0tnbnJlNHRNRUZXcWlBV3ZIa2pXbkxmN1VMU1lOU3JtN1BvNEtLa1h0cnZSbTZfSlNxWUhONmZ6VU1OZnZfU2pvZXVBRHBXaWlyNTFLcnUxV1ZnQlJzdTVJWDg5Nmhjd3V3U0hyWi0yRUdxQWs5Y3F4OVRaYlNqdFlxTHdmRm9aVUx3dFZOcXBMa1pQdmtGeGdNaFg0V0lCWHRKNFdqNXBHUEJHU2dhaUp4LVAwTC16VlNzRzZudTdjaWdNUVcwR1gySXlYYkoxM2hlVV9sY0c4LUFMaDNRNTZQVVpJR3pCblpXQzlvbzNQeEFSVFJTa0dlZ3hVQnFTbGcwYVlYc3FJcnRrbEU3NmlDSmY1SDM4Z0ZEUkxsWlB5am5YY1pXMlhKVlZGZnJtdUJWcFJsaG8wZjVYT0VvRGl0TV92ZUF2T2ZBaGdHZlBYMThrbTVSbjdsZWRlcEs0bVI2bjVTX1ppQXVBUmtkdEs5b1NSMEp1cXZWS0xtZEU?oc=5)
+- **خبر:** [Gold stabilises after touching lowest level since October 2025 as hawkish Fed restrains gains](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeFFMR2E3bXp1MVdzT05aZW5HSkllcDd4anZpdHlGOFRlYmZqcDlob2xMcUhPZVlTT0FnWmJhSzBYbVZEejRUNWFfLUJhb3BYaHBEdEQ3dGFVSWN1NGdaQWtEUzhXNWt5aDhuZGo4OUhHMS0tRGpqUHo1bGJvSTd2azh3UWJpbDVPai1mTE03M21VM1k2ZFo4aHBDUzZSam5RNU9xalJiQXBITUt0V1BTSEhvbk44U1RNVHJTODdVX2FmRTRKX2Z1MEhuTldlN0JOdkdaUXI2YVhwU2VhNHc?oc=5)
 - **خبر:** [أدنى مستوى منذ أكتوبر.. الدولار يضغط على «المعدن الأصفر»](https://news.google.com/rss/articles/CBMixwJBVV95cUxOczJnSjN3TGRMX2VaVER6c1N1Q0N4UjZpWXRGM25ZSEdaNTJVZUZYUWNia012QnQ3SUxnVTVSM1cxVUUyWXVwbnV1aFdESjA0Mml1Nld5em5VRTZIRjYzakE4WENtaFFIQUJlU01kRGpZSnZFWWF3SjkyYzg1WXRpcnJtSjlueU5hUlk5b3o5dXJwbWpYLWV1UGM2TWtoQndZLXY0c0N1VkxxcU9ZTHhTWHJxUTYzN09fb3IzT0pmeWRDUXVlMklVX0JKd3RjblNGb3cyU0d6Vno5SVlPcUQ1clhuUjNfSHJzemhOZHJPZ2pVQmxLeWNsVVJERWFkMEpCTkJ3SU56TUUxdEtSNTJBeUw1SmRXZW15LXVkYUw2UEdFOTdOWGhnWG9XRkc1d2EtYlZpRjRtbmZNQjRCZjE4dDZUYmFqOFk?oc=5)
-- **خبر:** [Gold’s hidden volatility: On half of all trading days since 1980, prices were at least 10% below their last record high](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOU0VPUE1oZExtNWdJdExpTHFXUkdpNXFPM01xcmQ1djhYdFpVWG9aZFRwMUYyTFdaME1LbG1hbi1xN05ENU5jb291eHM2SjZhWEJzWmxsZEsyTURqOUE1aTlkaUVGaG53cldQVDRXdjAwWDdsOHhKY1NLU0Q4WkNrX3BQQWtxelNyVkJCXzhPeDVCLWpBalRMU0hZeHVVcW1NbWR5TWV2Z3QwQXA2bkNMNDVRSnBJb1J0YzhqQzFRSm12RHAyYUVfTV9rbDY3Nll0Mk5wU3Vqc293OGdld2VwWk1DRkdHZ3FSam14R2dZcU14aUxUUjJ0MG0tZTVwOTBMV19ieXFIQk9UTkk?oc=5)
 
 ## التحليل
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -0.6$ |
-| الاتجاه (EMA 20 و 50) | هابط (4022.8 / 4131.9) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها +2.2$ |
+| الاتجاه (EMA 20 و 50) | هابط (4025.4 / 4134.5) |
 | بنية السوق | متذبذب |
 | كفاءة الحركة (20 يوم) | 0.28 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 97.6$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4754.4$ / 3834.6$ |
-| مركز الحجم POC | 4168.1$ |
-| منطقة القيمة VAL إلى VAH | 3857.6$ إلى 4386.5$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4757.2$ / 3837.4$ |
+| مركز الحجم POC | 4170.8$ |
+| منطقة القيمة VAL إلى VAH | 3860.3$ إلى 4389.2$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,11 +31,12 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4096.7 ثم إعادة اختبار تثبت فوقه | 3950.2$ | 4389.6$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3682.2 ثم إعادة اختبار يفشل في العودة | 3828.6$ | 3389.2$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4099.4 ثم إعادة اختبار تثبت فوقه | 3952.9$ | 4392.3$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3683.3 ثم إعادة اختبار يفشل في العودة | 3829.7$ | 3390.3$ |
 
 ## أخبار الذهب بالعربية
 
+- [آي صاغة: الذهب عالميا يخسر 2.07 تريليون دولار خلال أسبوع](https://news.google.com/rss/articles/CBMi2gNBVV95cUxQTVR3VkNUNU5mWFNIbkpsV2NuNFZkRW9tQUw1WnRBVkpaQXN4UTRUTUJQRGttYXI2OTUwOGlhOUdvTkRIeUxxaEliNTUwZDlXbDRFLVhKTV9XaG1xeEcycmktM0Y0aFN6NkxhZV8tYU1QRUd6UTBQZ3NJWnl4ZTdJRU52bDJlWHFYS3JndEFiS1QzM0xCdkZfNjZnZ3B2UUU2WHBhTXhJRkxZWktKMDZ5NkN0MU51a1NKRHlyN3h6RjZPZmM3aks4Y1ZNYUNNbHBGNFRIU3RYLVJGUVhPekhwbzlqTDMtUnJEZWhKSGhES3ZiOUtBUTd5Nk5EeHV2U1VSMzRnM3RMOEZXdlY2dzNlWEdCdjJvd01vV2RSRnVnRy1ycS00dWNvVTRFN0xubjZ4NXVzbi12Wk1xdWthMWhRT3VOSGNoMGl2eUNZc0Jrc2Q0Q2hkQ0NFenMyTDJKelZvZFNZTjljWTFKLURzOGNWcjhPVXVYVWRjbzhDMGxjM21UbGlOT3Q4eTRYVG1qMXl5NEMwcXVZU2t4WERVR0dWWi1XcV9TcGdKWi1DbXZkazN1QWM5V2dCSl9OUHhXeDVWNlZESjVVWHZLSkpXc3ZWdE13alh5UEZMLVHSAd8DQVVfeXFMTTJJSVRrOFlkQW9sM2xWckZyakJxYnItZkZhb1JPSDBTSF8yTURIZG1mM25QYU5SVUxtSVF3SHFoeEVZRWJHMHdNQlZESHBIYml5bWl2ejdqOFM5cGRmRjlOQ2U0WUFta0tnbnJlNHRNRUZXcWlBV3ZIa2pXbkxmN1VMU1lOU3JtN1BvNEtLa1h0cnZSbTZfSlNxWUhONmZ6VU1OZnZfU2pvZXVBRHBXaWlyNTFLcnUxV1ZnQlJzdTVJWDg5Nmhjd3V3U0hyWi0yRUdxQWs5Y3F4OVRaYlNqdFlxTHdmRm9aVUx3dFZOcXBMa1pQdmtGeGdNaFg0V0lCWHRKNFdqNXBHUEJHU2dhaUp4LVAwTC16VlNzRzZudTdjaWdNUVcwR1gySXlYYkoxM2hlVV9sY0c4LUFMaDNRNTZQVVpJR3pCblpXQzlvbzNQeEFSVFJTa0dlZ3hVQnFTbGcwYVlYc3FJcnRrbEU3NmlDSmY1SDM4Z0ZEUkxsWlB5am5YY1pXMlhKVlZGZnJtdUJWcFJsaG8wZjVYT0VvRGl0TV92ZUF2T2ZBaGdHZlBYMThrbTVSbjdsZWRlcEs0bVI2bjVTX1ppQXVBUmtkdEs5b1NSMEp1cXZWS0xtZEU?oc=5) · Masrawy 11-16 12:10 UTC
 - [أدنى مستوى منذ أكتوبر.. الدولار يضغط على «المعدن الأصفر»](https://news.google.com/rss/articles/CBMixwJBVV95cUxOczJnSjN3TGRMX2VaVER6c1N1Q0N4UjZpWXRGM25ZSEdaNTJVZUZYUWNia012QnQ3SUxnVTVSM1cxVUUyWXVwbnV1aFdESjA0Mml1Nld5em5VRTZIRjYzakE4WENtaFFIQUJlU01kRGpZSnZFWWF3SjkyYzg1WXRpcnJtSjlueU5hUlk5b3o5dXJwbWpYLWV1UGM2TWtoQndZLXY0c0N1VkxxcU9ZTHhTWHJxUTYzN09fb3IzT0pmeWRDUXVlMklVX0JKd3RjblNGb3cyU0d6Vno5SVlPcUQ1clhuUjNfSHJzemhOZHJPZ2pVQmxLeWNsVVJERWFkMEpCTkJ3SU56TUUxdEtSNTJBeUw1SmRXZW15LXVkYUw2UEdFOTdOWGhnWG9XRkc1d2EtYlZpRjRtbmZNQjRCZjE4dDZUYmFqOFk?oc=5) · عين ليبيا 11-16 11:38 UTC
 - [الذهب يهبط إلى 3867 دولاراً للأوقية وسط ترقب مسار الفائدة الأمريكية](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mTzlUeU5HaWJNT2R4dzluZEQwREF1Qkc3TDhpanhNSmlNN1pFMkQtc3gyUzdXUnhScmZ5c3NqbVFPcmt0Q1l2Y2NQNW1VeDdnYVU2aFBPMkwzWms?oc=5) · ٢٦ سبتمبر نت 11-16 10:47 UTC
 - [الذهب يهبط لأدنى مستوى منذ سبتمبر 2025 مع صعود الدولار وعوائد السندات الأمريكية](https://news.google.com/rss/articles/CBMiREFVX3lxTFBQbVduZzI3UGxWNFNxV3RBdGRwWjV1THFEWWc3c3o3aExqTkpmTlVRVFNKSTFpQnVZYnhLSW5SbVhUQ2l5?oc=5) · جريدة الدستور 11-16 10:29 UTC
@@ -47,7 +48,6 @@
 - [الذهب يهوي لأدنى مستوى في أكثر من عام مدفوعاً بقوة الدولار](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtandYVjJFNEN0bEdrU09ZVHc1SUU4Wlg1WU9ZNmVYMGFzNTFibkRpbGxRdUFIRHBZSUlMVHgxMHJJR3NSbS1taDRodGFGelg1UDJvaTR3Q1dEbFZt?oc=5) · Sharjah24 11-16 09:04 UTC
 - [أسعار الذهب العالمية تهبط لأدنى مستوى في عام مع ارتفاع الدولار](https://news.google.com/rss/articles/CBMi3gJBVV95cUxQQXUyZlJ3QVJJVXB5NDdXMXNscEVTOVFoOXl0emtNWXlXc3dEd2hrNndqT2xFeDdtZUVrckVmdU9NSnB6cmY0ZmVQbF85ZUlnc1lsSUdUMTZOdGczbW13VXB1c1AtOXZYY2M2QWpsa3FfX1hnYktNZ1MtX0hidkZja2V1dzlqYVRfdU9BdmhsbS1fbHNtRUMyQ1ZhSFZGNXFsQm9xZWJ0ZUIxekVOT3JvWHFwSG5KSkxKY25MUVFXcVZTMFhIT0dzNVoxZ0FsOUM5XzBpYWdFVXF5VmxJQks4Z2xXYjFHNjBGQzY4S1JYV1hqSWg1ZTFlMEZGQzNJbWZKZ0tDRnU1b1FEZHpyUmVLVXdhVkRleEh2NWp0NU55c2w2NkNORTg2N203UVpPUllGaU1ZaEpyVkNLZmpQSjc1bHMtbU96Sy14QlQ1UnIwRFhmczJKNlVKeXIxMDhsZw?oc=5) · جريدة المال 11-16 08:31 UTC
 - [الذهب يستقر عند 3877.66 دولار للأوقية](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPR1ZCVWlSdVVpS2FQaEFpdzhyWkd3blg4NTJDTUlXUFVWbWVQOENtMDIxTks2cXo1dmI3RGttUlJyakZ5N2o4U2NWTVZ5M0Qwb0pHMWpscThEeDJoY1dOMGVqbnA0X2VPU2tzWm1oOGotVXZrWml2ejBJanFjQ1pHVXZMcFRlOG5uMFFteHU4dzl0ZUZMUFpEUmUyd3pjUVUzSUh1SWxzZWlzMlR6YUJKLTdKbnlJN09TMGRyb0c1dzcyRXNRaUo3dzRBaV8xNEhGendtVzExMFZ5MDVtWENpOWtNMDBlVjJQY1E?oc=5) · مرسال قطر 11-16 08:19 UTC
-- [رغم الهبوط العالمي.. سعر الذهب في سوريا يتماسك مع ارتفاع الدولار](https://news.google.com/rss/articles/CBMiV0FVX3lxTE41MnItcjFpbnotOXo2M3BNWl9pVl80aWY5SUJHa2liWl9GWXM5elZxSF9lY2ZoVzNnZEJNU1JTcjJjS25jRzM2d193TG9WZmsyUUJ1S0tRYw?oc=5) · إرم بزنس 11-16 07:51 UTC
 
 ## أخبار الذهب بالإنجليزية
 
