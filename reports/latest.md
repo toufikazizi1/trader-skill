@@ -2,14 +2,13 @@
 
 ## الملخص
 
-- **السعر:** 3,893.1$ (-4.87% عن الإغلاق السابق)
+- **السعر:** 3,892.8$ (-4.87% عن الإغلاق السابق)
 - **الحكم الحالي:** مائل للهبوط. الاتجاه هابط، والبنية: متذبذب.
 - **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
-- **أقرب دعم / مقاومة:** 3877.4$ / 4095.4$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4095.4 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3952.3$؛ هدف 1:2 عند 4381.5$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3877.4 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4020.5$؛ هدف 1:2 عند 3591.3$.
-- **تنبيه مستوى:** عبر الذهب 3,900$ هبوطاً.
-- **تنبيه اقتراب:** السعر قرب الدعم 3877.4$. راقب الإغلاق اليومي ثم إعادة الاختبار، ولا دخول قبلهما.
+- **أقرب دعم / مقاومة:** 3877.2$ / 4095.1$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4095.1 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3952.2$؛ هدف 1:2 عند 4381.0$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3877.2 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 4020.2$؛ هدف 1:2 عند 3591.3$.
+- **تنبيه اقتراب:** السعر قرب الدعم 3877.2$. راقب الإغلاق اليومي ثم إعادة الاختبار، ولا دخول قبلهما.
 - **أحدث خبر:** [Australian Dollar slips below 0.6800 as hawkish Fed weighs; attention turns to Chinese data](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONVhtUW9xRHhzTEJmdzNGUVRycHJ3b2xMOTJjMXZVbE1RMlRMaW54ZTI5QVIzRzJxWTJXRFhwcW5VQjQ5bHVZdWtGN0pudDJjUjdUZnU5LVV4Z0tVd1ZRdWRySGRhQ0xmUWdtUm93aEl3Uy1OVFFXNm85Q210c1hfSGJheEM2NWY5QkdIakFPTExiZWQtVGZ2VGEzLVh2RGpGSmR0SDZmcnB4RmI5UERXRk5NRkVkaG9FY3lGa2VJTlZDTW0wM3ZhRWNneVc5TU1MUV9fT1N0Q2RsX3Fj?oc=5)
 - **خبر:** [أسعار الذهب اليوم، 16 نوفمبر 2026: هل سترتفع أسعار خواتم الذهب وسبائك الذهب أم ستنخفض؟](https://news.google.com/rss/articles/CBMimgFBVV95cUxNbGs2SnVWNXltSTFEY2FLMndRZEVFbElhWFdlT0hYUzQ4MkZtZXJ0WUpDdXpIM0VBdG9DcW0xd2ZRWU5kMnFqZFZ0MHVsb2VzaGplbnNsbFMzSFRwZjQzWGY1WVViSnFERm8zcEl2em1nNmlmSkJCTU42ZXNzVllJVjZybDlkYjE1MGtXVmxySHQ0a19hamgwaWVn?oc=5)
 - **خبر:** [Gold price prediction: Bullion traders pin hope on Gold rate to hit USD 4000-mark, silver eyes positive tr](https://news.google.com/rss/articles/CBMiugJBVV95cUxQN2Fkbkt1dExrMDBsbndMQm8xNlNvb1N6d3BUVk55b1NzWXUxSWVBd3ViM1dEYWlJWE8yZURGZklYOVdzX2gyT1dkMm9UU2RYWndtd2Rva2c4TEJ3NUNXQ1pNOWo0NGdMT1JQS092Tno5MDRaaWVpLUlJRUVCZFg5TUhGa1IwU3NFWEFCbTdWSF9jTzB5UF9HX3NOemg3bFU3YUpHN3N4akFfaHdWUjhOQlFmYlplZUdyX1V6TEo2dFR5Sjd0V2U3UUpvbV9WN01PY3IwTG5Ec3liel8yaWYxZzdpR2xsM3F6dFByREEwaGt1TGh3YThWbUJKSGdVaUMzMlNncFdDMlVVanMzb25vNkdUa0l4bXpNdEFxd2N0SVVBR28xcnlIWmF5WWt0NTVOTExyaURYOXdaUdIBvwJBVV95cUxPRU1DQUtyREVEUzkzN3U2ZGg0VGtLdGpvejVkaFhXVnpmTUdqUC1DY0ZaV3hQbHAwbXdMclZ1S1NnVldtN1FWYmpqY3N5a1RadUFfN2x4Zk5ya1M0bmJrVDh6TVdBX0RmSk5rQTMzWlk2Q2ZvUFFibG9jVTRkSDFvT25KZWllMHZYNjNGbUROLUZQZmJkR283c2stbUh5MFJJTkRtemRqMmJMWFNSWXQ5Ynh0RkZwY2dEWm84QTFFUGxReUI3WjNwM2JXaDB6b2V2TzlkeTdpZW5XOUlOeDFVcV9rQTZRUVhCMllEa0FJOUJUZC1lLUlxUVlYdHYxd0didEdXdWdTTU1TTjlnM2hzcVVhSlNyUnZvOUYxOS1kRHE0bElFblBQWW0tckU2TUhwbUNZak1rcmg1TkN3MG44?oc=5)
@@ -18,14 +17,14 @@
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -1.9$ |
-| الاتجاه (EMA 20 و 50) | هابط (4023.1 / 4131.3) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -2.1$ |
+| الاتجاه (EMA 20 و 50) | هابط (4022.9 / 4131.0) |
 | بنية السوق | متذبذب |
 | كفاءة الحركة (20 يوم) | 0.27 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
-| المدى اليومي المتوسط (ATR 14) | 95.4$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4753.1$ / 3854.8$ |
-| مركز الحجم POC | 4158.0$ |
-| منطقة القيمة VAL إلى VAH | 3877.3$ إلى 4393.8$ |
+| المدى اليومي المتوسط (ATR 14) | 95.3$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4752.9$ / 3854.6$ |
+| مركز الحجم POC | 4157.8$ |
+| منطقة القيمة VAL إلى VAH | 3877.1$ إلى 4393.6$ |
 
 ## سيناريوهات للدراسة
 
@@ -33,8 +32,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4095.4 ثم إعادة اختبار تثبت فوقه | 3952.3$ | 4381.5$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3877.4 ثم إعادة اختبار يفشل في العودة | 4020.5$ | 3591.3$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4095.1 ثم إعادة اختبار تثبت فوقه | 3952.2$ | 4381.0$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3877.2 ثم إعادة اختبار يفشل في العودة | 4020.2$ | 3591.3$ |
 
 ## أخبار الذهب بالعربية
 
