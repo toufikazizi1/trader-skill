@@ -2,12 +2,12 @@
 
 ## الملخص
 
-- **السعر:** 3,878.8$ (-4.79% عن الإغلاق السابق)
+- **السعر:** 3,877.8$ (-4.81% عن الإغلاق السابق)
 - **الحكم الحالي:** مائل للهبوط. الاتجاه هابط، والبنية: متذبذب.
 - **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
-- **أقرب دعم / مقاومة:** 3683.5$ / 4096.8$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4096.8 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3950.3$؛ هدف 1:2 عند 4389.7$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3683.5 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3829.9$؛ هدف 1:2 عند 3390.6$.
+- **أقرب دعم / مقاومة:** 3682.5$ / 4096.3$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4096.3 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3949.9$؛ هدف 1:2 عند 4389.2$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3682.5 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3829.0$؛ هدف 1:2 عند 3389.6$.
 - **أحدث خبر:** [Gold Price Forecast: XAU/USD picks up above $3,850 with the bearish bias intact / FXStreet](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HUHlVTDZBMGdPMTBXSGVoenNRMWFBcnBMY3E2Q21od1ZjMk1RYTBCT3QzOWRaTnRyVTZnd3BWQ2NLc1dNeUJoMXJCTTNNbTRubi1B?oc=5)
 - **خبر:** [Gold steadies after hitting lowest since October 2025, hawkish Fed caps gains](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSWtRM0FYZ1BHSVl4Rk5rRmxEZnMtc2Y0a2lob3AwYm5yVEtzV1c5SG5CWFRodFpCY3FpUEgtUnF2UE1WMkF5ckZibmVKdWE0V0VnY0xELW9nTjBYUUdTem9nOGpCaThzc1pTcUtoYTNRd0RxcFZmdi1HT19vbkJXR0o5VUFHWjB1dnpCUlFVMkRnQ2c5ZzhwX0dmQWx4MG9HNXZMRlBPc0ZDX19rMlppdmtoWmMtWlNJSklZ?oc=5)
 - **خبر:** [Gold Price Forecast: Bearish bias persists as XAU/USD moves higher above $3,850](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNM2pETzJTOFdfSTZDV2pPcTdFQ0xPMDBVcUk4SEtpNDBDdzlmRVdZXzBWWHFBZGJTYUh2cXphRE03N2xuVlJpTFNyZXhDZjZ5R0tsbGFoR3RDZUYzTTY1aTJhT2xHcnJ0bjJHaUphVFg3eWtpQ19ydlZnYkFhX3VDdkN2cy1DQnRic0FzLXE2b2xobGxWWVQ3YWpweEZHTjc1TmlUekdJY2VILTA5c1Nlc0V3SnpzOUFKempqLS1PdWVtR1FmRmNhQkNUV19VYWswbjlxM3VaMTFieGVWaFYw?oc=5)
@@ -16,14 +16,14 @@
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -0.4$ |
-| الاتجاه (EMA 20 و 50) | هابط (4023.1 / 4132.1) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -0.9$ |
+| الاتجاه (EMA 20 و 50) | هابط (4022.6 / 4131.6) |
 | بنية السوق | متذبذب |
 | كفاءة الحركة (20 يوم) | 0.28 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 97.6$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4754.6$ / 3834.8$ |
-| مركز الحجم POC | 4168.2$ |
-| منطقة القيمة VAL إلى VAH | 3857.8$ إلى 4386.7$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4754.1$ / 3834.3$ |
+| مركز الحجم POC | 4167.7$ |
+| منطقة القيمة VAL إلى VAH | 3857.3$ إلى 4386.2$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,8 +31,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4096.8 ثم إعادة اختبار تثبت فوقه | 3950.3$ | 4389.7$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3683.5 ثم إعادة اختبار يفشل في العودة | 3829.9$ | 3390.6$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4096.3 ثم إعادة اختبار تثبت فوقه | 3949.9$ | 4389.2$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3682.5 ثم إعادة اختبار يفشل في العودة | 3829.0$ | 3389.6$ |
 
 ## أخبار الذهب بالعربية
 
@@ -56,10 +56,10 @@
 - [Gold Price Forecast: Bearish bias persists as XAU/USD moves higher above $3,850](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNM2pETzJTOFdfSTZDV2pPcTdFQ0xPMDBVcUk4SEtpNDBDdzlmRVdZXzBWWHFBZGJTYUh2cXphRE03N2xuVlJpTFNyZXhDZjZ5R0tsbGFoR3RDZUYzTTY1aTJhT2xHcnJ0bjJHaUphVFg3eWtpQ19ydlZnYkFhX3VDdkN2cy1DQnRic0FzLXE2b2xobGxWWVQ3YWpweEZHTjc1TmlUekdJY2VILTA5c1Nlc0V3SnpzOUFKempqLS1PdWVtR1FmRmNhQkNUV19VYWswbjlxM3VaMTFieGVWaFYw?oc=5) · www.tmgm.com 11-16 10:58 UTC
 - [Gold Price Forecast: XAU/USD picks up above $3,850 with the bearish bias intact](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTFBIdFU4VFpER2NCbk9CczVZNXM0eGNZMElweDhvaFNseDFPNHp4NHE3bjhGZ09td1BmYUxnay1jSnRoRW50WlZQYUVldEZSLU1BWHFuaTVOOXZWVERSOHI5QmRwSUVpSEJiX2t5bXNxUXdGUjV6TDVncEZVcFB3dVRFMXEtWVR4MUpTeC1ueVRpODlxdTN4OVkwbjFkNi1MdmtMYUpSX3YtMy1IZFVVR1p5UUp5U1R5TTFCcQ?oc=5) · FXStreet 11-16 10:47 UTC
 - [Gold: Lower projections come into focus as downtrend continues – Societe Generale](https://news.google.com/rss/articles/CBMizwFBVV95cUxORTBBYTBnUGJBVVBGcTdOalRKTXdtenhxVnRHdE8yVHJaWmZRSVhJN1RYN3pfRG1RX2U0N1hqd2p5ZU9sWVlMbjNZZTlwbzFka25BYU5rcWFPZGpTdjVwQUhrVXAyUTdzV0g0YTktaUhUNTVvdUxrXzhNa1lpVHR6V1M1cHFBbW80dmNsdjEwT1pNSW4tR3VVeGhJRW5hbVJWc0xvdDFOTkRTcWJXeUZXdDR5THZleFo2d0xaVDZXNWVVMVVydFpNZ056SGtYckk?oc=5) · www.tmgm.com 11-16 10:39 UTC
+- [Gold Extends Slide Below $3,850 as Fed Hike Bets Lift Dollar and US Yields](https://news.google.com/rss/articles/CBMiugFBVV95cUxNNzc1VkdJcUFFQnB0dFFDVWVQTWROaDhLcWF4YzJRSnpzZ3d3XzVuTWhESGNRNHZZbnA0MHdXTFpocmtuN1A2dlBIWDNZcGRvMlhQNEdybVdIQVlqS0lra3Nla1lYWEtpaEh5MnA5SFRkaktpVmxfNlFqeWV0WVIxX1Fhb1JtdThyckpKNEVPU3VLcDdZYTlFaHlNUHRiMmJUTGdzVlkybUFXeEZWa0oyMHZfb3M4RUZLOUE?oc=5) · VT Markets 11-16 09:43 UTC
 - [Gold Stays Weak As Persistent Inflation Supports Higher Rate Expectations - TalkMarkets](https://news.google.com/rss/articles/CBMiO0FVX3lxTE01STdGai1paFJXTW9iRmVYYlZzeFVuMmJWTkd2OTZIQkpXWm9SYU9kdHp2YTZTQlVsSUtJ?oc=5) · Howl.Link 11-16 09:38 UTC
 - [Global Broker Elev8 Enables AI Assistants for Trading Analytics](https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmMxempHRVgxNkxIWHA2SVh2VU5vUzBOUXBmSTRTQzlUM3BScmo1d3ZFdUFUVDdmWGFudXVvQ1FLSTRrM0tUNWxMTzljMHUwM3ZmYWxwc2RIVE9EWncxLWc2eGliODFNZmVoTnB4cHZtbjBlN0YtajI0WnduRHBsNWNHOHZMcmgyeERYWGJ6cFp0QnZmcGI2VkM2ZGIwTXNDYUZKSzNXM2ZYZFFObEE?oc=5) · FXEmpire 11-16 09:25 UTC
 - [Why Gold Can Fall Even When Investors Are Scared](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWRfQUNMa2ZSRl9mUVBDS09Tekt1dUtvRUpzYjFpWDNjdVRaSE55d1F0OXhaVVJ1VFVycWxPc3dLUUZCX0s3cnFPSzVUaGtodzAwM3pTRnRCZW5MWU5FM1NCSTJLWW9rTEduNnQ0ZXJ2TnpsanMycXozRkxENkI3VnhOYl9OcmoxdTdpdDNCLW5hNVFoNTdkRGoxNUJFWXhV?oc=5) · TradingView 11-16 09:15 UTC
-- [Gold Extends Slide Below $3,850 as Fed Hike Bets Lift Dollar and US Yields](https://news.google.com/rss/articles/CBMiugFBVV95cUxOeWpIRkZKRTRaVjJ1akR2TncyMzJTMkNfXzFTY1ZqMnFiQnBzMVdrVUVadUFhbXJZbUg3Rmlya1J5Y1QxQW5wRVVNQzViM0JFaDRnZ0JMT0hMdEdIa0toRnNEeE5QSkt4QTFYb0JOOWZweTBOOFlhb21IZkltekFnZjN6Rk9EM3pncXVxVy1MUDJyYXliTFo3STU4cldtSDF1XzRqeDRmalFMMHhCRElYbUFVVTRnU1UwQkE?oc=5) · VT Markets 11-16 09:13 UTC
 - [Gold below US$4,000: Market bets on Fed rate hike](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRDhVVkdrc3ltNmVadHdsWFN0VkdjNDFFQ29BS0p5S3dCMmU4dVdwUE90UHNQNk50X2FjVGRpWUVhd3FCbEpMS2g0NVd5cVlyLUNtWkZhR2ZWTE81WTd1cWlPSnVLbkZpMWdMRDJwM1NyQ2JfUzcwYUhkUm54WE8yWlhXdXVqeTZWaG5nMG95OFdEVThSWlB4LXFlZXE3TWZTVXRDeldOSThDWVQ4SlBTMGZ4Ny1IdVY1SGVTOHN3?oc=5) · Shanghai Metals Market 11-16 09:06 UTC
 - [Gold falls to lowest since September 2025 as Fed rate hike bets weigh](https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3ZBQ3hkMDNiNUVUNXNPTi1ZWFkzXzUxNzhJb2w5MkNmZ3RHQlgwakFvd2hyWWphalBRZXZLZ2otZEExNnNYSjg2SmFNZE5EdVlVbEdQdkRyV09UR2tuN1YzdmFxVVhNTlh1a3FVNUV3bWhZejVUeG5IM1RRaklBNUk5bEtIQmxuY19MdGZfTTc2RmtkY1NXcFlidGVXRzJYa2JGeThQbVNvc1FCYWZJ?oc=5) · Anadolu Ajansı 11-16 08:56 UTC
 - [Gold prices hit over one-year low as strong dollar, Fed rate hike expectations weigh](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSGktR0JjMGFXVkhYemV5ZFIwQ1FnZ2g4WDlTN1Y1QnRkRHZ5aWJmQWVOUGVKcnZ3SjNHdUk0ZzgyLV9uZkN6T2s2YncybC1tY3ZCVloteDFlOXg5a0hzZ3E4VUxBbUxVOWxmWkpfWG90Z3BTX3lCTEczU3ZaZnVSMmVyRHZ3UU0xZGxwWktKbW83dXJ5SXVhc0Zjd2Z3TDE1cVM4MWR5S1Y2SVdDTC1BV0RNTmJGclp6QXBTVm5mV1JvU29RTEdqdFpR?oc=5) · Profit by Pakistan Today 11-16 08:55 UTC
