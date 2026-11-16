@@ -2,12 +2,12 @@
 
 ## الملخص
 
-- **السعر:** 3,877.0$ (-5.34% عن الإغلاق السابق)
+- **السعر:** 3,872.6$ (-5.35% عن الإغلاق السابق)
 - **الحكم الحالي:** مائل للهبوط. الاتجاه هابط، والبنية: متذبذب.
 - **موقع السعر:** تحت منطقة القيمة.
-- **أقرب دعم / مقاومة:** 3685.7$ / 4098.6$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4098.6 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3955.1$؛ هدف 1:2 عند 4385.7$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3685.7 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3829.2$؛ هدف 1:2 عند 3398.6$.
+- **أقرب دعم / مقاومة:** 3681.3$ / 4094.8$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4094.8 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3951.2$؛ هدف 1:2 عند 4381.8$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3681.3 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3824.8$؛ هدف 1:2 عند 3394.3$.
 - **أحدث خبر:** [Gold and Silver Prices: Key Market Triggers This Week](https://news.google.com/rss/articles/CBMingFBVV95cUxPUElWR3h0Z1paQk1va0xOVEF1a3N5ZWpTVWhiV3NKSUNrdTNpWFZyRzFuWlJlYmRub3pKandmTmxZa21JZG5yR3NsaXMyWmhJRl96ZnJHYjZ4ZTljM2h5SGRzbFJ6bFJMdVhnT194eVhqQl9hUmJGUWFlZ0dqdXA2aEFnbERyVGtMbU0zaVlKdjdHVHMzMjQ5V1Q3MTNrZw?oc=5)
 - **خبر:** [Australian Dollar slips below 0.6800 as hawkish Fed weighs; attention turns to Chinese data](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONVhtUW9xRHhzTEJmdzNGUVRycHJ3b2xMOTJjMXZVbE1RMlRMaW54ZTI5QVIzRzJxWTJXRFhwcW5VQjQ5bHVZdWtGN0pudDJjUjdUZnU5LVV4Z0tVd1ZRdWRySGRhQ0xmUWdtUm93aEl3Uy1OVFFXNm85Q210c1hfSGJheEM2NWY5QkdIakFPTExiZWQtVGZ2VGEzLVh2RGpGSmR0SDZmcnB4RmI5UERXRk5NRkVkaG9FY3lGa2VJTlZDTW0wM3ZhRWNneVc5TU1MUV9fT1N0Q2RsX3Fj?oc=5)
 - **خبر:** [Traders Price Three Fed Quarter-Point Hikes as Inflation Pressures Gold](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfYm5tUmpsblpickhucDhxZFFBSE5QNUItcnE3b1drQmw3U1haUHlqUDVaWmc1SnFSNkdqZl9sM2diMk5DNkFSY0kyTFZyWUtFUDBEM1BpQjRDUQ?oc=5)
@@ -16,14 +16,14 @@
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها +1.4$ |
-| الاتجاه (EMA 20 و 50) | هابط (4024.6 / 4133.8) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -2.5$ |
+| الاتجاه (EMA 20 و 50) | هابط (4020.7 / 4129.9) |
 | بنية السوق | متذبذب |
 | كفاءة الحركة (20 يوم) | 0.28 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 95.7$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4756.4$ / 3858.1$ |
-| مركز الحجم POC | 4161.3$ |
-| منطقة القيمة VAL إلى VAH | 3880.6$ إلى 4397.1$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4752.5$ / 3854.2$ |
+| مركز الحجم POC | 4157.4$ |
+| منطقة القيمة VAL إلى VAH | 3876.7$ إلى 4393.2$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,8 +31,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4098.6 ثم إعادة اختبار تثبت فوقه | 3955.1$ | 4385.7$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3685.7 ثم إعادة اختبار يفشل في العودة | 3829.2$ | 3398.6$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4094.8 ثم إعادة اختبار تثبت فوقه | 3951.2$ | 4381.8$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3681.3 ثم إعادة اختبار يفشل في العودة | 3824.8$ | 3394.3$ |
 
 ## أخبار الذهب بالعربية
 
