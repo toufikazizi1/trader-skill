@@ -2,12 +2,12 @@
 
 ## الملخص
 
-- **السعر:** 3,838.1$ (-5.57% عن الإغلاق السابق)
+- **السعر:** 3,856.9$ (-5.72% عن الإغلاق السابق)
 - **الحكم الحالي:** مائل للهبوط. الاتجاه هابط، والبنية: متذبذب.
 - **موقع السعر:** تحت منطقة القيمة.
-- **أقرب دعم / مقاومة:** 3644.6$ / 4087.4$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4087.4 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3942.3$؛ هدف 1:2 عند 4377.7$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3644.6 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3789.7$؛ هدف 1:2 عند 3354.3$.
+- **أقرب دعم / مقاومة:** 3662.4$ / 4113.5$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4113.5 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3967.5$؛ هدف 1:2 عند 4405.3$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3662.4 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3808.3$؛ هدف 1:2 عند 3370.6$.
 - **أحدث خبر:** [الدولار والفائدة يضغطان على الذهب.. والأسواق تنتظر إشارات الفيدرالي](https://news.google.com/rss/articles/CBMiwgJBVV95cUxOTzNrbzh1enNFNi1pZDRUQ1FPR0E1dkFXTmdhMENfZlEzc0dzbGxyckZIQ3l5N05MM1ZzOU1tOEQwZWtfRzgwY0lCZUI5YUZrS0NydWEwTkI1eHh3Qi1WQThrTTdiSHVKRFJEYjFsX1BLUTNxR0FWeUtMOFAtZzJ0REJCSjEwcklSTHZhRGVySjlIN3ZLNXA4R3ZGb0g1dzkwSVJtTld5YUM1YzdyOGJQbkRwYWNQdzAtaEtEM0ZVTGl5RF9lRDZlbzAtVkttWWJkZWpVdHdBYTU3Y3BCWGpMaFJUUWlkcWczSTNKa1B1LVNFR29kWnhlbnh1MGFyek9nWUl3V29wZS1wYjFOLTJCVGY5V0ctUHF2M3JNeW96a2swamw5TC03Z0FiTHlCQWdUOGJyQ0xCV3c4X2c2U0RxWlR3?oc=5)
 - **خبر:** [Gold Price Forecast: XAU/USD Needs to Recover $4,000 Quickly to Avoid a Deeper Breakdown](https://news.google.com/rss/articles/CBMixwFBVV95cUxOMFVZVFhSV3JzMV9FTmVuSnJNUjF4OHp2X0FxTmxmMHVxV2Ffa1p3YXhTeFREekh2RjBlaVhZWkNId3lyUVBLY2Vhcm9iX2RVS3hQcXA4MTA5RGRHRTBWTkVaUUd2VlNROWE1TXdWdGVlVzFfMnV6SHNncVdhMTRmbDU3bTRIVXpTY0hVb0dCdEMtbG5lbEpWOG83bWpucTFPaWtIY2toc041eVgwNUNfQ1kxbDRCVFdYQ2p2WUFvdFQxUHhHZUs0?oc=5)
 - **خبر:** [Gold Price Today (November 16): China Buys 26 Tonnes as Bullion Starts New Week Under Pressure](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNVZ0RTRLeXNvNVdLV2stbUY0V3Q5a1p4NVliYk5KbHNBQVhaTnRRYklwN0hKTmxhaVVGLWJYUG1ycVk2TUJ1d1FuSExySU5mYlhmbFlJUVRRa19sY2hPNlFpTGM0STluVGhWa3VnTmxKTVBaSmZ3dFdpeDMtb0oyQzIwVEtENml1X3JoNWUyZDRmT2lnSlJmWWNIb2VGVTJ3RHlDV3ZOdEY3T0QyQnpHSG9VWDM0aFRoT01v?oc=5)
@@ -16,14 +16,14 @@
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -9.8$ |
-| الاتجاه (EMA 20 و 50) | هابط (4010.7 / 4121.5) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها +16.2$ |
+| الاتجاه (EMA 20 و 50) | هابط (4036.1 / 4147.2) |
 | بنية السوق | متذبذب |
-| كفاءة الحركة (20 يوم) | 0.30 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
-| المدى اليومي المتوسط (ATR 14) | 96.8$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4745.2$ / 3837.8$ |
-| مركز الحجم POC | 4144.1$ |
-| منطقة القيمة VAL إلى VAH | 3860.5$ إلى 4382.3$ |
+| كفاءة الحركة (20 يوم) | 0.31 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
+| المدى اليومي المتوسط (ATR 14) | 97.3$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4771.2$ / 3856.5$ |
+| مركز الحجم POC | 4188.1$ |
+| منطقة القيمة VAL إلى VAH | 3879.4$ إلى 4405.4$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,8 +31,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4087.4 ثم إعادة اختبار تثبت فوقه | 3942.3$ | 4377.7$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3644.6 ثم إعادة اختبار يفشل في العودة | 3789.7$ | 3354.3$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4113.5 ثم إعادة اختبار تثبت فوقه | 3967.5$ | 4405.3$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3662.4 ثم إعادة اختبار يفشل في العودة | 3808.3$ | 3370.6$ |
 
 ## أخبار الذهب بالعربية
 
