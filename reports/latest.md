@@ -2,12 +2,12 @@
 
 ## الملخص
 
-- **السعر:** 3,874.2$ (-5.01% عن الإغلاق السابق)
+- **السعر:** 3,867.1$ (-5.03% عن الإغلاق السابق)
 - **الحكم الحالي:** مائل للهبوط. الاتجاه هابط، والبنية: متذبذب.
 - **موقع السعر:** داخل منطقة القيمة (قرب الحافة).
-- **أقرب دعم / مقاومة:** 3679.7$ / 4101.2$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4101.2 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3955.3$؛ هدف 1:2 عند 4392.9$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3679.7 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3825.5$؛ هدف 1:2 عند 3387.9$.
+- **أقرب دعم / مقاومة:** 3672.6$ / 4094.7$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4094.7 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3948.8$؛ هدف 1:2 عند 4386.4$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3672.6 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3818.4$؛ هدف 1:2 عند 3380.8$.
 - **أحدث خبر:** [ماذا يحدث في سوق الذهب العالمي والمحلي؟.. تراجع الأسعار لأدنى مستوى خلال 3 أشهر.. جولد بيليون: تحركات الذهب تراقب تقديرات الفائدة الأمريكية قبل نهاية العام.. والرهان على عوائد السندات والدولار تضغط على المعدن](https://news.google.com/rss/articles/CBMi7wNBVV95cUxOT0FhcEFrb1BxbXNFN3IwTFNNd3NCaVVZTjhTS3dvRHFFeS1IdGRPM2txbmJVWWRneVJuck1WNThWcmt2dW5FQ09uek5pX1ZXZldHSnAzOHplSDZTeWZocXNuU3FfRnIxd3ZCajF6OWctOWtmRnZtcERXRERkMWtBZW9CNTRaTFp1Znl1b1hEVVZaNl95OEgtNHJHdW1OOWJaWXJTcl91Q0lEb0x5Yl9uT1lkUGZKZUc2Zm1uNGw4U0J6QU5DV2Y4WGdyUHdpUE5rSkdMZ3NiVmVPMjNvR2g4LWV5RExwdy1tSlhUMnlQTG9LUmtRVnFDUnRqclJ1UTBERFlfY0NoWHhMbG5QMEw4T3ZJYVl5UHZYU3B1a2xOb1hVbGZaVGwzd2JkUzdSLUJ4bEN0dFJZcUtoUk9RcXJrdUdlY2RRdU43cnRCRmtlOWVPcFllVjlmbUJzUTE5aV9tMVJqQTA2U3pwamZQblBReF8xUUptX1NVY3JzNThTbHhyWUoyamRERElrQlBxdHZnOU9xc2dkRndJRWxMcElkN2xNb0psVVg2Wks4WHZIbDAtN1RNVHVTZ2ZwdW5jOE9fTThMVTdlQ0VkSVJVVVV5ajZzQmszcjhlZ1lBMWgyOURQWkE3T2d0Ymw5Vl9Zc0nSAeoDQVVfeXFMTW10ckxkU1d0ZUJzQ1c5SDVhNnRNX0FQM1Foc05VckVpWmpfX1ZXckJjbFRZOHROYVJEUTFQRm1TMTZrX0tsdjNrU3VzaDMtc0NJWXdNUlhOY0dzaE8tY1RKbW9kVXRTcDlZWDJxSXEyejA1cHZBaFZTMHhJVnYxdVd4aEV5SHlvdFFGem5UY2tpaFNHeElXX28zSlZ4NkRJQWFyRlVKTi1uOHkydDFXdkxDTU5wS0VURjZxU1dTRm1mR3RRRmlwVjJHTGhrRzhpNkc3YUpNblp2ckxDVm8xQlY2TFc0N0JVY1RXdVJ3Q1JINHFqVHZGMVN1c2t5NXhZcGMxQmp2Y3ZOQUxSdk9uYVB0V3psZHE1Wnc0Y2J2ZmhWSF9wM0s3V1U4MHBBOV9sZ2t3Y3BhMDdKOW93VkpUOWQ5N1RDa2FXQ2d3OHVzN0NNdVNXOWphdXhtRmVoUi1YNUNOYVBQR1FvQ3M2SXhpMHRINkRMRVRVanhsY0NLdmdUYW42U09xOFdMY1R4RDU2d2Q2ME9qWkc4OUlKd2dCR2I2bkw4WmViYThEN09LZDFDTlZ5RzN1cGxhU3RxLXBJbHVsMF8wLVY0eXNvRkplU25icEk3M2RqU1NyZHIwbGJmTHBVSXJvUkNvQQ?oc=5)
 - **خبر:** [هبوط أسعار الذهب إلى 3931 دولارا وسط توقعات تشديد الفيدرالي](https://news.google.com/rss/articles/CBMivgNBVV95cUxPcjBOZHQ3QkdlREFYSHBEUmFFQWt0dWJMTkVCN3BDLUxvejMxcjkzYzl1bE1VYTU1STZORmhSbzRSREI3UFZ0b3FiZVBfN0E4R1RCOUgwS0pOU2NhOFc3LTdZeVpfN3hFQUduRW5zZlRtSTFRNnhZSXFiV0lscFlIOHBwYnk5bkdnOWtUWDNCR3JnZ2ZfQTRERmFMUzF3WW9oaHp3X0xwbTMzNjhDZ2hfMHdKc243QzRVSFNYZnZTMXNfZ1ozTnVKeVhrTGl5RVJuTkx3bjRidEluMHRqU2g0dkFLN2dEWGhKVldGaGhPaF94bHpYMm5DR0tpMnhyRkNhaUhoYzhPeGVObUlRRWRmajZkblBmZ3FGdmJpVmR0Smg1RmNkbWxCZUJOdHNTVzh5SmExNkJYb1NJN1BFQnFnTUYwbXB2dVh3MllwRXF2UGdYeUgyNko3b1BTZnA5TzdnSDN0YlIxWTVibkpxMndvcUpkV0FwX2tYelcySTJwNnFkczU2R1otaS1PMHNiZElINHN1LVJGUFRKakMzWl9FbldpZl9iSzAxQ05tNE84ZjREMmUwVVVxSkJEdzFaQQ?oc=5)
 - **خبر:** [انخفضت أسعار الذهب العالمية بشكل حاد، مما دفع سكان شنغهاي إلى الاصطفاف لشراء الذهب.](https://news.google.com/rss/articles/CBMingFBVV95cUxObERTRGtDMW9vR0NDTUxEQXZwQkhjdERhLWFBTzI2UmRMS2pqUVVFNG1EbkNJdDRRemxZWjFqR25rbmpaakIzQjZSZlI1cDBiLUgwck9uZVhFZEMyUkNwNXFUdVpaVDY5Z1B6NWNJMWtaeE5SWEROcm9YOXhLXzk0U2Q0M1U4dkZmb1JhYUR6eVdhdFExZVZZbHZBYnFZZw?oc=5)
@@ -16,14 +16,14 @@
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها +4.0$ |
-| الاتجاه (EMA 20 و 50) | هابط (4010.6 / 4125.2) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -2.5$ |
+| الاتجاه (EMA 20 و 50) | هابط (4004.0 / 4118.7) |
 | بنية السوق | متذبذب |
 | كفاءة الحركة (20 يوم) | 0.27 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 97.2$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4759.0$ / 3839.2$ |
-| مركز الحجم POC | 4172.6$ |
-| منطقة القيمة VAL إلى VAH | 3839.2$ إلى 4368.1$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4752.5$ / 3832.7$ |
+| مركز الحجم POC | 4166.1$ |
+| منطقة القيمة VAL إلى VAH | 3832.7$ إلى 4361.6$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,8 +31,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4101.2 ثم إعادة اختبار تثبت فوقه | 3955.3$ | 4392.9$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3679.7 ثم إعادة اختبار يفشل في العودة | 3825.5$ | 3387.9$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4094.7 ثم إعادة اختبار تثبت فوقه | 3948.8$ | 4386.4$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3672.6 ثم إعادة اختبار يفشل في العودة | 3818.4$ | 3380.8$ |
 
 ## أخبار الذهب بالعربية
 
