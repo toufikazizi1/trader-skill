@@ -2,9 +2,37 @@
 
 ## الملخص
 
+- **السعر:** 3,796.1$ (-6.88% عن الإغلاق السابق)
+- **الحكم الحالي:** مائل للهبوط. الاتجاه هابط، والبنية: متذبذب.
+- **موقع السعر:** تحت منطقة القيمة.
+- **أقرب دعم / مقاومة:** 3599.9$ / 4099.3$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4099.3 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3952.1$؛ هدف 1:2 عند 4393.6$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3599.9 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3747.1$؛ هدف 1:2 عند 3305.6$.
 - **أحدث خبر:** [Strong Dollar Sinks Gold but Cushions Miners With Australian & Canadian Costs](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjVORDJBejlNZjlTRjdoMVA4TGFvREpfVmFBQ0JYRlltaDh5a3JSNEYyTWRfeGlST0RXREpBa0k0Z2o3TkJnZ2tPNUF1bFRzMUVkV3BjTmIyRE5ES29xVVN6MFRuVnk4RUFMSDFyakFYamVsRFJmVHM2WmVFNERnX3hWMmxHQS1kbEV0bll5RVVuYTAwalI2V2I2dlpCTjFrU0s2eWEzdVdxaHAwR2VJ?oc=5)
 - **خبر:** [Gold (XAU/USD) Price Forecast: Bearish Pressure Builds Below Key Resistance](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTjVFclpBTzNDQ2haQl9ENEV2SzRVeHUxM2FCYXJVdnVyTll2WHg4UHpuYnc2U2RJS0NqLUotRTRRZ1F2UUJHNlhXUE9Eai1ZYVU3U2FFM3B6aVJHQVZTcG9iZ0VuNGtUQXFIU3h6aGdrdHNaQkZqZHk5VWpBME9oRGYzdGFWa2NnaVN4Sk52dW9TN1FTU0VpM2pxdUVRUGN3cm5BOXV3WEVEbDQxdnh4WEFSSW1HUENWZklmdXk3NjFLU1E?oc=5)
 - **خبر:** [انخفاض أسعار الذهب اليوم الأربعاء في التعاملات المبكرة](https://news.google.com/rss/articles/CBMi-gNBVV95cUxOQVNtdDRkaDdaU3NYeE5sRHU3ZzZvTFEzZEx3RGEtTldaakZiRVNmb3pNcXcxRFp0UW1Ec21wX3hzbEg2LTdhTlBnM1FyVm1hbnMtV0FBWVdGclFkSmI2T2FQUVdPWHZnMHVSWEFNeEZGdmp0cFJsVXl5c3UwcFpQNGJCWGRpWWNGaTFJUlVIWjlnVEtwT3BHamJGclNtNFloR0pRUjhPNS1oUXdLQ3pNSmt2TDE1OEx6Y1Y1QzAyYlp1c3E4amc1QVl4Ry1LejFhNFVzYnZWYmhaRlpZODdKWFNXU3BwMXdwdFpiRU1Wd25BQnMyUlFYRkJUNXdLc09ZSFJSb0U2SjZwM0x2aDBRVEVteUxKYklEQy1uaGhnWUtFMFlWYjhvRnRTRnlYLUNYMWh6cEVCak8zZURaOFJiMGxZNTdISDBFN1FzN0tOcEtmSGtHaGpSMWdld3NhQURYVHlLMWhIRHJQRXpwU2RyZlN5UENzeG9PZ08zbk96alcybndlTnJ1bTdKcHZNcVkwU1VCRExTTlIxalBtNmhWbnhpTFNfYUxqV2dNNURYZElIZ1N1TWM3clVzXzVCazFBNk9XTXZ4dUE3VmxsWlFxSW1uUE5RNGF6ZXN5bG56eTBLOFkxYndhQ28yVXVkOGgzSU9NSDNHR1Fqd9IB_wNBVV95cUxOUjV5WHRGV2p4WXZQbUpLUVZsXzVoWkJ2UVdCS2Y5MHoxdzI3ZFlzQWZ1S0pwR2JtMEZsTkFHWTlNdVRPRDdOUW9FSEdNRG9yX2RaQ2hWblJPWkVuUlowUmJJanYwM3ZLeDNfZVJjTzBvLWZQVEl1bnVnbjFoa0pHaEdoYW5Vbk5STHd6YzFERG5vTE1KM3RhSFdpTHBab0VuWGdkT2E0YS1tbWF3Y1JYU0RKYU5kdkt5Y00xdmExTjB2MW1Wd3FGV3ZueGtDSGJVb1ZPUXJyVWh3VmVGTFdJLWxfQm44VFU1M3FzYWVvcVg2RHFDMVlBQ3pBY3RUMUlqZUtDbE82NWJNQ0ROTU5BVDRTYkJJbkEzZ2dvWG5VT09HcmVILUFuT2VLUFJjLWRTU0lmZnk5eU5fa25HdmtYU0UzNm1MTW9xZm04UEVXbm54RHJtQ2Zkby1aZFJFZFlTX1dZS05EZkRrYk0zeFNuemJYWW5tc016SEdhWFdjc0ttQWQ2ejBpWjJBeklNX1FnSTNaTGk4VTd4OWpvVURQX1NMdFpCZHBFVnU0bW9zWmZJNFR1RmtjSFROZVNvTjZSbHdkOGVMRm1uR0hIUTJZYlRpT3MzU1pfWEM4SUc1X0plYndnRWF5eGVfeE9VbVVjZXhaM1JZbWRmSXdraUdj?oc=5)
+
+## التحليل
+
+| المؤشر | القيمة |
+| --- | --- |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها +2.0$ |
+| الاتجاه (EMA 20 و 50) | هابط (3987.9 / 4110.2) |
+| بنية السوق | متذبذب |
+| كفاءة الحركة (20 يوم) | 0.33 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
+| المدى اليومي المتوسط (ATR 14) | 98.1$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4732.9$ / 3788.7$ |
+| مركز الحجم POC | 4154.6$ |
+| منطقة القيمة VAL إلى VAH | 3836.0$ إلى 4355.3$ |
+
+## سيناريوهات للدراسة
+
+الدخول لا يكون من منتصف القيمة، والكسر يحتاج إغلاقاً ثم إعادة اختبار. الأرقام مبنية على ATR.
+
+| السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
+| --- | --- | --- | --- |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4099.3 ثم إعادة اختبار تثبت فوقه | 3952.1$ | 4393.6$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3599.9 ثم إعادة اختبار يفشل في العودة | 3747.1$ | 3305.6$ |
 
 ## أخبار الذهب بالعربية
 
@@ -38,7 +66,7 @@
 
 ## ملاحظات وأخطاء
 
-- السعر والتحليل: yahoo: query1.finance.yahoo.com أجاب HTTP 429؛ stooq: Stooq أعاد شكلاً غير متوقع؛ GC=F: query1.finance.yahoo.com أجاب HTTP 429
+- شموع الذهب الفوري غير متاحة، فالمستويات مأخوذة من العقد الآجل بعد إزاحتها (yahoo: query1.finance.yahoo.com أجاب HTTP 404؛ stooq: Stooq أعاد شكلاً غير متوقع)
 
 ---
 > للدراسة والمعلومة فقط وليس نصيحة مالية ولا توصية بالشراء أو البيع. السعر هو الذهب الفوري XAUUSD عند توفره، وإلا العقد الآجل GC=F وقد يفرق عدة دولارات عن شارتك (انظر مصدر السعر في التحليل) والمستويات من شموع يومية فتتغير مرة في اليوم. هي تقديرات حسابية وقد تخطئ. لا يُنفَّذ أي أمر من هذا المشروع.
