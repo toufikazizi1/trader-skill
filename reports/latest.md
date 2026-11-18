@@ -2,28 +2,28 @@
 
 ## الملخص
 
-- **السعر:** 3,733.4$ (-8.32% عن الإغلاق السابق)
+- **السعر:** 3,742.1$ (-8.09% عن الإغلاق السابق)
 - **الحكم الحالي:** مائل للهبوط. الاتجاه هابط، والبنية: متذبذب.
 - **موقع السعر:** تحت منطقة القيمة.
-- **أقرب دعم / مقاومة:** 3527.9$ / 4102.8$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4102.8 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3948.7$؛ هدف 1:2 عند 4411.0$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3527.9 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3682.0$؛ هدف 1:2 عند 3219.8$.
-- **أحدث خبر:** [أسعار الذهب اليوم، 19 نوفمبر: تواصل انخفاضها، لتصل إلى أدنى مستوى لها في 14 شهراً.](https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjRlU05Zc2hJMU1rc0dwa3JDem1yUkMzbWtPdHBqMm5UTXozd3dtR3JQSXhNTmFDRjBIeTF2V2FlTnRNLTNQVk1yZXpLTVltZGZIcWY1WnhPeVMwMW5wbjV2TFlzSVlKU0VqOXlOMVpSWlM5b3Q3TE1kaDhkbUw0UmI2ZkJOVWRpOWd1cg?oc=5)
+- **أقرب دعم / مقاومة:** 3537.4$ / 4102.1$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4102.1 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3948.5$؛ هدف 1:2 عند 4409.1$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3537.4 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3691.0$؛ هدف 1:2 عند 3230.4$.
+- **أحدث خبر:** [Gold (XAU/USD) Price Forecast: Breakdown Opens Door to $3,500](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1BXVUZkQVlLVnlnWW04U3hRSnFwSzczc3hCVEdRbGs1TF9lZFM5NTRMOHRGNy1uSlhjMWxrVVRFZERxWjQtNDJYWG5EdWw1OHBoMkNEVm1vYkxIeHdodnlxZ3hrallvM1dqRUhVMmdCMk9wa0pTR3hTZHQ5OU9vSV85QWY5SXljVURuMmc5R2Q3Xy1WYVhVMjRQcDZOMy1QaWI1MkFyZnN2X1E?oc=5)
+- **خبر:** [أسعار الذهب اليوم، 19 نوفمبر: تواصل انخفاضها، لتصل إلى أدنى مستوى لها في 14 شهراً.](https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjRlU05Zc2hJMU1rc0dwa3JDem1yUkMzbWtPdHBqMm5UTXozd3dtR3JQSXhNTmFDRjBIeTF2V2FlTnRNLTNQVk1yZXpLTVltZGZIcWY1WnhPeVMwMW5wbjV2TFlzSVlKU0VqOXlOMVpSWlM5b3Q3TE1kaDhkbUw0UmI2ZkJOVWRpOWd1cg?oc=5)
 - **خبر:** [سعر الذهب اليوم الخميس 19-11-2026 بعد الانخفاض الكبير](https://news.google.com/rss/articles/CBMiREFVX3lxTE5jYzhiSm11SkVrOHR5QVVjOXZIZ0lVZENCMkxyajNIclpmeVYwU0REbzNTSmhhd0JhZ3d5T3lfLXppX0Mt?oc=5)
-- **خبر:** [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives 3%, Testing Yearly Lows](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUJHS3NtX25kcl9KWkthaEEtLWc5NUwtLUxTTzFmVVhCeFJId0FUaWhZRndxcmtTc3laRzRkU2hUQjJ0VXBmSGhpSXJJMG9vXzM5MnlLS2RLZVphY0phWWFSZ0pQT2ktSkljbmRvc1B3Q0lwcms1RGFHZmJPbmRVY0hiNUN1V1RVOWNWa0Y5YzhrVk5JNDdmT2FrZFpmNE9hRnZGVVR2ejF1QUM4X1c5My1PQjFHQ1RNd0FSSzBn?oc=5)
 
 ## التحليل
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها +5.6$ |
-| الاتجاه (EMA 20 و 50) | هابط (3985.2 / 4111.2) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها +4.8$ |
+| الاتجاه (EMA 20 و 50) | هابط (3985.3 / 4110.8) |
 | بنية السوق | متذبذب |
-| كفاءة الحركة (20 يوم) | 0.37 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
-| المدى اليومي المتوسط (ATR 14) | 102.7$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4736.5$ / 3727.7$ |
-| مركز الحجم POC | 4169.0$ |
-| منطقة القيمة VAL إلى VAH | 3828.6$ إلى 4383.4$ |
+| كفاءة الحركة (20 يوم) | 0.36 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
+| المدى اليومي المتوسط (ATR 14) | 102.3$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4735.7$ / 3732.2$ |
+| مركز الحجم POC | 4171.3$ |
+| منطقة القيمة VAL إلى VAH | 3857.7$ إلى 4384.5$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,8 +31,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4102.8 ثم إعادة اختبار تثبت فوقه | 3948.7$ | 4411.0$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3527.9 ثم إعادة اختبار يفشل في العودة | 3682.0$ | 3219.8$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4102.1 ثم إعادة اختبار تثبت فوقه | 3948.5$ | 4409.1$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3537.4 ثم إعادة اختبار يفشل في العودة | 3691.0$ | 3230.4$ |
 
 ## أخبار الذهب بالعربية
 
@@ -51,8 +51,8 @@
 
 ## أخبار الذهب بالإنجليزية
 
+- [Gold (XAU/USD) Price Forecast: Breakdown Opens Door to $3,500](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1BXVUZkQVlLVnlnWW04U3hRSnFwSzczc3hCVEdRbGs1TF9lZFM5NTRMOHRGNy1uSlhjMWxrVVRFZERxWjQtNDJYWG5EdWw1OHBoMkNEVm1vYkxIeHdodnlxZ3hrallvM1dqRUhVMmdCMk9wa0pTR3hTZHQ5OU9vSV85QWY5SXljVURuMmc5R2Q3Xy1WYVhVMjRQcDZOMy1QaWI1MkFyZnN2X1E?oc=5) · FXEmpire 11-18 23:13 UTC
 - [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives 3%, Testing Yearly Lows](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUJHS3NtX25kcl9KWkthaEEtLWc5NUwtLUxTTzFmVVhCeFJId0FUaWhZRndxcmtTc3laRzRkU2hUQjJ0VXBmSGhpSXJJMG9vXzM5MnlLS2RLZVphY0phWWFSZ0pQT2ktSkljbmRvc1B3Q0lwcms1RGFHZmJPbmRVY0hiNUN1V1RVOWNWa0Y5YzhrVk5JNDdmT2FrZFpmNE9hRnZGVVR2ejF1QUM4X1c5My1PQjFHQ1RNd0FSSzBn?oc=5) · FXEmpire 11-18 22:02 UTC
-- [Gold (XAU/USD) Price Forecast: Breakdown Opens Door to $3,500](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1BXVUZkQVlLVnlnWW04U3hRSnFwSzczc3hCVEdRbGs1TF9lZFM5NTRMOHRGNy1uSlhjMWxrVVRFZERxWjQtNDJYWG5EdWw1OHBoMkNEVm1vYkxIeHdodnlxZ3hrallvM1dqRUhVMmdCMk9wa0pTR3hTZHQ5OU9vSV85QWY5SXljVURuMmc5R2Q3Xy1WYVhVMjRQcDZOMy1QaWI1MkFyZnN2X1E?oc=5) · FXEmpire 11-18 21:57 UTC
 - [Gold Futures Track Weaker COMEX To End Lower Amid Hawkish US Interest Rate Outlook](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xZXpDT1ZpdGF4RHBJLUZQTVdmUVNYQlM2cFF1aV9UTHJVcmExNDd2dVF6UmtxZ1pPdXBjNFBidFZvdS12bjlPMkxLbkExRjVTQlNHdmhIWXdOUQ?oc=5) · BernamaBiz 11-18 21:06 UTC
 - [Gold drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric](https://news.google.com/rss/articles/CBMixwFBVV95cUxQUUxQMURHQnhvbTA0ZUtmXzgxMlpwc3c1QWtrTFFITEdWdm1XRnkzU0w5NFVtallveFdFUmlCWUIwdGg3TlUyNXFzTjNYb3JRWENTWlVJVDcxeFVIR19sWkpmRFVvRDNTWDQzMUJiMkdkanN1R2gzMTBGLVB0YmJnUGYzTFFJMmIxTVV0MkZLdEhnbmUtNUc0VUJzSnhzOEN6bk5PSU1oTVY4bXJza1p0NXFmNk5SR2JsbDl2aV9fSE5zWTNJYTlz0gHHAUFVX3lxTFBRTFAxREdCeG9tMDRlS2ZfODEyWnBzdzVBa2tMUUhMR1Z2bVdGeTNTTDk0VW1qWW94V0VSaUJZQjB0aDdOVTI1cXNOM1hvclFYQ1NaVUlUNzF4VUhHX2xaSmZEVW9EM1NYNDMxQmIyR2Rqc3VHaDMxMEYtUHRiYmdQZjNMUUkyYjFNVXQyRkt0SGduZS01RzRVQnNKeHM4Q3puTk9JTWhNVjhtcnNrWnQ1cWY2TlJHYmxsOXZpX19ITnNZM0lhOXM?oc=5) · Livemint 11-18 20:04 UTC
 - [Gold Price Today / Price of Gold Per Ounce / 24 Hour Spot Chart](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5) · Kitco 11-18 18:19 UTC
