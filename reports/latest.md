@@ -1,13 +1,13 @@
-# تقرير الذهب - 2026-11-18
+# تقرير الذهب - 2026-11-19
 
 ## الملخص
 
-- **السعر:** 3,742.1$ (-8.09% عن الإغلاق السابق)
+- **السعر:** 3,743.3$ (-7.96% عن الإغلاق السابق)
 - **الحكم الحالي:** مائل للهبوط. الاتجاه هابط، والبنية: متذبذب.
 - **موقع السعر:** تحت منطقة القيمة.
-- **أقرب دعم / مقاومة:** 3537.4$ / 4102.1$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4102.1 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3948.5$؛ هدف 1:2 عند 4409.1$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3537.4 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3691.0$؛ هدف 1:2 عند 3230.4$.
+- **أقرب دعم / مقاومة:** 3538.6$ / 4097.6$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4097.6 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3944.0$؛ هدف 1:2 عند 4404.6$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3538.6 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3692.1$؛ هدف 1:2 عند 3231.5$.
 - **أحدث خبر:** [Gold (XAU/USD) Price Forecast: Breakdown Opens Door to $3,500](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1BXVUZkQVlLVnlnWW04U3hRSnFwSzczc3hCVEdRbGs1TF9lZFM5NTRMOHRGNy1uSlhjMWxrVVRFZERxWjQtNDJYWG5EdWw1OHBoMkNEVm1vYkxIeHdodnlxZ3hrallvM1dqRUhVMmdCMk9wa0pTR3hTZHQ5OU9vSV85QWY5SXljVURuMmc5R2Q3Xy1WYVhVMjRQcDZOMy1QaWI1MkFyZnN2X1E?oc=5)
 - **خبر:** [أسعار الذهب اليوم، 19 نوفمبر: تواصل انخفاضها، لتصل إلى أدنى مستوى لها في 14 شهراً.](https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjRlU05Zc2hJMU1rc0dwa3JDem1yUkMzbWtPdHBqMm5UTXozd3dtR3JQSXhNTmFDRjBIeTF2V2FlTnRNLTNQVk1yZXpLTVltZGZIcWY1WnhPeVMwMW5wbjV2TFlzSVlKU0VqOXlOMVpSWlM5b3Q3TE1kaDhkbUw0UmI2ZkJOVWRpOWd1cg?oc=5)
 - **خبر:** [سعر الذهب اليوم الخميس 19-11-2026 بعد الانخفاض الكبير](https://news.google.com/rss/articles/CBMiREFVX3lxTE5jYzhiSm11SkVrOHR5QVVjOXZIZ0lVZENCMkxyajNIclpmeVYwU0REbzNTSmhhd0JhZ3d5T3lfLXppX0Mt?oc=5)
@@ -16,14 +16,14 @@
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها +4.8$ |
-| الاتجاه (EMA 20 و 50) | هابط (3985.3 / 4110.8) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها +0.4$ |
+| الاتجاه (EMA 20 و 50) | هابط (3981.4 / 4106.5) |
 | بنية السوق | متذبذب |
 | كفاءة الحركة (20 يوم) | 0.36 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 102.3$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4735.7$ / 3732.2$ |
-| مركز الحجم POC | 4171.3$ |
-| منطقة القيمة VAL إلى VAH | 3857.7$ إلى 4384.5$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4731.3$ / 3727.8$ |
+| مركز الحجم POC | 4166.8$ |
+| منطقة القيمة VAL إلى VAH | 3853.2$ إلى 4380.0$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,8 +31,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4102.1 ثم إعادة اختبار تثبت فوقه | 3948.5$ | 4409.1$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3537.4 ثم إعادة اختبار يفشل في العودة | 3691.0$ | 3230.4$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4097.6 ثم إعادة اختبار تثبت فوقه | 3944.0$ | 4404.6$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3538.6 ثم إعادة اختبار يفشل في العودة | 3692.1$ | 3231.5$ |
 
 ## أخبار الذهب بالعربية
 
@@ -42,8 +42,8 @@
 - [أسعار الذهب تهوي 3% إلى 3736 دولار للأوقية](https://news.google.com/rss/articles/CBMiR0FVX3lxTE1rMjRMR1B0WGVTWVREQ0Y2cjNRUmwwWG4xZmNoUkh4b0g5VnpjdUQ5ZEtpcGFFV2FpTXVGRDluRGZmVERQVDhj?oc=5) · جريدة الرياض 11-18 21:31 UTC
 - [الذهب يهبط إلى أدنى مستوى في 14 شهراً مع صعود الدولار وعوائد السندات](https://news.google.com/rss/articles/CBMiqgRBVV95cUxQeDNzTFpUQmswY2xVZmJIVEkxQ2IzYWZadUFNeGFtYkllVjYxLXhNNU1URFFpQWpMVDRlcU9YVERNLTBGOXFLUEl5b250N2dHdXdPZU1ONFphTFZQZ1E0c19CQjlQS1JBX1FBTlZacHluZFRJSW1PWXhvNGIwc2tmRW5FMzV2U1VwbkFyZ2d0ZlAxOG1wNkdhN21qcTliUlFPckxJLW9VNjhZQWRBVm9qU0FlekRZMUZXSUNkd251RE9iakQ2U1JyaVZKVzVhVG1hczM2SGUyQTZra0VoZ3FvRnIxOWpNQjdDTVlGWnF2ajNkYm9UQWx0aE1nNk1UaklnUTQtRjEyX2RhUC1SNk9yclcyR3hvTEZFdkItY2hNNUxXUUdnRmJRVmJxeW5GMk0wMmkzWDl5SFNnX0ZBbllURzNvcDZhTTNZMGVSQl9IRHlrVDFLYmNQaVhNdUJDSnlFS0pLejVoVWJHRHZ0UjFnanlJa29kSnp3NFFTcjRCVmxwTjJUOTVmdmh2LUdHTDdzWkJWeVJSb0ZnQ0xVRnFLaHVnUERZMHVJVW8wX3VMRVVDMXRzaEsxTU9wSGJIb19wT2NGaEw2bEh0d1pqU1R0OHUwcXBBaWQtMzhnSUVkNFN1eUlCUXZnNzdtSElmX1kxdzdTZUxfeVVtbjBmUnc2R3pTTzhvbFB3aEVpejBGWU5fM29kOU1wdHU5MmNOWG5uaU5qbXZrWmNaUQ?oc=5) · المتداول العربي 11-18 21:22 UTC
 - [الذهب يهبط إلى أدنى مستوى في 14 شهراً مع تقييم تصريحات مسؤولي الفيدرالي](https://news.google.com/rss/articles/CBMiwgRBVV95cUxPZm1ZV3NHNGdjUElubFdudE5za21FZy1ZUHZjZGpTX1R0YmFDalhfM3NDaDI1MjFyUjdXUU5mZ05HXzlRdGI1cV96UndWdGJGRXFMZHY3dGZ4MkVEdmdVeHp4SFBLS2tjaFdqLUFTTVJOZ1RoeUtYT3R5MUIyazgzX2VUVnBCTFhZTk5mRmV2QVQ5M2JBWTk5Y1F0V2lVdW15TVM1M3k3Wk83ZDliYXl3ZlR4MVlOa3pEamxxQVdnX2swNlVYTS1nNEM4TjBFcTJISVZHeWhOZWRDRGN1WThqdG5HNXJNU3VmQk1zS1NvVTd5cTBkS0IzMDNwNExOQXRVa3pPYmw5TGsyQnNSV3lMVEU5c0l0OWNmcm1kS1FlWWh5V1lZLWJrTWpPVy01VklzZ0xDbV90UzFDMzhqd0dDQlNjZTItYk5Ld1VWb0ZScDBoX1VOcXp0S1pfXzFqVEpscVpRVms2QWdEWEhCeGFoVi14MW05aDNUa18tblMzeXVtaGlVUDRfakNfRHNHMG1TLWdaRENyQVQ4Z09uYUx4eUVBQmI4R1ZEZm5FSTZUZkx1ZTNCcmxUZVhONG5PVkRRcTd1Q3RTTkNndTJneUhxcmNtNUk3N0VDTTVlMDFOYl9qVUc0VXlrbkFjcnltU2RrYmppZi14cVR0YlQySWdTYWtHdE5lN3h4bVhPQjRid0lrcFR5bW5ZSEtEdUpuejRzSTl2UkdINzJXSmliRGlaeDhSa2w0amdTSmRfbFVMQjkwUQ?oc=5) · FxNewsToday.ae 11-18 21:13 UTC
-- [الذهب يهبط 3.2% مع تصاعد رهانات رفع الفائدة الأميركية](https://news.google.com/rss/articles/CBMiugNBVV95cUxPR3VfMVRva1NHQ2xybDl0TVJfYTd5ZFNmU3JyUHJhTDJBXzROc0NKZ201Z3Y4cVE2ZFBSckMycG40UVpydlZUenFJek5GSW5heWtLSklsR3hlbW5Oc2psLTU0RUdTTTN2OTFpaGtDTHFEcXRvVXpVbjlqZHIybWdpeG43VlR6QjNjekxZQUg4YjhUTm90dHMwNWpUdUtsUThROEFCLW9aemhCS2pHalQwelVFVnJGaVJkdG5iM2stNEVlZnhISjVQZjJPcC0xNmZOcUZXT3NlejNCYVJvZEZ4VHpCVk1zUWFiOFRrVklDZmRCU3FPdnVLSmluZFowbWlpLUJicHBseVRZRWM0RUFqa1MzMnRQTFZWMm92dlhieWFwQ040RGlMSkZKTi1qbHUteXRLQU56bnlSSFcxUjE4UDd0bm9CWUFfSkFkTjluYldpNkpxQUtrdmFqWnNvOU9USE1idTRPVXVSWGlPY2E4WmNEeWpERVRCLTR1ZHRJcVY5VDNSdUEySTVCMk1IN1VGTy1qUndYOUhNaWJ6cHBNR25hbzlFRnBOSjFEX0lBVVNLVVdMQXItd2Jn?oc=5) · CNN الاقتصادية 11-18 21:07 UTC
 - [توقعات سعر الذهب لأعوام 2026، 2027، 2028–2030 وما بعدها](https://news.google.com/rss/articles/CBMiekFVX3lxTE5QSmFCVm5TVHdqbVZQVEJ2R2ZQdGo4dFQzT094VTFZRFhhQmxUb1FfM0Noc1A4QXpNZkpQdlRvNFRSVGpfeFNpQVBjUndubnplejdGZWVFajFXZEp6c1IxQ19KSHo5eGNNRTR5NHJUbUd4U1IzcXVxYmtn?oc=5) · LiteFinance 11-18 20:50 UTC
+- [الذهب يهبط 3.2% مع تصاعد رهانات رفع الفائدة الأميركية](https://news.google.com/rss/articles/CBMiugNBVV95cUxPR3VfMVRva1NHQ2xybDl0TVJfYTd5ZFNmU3JyUHJhTDJBXzROc0NKZ201Z3Y4cVE2ZFBSckMycG40UVpydlZUenFJek5GSW5heWtLSklsR3hlbW5Oc2psLTU0RUdTTTN2OTFpaGtDTHFEcXRvVXpVbjlqZHIybWdpeG43VlR6QjNjekxZQUg4YjhUTm90dHMwNWpUdUtsUThROEFCLW9aemhCS2pHalQwelVFVnJGaVJkdG5iM2stNEVlZnhISjVQZjJPcC0xNmZOcUZXT3NlejNCYVJvZEZ4VHpCVk1zUWFiOFRrVklDZmRCU3FPdnVLSmluZFowbWlpLUJicHBseVRZRWM0RUFqa1MzMnRQTFZWMm92dlhieWFwQ040RGlMSkZKTi1qbHUteXRLQU56bnlSSFcxUjE4UDd0bm9CWUFfSkFkTjluYldpNkpxQUtrdmFqWnNvOU9USE1idTRPVXVSWGlPY2E4WmNEeWpERVRCLTR1ZHRJcVY5VDNSdUEySTVCMk1IN1VGTy1qUndYOUhNaWJ6cHBNR25hbzlFRnBOSjFEX0lBVVNLVVdMQXItd2Jn?oc=5) · CNN الاقتصادية 11-18 20:37 UTC
 - [قبل شراء الذهب.. لماذا تراجعت الأسعار عالميًا ومحليًا؟](https://news.google.com/rss/articles/CBMizgJBVV95cUxPb2N1WTVsSkx0cUtNY1lXNEJPRmx2WFNVb1BQVVVpZHBaOXVXazlhY3Z3Skw5V2puWE9rX2xqUEJlZVJsYjJrb1NraHg4SzllWWRIRlBvOENUN0lNRjdVTE02NHZja295Y3Nja1pPSHJ1SzlMN1k4UkZYZU1TQldlRzc1TktRMTVkUmxTemp4NlNGbUNZMFdNbHN6LUZIVy01VzFjSDdiUmdyMmJKekwxWnpqMm1tWS1OenhUel9OalZZbVkyVnJfMGwzWnFDM190bDhnY2t5cTVNb0VxRlNBbng4WF9KWmxFc1h5bFBZSnNJb0xQUG50VzFneVg1Skd0ZXRMZTZGVmJKVlAzeXRJUVlOVmpaN2tMRjlyV2kybWtSaE90UEtRNU1JaWQtR3k4c3hucmZ6RjJJTllmNHVzTExKNmI4SHRjY2d5cUhn?oc=5) · إقرأ نيوز 11-18 20:04 UTC
 - [أسعار الذهب تهبط دون 3800 دولار.. والفضة تخسر 3.42% رغم توترات الخليج](https://news.google.com/rss/articles/CBMixwJBVV95cUxQU0N3cXpqaHZiT1lGaDRQU2FXbHlEZmNMMUdYUWczTmczMHVlTU0yck41UUsydVdnTl9ueHlwWXJkZWtxU2FUMFBfUjRrZlRMWXRGNmR4Q0t2OXduX01mVmgyaHpUdXVhcHhKUlkyQkJDMDYtU0h3N0tVeXNVUTN3RHdXNElYOG9TOHUzdmVyeU02WnVYVVZPbnMyMTFpeDEwc2FuNGpMS3VfUFBWUS0yMm1OZDVzNkRzTEo2WGJQSE9MRHE0Tks2ck15TUx0NWFyR2dWYzA1NXZ6QS1oc1psSWlaVW5NSG1CM1dTcVVHSmdYN1RqQjdKZ2ozWEVaQmU1VDFJMlJNUzN2MWRGUTF1Z2RFdEFoTURCT1FLTmJrLXl3SHhuMmpMQUhNb2MyTG5DdzRKOHB4c0xaRFhMc0ljWm9qWlV6Z28?oc=5) · بوابة المصرف 11-18 18:56 UTC
 - [الذهب يشهد أكبر هبوط خلال العام مع ضغط الفائدة وارتفاع الدولار](https://news.google.com/rss/articles/CBMizAJBVV95cUxOYW00VWl6Zm5XNDAtVG5Rc1JNSUZxOGpZWkZfdkJ2SENRek9rdUpYOUUxOGZtMlRIZV9NUmxob2lobEhUaGQzMVBVQXFld2cxYmE3VGR4eGFWQnlhZFBNT1JqY0hWZXRvVGlTeVRhTVN2VTQzMFZ0WkVnZjVLV1pCVVhac0tYU1hHRS1uM0JUN0Jmamp2X0xPRUQzUXFWVC1UUjlCVlhUZUtJaWViZU95bU5fNnRoNV9LZEs3cVBYZUlvSnlBVjdTeHBzYWluYTZFT1BFWGdVZi1JNkdCSjREbzYxLWx5Z3F5UFo0dkFPN0dvNFFNS1lvT0lDVjByZU54THhTZVNEREVqX2Rqb0NyUDQ4NXNyTURKQWUyLTV0azNMcXlSa2tick9sTGZrb2U3SEVYVTZnWFo2RjF2U2pTSk03UEFsTjZSaFcxbQ?oc=5) · صوت المسيحى الحر 11-18 18:30 UTC
