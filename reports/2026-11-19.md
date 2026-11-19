@@ -2,28 +2,28 @@
 
 ## الملخص
 
-- **السعر:** 3,753.4$ (-7.67% عن الإغلاق السابق)
+- **السعر:** 3,747.7$ (-7.74% عن الإغلاق السابق)
 - **الحكم الحالي:** مائل للهبوط. الاتجاه هابط، والبنية: متذبذب.
 - **موقع السعر:** تحت منطقة القيمة.
-- **أقرب دعم / مقاومة:** 3548.7$ / 4095.7$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4095.7 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3942.2$؛ هدف 1:2 عند 4402.8$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3548.7 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3702.2$؛ هدف 1:2 عند 3241.7$.
-- **أحدث خبر:** [Gold (XAU/USD) Price Forecast: Breakdown Opens Door to $3,500](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1BXVUZkQVlLVnlnWW04U3hRSnFwSzczc3hCVEdRbGs1TF9lZFM5NTRMOHRGNy1uSlhjMWxrVVRFZERxWjQtNDJYWG5EdWw1OHBoMkNEVm1vYkxIeHdodnlxZ3hrallvM1dqRUhVMmdCMk9wa0pTR3hTZHQ5OU9vSV85QWY5SXljVURuMmc5R2Q3Xy1WYVhVMjRQcDZOMy1QaWI1MkFyZnN2X1E?oc=5)
+- **أقرب دعم / مقاومة:** 3560.3$ / 4092.9$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4092.9 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3952.4$؛ هدف 1:2 عند 4374.0$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3560.3 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3700.9$؛ هدف 1:2 عند 3279.3$.
+- **أحدث خبر:** [مطرقة “الفيدرالي” تهوي على رأس المعدن الأصفر: الذهب يسجل أدنى مستوى له منذ أكثر من عام](https://news.google.com/rss/articles/CBMixwJBVV95cUxPZDdRUS1nclB1RkFfWmgzZ1JLdFp1ZHdaUWthcWVqdVlqaG9Vb1JPRGdfd0F3dS0tMFhGQ084bWdUb2ZrdnMtQVRTRjJCUWxoSnZFUGFybm1MVllTTnpEQVlOMEFURE9iRjYzS3J4SGJFcWtBTlJic0tVVS1Fb0gxTlJGaS04OGtWT2d6RmpyRnNrb0JOOWV5YUREWmo1bW9ieV95MzRsaGdKU0RNcXhicFdCUVdsbmxZWHRPME55Y3NTUUI0MEh0MjhJOUtDWEJIWWotWFg2azVZeXN3TndLbVJoRF9kdjJNdmFjSWpLbnhLM3J4czl1UWxPMUc1bFIyNGVuSEJYVkR4N0k4NEZIQkNfVUYxakpwXzRnLWxya3FsNDhoSldPT1FSWDJ1TEZaa0ROX2FOZEx0OHFqWTI4bVV4RzdfQTg?oc=5)
+- **خبر:** [Gold (XAU/USD) Price Forecast: Breakdown Opens Door to $3,500](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1BXVUZkQVlLVnlnWW04U3hRSnFwSzczc3hCVEdRbGs1TF9lZFM5NTRMOHRGNy1uSlhjMWxrVVRFZERxWjQtNDJYWG5EdWw1OHBoMkNEVm1vYkxIeHdodnlxZ3hrallvM1dqRUhVMmdCMk9wa0pTR3hTZHQ5OU9vSV85QWY5SXljVURuMmc5R2Q3Xy1WYVhVMjRQcDZOMy1QaWI1MkFyZnN2X1E?oc=5)
 - **خبر:** [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives 3%, Testing Yearly Lows](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUJHS3NtX25kcl9KWkthaEEtLWc5NUwtLUxTTzFmVVhCeFJId0FUaWhZRndxcmtTc3laRzRkU2hUQjJ0VXBmSGhpSXJJMG9vXzM5MnlLS2RLZVphY0phWWFSZ0pQT2ktSkljbmRvc1B3Q0lwcms1RGFHZmJPbmRVY0hiNUN1V1RVOWNWa0Y5YzhrVk5JNDdmT2FrZFpmNE9hRnZGVVR2ejF1QUM4X1c5My1PQjFHQ1RNd0FSSzBn?oc=5)
-- **خبر:** [توقعات سعر الذهب لأعوام 2026، 2027، 2028–2030 وما بعدها](https://news.google.com/rss/articles/CBMiekFVX3lxTE5QSmFCVm5TVHdqbVZQVEJ2R2ZQdGo4dFQzT094VTFZRFhhQmxUb1FfM0Noc1A4QXpNZkpQdlRvNFRSVGpfeFNpQVBjUndubnplejdGZWVFajFXZEp6c1IxQ19KSHo5eGNNRTR5NHJUbUd4U1IzcXVxYmtn?oc=5)
 
 ## التحليل
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -1.5$ |
-| الاتجاه (EMA 20 و 50) | هابط (3980.7 / 4105.2) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -4.3$ |
+| الاتجاه (EMA 20 و 50) | هابط (3954.8 / 4087.9) |
 | بنية السوق | متذبذب |
-| كفاءة الحركة (20 يوم) | 0.35 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
-| المدى اليومي المتوسط (ATR 14) | 102.3$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4729.4$ / 3725.9$ |
-| مركز الحجم POC | 4165.0$ |
-| منطقة القيمة VAL إلى VAH | 3851.4$ إلى 4378.2$ |
+| كفاءة الحركة (20 يوم) | 0.29 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
+| المدى اليومي المتوسط (ATR 14) | 93.7$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4693.4$ / 3717.5$ |
+| مركز الحجم POC | 4144.5$ |
+| منطقة القيمة VAL إلى VAH | 3839.5$ إلى 4376.2$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,11 +31,12 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4095.7 ثم إعادة اختبار تثبت فوقه | 3942.2$ | 4402.8$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3548.7 ثم إعادة اختبار يفشل في العودة | 3702.2$ | 3241.7$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4092.9 ثم إعادة اختبار تثبت فوقه | 3952.4$ | 4374.0$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3560.3 ثم إعادة اختبار يفشل في العودة | 3700.9$ | 3279.3$ |
 
 ## أخبار الذهب بالعربية
 
+- [مطرقة “الفيدرالي” تهوي على رأس المعدن الأصفر: الذهب يسجل أدنى مستوى له منذ أكثر من عام](https://news.google.com/rss/articles/CBMixwJBVV95cUxPZDdRUS1nclB1RkFfWmgzZ1JLdFp1ZHdaUWthcWVqdVlqaG9Vb1JPRGdfd0F3dS0tMFhGQ084bWdUb2ZrdnMtQVRTRjJCUWxoSnZFUGFybm1MVllTTnpEQVlOMEFURE9iRjYzS3J4SGJFcWtBTlJic0tVVS1Fb0gxTlJGaS04OGtWT2d6RmpyRnNrb0JOOWV5YUREWmo1bW9ieV95MzRsaGdKU0RNcXhicFdCUVdsbmxZWHRPME55Y3NTUUI0MEh0MjhJOUtDWEJIWWotWFg2azVZeXN3TndLbVJoRF9kdjJNdmFjSWpLbnhLM3J4czl1UWxPMUc1bFIyNGVuSEJYVkR4N0k4NEZIQkNfVUYxakpwXzRnLWxya3FsNDhoSldPT1FSWDJ1TEZaa0ROX2FOZEx0OHFqWTI4bVV4RzdfQTg?oc=5) · أخبار حياة 11-19 01:59 UTC
 - [توقعات سعر الذهب لأعوام 2026، 2027، 2028–2030 وما بعدها](https://news.google.com/rss/articles/CBMiekFVX3lxTE5QSmFCVm5TVHdqbVZQVEJ2R2ZQdGo4dFQzT094VTFZRFhhQmxUb1FfM0Noc1A4QXpNZkpQdlRvNFRSVGpfeFNpQVBjUndubnplejdGZWVFajFXZEp6c1IxQ19KSHo5eGNNRTR5NHJUbUd4U1IzcXVxYmtn?oc=5) · LiteFinance 11-18 23:55 UTC
 - [أسعار الذهب اليوم، 19 نوفمبر: تواصل انخفاضها، لتصل إلى أدنى مستوى لها في 14 شهراً.](https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjRlU05Zc2hJMU1rc0dwa3JDem1yUkMzbWtPdHBqMm5UTXozd3dtR3JQSXhNTmFDRjBIeTF2V2FlTnRNLTNQVk1yZXpLTVltZGZIcWY1WnhPeVMwMW5wbjV2TFlzSVlKU0VqOXlOMVpSWlM5b3Q3TE1kaDhkbUw0UmI2ZkJOVWRpOWd1cg?oc=5) · Vietnam.vn 11-18 22:44 UTC
 - [سعر الذهب اليوم الخميس 19-11-2026 بعد الانخفاض الكبير](https://news.google.com/rss/articles/CBMiREFVX3lxTE5jYzhiSm11SkVrOHR5QVVjOXZIZ0lVZENCMkxyajNIclpmeVYwU0REbzNTSmhhd0JhZ3d5T3lfLXppX0Mt?oc=5) · صورة لايف 11-18 22:10 UTC
@@ -47,7 +48,6 @@
 - [الذهب يهبط لكن المشتري يدفع أكثر من قيمته النظرية.. أين تذهب الفروق؟](https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0ktRE1majVvSFJqak5fdWU5QUREaEVGZGxsdXZRTXhSd19KTjZManpDRW5FbG9IYlFNcjVncXo5V09mS252WWJtZ2dpRWxCcXZJTjJzQVc3dGhwdGJmNGxHWmM1ZWlEbS1qSzQ3cnA4MXhrWXh0SUh1Q3dsNlpNbHVvQ2Q0aTdSNzk2UWUwcVZGS3Bf?oc=5) · nedaelwatan.com 11-18 19:38 UTC
 - [أسعار الذهب تهبط دون 3800 دولار.. والفضة تخسر 3.42% رغم توترات الخليج](https://news.google.com/rss/articles/CBMixwJBVV95cUxQU0N3cXpqaHZiT1lGaDRQU2FXbHlEZmNMMUdYUWczTmczMHVlTU0yck41UUsydVdnTl9ueHlwWXJkZWtxU2FUMFBfUjRrZlRMWXRGNmR4Q0t2OXduX01mVmgyaHpUdXVhcHhKUlkyQkJDMDYtU0h3N0tVeXNVUTN3RHdXNElYOG9TOHUzdmVyeU02WnVYVVZPbnMyMTFpeDEwc2FuNGpMS3VfUFBWUS0yMm1OZDVzNkRzTEo2WGJQSE9MRHE0Tks2ck15TUx0NWFyR2dWYzA1NXZ6QS1oc1psSWlaVW5NSG1CM1dTcVVHSmdYN1RqQjdKZ2ozWEVaQmU1VDFJMlJNUzN2MWRGUTF1Z2RFdEFoTURCT1FLTmJrLXl3SHhuMmpMQUhNb2MyTG5DdzRKOHB4c0xaRFhMc0ljWm9qWlV6Z28?oc=5) · بوابة المصرف 11-18 18:56 UTC
 - [الذهب يشهد أكبر هبوط خلال العام مع ضغط الفائدة وارتفاع الدولار](https://news.google.com/rss/articles/CBMizAJBVV95cUxOYW00VWl6Zm5XNDAtVG5Rc1JNSUZxOGpZWkZfdkJ2SENRek9rdUpYOUUxOGZtMlRIZV9NUmxob2lobEhUaGQzMVBVQXFld2cxYmE3VGR4eGFWQnlhZFBNT1JqY0hWZXRvVGlTeVRhTVN2VTQzMFZ0WkVnZjVLV1pCVVhac0tYU1hHRS1uM0JUN0Jmamp2X0xPRUQzUXFWVC1UUjlCVlhUZUtJaWViZU95bU5fNnRoNV9LZEs3cVBYZUlvSnlBVjdTeHBzYWluYTZFT1BFWGdVZi1JNkdCSjREbzYxLWx5Z3F5UFo0dkFPN0dvNFFNS1lvT0lDVjByZU54THhTZVNEREVqX2Rqb0NyUDQ4NXNyTURKQWUyLTV0azNMcXlSa2tick9sTGZrb2U3SEVYVTZnWFo2RjF2U2pTSk03UEFsTjZSaFcxbQ?oc=5) · صوت المسيحى الحر 11-18 18:30 UTC
-- [البنوك الكبرى تنقسم حول مستقبل الذهب.. هبوط حاد الآن وتعافٍ محتمل في 2027](https://news.google.com/rss/articles/CBMijAFBVV95cUxPclQxZ3VDSG9jMXJWU3VYbURnU2ZTOGpLekR2djRSeF8wYUNvWDNWZ3Q3M0RLM3J4WTU0MzBicjc3bzZjWm8zNnJZZjc4OVo1ZkF0M3NkWnE4bTFhc1VoanlzVHFDR0hjVGVsdUlxSm9Kc0tZcnBnSVlPV1FkOVFsc3E0dEh5WWtqejZuUQ?oc=5) · الجريدة العقارية 11-18 17:38 UTC
 
 ## أخبار الذهب بالإنجليزية
 
@@ -56,7 +56,7 @@
 - [Gold Technical Outlook: XAU/USD Bulls Fight to Hold Breakout Support After 7% Rally](https://news.google.com/rss/articles/CBMizAFBVV95cUxNQlR0N09nOWJ4Tkthb3VGVFBJYklGSU50RHNGNG96elA5aWpnOGFVVGlUYUU1aVRKWUlyZElEZjJQRWFFcC1rV2ZDZ3ZNTkwzSEdkOE5qb1hrLS12T0tFRVFld0I2bWVnZ0FyakQ4eElJUE5rcVVZV0RrYkJlMWlOQ0pMYm5UR0YtUlg1RzRvRE9nUlZ0TEo4dWJoc0RtQTRBemhtMXdZdXhhOEFKWktDZGRuRDNuWlFlVUMxdnhwSHhVUGJJQzB2SW84NW4?oc=5) · StoneX 11-18 23:30 UTC
 - [Gold Futures Track Weaker COMEX To End Lower Amid Hawkish US Interest Rate Outlook](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xZXpDT1ZpdGF4RHBJLUZQTVdmUVNYQlM2cFF1aV9UTHJVcmExNDd2dVF6UmtxZ1pPdXBjNFBidFZvdS12bjlPMkxLbkExRjVTQlNHdmhIWXdOUQ?oc=5) · BernamaBiz 11-18 21:06 UTC
 - [Gold drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric](https://news.google.com/rss/articles/CBMixwFBVV95cUxQUUxQMURHQnhvbTA0ZUtmXzgxMlpwc3c1QWtrTFFITEdWdm1XRnkzU0w5NFVtallveFdFUmlCWUIwdGg3TlUyNXFzTjNYb3JRWENTWlVJVDcxeFVIR19sWkpmRFVvRDNTWDQzMUJiMkdkanN1R2gzMTBGLVB0YmJnUGYzTFFJMmIxTVV0MkZLdEhnbmUtNUc0VUJzSnhzOEN6bk5PSU1oTVY4bXJza1p0NXFmNk5SR2JsbDl2aV9fSE5zWTNJYTlz0gHHAUFVX3lxTFBRTFAxREdCeG9tMDRlS2ZfODEyWnBzdzVBa2tMUUhMR1Z2bVdGeTNTTDk0VW1qWW94V0VSaUJZQjB0aDdOVTI1cXNOM1hvclFYQ1NaVUlUNzF4VUhHX2xaSmZEVW9EM1NYNDMxQmIyR2Rqc3VHaDMxMEYtUHRiYmdQZjNMUUkyYjFNVXQyRkt0SGduZS01RzRVQnNKeHM4Q3puTk9JTWhNVjhtcnNrWnQ1cWY2TlJHYmxsOXZpX19ITnNZM0lhOXM?oc=5) · Livemint 11-18 20:04 UTC
-- [Gold Price Today / Price of Gold Per Ounce / 24 Hour Spot Chart](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5) · Kitco 11-18 18:19 UTC
+- [META_TITLE_QUOTE](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LRXk3WmZ5Y1MwZVR2TUhJNEJYakk2Z3ZPbHkyWklVNkdJTnB3bjBpb0ctRzhrUzNhUmstaFJfUkJ0SVZ3VmRGTVJGS3F3aG95?oc=5) · Yahoo Finance 11-18 18:25 UTC
 - [Gold plunges 3% to one-year low as hawkish Fed lifts dollar, yields](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTl9yZnhNbzFHZ3AzQjVCUDVEckRYVVlDSHVHRmc2bkwzSUFSTldnR1lBX01oYm51ZExvTnVPU28xNHZ3dk5pRW5tZWZEN3NPQVVCcmZPemxMVVpRNkxpalJHZEhEMVg5Wk1OXzB5M1BtUUg2dkh4UkM4X2FYVHdQS0pQLVpaMUpBSXFsME11UnJQS2xCQ0h5WVlMUkhtcXYydFZOb1NXdkl0T3R5TG12c1lxLWJzX0czRlUtT1JrTGIzU1hyVWdNZnQyREJkZ1JVM3k3WDFB0gHbAUFVX3lxTE1RaW40U2VBTEROdHNkQVdxS0xobXluaHlGQ1o4MEhUWmlfcF9JSWFLb0ZqaDJuMEIzUDBsdzFLc2pscVdnOUwyaDExMTFiUnFqV1EyTDV3X0wzUWVacFY2ZHBlQV9BaDJHNFAxWGNoZlBwa2ZVSUJ0MlJVLUxlZ2FjYVNyNGtyWm1wVkFlQ0VfMFF3MTU2YjQ5SVViY2RNTlJvc0dRQXBGaDdzQ3FRY1ZPUFhPcHo0NDhRNWtpWmUxRTNhb1VoWlN1QmZRbFNUVl9xdmktR0dvWGZ3TQ?oc=5) · The Economic Times 11-18 17:52 UTC
 - [Gold Price Forecast — XAU-USD ($3,770) $4,050 Upside Target on 97.8% Fed Hike Odds](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcExwU3VQMl93LTQyc00zNTJSZ01XbzJjS3Nyd09DbzB3QWk4MXRkY1Nta0poWjJKMDRWWnd1LWJORWtHM0VmTTZyY1ZucWVEdFkxRFg3N1RyYklCZENBYWpubUg4eTFiMjh6MmJXWDFTaXN0R1o2Rm92YmMzcXNJTHZOdmF1NUlXY0U2Z3g2V3AtUkRmb1MzUE9iNDlnMFF4d1V4ZW5vT0N0ZTVXZVhJZmlWZjNJSGFVWXAxb0FpTWU?oc=5) · TradingNEWS 11-18 17:16 UTC
 - [Gold prices fall below $3,800 to 14-month low as Fed rate hike fears lift US dollar, Treasury yields / Hindustan Times](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPeVNrakVTM18wMTVUUnIxVXRvbGdtOUNSMlA3NHFMVVhUVEdNbTFkcmNqWnlnS0xIV2hTX1hpd2F0eE5rbktIcENrWjc3VnprcjdWUW1ZRFg2QWJwRDlKbU5aOHJ6RW9QTW1lMVhERVhiWm9aLVZTVS1ULTg4U3VxSjc4NFFIU0Z1ZXZhallWbndlLTNneXJzVjZQWXp4LW15VVZCUkQxcWh0UWZNd1o2SDNOOWF3NDc1THBKRzhPTXZ1UWo0aERNNUxqLXNVWU5waTdoYzFCTXplLVhyajg5X1lnSkZJYWtCOWNoYURjTlMtd0N1UnRMYy04RUlSZ9IBgwJBVV95cUxPZ2pNcHY4aTFvZVc3UjFiR2pnU1BqOXcwRnFreXFFSGJsSWl6OXlpNHNYeVZ0SzI4VmFjZ194T3RzcW95MTN1b1JTcURBa2FNcWRySGVuQ1JKZlIxZ0c4OXNKTFk4M09Ua2hxZm1jTWtWaE1WTnpwVW1HRm8weWV4YVo0TzNnVXg4QVVZaGRkNUNqQ1RRa0s3Sk90VFMyWXMxLUhTc1U4TlFfalZIR0NaZ1RfbjBFVU1seEFKUVpNZU9kVjh3V05lckxlZUFHMkdDa1Q5OWxsS0xHREdUc3RKZTdiR0dtT0NLRkpzMWMzVVhKZEJSZWVNdDZRbUZlVERFQ3dN?oc=5) · Hindustan Times 11-18 15:25 UTC
