@@ -2,12 +2,12 @@
 
 ## الملخص
 
-- **السعر:** 3,731.6$ (-8.57% عن الإغلاق السابق)
+- **السعر:** 3,739.8$ (-8.40% عن الإغلاق السابق)
 - **الحكم الحالي:** مائل للهبوط. الاتجاه هابط، والبنية: متذبذب.
 - **موقع السعر:** تحت منطقة القيمة.
-- **أقرب دعم / مقاومة:** 3539.6$ / 4095.9$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4095.9 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3951.8$؛ هدف 1:2 عند 4384.0$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3539.6 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3683.6$؛ هدف 1:2 عند 3251.4$.
+- **أقرب دعم / مقاومة:** 3547.7$ / 4097.2$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4097.2 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3953.1$؛ هدف 1:2 عند 4385.3$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3547.7 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3691.8$؛ هدف 1:2 عند 3259.6$.
 - **أحدث خبر:** [أسعار الذهب ترتفع بعد تراجعها إلى أدنى مستوى في 14 شهرا](https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwaU1QVUpubWprRWVLMTFmQVdXWWtROEpVdWFHdVFPOXYtcHdrSGFvLTg2Y3dpT2FXNjBsRnRFd01vN01vMDA4YVZheHVjeXpSOUNDZU0xQjYza2dOa0FPLVlR?oc=5)
 - **خبر:** [الذهب إلى أين؟.. سيناريوهات الأسعار بعد الهبوط لأدنى مستوى في 14 شهرًا](https://news.google.com/rss/articles/CBMizAJBVV95cUxNUkJmVTZ6dFZ3ckxHZllaS0JmTDE0MTRCRUVhaWRnWVNyekVHMkY4S1F4djlGSjFycXBpVDdReWNnT3lsQjBzd2h2azJoUGJxUXFhbVA4eG5JakFnMk9PUWp6eU1ELWtEeFpQdVYyY3NQSTNZUWtCX2lLNVFqbzNuMlVEZXNRVGs2cVNncW1YVEc4NGE3VHZRTmtYMjBlZmxGT2owNldqb0VfTlFWeldsVzRGZC1MNDgyX095akVncE9DcmlmaTFLNWxzTGZySGpiNVBtZ2ZBX01ZM2tCVVpHN0d5Q3NkNThJRTE1UWFzZ05aVko5dE1jaVBNeHRuZkhRQVhXRDdGMU44WkpoME9rQnpSN2liODFsZWdhT1Nkb1VUc2hscjZaeE5PT2tZcWxDZThFOGJYVHY1NC1mUlg3aFlNNWtST19KWkVJMw?oc=5)
 - **خبر:** [انخفضت أسعار الذهب المحلية لكنها لا تزال أعلى بمقدار 19.7 مليون دونغ فيتنامي من الأسعار العالمية.](https://news.google.com/rss/articles/CBMingFBVV95cUxQZDlDMkNVX1c3ekZuSzJUMzRUNW1lYWc5Tm4tbFRqeXl6MFY2UWxuclMzS1REaE1pQllJbWlGNE5MZ19tZTNNZHhXR2l6MzlndmlXUE5nNVprYTBLaEpHZ1hVX0ZvRFNKTXBndE5LOVFRY05FVTY0M3hUSmFaSkQ2RS0yMmlyaUFjdVRsbDhDNFEtRXBNT0IwZlJNN3BSQQ?oc=5)
@@ -16,14 +16,14 @@
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -1.4$ |
-| الاتجاه (EMA 20 و 50) | هابط (3955.9 / 4090.1) |
+| مصدر السعر | العقد الآجل GC=F (بديل) |
+| الاتجاه (EMA 20 و 50) | هابط (3957.9 / 4091.8) |
 | بنية السوق | متذبذب |
 | كفاءة الحركة (20 يوم) | 0.31 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 96.0$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4696.4$ / 3693.1$ |
-| مركز الحجم POC | 4157.1$ |
-| منطقة القيمة VAL إلى VAH | 3818.5$ إلى 4370.3$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4697.7$ / 3694.5$ |
+| مركز الحجم POC | 4158.5$ |
+| منطقة القيمة VAL إلى VAH | 3819.9$ إلى 4371.7$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,8 +31,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4095.9 ثم إعادة اختبار تثبت فوقه | 3951.8$ | 4384.0$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3539.6 ثم إعادة اختبار يفشل في العودة | 3683.6$ | 3251.4$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4097.2 ثم إعادة اختبار تثبت فوقه | 3953.1$ | 4385.3$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3547.7 ثم إعادة اختبار يفشل في العودة | 3691.8$ | 3259.6$ |
 
 ## أخبار الذهب بالعربية
 
@@ -41,13 +41,13 @@
 - [انخفضت أسعار الذهب المحلية لكنها لا تزال أعلى بمقدار 19.7 مليون دونغ فيتنامي من الأسعار العالمية.](https://news.google.com/rss/articles/CBMingFBVV95cUxQZDlDMkNVX1c3ekZuSzJUMzRUNW1lYWc5Tm4tbFRqeXl6MFY2UWxuclMzS1REaE1pQllJbWlGNE5MZ19tZTNNZHhXR2l6MzlndmlXUE5nNVprYTBLaEpHZ1hVX0ZvRFNKTXBndE5LOVFRY05FVTY0M3hUSmFaSkQ2RS0yMmlyaUFjdVRsbDhDNFEtRXBNT0IwZlJNN3BSQQ?oc=5) · Vietnam.vn 11-19 05:28 UTC
 - [الذهب يفقد 3.2% ويسجل أدنى مستوى في 14 شهرا.. محضر الفيدرالي يشعل رهانات رفع الفائدة](https://news.google.com/rss/articles/CBMi2wRBVV95cUxQS1djYWJsb2k1RlQwZVhXN3JuNVk2S29tUnFHREdLU0pLNW81Q0xRRG9YemlHcFFpWXFWelQxOWg4eWJxSFc1Tk4yWFRxYzFKMkk2TFZwS2JCcEVacGhZRENTbTBhQUJqRjZoUm9vZUtIS0J6TTg2c2VpNS14dWZRTDlPWVlKYTBBcDAyU0xTMW5Reko5TW5PdnUtaVZJZFlXMnM3N0FpYk5GNERHSjdEdkFKLWFMaXFtVEJZazZTUHNOckZaQUZ6NzJmNnp5RjQ5OHlVRVpVMklfNVZKTWV1YWt6TnhTTkpRalFhVzViSnlqRi1CWGNfOTFUcU95VXhWemNDOG8zSzVNZ05TR0U4N2NqVkhkV1V0clc5SGpKYVFsRUl0cFR5WmFIQ1hLR2VPYmVVeUdJaXVTZ3lIdWc2XzlnVEE3elZHMVRIelBzaTBlcVJjSXlJWHhvQ0drSzgyN19CYVFpRlVMeDI5OEdYM0FRMS02eW5iSDY1X1h0RmFmVTYyQlBaRi05cWFTeVNvaUV4RGtqWXBsQWxHN2xGdWJmRzhhalR4eWg5cUVyWWFJbkdqck42NHA0cmZfTXhiRm1FT3gxVlo4RXUxbm85TjVKWFVFR2tjMXIydnZlOVdKX0V2OTNFSFo1RDlTU193OTN3SDZjbjl2Q1RaTTJ2Z0QxbFhrbXJIRzJaOU9NNGUwbDZRUDB1QmZOdUlmMDNVRlJuMVVZaHQyMEtTaXlWQ3laV2QtUWpLaWNVX1c3TmFzdVhhSUNZRndvQ2xoQ3l0cUE3Z2dzYktIMXM?oc=5) · مبتدا 11-19 05:10 UTC
 - [الذهب يفقد توازنه.. محضر الفيدرالي يفتح الطريق نحو 3500 دولار](https://news.google.com/rss/articles/CBMiXkFVX3lxTE93WFZsUktNOEtibDhHQlEtX3VwOGpReV81Wk4tT0p2UUFrdWJ1OUtzczJBa0I4WjhqYURhNks5dHBxYUlGekxzazBTa25fRGFXVHl3eGpTNHBmSkZBSHc?oc=5) · إرم بزنس 11-19 04:31 UTC
-- [الذهب يرتد إلى 3755 دولارًا بعد قاع 14 شهرًا.. والفائدة تهدد المكاسب](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQcWNzUVZOalByZW1wVndpRjFLR2xwcFl5b09tdzdadmE5ZElNeTVMRDJaNmdSX3NlbDFBTWp3QzFLU1JtZWp5ZTdpeDNXUVhjWGhhb1hRY20yX1l4cFpRUTByblEyYmRKRll2Tng3anVZdjRnY0t6Z0RpNHhGREk4dGhlSVVsSmRBaV9HNmFyWmU1SlYtU3JzTkZhTTdQVmQ2MjJyeW1BTFE0ODBFWTBIcXBTNGoyakhYbjhaT0E3MURRTHluNDNMbk53dW5YbWdacmlpUEowc28zRlNjNGlBd01PS1VBZ1pWdThOZklMOWVkQW5iTGxsU1U1anlUbGJxZTlUMFVFVjVVU3JjX1lia0ZoOU04NGl0SW4xR21GXy1SZlZDY1RIZHczOW56SFp1U0xyaVJlWkJaVVZMaTlJWC1LUQ?oc=5) · بوابة المصرف 11-19 04:00 UTC
 - [الدولار و«توقعات الفائدة» يضغطان.. الذهب يتراجع والفضة تخسر 4.5%](https://news.google.com/rss/articles/CBMilwVBVV95cUxPUWItb0diSUFObjh3cnctbmpIVkQ3WjZlbUtrTFhOYXZ5SFVHajJfcFJLSVhhbk1YVEZlS0FRUXZCX0tLbXRKVTFNaHhtZ2F2a1dUQmNaeVh4bWplZm9qQ3liMm0wSkZfb2ExQTgta0JsYlJvWDJOdklOblNyUUU1Q2J4UnBSNkJIY1Z6MjVveDUyWGxGY1N5VnUyaDBNcmdwUVpzS2RmNnZtWU43MGJqelVXREw5Y1FpVUw4UDBlQ0FraElVYTRYWEROQTZmaU54YXpmT0RtaVgyWHdqekNVc2NRcFRYcEpIeTVYOW1XN01zLUxPUUFMcmlmTmZuZGFMNWRVSUotTmVJX05iR01SQ0RQdkJEeEZLZlV3OGlKU19idjdmaTFXelMwcGdMYVV6WnZNNlZyVlZaS1FvanpIaV9XU2hvNkFqNWp2RFpWdFM3bGFza0ZRMHl2SEdpSDBnWm5QanNEZU54Mm9qRkExdXBPNzU3SmU4QnY4eUt1TlRpaFdWVDJaNUxKRW5IRG5BTUU1cFRhOU9nc2tGWTdOS1JoT2xSQTRDeFBELVBpTk93Z29TUVpBOHVIZE5PQXg5UVc0ZkdzZlJSZGttMmlYUmJyWWRaeFhKVm52RWZPZ1Y1UUpiQmtmU29SYS1Ua3h6NzNuOXZwaldxLVQ3MENva19fNTNxVWdwWU55eVpmZVZKbmxVZVh0NjAzalZzTFA0WENiWTEzUGJvbmdDY096QVhudU5UQng2cWZpR1VfN3ltVW9ENWdwTTN3MVFFSU9FV19ndFB3REpWdjhPNEhEQ1pPRFhrUldHaFFQaG1pdVVVd3Brc1NTeWl6cFo2Z3ZxMENsNnJ1ZndJcG5HZ2wxbVJfT3BJUk0?oc=5) · صحيفة الخليج 11-19 02:53 UTC
 - [أسعار الذهب تتعافى عالميا: 3745.56 دولار للأوقية](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnVG5tQ0hJVVZOZEFXTlByaW5HUUxNZldBU25KUVRtbWdsd1RsVk1UVHFtbGNkdnlnV2FIbzVkV1dUdUpNdHRnQmEwVWdJMlE?oc=5) · المشهد اليمني 11-19 02:35 UTC
 - [مطرقة “الفيدرالي” تهوي على رأس المعدن الأصفر: الذهب يسجل أدنى مستوى له منذ أكثر من عام](https://news.google.com/rss/articles/CBMixwJBVV95cUxPZDdRUS1nclB1RkFfWmgzZ1JLdFp1ZHdaUWthcWVqdVlqaG9Vb1JPRGdfd0F3dS0tMFhGQ084bWdUb2ZrdnMtQVRTRjJCUWxoSnZFUGFybm1MVllTTnpEQVlOMEFURE9iRjYzS3J4SGJFcWtBTlJic0tVVS1Fb0gxTlJGaS04OGtWT2d6RmpyRnNrb0JOOWV5YUREWmo1bW9ieV95MzRsaGdKU0RNcXhicFdCUVdsbmxZWHRPME55Y3NTUUI0MEh0MjhJOUtDWEJIWWotWFg2azVZeXN3TndLbVJoRF9kdjJNdmFjSWpLbnhLM3J4czl1UWxPMUc1bFIyNGVuSEJYVkR4N0k4NEZIQkNfVUYxakpwXzRnLWxya3FsNDhoSldPT1FSWDJ1TEZaa0ROX2FOZEx0OHFqWTI4bVV4RzdfQTg?oc=5) · أخبار حياة 11-19 01:59 UTC
 - [توقعات سعر الذهب لأعوام 2026، 2027، 2028–2030 وما بعدها](https://news.google.com/rss/articles/CBMiekFVX3lxTE5QSmFCVm5TVHdqbVZQVEJ2R2ZQdGo4dFQzT094VTFZRFhhQmxUb1FfM0Noc1A4QXpNZkpQdlRvNFRSVGpfeFNpQVBjUndubnplejdGZWVFajFXZEp6c1IxQ19KSHo5eGNNRTR5NHJUbUd4U1IzcXVxYmtn?oc=5) · LiteFinance 11-18 23:55 UTC
 - [أسعار الذهب اليوم، 19 نوفمبر: تواصل انخفاضها، لتصل إلى أدنى مستوى لها في 14 شهراً.](https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjRlU05Zc2hJMU1rc0dwa3JDem1yUkMzbWtPdHBqMm5UTXozd3dtR3JQSXhNTmFDRjBIeTF2V2FlTnRNLTNQVk1yZXpLTVltZGZIcWY1WnhPeVMwMW5wbjV2TFlzSVlKU0VqOXlOMVpSWlM5b3Q3TE1kaDhkbUw0UmI2ZkJOVWRpOWd1cg?oc=5) · Vietnam.vn 11-18 22:44 UTC
 - [سعر الذهب اليوم الخميس 19-11-2026 بعد الانخفاض الكبير](https://news.google.com/rss/articles/CBMiREFVX3lxTE5jYzhiSm11SkVrOHR5QVVjOXZIZ0lVZENCMkxyajNIclpmeVYwU0REbzNTSmhhd0JhZ3d5T3lfLXppX0Mt?oc=5) · صورة لايف 11-18 22:10 UTC
+- [هبوط حاد في أسعار الذهب.. الشعبة تكشف أفضل توقيت للشراء وتوجه نصيحة للمواطنين](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnd0RPdUJKNFNKQmhfM0Nja1NlWUwxTkEtbkZXMFZQV1BIOEpWZUVoX3A2cnNZWTFmS3FQZWppMVg0NTJFaU1uUGNXTVY1M1VTWEd4M2w4VVp1NndmVHZF?oc=5) · المصري اليوم 11-18 21:33 UTC
 
 ## أخبار الذهب بالإنجليزية
 
@@ -66,7 +66,7 @@
 
 ## ملاحظات وأخطاء
 
-- شموع الذهب الفوري غير متاحة، فالمستويات مأخوذة من العقد الآجل بعد إزاحتها (yahoo: query1.finance.yahoo.com أجاب HTTP 404؛ stooq: Stooq أعاد شكلاً غير متوقع)
+- السعر الفوري غير متاح، السعر من العقد الآجل وقد يفرق عن شارتك بعدة دولارات (gold-api: تعذّر الوصول إلى api.gold-api.com: [Errno -2] Name or service not known؛ stooq: stooq.com أجاب HTTP 404؛ yahoo: query1.finance.yahoo.com أجاب HTTP 404؛ stooq: Stooq أعاد شكلاً غير متوقع)
 
 ---
 > للدراسة والمعلومة فقط وليس نصيحة مالية ولا توصية بالشراء أو البيع. السعر هو الذهب الفوري XAUUSD عند توفره، وإلا العقد الآجل GC=F وقد يفرق عدة دولارات عن شارتك (انظر مصدر السعر في التحليل) والمستويات من شموع يومية فتتغير مرة في اليوم. هي تقديرات حسابية وقد تخطئ. لا يُنفَّذ أي أمر من هذا المشروع.
