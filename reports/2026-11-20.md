@@ -2,12 +2,12 @@
 
 ## الملخص
 
-- **السعر:** 3,516.2$ (-13.30% عن الإغلاق السابق)
+- **السعر:** 3,524.0$ (-13.22% عن الإغلاق السابق)
 - **الحكم الحالي:** مائل للهبوط. الاتجاه هابط، والبنية: متذبذب.
 - **موقع السعر:** تحت منطقة القيمة.
-- **أقرب دعم / مقاومة:** 3300.6$ / 4093.1$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4093.1 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3931.3$؛ هدف 1:2 عند 4416.5$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3300.6 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3462.3$؛ هدف 1:2 عند 2977.2$.
+- **أقرب دعم / مقاومة:** 3308.4$ / 4098.2$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4098.2 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3936.5$؛ هدف 1:2 عند 4421.6$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3308.4 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3470.1$؛ هدف 1:2 عند 2985.0$.
 - **أحدث خبر:** [توقعات سعر الذهب لأعوام 2026، 2027، 2028–2030 وما بعدها](https://news.google.com/rss/articles/CBMiekFVX3lxTE5QSmFCVm5TVHdqbVZQVEJ2R2ZQdGo4dFQzT094VTFZRFhhQmxUb1FfM0Noc1A4QXpNZkpQdlRvNFRSVGpfeFNpQVBjUndubnplejdGZWVFajFXZEp6c1IxQ19KSHo5eGNNRTR5NHJUbUd4U1IzcXVxYmtn?oc=5)
 - **خبر:** [الدولار الأسترالي لا يزال تحت الضغط مع تباين آفاق البنك الاحتياطي الفيدرالي Fed والبنك الاحتياطي الأسترالي RBA](https://news.google.com/rss/articles/CBMixwFBVV95cUxPS2ZZMnY0UlF4NjFjaV9mZ3NRMUc0SE5JVDZ3NUs1ckViUzk2Q1k4dldhdWJQWEUzU1BNcVhNOGlpOThPQVFGRTlpcnlpVDZVcUd0Y3ZaWTRSWXRzTWJMUkFPQ2FYTXQ4YjhiOUJmcVRHTkNKRFZTT3FkTmdGazdwNWVRbUQ0bDZZUUpQY1lMbHhaN0NoQnJJOVBOT1ZsQU1vVzFEU1ozbzhWV05qbFBULXdQQU9nXzBQN2ZtN0loZnRtNG85V0l3?oc=5)
 - **خبر:** [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Tests New Lows Amid Panic In Markets](https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHlkVV92b21POWFZanFRbHlZQVFOSktkVmx1Smltcm1OZGIyQVpVbUNJcTBGYWdFZnNWT1BkdzRqSHFLRnRrNlRDZUpLZlNVcWxoTXdDM2JBVkRaOF9aNkw1ZG92U3E4d3JTb0dZZW1rU0hJWUVzOGVTRm51YldseHkxNk5CTDVEZ0tzb1BlVExYT25QUlZibEZaVktlRU9GbXVvLVFjbENXUlcwakVXM1RwU0Z3VVZOV1hhYlZHSUN5cWoyVVlOSGNn?oc=5)
@@ -16,14 +16,14 @@
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -4.2$ |
-| الاتجاه (EMA 20 و 50) | هابط (3907.4 / 4063.2) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها +1.0$ |
+| الاتجاه (EMA 20 و 50) | هابط (3912.8 / 4068.4) |
 | بنية السوق | متذبذب |
 | كفاءة الحركة (20 يوم) | 0.40 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 107.8$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4683.9$ / 3498.7$ |
-| مركز الحجم POC | 4165.4$ |
-| منطقة القيمة VAL إلى VAH | 3824.7$ إلى 4387.6$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4689.0$ / 3503.9$ |
+| مركز الحجم POC | 4170.5$ |
+| منطقة القيمة VAL إلى VAH | 3829.8$ إلى 4392.7$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,8 +31,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4093.1 ثم إعادة اختبار تثبت فوقه | 3931.3$ | 4416.5$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3300.6 ثم إعادة اختبار يفشل في العودة | 3462.3$ | 2977.2$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4098.2 ثم إعادة اختبار تثبت فوقه | 3936.5$ | 4421.6$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3308.4 ثم إعادة اختبار يفشل في العودة | 3470.1$ | 2985.0$ |
 
 ## أخبار الذهب بالعربية
 
@@ -54,13 +54,13 @@
 - [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Tests New Lows Amid Panic In Markets](https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHlkVV92b21POWFZanFRbHlZQVFOSktkVmx1Smltcm1OZGIyQVpVbUNJcTBGYWdFZnNWT1BkdzRqSHFLRnRrNlRDZUpLZlNVcWxoTXdDM2JBVkRaOF9aNkw1ZG92U3E4d3JTb0dZZW1rU0hJWUVzOGVTRm51YldseHkxNk5CTDVEZ0tzb1BlVExYT25QUlZibEZaVktlRU9GbXVvLVFjbENXUlcwakVXM1RwU0Z3VVZOV1hhYlZHSUN5cWoyVVlOSGNn?oc=5) · FXEmpire 11-20 17:50 UTC
 - [Gold Price Forecast — XAU/USD ($3,568) $3,755 Upside Target on 97% Fed Hike Odds](https://news.google.com/rss/articles/CBMixgFBVV95cUxQaHZaRWNIay1sTDdCX0JTSHJ1eWtJVzJjWTFydGVKeC1xQW5EUENxXzRqNVhvQUdYVlZrLVViTGpCUVJoMzl6WUp1VVMtSWh0Wm5GRHd2ckg3X0Rmc19TNENheHFMWnh4TzRpTEtZZ040NU8zR3RoLWhhWUk1NnVHYm1McnlWdlV5eHBVWmZlaVdPOERjaEx4QVNVa0FIMVJDM3NaZzBPSms2dWFUekZwYWt5SjJnRkhQbzRadng4N1k5MkE3Wmc?oc=5) · TradingNEWS 11-20 17:24 UTC
 - [Gold under a hiking Fed: central-bank demand versus real rates](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ1FnbGMtajVDa2FNWUQ5eGVERmkxaUNRcjNIMUNDNUprbGlCajZ6dE8zSEdubFNjY0hwYlhxTTlQdmd6UzNIUnVGbGtnVzBXOTZPbTQ4NnRIS1ROaE1oN09HbXl6OXYwZnF2M1AzZVktbmZyTDRGRkV0emw3b1pBSDItQkk5dXJmODRIbi1wYTBsZFVuOXllTWJEWTVibXJkdlE?oc=5) · Kitco 11-20 16:13 UTC
-- [Gold and Silver Hit 14-Month Lows as Selling Pressure Intensifies](https://news.google.com/rss/articles/CBMipAFBVV95cUxQa1RpWW51dG5tQzJNUERJYUx3V1FYblJoX3VhczRCYWNtZDVpaEpyVXRMRVV2SkZya28ydnZxN0traV9yUElGNmNyb0NtM3ctMnplREp3azE1SlZVX3pER0tvdWk2MkFMR0N6TkFTZ2hZRjE2dEp5ZW9oU0lRU2Uxcm5CMlpHQnU0RWpqVTdhQTFROC1WWVNfVS1jX0E2djdwdEljNg?oc=5) · MarketPulse 11-20 14:50 UTC
 - [Gold slides toward worst week in eight months on hawkish Fed outlook](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTEJTM1JpdU83UXpLM1BpV2t6YkRuS0tDakQ4eTI0VXlWUmdod091YUZwS2VkMmRXUFNUMzNIWGJlbk1IMlRBTDd3MFRLTHZFVFNxcjhnU3ZBQXM4Z3lFbFVaemZIM0NSUlR3dUtaNWZ6VzczV2Mxc2lYTy1OOG5QWVVWUUZsVFIweDZQS1FUVEViQWxmOWt6ajVLZGUyZVRDZ29uUUkwYWQ5S0JfU242SC1DSQ?oc=5) · Kitco 11-20 14:25 UTC
 - [US Monetary Tightening Bets Send Gold Toward 14-Month Low](https://news.google.com/rss/articles/CBMirwFBVV95cUxPU0txcGhTMGZ6aHlnUHBzYTd2Y0Ryd3JkUDFQNmpKYi1NeWRuMWdzcTF3Vl9BQkZDWFhLYnRwdllTSzVRUWswak1OLVRrdTRRM0RuZDNxNDlBY09qR3liTXFlbTU3dGZnS0JTMGQ4RTVWaUk3TzhNUVlha05lXzRLQy1EaTNJb0ZmVVJ2dzY3WjJSZFpHRzZ4b2RCQkd3WHRxZW4wUUt5ZWxUNEFESlln0gG0AUFVX3lxTE4ycWdkTUlaQndqcGpwMVlYdkZRRXRZd3o5QmdfVy1yX0VBR1JpR1Q5MTFibVhlT0ljZW5UUWRYd3hsb1JtbFJ2QjFmQ0N6X3pBT3B5VktrRXNHZTBEY1laNExUZl9tclcxMnJrTHpWWGMtWURKUFAtNnJEUU1wVHV1dl9RTVRwQ1M2SldtQW5RR1phTldzZWNmdEN0UTJ5SW4tZDdBRERzMlBzRUxsVG9IblJCOQ?oc=5) · تسنیم 11-20 13:20 UTC
 - [Gold Futures End Lower, Tracking Weakness On US COMEX](https://news.google.com/rss/articles/CBMiWkFVX3lxTE83VEFZalJDNHVpNFlMWFlDU3NyaGVYSnV3cjF4SnRWMUo3LWg5MWk3S0R3V1puU0wyZWMxVlhQV05IczJxQ2JIS3gtVGJVRmMyYU1YMko2bGtzQQ?oc=5) · BernamaBiz 11-20 13:02 UTC
 - [XAU/USD: Elliott Wave Analysis and Forecast for 20.11.26–27.11.26](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRGlQNTRsLTU5RnRvYU04MzY3Rl83YTBLOEJHSFVIbHh4NmVhcW50Uk5pVDVTX1REa21rNUZpUXVjQm9ZWGJkUzFRcFhzdXk2TkF6YUZfc3VxZkRQbWM1VElQRjVfYWRQTXhhVE1zYXFEZ0g3cTNtX1JVOXBhaWdrNjFSaFpBTEYyczgyQldXYUM5WUJ0UE1aeTc0b3NBUWJzNVVfelRZZ1FweTdsVW5JTWxOQ1k3T3I3anlycW9MUmVEOGU5cDg5TTExMFhXOC1hOHZibk1aNmdVdw?oc=5) · LiteFinance 11-20 12:43 UTC
 - [Gold Price Short-term Outlook: XAU/USD Bears Face Critical Test at Yearly Lows](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT01LRy1TcHVtWVBnVGVSVUJSYTFDNHV5bVBpMGJRazAzSkd2Nno5MlkwNEFNTmFZd2pvM3U0YXJiOTF1b2FaaWhCNzRIY2VTOE9qSy1hRjZwSmhpOEFUcHM1T0VCWE95c0ItRVVwX3JPeWhud1RGdGpGWWdSSUJsWS1fWFdRU0lnbWVOVXZYQVNqWjQyOVRKVXRPaFg2Rzd5QjVONE1Wem90WlNKRWwzeXFXaUpGdERMZVRDYnBiZlp0ZHM?oc=5) · StoneX 11-20 10:40 UTC
 - [Gold Price Today / XAUUSD Price Chart](https://news.google.com/rss/articles/CBMia0FVX3lxTE1PcnRMYkRheVdzNjVOTk5FYi04R1A2b2FiZ3Q1T1ZCUlROTGllcktQZ0tVOGlTNFVCQmxIOFFXZlQwRzRwcEdnS0xHVGlmcXVET0hMVWt0ZmRYTTREeVVPMXpFT2pOOEI1N05B?oc=5) · Mitrade 11-20 10:34 UTC
+- [Gold hits over one-year low as firm dollar, Fed outlook weigh](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHaGFaT2NWTDVydFJnUFFkX00tV1ZjRFY0c0VfbEtlbkVHeGVPUW9YdDViM3NTNGVvRFRNRndEYlgxdm93WnJzZFIyM0xBUHV3?oc=5) · The Edge Malaysia 11-20 09:46 UTC
 - [Gold (XAUUSD) Price Forecast: Gold Slides Toward Stronger Support Zone](https://news.google.com/rss/articles/CBMiugFBVV95cUxNRjRkY0lyemhhMVZfaDA5d3Jld093TGFWSmdnR2F5RWU2SlltckxtRTJseTFrXzNaLXo0b2tWMzl3X2x4RlhURnhncmtFMXlPdFp0T3d6c1dZY2R2RFdoOGdCcHRoLUtVanJuMjlpYkIwUVVEa3JDc0pIbXdCTVdFWUhDWjdidEMwd2VNTVYyRWNaQ1lBdGxfRE53VDNtbWxLam16NUlXWk04Z243V3dnWFl5dk9iOHdKRnc?oc=5) · FXEmpire 11-20 09:46 UTC
 - [Gold (XAUUSD) & Silver Price Forecast: Gold Heads for Worst Week in Eight Months, Can $3,518 Hold?](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUWx1R2ZTQzBINFZSblBOclFOdkFpVXlabFE3N1U0YVUxenVVSTBRWlhaR3hSaXRFTnk5eVhJMUpNZkpmZG1WN1RWNzNQVW1TZkd4ckZsaGt5eDcwQzREUDBrT1dGNWpsaXdVMG54Y2VVbnhWai1DaXd6d2JwSDdWcm4tMV9qRnpDdHljRnFGU3h0TUxyZExPWTFTWFV6VXhvRVhrUkZwWDN5TndRQUtHakd1UXd3b1p0MHNKeHh1eHJJU2VVLUxXTG5wLWJqeUVqT3M2enRZSQ?oc=5) · FXEmpire 11-20 09:42 UTC
 
