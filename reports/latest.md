@@ -2,12 +2,12 @@
 
 ## الملخص
 
-- **السعر:** 3,584.6$ (-11.75% عن الإغلاق السابق)
+- **السعر:** 3,581.2$ (-11.75% عن الإغلاق السابق)
 - **الحكم الحالي:** مائل للهبوط. الاتجاه هابط، والبنية: متذبذب.
 - **موقع السعر:** تحت منطقة القيمة.
-- **أقرب دعم / مقاومة:** 3370.8$ / 4099.3$.
-- **سيناريو صعودي:** إغلاق يومي فوق 4099.3 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3938.8$؛ هدف 1:2 عند 4420.1$.
-- **سيناريو هبوطي:** إغلاق يومي تحت 3370.8 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3531.2$؛ هدف 1:2 عند 3049.9$.
+- **أقرب دعم / مقاومة:** 3367.3$ / 4095.3$.
+- **سيناريو صعودي:** إغلاق يومي فوق 4095.3 ثم إعادة اختبار تثبت فوقه؛ وقف الخسارة 3934.9$؛ هدف 1:2 عند 4416.1$.
+- **سيناريو هبوطي:** إغلاق يومي تحت 3367.3 ثم إعادة اختبار يفشل في العودة؛ وقف الخسارة 3527.7$؛ هدف 1:2 عند 3046.5$.
 - **أحدث خبر:** [هل يكسر الذهب حاجز 3700 دولار عالميا؟.. موجة خسائر غير مسبوقة](https://news.google.com/rss/articles/CBMinANBVV95cUxOU3VlU1RSelpadHZ1anVjZUw3Q3c4VW9tQ2s5dEpWVVc5X1lGTVlhMllZQ054OXZ6VnZjU29ERDhmT0NfUGxYM3hsdTBhWTkzUFM3S3Q5TWxMUXN4N1VsNUl3cVFOMlBaV2NBSTNKNENHN0lOemM5VzFBekFwTXlreURyaGlVcDV6SDl2Yk41bElUSUtQWmZQVGVsd3pHUVZNdkhuV0RkcE5PUzB3UzFnNmFYMzhfTm1xU1I3Z0xHVHp2VFdkbVhFQnV5MEZWd2dLSU5xY0NRWmRjMVpmTGc2cE1sTlFqX0ZkakpVMTg5bjg0X2c0VUJQbTlldEllcjhTYnR5NTl3OGstUkY2ZTJEaHRMWUFPdWF3M1RMN3NzcWU0a3p6Ui1rV1pSTGNJV2l0M1JOcEtaNmZCSS03UUNaaVJWa1NkR2V2XzRIRG9pRlNTeWFjam9laERSaEdub3FyeUhIaEl1LW5lMTMwWDRZQ3RLMlNZM1JDbmdmWFotdWE1TVRVYnpSamhMNWJjVTVCZ3ZWRDc5YlVMSTQ40gGXA0FVX3lxTFBqWk1yQ1RMbXVwLWhpekdwcjg2SndnM3phYWpxX2N2SHkwSTRDQTRzc0pQSTdGYWlxSW05c3M5ZFNoV0VpMFZfcENVTFZKY004X1RqelM2dThOUi1nNU0wd0NyUzdOZkxtNnU5UXZDZi1nQnVjSEdxbkhQMWFmcmJzT3cwVXV5d0IxWHE5MmVGeWcyaWpDZzFab2xLRTJUSDhwVVRtbHUwN2FSY0RnV2tWZnZtT19DTFB0ODNwa1NBbmtLdnVJSG5QeEhTN1NvQVh0N1dRLW02S0wxaDJHUENjdmd6QzVEdlQ1bFFQODV6aW9NRFlOZ1hQU1NuZjFhV1p4T2EtUEl6TUFYcFFKZTkxTEFPN2s3aXZLVk43VXVpNGE3WmRFLUpoRVk4NWFtX0pjQlBTMjhNMUNadDBaMlZKRjVyT0Y0Qll1blNUQ3pfX1EtRGZjVVdxNlFVcUZEQ3NnU0dhOUU3OTZ3MTRuZ01nTWtXYmZIYkRfT1ZaQ3pZTW8ybGt0T1h2YzVYQTJYN1lLREhXVmY4?oc=5)
 - **خبر:** [بعد قفزة تاريخية بلغت 64.5% في 2025.. الذهب العالمي يخسر 17.3% خلال 2026 وسط تقلبات حادة](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UNDJ0OERreXdYRFFNdGF2T0NSN2hNVnNzZk1RU0cwVktLdVJ0QVQyTS1nbVZIY0lzbW0zUy1rU1hobnVLNHBUb3N3?oc=5)
 - **خبر:** [الذهب يتجه لأكبر خسارة أسبوعية منذ مارس.. والأوقية تهبط إلى 3555 دولاراً](https://news.google.com/rss/articles/CBMiqwRBVV95cUxPQkkwOXNNdlgwV2dDWF9PY041NkpCYVdSZmpMNUw1Zmo1elIzTXBxSHlxN1UydV9obGQzMks4ZUNVUUFGR2J2VzY2MEVsazZLN1lWU3BETElfVlJTbXJVVFZKQmZMRGJTMGNIcng5djE1Rnh2ejVPZkJ4cjdNUzdvTFlTcXRfVmI4SG1Fb2xGZml0Nzc3dnpIdHJ1OHZiN0piTGF2X254Ml9fZkNUTUE1NXU5NmExLS1rb01OTFJwUy0tRExKVDhoYW5oR0tKanpkU0pQVmlvUjYtd0EzbTAxOWZQTlpmUTZXQU04Slo5MDg4eXI2UHZnWGstSTU3N1VwYnJZU2h0aThKeW9sb0RncGZaZktZRVdWMzFhVXAtdnNlb2xPVUt4SjllS1l5SjY3a0E2QnljNldkQjZzNW9udGk5ZkMybTF5MldhYl8yWTFYZGhuczFkLXBaMUlzWTVrNW5WUi1DaGVtVHlUSWRRTmhCVW9vSDhFWmNGUVVoRGlGTVFLc09iQmJfWkFPV0k0WnZYSmRrQlZ4WmZFYkIyNkpYdG5ITjRSbWIxRmZiWnYtSnIwQWdMZmhON3A4RmUyaFpMZWpJbGE5VGhnSjkxa3dCNENYLXFrcGUwU2k1aWpZOG5DYW00d2JTSmZUYlRSdWdlazFubDZucGhUbEFSRGZLY1RMdUdzaTEyZ0ZUQWtPX2ZQbDJ4UDY4OUdwYnptNW94Rk9xXzhRVUk?oc=5)
@@ -16,14 +16,14 @@
 
 | المؤشر | القيمة |
 | --- | --- |
-| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها +2.0$ |
-| الاتجاه (EMA 20 و 50) | هابط (3919.6 / 4071.8) |
+| مصدر السعر | السعر الفوري، والمستويات من العقد الآجل GC=F بعد إزاحتها -1.9$ |
+| الاتجاه (EMA 20 و 50) | هابط (3915.7 / 4067.9) |
 | بنية السوق | متذبذب |
 | كفاءة الحركة (20 يوم) | 0.37 (قريب من 1 = حركة اتجاهية، قريب من 0 = تذبذب) |
 | المدى اليومي المتوسط (ATR 14) | 106.9$ |
-| أعلى / أدنى سعر خلال 60 يوماً | 4690.0$ / 3517.0$ |
-| مركز الحجم POC | 4176.9$ |
-| منطقة القيمة VAL إلى VAH | 3839.6$ إلى 4367.5$ |
+| أعلى / أدنى سعر خلال 60 يوماً | 4686.1$ / 3513.1$ |
+| مركز الحجم POC | 4172.9$ |
+| منطقة القيمة VAL إلى VAH | 3835.7$ إلى 4363.5$ |
 
 ## سيناريوهات للدراسة
 
@@ -31,8 +31,8 @@
 
 | السيناريو | الشرط | وقف الخسارة | هدف 1:2 |
 | --- | --- | --- | --- |
-| صعودي: كسر المقاومة | إغلاق يومي فوق 4099.3 ثم إعادة اختبار تثبت فوقه | 3938.8$ | 4420.1$ |
-| هبوطي: كسر الدعم | إغلاق يومي تحت 3370.8 ثم إعادة اختبار يفشل في العودة | 3531.2$ | 3049.9$ |
+| صعودي: كسر المقاومة | إغلاق يومي فوق 4095.3 ثم إعادة اختبار تثبت فوقه | 3934.9$ | 4416.1$ |
+| هبوطي: كسر الدعم | إغلاق يومي تحت 3367.3 ثم إعادة اختبار يفشل في العودة | 3527.7$ | 3046.5$ |
 
 ## أخبار الذهب بالعربية
 
